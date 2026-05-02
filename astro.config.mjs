@@ -34,6 +34,7 @@ export default defineConfig({
           label: 'Resources',
           items: [
             { label: 'Overview', link: '/resources/' },
+            { label: 'FLL Resource Map', link: '/resources/fll-resource-map/' },
             { label: 'Software & Tools', link: '/resources/software-tools/' },
             { label: 'Learning Materials', link: '/resources/learning-materials/' },
           ],
@@ -44,6 +45,14 @@ export default defineConfig({
             { label: 'Overview', link: '/guides/' },
             { label: 'Forming a Team', link: '/guides/forming-a-team/' },
             { label: 'Planning Your Season', link: '/guides/season-planning/' },
+          ],
+        },
+        {
+          label: 'For Educators',
+          items: [
+            { label: 'Overview', link: '/for-educators/' },
+            { label: 'Curriculum Starter', link: '/for-educators/curriculum-starter/' },
+            { label: 'Lesson Plan Template', link: '/for-educators/lesson-plan-template/' },
           ],
         },
         {

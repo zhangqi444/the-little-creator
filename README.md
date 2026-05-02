@@ -1,4 +1,4 @@
-# 🤖 The Little Maker
+# 🤖 The Little Creator
 
 **A community for kids and parents exploring robotics together.**
 
@@ -13,7 +13,7 @@ A nonprofit community centered around competitive robotics — FLL (FIRST Lego L
 This site is built with [Astro](https://astro.build) and the [Starlight](https://starlight.astro.build) documentation theme. All content lives as markdown files, deployed automatically to GitHub Pages.
 
 ```
-the-little-maker/
+the-little-creator/
 ├── src/
 │   ├── content/docs/          ← All site content (markdown)
 │   │   ├── index.mdx          ← Homepage

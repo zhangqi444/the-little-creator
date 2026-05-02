@@ -5,21 +5,21 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://zhangqi444.github.io',
-  base: '/the-little-maker',
+  base: '/the-little-creator',
 
   integrations: [
     starlight({
-      title: 'The Little Maker',
+      title: 'The Little Creator',
       description: 'A community for kids and parents exploring robotics together — FLL, VEX, and beyond.',
       logo: {
         src: './src/assets/logo.svg',
         replacesTitle: false,
       },
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/zhangqi444/the-little-maker' },
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/zhangqi444/the-little-creator' },
       ],
       editLink: {
-        baseUrl: 'https://github.com/zhangqi444/the-little-maker/edit/main/',
+        baseUrl: 'https://github.com/zhangqi444/the-little-creator/edit/main/',
       },
       sidebar: [
         {

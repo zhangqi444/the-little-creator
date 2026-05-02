@@ -3,7 +3,7 @@ title: Community
 description: Connect with other families on the same FLL/VEX robotics journey.
 ---
 
-The Little Maker is more than a knowledge base — it's a place to connect with other families on the same journey.
+The Little Creator is more than a knowledge base — it's a place to connect with other families on the same journey.
 
 ## Find or Form a Team
 

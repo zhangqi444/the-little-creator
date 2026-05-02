@@ -1,6 +1,6 @@
 # Deployment Guide
 
-A step-by-step walkthrough to get The Little Maker live on the internet, for free, via GitHub Pages.
+A step-by-step walkthrough to get The Little Creator live on the internet, for free, via GitHub Pages.
 
 ## What You'll Need
 
@@ -21,7 +21,7 @@ rm -rf docs
 ## Step 1: Create the GitHub Repository
 
 1. Go to [github.com/new](https://github.com/new)
-2. Name it `the-little-maker` (or any name you prefer)
+2. Name it `the-little-creator` (or any name you prefer)
 3. Leave it **Public**
 4. **Do NOT** check "Add a README" — we already have one
 5. Click **Create repository**
@@ -33,9 +33,9 @@ Open a terminal in this folder and run:
 ```bash
 git init
 git add .
-git commit -m "Initial commit: The Little Maker community site"
+git commit -m "Initial commit: The Little Creator community site"
 git branch -M main
-git remote add origin https://github.com/<your-username>/the-little-maker.git
+git remote add origin https://github.com/<your-username>/the-little-creator.git
 git push -u origin main
 ```
 
@@ -47,7 +47,7 @@ Open `astro.config.mjs` and update these two lines near the top:
 
 ```js
 site: 'https://<your-username>.github.io',
-base: '/the-little-maker',
+base: '/the-little-creator',
 ```
 
 Commit and push the change:
@@ -73,7 +73,7 @@ That's it. The workflow in `.github/workflows/deploy.yml` will automatically bui
 Your site will be live at:
 
 ```
-https://<your-username>.github.io/the-little-maker/
+https://<your-username>.github.io/the-little-creator/
 ```
 
 Check the **Actions** tab in your GitHub repo to watch the build progress.
@@ -126,7 +126,7 @@ Visit http://localhost:4321 in your browser. Changes auto-reload as you save.
 2. Scroll to **Features**
 3. Check the box next to **Discussions**
 
-Now your community has a built-in forum at `https://github.com/<your-username>/the-little-maker/discussions`.
+Now your community has a built-in forum at `https://github.com/<your-username>/the-little-creator/discussions`.
 
 ---
 
@@ -137,20 +137,20 @@ The markdown files in `src/content/docs/` are perfect as knowledge base for a Cu
 1. Zip the `src/content/docs/` folder
 2. Go to [chat.openai.com/gpts](https://chat.openai.com/gpts) and click **Create**
 3. Upload the zip as knowledge
-4. Write a system prompt describing The Little Maker's purpose and personality
+4. Write a system prompt describing The Little Creator's purpose and personality
 5. Publish — share the GPT link with your community
 
 ---
 
 ## Custom Domain (Optional)
 
-If you own a domain (e.g., `thelittlemaker.org`):
+If you own a domain (e.g., `thelittlecreator.org`):
 
 1. In GitHub: **Settings → Pages → Custom domain** — enter your domain
 2. At your DNS provider, add a CNAME record pointing to `<your-username>.github.io`
 3. Update `astro.config.mjs`:
    ```js
-   site: 'https://thelittlemaker.org',
+   site: 'https://thelittlecreator.org',
    base: '/',
    ```
 

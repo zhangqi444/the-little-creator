@@ -1,6 +1,6 @@
 ---
 title: Showcase
-description: A gallery of robot builds, programs, and projects from kids in The Little Maker community.
+description: A gallery of robot builds, programs, and projects from kids in The Little Creator community.
 ---
 
 This is where our kids' work lives. Robot builds, programs, competition highlights, and project writeups — all shared with pride.

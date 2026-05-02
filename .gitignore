@@ -5,6 +5,10 @@ node_modules/
 dist/
 .astro/
 
+# Generated artifacts (rebuilt by scripts/generate-llms-txt.mjs)
+public/llms.txt
+public/llms-full.txt
+
 # Environment
 .env
 .env.production

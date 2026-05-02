@@ -1,4 +1,4 @@
-# Contributing to The Little Maker
+# Contributing to The Little Creator
 
 Thank you for wanting to help! This community grows through the contributions of families like yours.
 

@@ -1,10 +1,12 @@
 {
-  "name": "the-little-maker",
+  "name": "the-little-creator",
   "type": "module",
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
+    "generate:llms": "node scripts/generate-llms-txt.mjs",
+    "prebuild": "npm run generate:llms",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

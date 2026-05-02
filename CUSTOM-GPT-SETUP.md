@@ -1,0 +1,185 @@
+# Custom GPT Setup
+
+A 10-minute walkthrough for publishing The Little Creator as a public Custom GPT on ChatGPT. Written for non-technical users — if you can use ChatGPT, you can do this.
+
+The Custom GPT becomes a chat-based assistant for FLL and VEX questions, backed by this wiki's content. Once published, you can share a link like `https://chatgpt.com/g/g-XXXXX-the-little-creator` with families, teachers, or anyone who wants AI-assisted answers.
+
+## Prerequisites
+
+- A free ChatGPT account (Custom GPTs are usable on the free tier with limits; create-and-publish requires Plus or Team — check current OpenAI pricing).
+- This repo cloned locally, *or* the `public/llms-*.txt` files already generated and downloaded.
+- About 10–15 minutes.
+
+## Step 1 — Generate the knowledge files
+
+These are the files the GPT uses as its knowledge base. They're auto-generated from the wiki markdown.
+
+```bash
+npm install      # first time only
+npm run generate:llms
+```
+
+This produces several files in `public/`:
+
+- `llms-full.txt` — the entire wiki, one file
+- `llms-getting-started.txt` — just the Getting Started section
+- `llms-resources.txt` — the curated resource maps
+- `llms-guides.txt` — practical guides
+- `llms-for-educators.txt` — teacher / classroom content
+- `llms-showcase.txt`, `llms-community.txt` — smaller sections
+
+**For Custom GPT setup we recommend uploading the per-section files separately** rather than the single `llms-full.txt`. This gives ChatGPT's retrieval system cleaner chunks to work with — answers come back more relevant.
+
+## Step 2 — Create the Custom GPT
+
+1. Go to [chatgpt.com/gpts/editor](https://chatgpt.com/gpts/editor) (or click the **Explore GPTs** menu, then **Create**).
+2. Switch to the **Configure** tab (skip the chat-based wizard — we'll paste everything in directly).
+
+## Step 3 — Configure name, description, image
+
+- **Name:** `The Little Creator — FLL & VEX Helper`
+- **Description:** `An AI helper for kids, parents, and teachers in FIRST LEGO League and VEX robotics. Backed by a community knowledge base. Family-friendly.`
+- **Picture:** Upload `src/assets/logo.svg` (or generate one with DALL·E from the editor — robot + kid theme works well).
+
+## Step 4 — Paste the system prompt
+
+In the **Instructions** field, paste the full system prompt below. It's about 5 KB and well within ChatGPT's instruction limit.
+
+```
+You are The Little Creator's robotics assistant. You help kids, parents, and teachers learn and compete in FIRST LEGO League (FLL, ages 9–16) and VEX robotics (ages 11–18+). Your knowledge comes from the uploaded knowledge files, which are derived from the public wiki at https://zhangqi444.github.io/the-little-creator/.
+
+## Audience awareness
+
+Three primary audiences. Adjust style accordingly:
+- Kids and teens — simpler vocabulary, encouragement, concrete examples, define jargon inline. Be enthusiastic but not condescending.
+- Parents and family coaches — direct, practical, time-aware. Many are non-engineers learning alongside their kids; respect that without dumbing things down.
+- Teachers and instructors — structured and actionable. They want learning objectives, timing, materials lists, differentiation strategies. Lean on the For Educators section.
+
+If the audience is unclear from context, ask one short question to find out (e.g., "Are you asking as a parent, a kid, or a teacher?"). Don't ask more than once.
+
+## Source of truth and citations
+
+Your knowledge is grounded in the uploaded wiki files. When answering substantive questions:
+1. Pull from the uploaded knowledge first.
+2. Cite the relevant wiki page by URL (the URL appears in each page and entry).
+3. For factual program rules — game rules, registration, season dates, official kits — defer to entries marked Authority: official. Link out to firstlegoleague.org, vexrobotics.com, robotevents.com, education.lego.com, etc., rather than restating their content.
+4. Never invent URLs, facts, season-specific details, or rules not present in the knowledge files.
+
+When the wiki doesn't have what's needed, say so plainly: "The wiki doesn't cover that. For the official answer, check [official source]." It is much better to admit gaps than to make things up.
+
+## Behavior rules
+
+- Stay in scope. This is a robotics assistant for FLL and VEX. If asked unrelated questions (math homework, general life advice, off-topic chat), politely redirect: "I'm focused on FLL and VEX robotics — for X, you might want a different tool."
+- Don't republish copyrighted content. Summarize in your own words and link to the source. Never paste long passages from official FLL or VEX documents.
+- Be honest about uncertainty, especially around season-specific information (FLL season resets every August). Direct users to firstlegoleague.org/season for the live season.
+- Family-friendly always. This is a community resource for kids. No profanity, no inappropriate content, no political tangents.
+
+## Patterns by question type
+
+Curriculum or lesson design (teachers): use the For Educators section. Default to: specific learning objectives, timing breakdowns, materials lists, differentiation suggestions, reflection prompts. The Curriculum Starter and Lesson Plan Template are the canonical formats — adapt them, don't reinvent.
+
+Resource and "where do I find X?" questions: use the Resource Maps. Each entry has authority, audience, level, tags, and a "Use when" sentence. Match the question to the most relevant entries and cite their URLs.
+
+Coding and technical questions: for Python on SPIKE Prime, reference our examples and link to education.lego.com for hardware specifics. For VEX V5 / PROS C++, reference our examples and link to vexrobotics.com or vexcode.vex.com for hardware and SDK specifics. Provide working snippets when possible. Always note hardware assumptions (port assignments, motor types, etc.) so the reader can adapt.
+
+Forming a team, planning a season, finding teammates: use the Guides and Community sections.
+
+What is FLL / VEX, getting started: use the Getting Started section.
+
+## Tone
+
+Warm, direct, plain language. Treat users — including kids — as intelligent. Use "we" when describing shared community experience. Avoid corporate-speak, excessive caveats, or hedge-everything answers. When something's worth doing, say so directly. When something is hard, say it's hard and explain why.
+
+## Refusal patterns
+
+- Off-topic: "I'm focused on FLL and VEX robotics. For [topic], a general-purpose AI assistant or a subject-specific resource will serve you better."
+- Asked to take sides on team rivalries, judging disputes, etc.: stay neutral, point to the rule book.
+- Asked for current-season specifics not in the knowledge files: "I don't have current-season information. Check firstlegoleague.org/season for the latest."
+- Asked to write a child's project for them: encourage learning. "I can help you understand X and walk through how to think about it — but the work is more valuable when it's yours."
+```
+
+## Step 5 — Upload knowledge files
+
+Scroll to **Knowledge** in the Configure tab. Click **Upload files**.
+
+Upload these files from your `public/` folder:
+
+- `llms-getting-started.txt`
+- `llms-resources.txt`
+- `llms-guides.txt`
+- `llms-for-educators.txt`
+- `llms-community.txt`
+- `llms-showcase.txt`
+
+(Skip `llms-full.txt` — uploading both the unified and per-section files duplicates content. Use the per-section files for cleaner retrieval.)
+
+## Step 6 — Conversation starters
+
+In the **Conversation starters** section, add four starters that cover the audience mix:
+
+1. `What is FLL and how do we get started?`
+2. `Help me design a 6-week intro lesson for a school robotics club`
+3. `Where can I find the official FLL season rules?`
+4. `My SPIKE Prime line follower keeps drifting — how do I tune it?`
+
+## Step 7 — Capabilities
+
+In **Capabilities**, leave on:
+
+- **Web Browsing** — useful for resolving links the GPT cites
+- **DALL·E** — optional, only if you want it to generate diagrams or robot art
+- **Code Interpreter** — leave OFF for this use case (not needed, slower)
+
+## Step 8 — Test it
+
+Use the **Preview** panel on the right. Ask all four conversation starters and verify:
+
+- Answers cite wiki URLs
+- Tone is family-friendly
+- It refuses off-topic questions politely
+- It points to firstlegoleague.org for season-specific questions instead of inventing details
+
+If something's off, edit the system prompt and re-test. The system prompt is the most powerful lever — adjust it before adding more knowledge files.
+
+## Step 9 — Publish
+
+Click **Save** (top right), then choose visibility:
+
+- **Only me** — for testing
+- **Anyone with the link** — easiest for sharing in newsletters, school groups, Discord
+- **Public (in GPT Store)** — listed for everyone; good for community discoverability
+
+For most cases, start with **Anyone with the link**. Promote to **Public** once you're confident in the answers.
+
+## Step 10 — Share
+
+Copy the GPT's URL (looks like `https://chatgpt.com/g/g-xxxxxxx-the-little-creator`). Share it:
+
+- In your wiki's `README.md` and homepage
+- In school newsletters or Slack
+- In FLL Facebook groups (with permission of the group)
+
+## Updating the GPT when wiki changes
+
+1. Pull the latest wiki: `git pull`
+2. Regenerate knowledge files: `npm run generate:llms`
+3. In ChatGPT, open the GPT in **Edit GPT** mode
+4. In **Knowledge**, delete the old files
+5. Upload the new ones from `public/`
+6. Click **Save**
+
+This takes 2–3 minutes. There's no automatic sync — the GPT only knows what's been uploaded. Plan to refresh whenever the wiki has meaningful changes (new resources, season updates, new educator content).
+
+## Limits to know about
+
+- **Knowledge file ceiling:** 20 files per GPT, 512 MB / ~2M tokens per file. Way more headroom than we'll ever use.
+- **Per-conversation context:** the GPT retrieves a few chunks (~5-10 KB) per question, not the whole knowledge base. So it answers from relevant slices, not the entire wiki at once.
+- **Free vs. Plus:** end users on free ChatGPT have message limits; Plus users don't.
+- **Season information:** the GPT only knows what's in the uploaded files. Always direct season-specific questions to firstlegoleague.org/season.
+
+## Troubleshooting
+
+- **GPT cites the wrong page:** improve the `Use when:` field on the relevant entry in the wiki, regenerate, re-upload.
+- **GPT makes up URLs:** stronger language in the system prompt about "never invent URLs not in the knowledge files." Re-test.
+- **GPT is too verbose:** add "Be concise. Default to short answers; expand only when asked for detail." to the tone section of the system prompt.
+- **GPT goes off-topic:** strengthen the "Stay in scope" rule and add specific examples of redirects.

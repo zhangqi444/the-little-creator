@@ -5,26 +5,16 @@ description: Curated tools, software, and learning materials for FLL and VEX rob
 
 A curated list of tools, software, and learning materials that our community actually uses. We update this as we discover better options.
 
-## Quick Links
+## Resource maps (curated link indexes)
 
+- [FLL Resource Map](/resources/fll-resource-map/) — Authoritative and trusted FIRST LEGO League sources, with metadata
 - [Software & Tools](/resources/software-tools/) — Programming environments, simulation, design tools
-- [Learning Materials](/resources/learning-materials/) — Books, videos, online courses
+- [Learning Materials](/resources/learning-materials/) — Books, courses, videos, and tutorials
 
-## By Competition
+## How this section works
 
-### FLL
-- Official site: [firstlegoleague.org](https://www.firstlegoleague.org)
-- Game manuals and field setup guides are released each August on the official site
-- SPIKE Prime programming: [education.lego.com](https://education.lego.com)
+We don't republish content from other sites — we point at it. Every resource entry includes who it's for, when to use it, and the source authority (official / independent / community). That metadata lets the AI assistants reading this site retrieve the right resource for each question and cite sources accurately.
 
-### VEX
-- Official site: [vexrobotics.com](https://www.vexrobotics.com)
-- Competition events and rankings: [robotevents.com](https://www.robotevents.com)
-- VEXcode programming environment: [vexcode.vex.com](https://vexcode.vex.com)
-- VEX Forum (community Q&A): [vexforum.com](https://www.vexforum.com)
+## Suggesting a resource
 
-## Community-Contributed Resources
-
-:::tip[Have a resource to share?]
-Open an issue or submit a pull request to add it here! See our [Contributing guide](/community/#how-to-contribute).
-:::
+This index is community-maintained. Open an issue or pull request to add a resource — see our [Contributing guide](/community/#how-to-contribute). Use the metadata schema demonstrated on the FLL Resource Map and Learning Materials pages.

@@ -1,9 +1,30 @@
 #!/usr/bin/env node
-// Walks src/content/docs/, reads frontmatter, and emits two artifacts in
-// public/ for any LLM that visits the site:
-//   - llms.txt       — curated table of contents (title, description, URL)
-//   - llms-full.txt  — full corpus, every page concatenated with its URL
-// See https://llmstxt.org for the spec.
+// Walks src/content/docs/, reads frontmatter and per-entry metadata, and
+// emits four kinds of artifacts in public/ for any LLM that visits the site:
+//
+//   public/llms.txt              — curated TOC (title, description, URL)
+//   public/llms-full.txt         — full corpus, every page (and entry)
+//   public/llms-<section>.txt    — one file per top-level section, for use
+//                                  as separate Custom GPT knowledge files
+//
+// Curated resource pages can use a per-entry metadata pattern:
+//
+//   ### Resource Title
+//
+//   - **URL:** https://...
+//   - **Authority:** official | independent | community
+//   - **Audience:** families, kids, teachers
+//   - **Level:** beginner | intermediate | advanced
+//   - **Tags:** fll, python
+//   - **Use when:** <one sentence>
+//
+//   <description>
+//
+// The generator detects the pattern and emits each entry as a structured,
+// agent-navigable block. Pages without the pattern fall back to whole-page
+// inclusion (good for prose like guides).
+//
+// See https://llmstxt.org for the underlying convention.
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { readdirSync, readFileSync } from 'node:fs';
@@ -14,15 +35,26 @@ const ROOT = join(fileURLToPath(new URL('.', import.meta.url)), '..');
 const CONTENT_DIR = join(ROOT, 'src/content/docs');
 const PUBLIC_DIR = join(ROOT, 'public');
 
-// Order top-level sections to match the Starlight sidebar. Unknown sections
-// fall through to alphabetical at the end.
 const SECTION_ORDER = [
   'getting-started',
   'resources',
   'guides',
+  'for-educators',
   'showcase',
   'community',
 ];
+
+const ENTRY_FIELD_ORDER = ['url', 'authority', 'audience', 'level', 'tags', 'use_when'];
+const ENTRY_FIELD_LABEL = {
+  url: 'URL',
+  authority: 'Authority',
+  audience: 'Audience',
+  level: 'Level',
+  tags: 'Tags',
+  use_when: 'Use when',
+};
+
+// ---------- IO helpers ----------
 
 function readSiteConfig() {
   const cfg = readFileSync(join(ROOT, 'astro.config.mjs'), 'utf8');
@@ -43,20 +75,20 @@ function walk(dir) {
   return out;
 }
 
-// Minimal YAML frontmatter parser — handles the flat `key: value` pairs the
-// docs use today (title, description). Nested keys are ignored on purpose.
+// ---------- Markdown parsing ----------
+
+// Minimal frontmatter parser — handles flat `key: value` pairs the docs use
+// (title, description, tags-as-string). Nested keys are skipped.
 function parseFrontmatter(raw) {
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!m) return { data: {}, body: raw };
   const data = {};
-  let inNested = false;
   for (const line of m[1].split(/\r?\n/)) {
-    if (/^\s+/.test(line)) { inNested = true; continue; }
-    inNested = false;
+    if (/^\s+/.test(line)) continue; // skip nested
     const km = line.match(/^([a-zA-Z_][\w-]*)\s*:\s*(.*)$/);
     if (!km) continue;
     let v = km[2].trim();
-    if (!v) continue; // nested block opener like `hero:` — skip
+    if (!v) continue;
     if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
       v = v.slice(1, -1);
     }
@@ -64,6 +96,88 @@ function parseFrontmatter(raw) {
   }
   return { data, body: m[2] };
 }
+
+// Tokenize a markdown body into a flat list of either a single line or a
+// fenced code block (kept as one token so structural parsing skips inside).
+function tokenize(body) {
+  const tokens = [];
+  const lines = body.split('\n');
+  let i = 0;
+  while (i < lines.length) {
+    if (/^```/.test(lines[i])) {
+      let j = i + 1;
+      while (j < lines.length && !/^```/.test(lines[j])) j++;
+      tokens.push({ type: 'fence', content: lines.slice(i, j + 1).join('\n') });
+      i = j + 1;
+    } else {
+      tokens.push({ type: 'line', content: lines[i] });
+      i++;
+    }
+  }
+  return tokens;
+}
+
+// Look for the curated-entry pattern: H3 heading followed by `- **Field:** v`
+// bullets. Returns an array of entry objects; empty if the page is prose.
+function extractEntries(body) {
+  const tokens = tokenize(body);
+  const entries = [];
+  let currentH2 = null;
+  let i = 0;
+  while (i < tokens.length) {
+    const t = tokens[i];
+    if (t.type !== 'line') { i++; continue; }
+
+    const h2 = t.content.match(/^##\s+(.+)$/);
+    if (h2) { currentH2 = h2[1].trim(); i++; continue; }
+
+    const h3 = t.content.match(/^###\s+(.+)$/);
+    if (!h3) { i++; continue; }
+    const heading = h3[1].trim();
+
+    let j = i + 1;
+    while (j < tokens.length && tokens[j].type === 'line' && tokens[j].content.trim() === '') j++;
+
+    const fields = {};
+    while (j < tokens.length && tokens[j].type === 'line') {
+      const bullet = tokens[j].content.match(/^-\s+\*\*([^:*]+):\*\*\s*(.*)$/);
+      if (!bullet) break;
+      const key = bullet[1].trim().toLowerCase().replace(/\s+/g, '_');
+      fields[key] = bullet[2].trim();
+      j++;
+    }
+
+    if (Object.keys(fields).length === 0) { i++; continue; }
+
+    while (j < tokens.length && tokens[j].type === 'line' && tokens[j].content.trim() === '') j++;
+
+    const descParts = [];
+    while (j < tokens.length) {
+      const dt = tokens[j];
+      if (dt.type === 'line' && /^###?\s/.test(dt.content)) break;
+      descParts.push(dt.content);
+      j++;
+    }
+
+    entries.push({
+      heading,
+      sectionContext: currentH2,
+      fields,
+      description: descParts.join('\n').trim(),
+    });
+    i = j;
+  }
+  return entries;
+}
+
+function cleanBody(body) {
+  return body
+    .replace(/^\s*import\s+[^\n]*from\s+['"][^'"]+['"];?\s*$/gm, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
+// ---------- Routes & URLs ----------
 
 function fileToRoute(file) {
   const rel = relative(CONTENT_DIR, file).split(sep).join('/');
@@ -74,10 +188,7 @@ function fileToRoute(file) {
 }
 
 function buildUrl({ site, base }, route) {
-  const cleanSite = site.replace(/\/+$/, '');
-  const cleanBase = base.replace(/\/+$/, '');
-  // route already starts with '/'
-  return cleanSite + cleanBase + route;
+  return site.replace(/\/+$/, '') + base.replace(/\/+$/, '') + route;
 }
 
 function sectionKey(route) {
@@ -89,23 +200,68 @@ function titleCase(slug) {
   return slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 }
 
-// Strip MDX `import` statements so llms-full.txt stays prose-friendly. Leave
-// JSX components alone — their text content is still useful for LLMs.
-function cleanBody(body) {
-  return body
-    .replace(/^\s*import\s+[^\n]*from\s+['"][^'"]+['"];?\s*$/gm, '')
-    .replace(/\n{3,}/g, '\n\n')
-    .trim();
+// ---------- Rendering ----------
+
+function renderEntry(entry, page) {
+  const lines = [`## ${entry.heading}`];
+  lines.push(`Page: ${page.url}`);
+  if (entry.sectionContext) lines.push(`Section: ${entry.sectionContext}`);
+  for (const key of ENTRY_FIELD_ORDER) {
+    if (entry.fields[key]) lines.push(`${ENTRY_FIELD_LABEL[key]}: ${entry.fields[key]}`);
+  }
+  for (const key of Object.keys(entry.fields)) {
+    if (ENTRY_FIELD_ORDER.includes(key)) continue;
+    const label = key.split('_').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    lines.push(`${label}: ${entry.fields[key]}`);
+  }
+  if (entry.description) {
+    lines.push('');
+    lines.push(entry.description);
+  }
+  return lines.join('\n');
 }
+
+function renderPage(page) {
+  const out = [];
+  out.push(`# ${page.title}`);
+  out.push('');
+  out.push(`URL: ${page.url}`);
+  if (page.description) out.push(`Description: ${page.description}`);
+  if (page.frontmatter.tags) out.push(`Tags: ${page.frontmatter.tags}`);
+  if (page.frontmatter.audience) out.push(`Audience: ${page.frontmatter.audience}`);
+  if (page.frontmatter.level) out.push(`Level: ${page.frontmatter.level}`);
+  out.push('');
+
+  if (page.entries.length > 0) {
+    out.push(`This page is a curated index of ${page.entries.length} entries; each follows with structured metadata.`);
+    out.push('');
+    for (const entry of page.entries) {
+      out.push(renderEntry(entry, page));
+      out.push('');
+      out.push('---');
+      out.push('');
+    }
+  } else {
+    out.push(page.body);
+    out.push('');
+    out.push('---');
+    out.push('');
+  }
+  return out.join('\n');
+}
+
+// ---------- Main ----------
 
 async function main() {
   const config = readSiteConfig();
   const files = walk(CONTENT_DIR).sort();
 
-  const docs = await Promise.all(files.map(async (file) => {
+  const pages = await Promise.all(files.map(async (file) => {
     const raw = await readFile(file, 'utf8');
     const { data, body } = parseFrontmatter(raw);
     const route = fileToRoute(file);
+    const cleaned = cleanBody(body);
+    const entries = extractEntries(cleaned);
     return {
       file,
       route,
@@ -113,20 +269,22 @@ async function main() {
       section: sectionKey(route),
       title: data.title ?? titleCase(route.split('/').filter(Boolean).pop() ?? 'Home'),
       description: data.description ?? '',
-      body: cleanBody(body),
+      frontmatter: data,
+      body: cleaned,
+      entries,
     };
   }));
 
-  const root = docs.find(d => d.route === '/');
+  const root = pages.find(p => p.route === '/');
   const siteTitle = root?.title ?? config.title;
   const siteDescription = root?.description ?? config.description;
 
-  // ---- llms.txt (TOC) ----
+  // ---------- llms.txt (TOC) ----------
   const sections = new Map();
-  for (const d of docs) {
-    if (d.route === '/') continue;
-    if (!sections.has(d.section)) sections.set(d.section, []);
-    sections.get(d.section).push(d);
+  for (const p of pages) {
+    if (p.route === '/') continue;
+    if (!sections.has(p.section)) sections.set(p.section, []);
+    sections.get(p.section).push(p);
   }
   const orderedKeys = [
     ...SECTION_ORDER.filter(k => sections.has(k)),
@@ -142,7 +300,6 @@ async function main() {
   }
   for (const key of orderedKeys) {
     const items = sections.get(key);
-    // Section index page first, then alphabetical.
     items.sort((a, b) => {
       const aIdx = a.route === `/${key}/`;
       const bIdx = b.route === `/${key}/`;
@@ -155,12 +312,13 @@ async function main() {
     toc.push('');
     for (const item of items) {
       const desc = item.description ? `: ${item.description}` : '';
-      toc.push(`- [${item.title}](${item.url})${desc}`);
+      const entryNote = item.entries.length > 0 ? ` (${item.entries.length} curated entries)` : '';
+      toc.push(`- [${item.title}](${item.url})${desc}${entryNote}`);
     }
     toc.push('');
   }
 
-  // ---- llms-full.txt (full corpus) ----
+  // ---------- llms-full.txt (whole corpus) ----------
   const full = [];
   full.push(`# ${siteTitle}`);
   full.push('');
@@ -173,28 +331,41 @@ async function main() {
   full.push('---');
   full.push('');
 
-  // Same ordering as TOC: home page first, then sectioned content.
   const ordered = [];
   if (root) ordered.push(root);
   for (const key of orderedKeys) ordered.push(...sections.get(key));
+  for (const p of ordered) full.push(renderPage(p));
 
-  for (const d of ordered) {
-    full.push(`# ${d.title}`);
-    full.push('');
-    full.push(`URL: ${d.url}`);
-    if (d.description) full.push(`Description: ${d.description}`);
-    full.push('');
-    full.push(d.body);
-    full.push('');
-    full.push('---');
-    full.push('');
+  // ---------- per-section files ----------
+  const perSectionFiles = {};
+  for (const key of orderedKeys) {
+    const items = sections.get(key);
+    const sectionTitle = items.find(i => i.route === `/${key}/`)?.title ?? titleCase(key);
+    const out = [];
+    out.push(`# ${siteTitle} — ${sectionTitle}`);
+    out.push('');
+    out.push(`Source: ${buildUrl(config, `/${key}/`)}`);
+    out.push('');
+    out.push('---');
+    out.push('');
+    for (const p of items) out.push(renderPage(p));
+    perSectionFiles[`llms-${key}.txt`] = out.join('\n');
   }
 
+  // ---------- write ----------
   await mkdir(PUBLIC_DIR, { recursive: true });
   await writeFile(join(PUBLIC_DIR, 'llms.txt'), toc.join('\n') + '\n');
   await writeFile(join(PUBLIC_DIR, 'llms-full.txt'), full.join('\n') + '\n');
+  for (const [name, content] of Object.entries(perSectionFiles)) {
+    await writeFile(join(PUBLIC_DIR, name), content + '\n');
+  }
 
-  console.log(`Wrote public/llms.txt and public/llms-full.txt (${docs.length} docs across ${orderedKeys.length} sections).`);
+  const totalEntries = pages.reduce((sum, p) => sum + p.entries.length, 0);
+  const sectionFileList = Object.keys(perSectionFiles).join(', ');
+  console.log(
+    `Wrote llms.txt, llms-full.txt, and ${Object.keys(perSectionFiles).length} per-section files (${sectionFileList}).\n` +
+    `${pages.length} pages, ${totalEntries} curated entries across ${orderedKeys.length} sections.`
+  );
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

@@ -53,6 +53,7 @@ export default defineConfig({
             { label: 'Overview', link: '/for-educators/' },
             { label: 'Curriculum Starter', link: '/for-educators/curriculum-starter/' },
             { label: 'Lesson Plan Template', link: '/for-educators/lesson-plan-template/' },
+            { label: 'Core Values Rubric', link: '/for-educators/core-values-rubric/' },
           ],
         },
         {

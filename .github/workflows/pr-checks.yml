@@ -1,0 +1,39 @@
+name: PR checks
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # `npm run build` runs the prebuild hook (generate:llms) before
+      # astro build, so this single step validates both the generator
+      # script and the rendered Astro site.
+      - name: Build site
+        run: npm run build
+
+      - name: Verify generated artifacts
+        run: |
+          test -s public/llms.txt
+          test -s public/llms-full.txt
+          test -s public/llms-resources.txt
+          test -s public/llms-for-educators.txt
+          echo "Generated artifacts present and non-empty."

@@ -1,8 +1,10 @@
 # Custom GPT Setup
 
+> **The GPT is live:** [The Little Creator — FLL Helper](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper). End users don't need this doc — just open the link. This walkthrough is for maintainers refreshing knowledge files (see [Updating the GPT](#updating-the-gpt-when-wiki-changes)) or anyone recreating the same GPT from scratch.
+
 A 10-minute walkthrough for publishing The Little Creator as a public Custom GPT on ChatGPT. Written for non-technical users — if you can use ChatGPT, you can do this.
 
-The Custom GPT becomes a chat-based assistant for FIRST LEGO League questions, backed by this wiki's content. Once published, you can share a link like `https://chatgpt.com/g/g-XXXXX-the-little-creator` with families, teachers, or anyone who wants AI-assisted answers about FLL.
+The Custom GPT is a chat-based assistant for FIRST LEGO League questions, backed by this wiki's content.
 
 > **Scope note:** Our community focus right now is FLL. The wiki contains some VEX content too, and the GPT can answer VEX questions if asked, but the system prompt below positions the assistant as primarily an FLL helper. Expand later if VEX coverage grows.
 

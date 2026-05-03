@@ -1,10 +1,15 @@
 # 🤖 The Little Creator
 
-**A community for kids and parents exploring robotics together.**
+**A community knowledge base for FIRST LEGO League — for kids, parents, and teachers.**
 
-A nonprofit community centered around competitive robotics — FLL (FIRST Lego League) and VEX — built by families, for families.
+Built by families, for families. Curated guides, resources, educator content, and an AI helper backed by everything we've written.
 
-🌐 **Live site:** _coming soon — see [DEPLOYMENT.md](DEPLOYMENT.md) to publish_
+## Try it now
+
+💬 **Chat with the FLL Helper:** <https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper>
+A public Custom GPT on ChatGPT. Ask anything about FLL — getting started, planning a season, designing a lesson, debugging your SPIKE Prime program. Free for anyone with a ChatGPT account.
+
+🌐 **Browse the wiki:** _GitHub Pages site — see [DEPLOYMENT.md](DEPLOYMENT.md) for the deploy URL_
 
 ---
 
@@ -40,8 +45,8 @@ the-little-creator/
 
 The wiki is the single source of truth. From it we generate three kinds of consumption surfaces:
 
-1. **Website** — the rendered Astro/Starlight site (this repo, deployed to GitHub Pages). For people who want to browse.
-2. **Custom GPT (chat)** — a public Custom GPT on ChatGPT, backed by auto-generated knowledge files. For non-technical families and teachers who want to ask questions in chat. See [CUSTOM-GPT-SETUP.md](CUSTOM-GPT-SETUP.md).
+1. **Custom GPT (chat)** — [The Little Creator — FLL Helper](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper). The primary surface for non-technical families and teachers. See [CUSTOM-GPT-SETUP.md](CUSTOM-GPT-SETUP.md) for how it was set up and how to refresh its knowledge files.
+2. **Website** — the rendered Astro/Starlight site (this repo, deployed to GitHub Pages). For people who want to browse, and as the public host for the AI-readable artifacts (`llms-*.txt`).
 3. **Claude Skill** — a `skill/` bundle for AI coding tools (Claude Code, Cursor). For older kids and parents writing code with AI assistance.
 
 ## Quick Links (in the source)

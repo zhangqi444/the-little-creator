@@ -6,7 +6,9 @@
     "dev": "astro dev",
     "start": "astro dev",
     "generate:llms": "node scripts/generate-llms-txt.mjs",
-    "prebuild": "npm run generate:llms",
+    "generate:skill": "node scripts/build-skill.mjs",
+    "generate:all": "npm run generate:llms && npm run generate:skill",
+    "prebuild": "npm run generate:all",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

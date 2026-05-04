@@ -52,6 +52,21 @@ Each August FIRST releases the season's Challenge guide and the Robot Game Rule 
 
 Official LEGO Education portal. Hardware product pages, software downloads (LEGO SPIKE App, LEGO Education App), official lesson plans, and teacher resources. The canonical source for SPIKE Prime and Mindstorms-related questions.
 
+## Regional partners
+
+FLL is delivered worldwide through regional partners — official organizations that operate the program in their countries, running local registration, events, and program support in their language. The canonical [FIRST LEGO League](https://www.firstlegoleague.org) site links to the partner for your region; the entry below is one we've curated. We'll add more as we verify them.
+
+### HANDS on TECHNOLOGY — DACH region (Germany, Austria, Switzerland)
+
+- **URL:** https://www.first-lego-league.org
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, dach, germany, austria, switzerland
+- **Use when:** You are in Germany, Austria, or Switzerland and need local team registration, regional event listings, fees, or program info in German or English.
+
+The non-profit HANDS on TECHNOLOGY e.V. has operated FLL in the DACH region (Germany, Austria, Switzerland) since 2002. Bilingual site (German and English) covering FLL Challenge (ages 9–16), FLL Explore (ages 6–10), and the upcoming Future Edition tracks (5+ and 8+) that launch for the 2026/27 season. DACH team registration opens late April / early May and runs until end of October subject to regional capacity; classes can register year-round. Site lists current fees in EUR (team and class options). Defer to firstlegoleague.org for global program rules; use this site for DACH-specific events, fees, and language-localized materials.
+
 ## Event finders
 
 ### RobotEvents

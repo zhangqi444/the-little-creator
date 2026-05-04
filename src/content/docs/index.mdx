@@ -1,21 +1,37 @@
 ---
 title: The Little Creator
-description: A community knowledge base for kids, parents, and teachers in FIRST LEGO League — practical guides, curated resources, and an AI helper.
+description: A community knowledge base for kids, parents, and teachers in FIRST LEGO League — chat with our AI helper or browse curated resources, guides, and educator content.
 template: splash
 hero:
-  tagline: A community for kids, parents, and teachers learning FIRST LEGO League together. Practical guides, curated resources, and an AI helper trained on what we actually use.
+  tagline: A community for kids, parents, and teachers learning FIRST LEGO League together. Ask our AI helper for instant answers, or browse curated resources, guides, and educator content — all backed by what families and teachers actually use.
   actions:
-    - text: Get Started with FLL
+    - text: Chat with the FLL Helper
+      link: https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper
+      icon: external
+      variant: primary
+      attrs:
+        target: _blank
+        rel: noopener
+    - text: Browse the wiki
       link: /getting-started/what-is-fll/
       icon: right-arrow
-      variant: primary
-    - text: Browse FLL Resources
-      link: /resources/fll-resource-map/
-      icon: external
       variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Two ways to use this
+
+<CardGrid>
+  <Card title="Ask the FLL Helper (chat)" icon="comment-alt">
+    Our public Custom GPT on ChatGPT, backed by everything in this wiki. Ask anything — getting started, planning a season, designing a lesson, debugging a SPIKE Prime program. Free; works on any ChatGPT account.
+    [Open the FLL Helper →](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper)
+  </Card>
+  <Card title="Browse the wiki" icon="open-book">
+    Read curated content directly. Best for skimming the FLL Resource Map, copying lesson templates, or finding a specific guide.
+    [Start with "What is FLL?" →](/getting-started/what-is-fll/)
+  </Card>
+</CardGrid>
 
 ## What we share
 

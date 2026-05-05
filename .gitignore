@@ -10,6 +10,9 @@ public/llms.txt
 public/llms-full.txt
 public/llms-*.txt
 
+# Local agent reports (freshness, discovery, semantic)
+reports/
+
 # Environment
 .env
 .env.production

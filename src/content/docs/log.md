@@ -23,6 +23,8 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ## 2026-05-04
 
+- Refreshed `getting-started/what-is-fll.md` to reflect current FLL state. Now covers all three divisions (Discover 4-6, Explore 6-10, Challenge 9-16) instead of conflating FLL with Challenge alone. Added a "What's changing: Future Edition" section anchored to the resource map entry. Cleaned up outdated framings (Mindstorms → SPIKE Prime as the canonical kit; explicit current-season disclaimer for honesty about uncertainty).
+  Source: https://www.firstlegoleague.org
 - Added Future Edition transition entry to `resources/fll-resource-map.md`. Documents the 2026/27 dual-edition rollout (Founders + Future), the FIRST CANOPY / BIOGLOW season naming, the new LEGO Education Computer Science & AI hardware platform, and the non-compatibility with SPIKE — material for purchasing decisions and team planning.
   Source: https://www.firstinspires.org/first-canopy
 

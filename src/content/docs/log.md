@@ -23,6 +23,8 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ## 2026-05-05
 
+- Added `scripts/freshness-check.mjs` — Phase 4 prep, the lint half of the Freshness agent in `ARCHITECTURE.md`. Walks `src/content/docs/`, extracts every external URL the wiki cites, and reports HTTP status, redirect chains, last-modified ages, and network errors as a markdown audit. Wired up as `npm run freshness:check`. No semantic comparison yet (that needs an LLM); this scaffolds the mechanical half so wiki rot is at least visible. Skips fenced code blocks and inline-code spans so example URLs don't leak in.
+  Source: https://github.com/zhangqi444/the-little-creator (this repo)
 - Rewrote `resources/software-tools.md` to the per-entry pattern. Dropped LEGO Mindstorms App as a primary listing (Mindstorms production ended 2022; SPIKE Prime is canonical for current Founders Edition). Added Pybricks as an alternative SPIKE firmware. Added a Future Edition section noting the new Computer Science & AI platform with details TBD. Demoted VEX content to a clearly-marked secondary section per BRD scope. Replaced bare productivity-tool list with a focused notebook/presentation/workflow paragraph (no per-entry blocks for generic tools).
   Source: https://www.firstinspires.org/first-canopy
 - Touched up `getting-started/index.md`: added tags/audience/level frontmatter; rewrote the intro to acknowledge FLL's three age divisions (Discover, Explore, Challenge) and point to `what-is-fll.md` for the overview; added a regional-partner pointer for non-US families.

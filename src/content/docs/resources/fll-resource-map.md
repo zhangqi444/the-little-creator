@@ -41,6 +41,17 @@ The parent organization behind FLL, FIRST Tech Challenge (FTC), and FIRST Roboti
 
 Each August FIRST releases the season's Challenge guide and the Robot Game Rule Book. These are the only authoritative source for missions, point values, penalties, and judging rubrics. If anything in our wiki contradicts the current season manual, the manual wins.
 
+### Future Edition transition (2026/27 onward)
+
+- **URL:** https://www.firstinspires.org/first-canopy
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, future-edition, transition, season-2026-27, hardware
+- **Use when:** You need to understand the upcoming program transition — what changes, when, and whether your team should keep using SPIKE gear or wait for the new system.
+
+Starting with the 2026/27 season (FIRST CANOPY, FLL game name BIOGLOW), the program runs in two parallel editions during a multi-year transition. The **Founders Edition** continues the existing SPIKE-based program through its final 2027/28 season. The **Future Edition** launches in 2026/27 on the new LEGO Education Computer Science & AI platform and becomes the unified program from 2028/29 onward. New gameplay introduces wireless hardware, motorized task models, semi-cooperative matches on a shared field, and four defined team roles. Future Edition equipment is **not backward-compatible** with SPIKE — important for purchasing decisions. Announced by FIRST and LEGO Education on January 12, 2026. See also the [DACH partner's English summary](https://www.first-lego-league.org/en/future-edition-en) for additional context.
+
 ### LEGO Education — SPIKE Prime / Mindstorms
 
 - **URL:** https://education.lego.com

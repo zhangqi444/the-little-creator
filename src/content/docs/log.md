@@ -21,6 +21,11 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ---
 
+## 2026-05-04
+
+- Added Future Edition transition entry to `resources/fll-resource-map.md`. Documents the 2026/27 dual-edition rollout (Founders + Future), the FIRST CANOPY / BIOGLOW season naming, the new LEGO Education Computer Science & AI hardware platform, and the non-compatibility with SPIKE — material for purchasing decisions and team planning.
+  Source: https://www.firstinspires.org/first-canopy
+
 ## 2026-05-03
 
 - Added a Regional partners section to `resources/fll-resource-map.md` with the HANDS on TECHNOLOGY (DACH region: Germany, Austria, Switzerland) entry. First non-US entry in the resource map.

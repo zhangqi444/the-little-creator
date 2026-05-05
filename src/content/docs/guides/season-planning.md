@@ -1,12 +1,17 @@
 ---
 title: Planning Your FLL Season
 description: A practical month-by-month timeline for FIRST LEGO League — kickoff to competition day, including the Innovation Project, Core Values prep, and tournament logistics.
-tags: [fll, season-planning, coaches, parents]
+tags: [fll, season-planning, coaches, parents, founders-edition]
 audience: [parents, coaches, teachers]
 level: beginner, intermediate
+season: 2025
 ---
 
-A practical timeline for one FLL season. Drawn from how seasons actually run, not how they look in a brochure. Adapt to your team's pace — these are reference points, not deadlines.
+A practical timeline for one FLL Challenge season. Drawn from how seasons actually run, not how they look in a brochure. Adapt to your team's pace — these are reference points, not deadlines.
+
+:::note[Which edition?]
+This guide reflects the **Founders Edition** (SPIKE-based) FLL Challenge season — the program structure that applies through the 2027/28 season. Starting with the **2026/27** season, the new **Future Edition** runs in parallel with different hardware (LEGO Education Computer Science & AI), new team roles, and semi-cooperative matches. We'll add a Future Edition planning guide once FIRST publishes the 2026/27 season specifics. For now, see the [Future Edition transition entry](/resources/fll-resource-map/#future-edition-transition-202627-onward) in the resource map for what's known.
+:::
 
 ## Season shape at a glance
 

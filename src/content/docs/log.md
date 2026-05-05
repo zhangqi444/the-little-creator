@@ -21,6 +21,11 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ---
 
+## 2026-05-05
+
+- Added a Founders/Future Edition disclaimer to `guides/season-planning.md`. The substantive month-by-month content remains intact; the page is explicitly scoped to the Founders Edition (SPIKE-based, applies through 2027/28), with a cross-link to the Future Edition transition entry. Updated frontmatter with `season: 2025` and a `founders-edition` tag for retrieval clarity.
+  Source: https://www.firstinspires.org/first-canopy
+
 ## 2026-05-04
 
 - Refreshed `getting-started/what-is-fll.md` to reflect current FLL state. Now covers all three divisions (Discover 4-6, Explore 6-10, Challenge 9-16) instead of conflating FLL with Challenge alone. Added a "What's changing: Future Edition" section anchored to the resource map entry. Cleaned up outdated framings (Mindstorms → SPIKE Prime as the canonical kit; explicit current-season disclaimer for honesty about uncertainty).

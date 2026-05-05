@@ -1,0 +1,100 @@
+{
+  "$schema": "./discovery-sources.schema.md",
+  "_about": "Curated catalog of sources the Discovery agent (ARCHITECTURE.md Phase 3) will monitor. Three categories: web-search queries, RSS/Atom feeds, and specific watchlist pages. Each entry has `verified` to mark whether a human has confirmed the URL/query is good. The Phase 3 agent reads this file, runs each query/feed/page, filters for relevance, and opens GitHub issues for candidate sources to ingest. See discovery-sources.schema.md for field definitions.",
+  "queries": [
+    {
+      "query": "FIRST LEGO League 2026 season news",
+      "tags": ["fll", "season", "current"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Broad current-season query. Bias to news from the last 30 days."
+    },
+    {
+      "query": "FLL Future Edition LEGO Education Computer Science AI",
+      "tags": ["fll", "future-edition", "transition"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Track the 2026/27 transition rollout. Active interest until Future Edition is the unified program (2028/29)."
+    },
+    {
+      "query": "FIRST CANOPY BIOGLOW season",
+      "tags": ["fll", "season-2026-27"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "2026/27 season name. Likely high signal Aug–Oct 2026."
+    },
+    {
+      "query": "FLL Innovation Project ideas season",
+      "tags": ["fll", "innovation-project", "evergreen"],
+      "frequency": "monthly",
+      "verified": true,
+      "notes": "Long-tail: coach blogs and team showcases."
+    },
+    {
+      "query": "FLL Challenge SPIKE Prime Pybricks",
+      "tags": ["fll", "spike-prime", "programming", "pybricks"],
+      "frequency": "monthly",
+      "verified": true,
+      "notes": "Programming approaches discussion. Useful for learning-materials.md updates."
+    },
+    {
+      "query": "FIRST LEGO League regional partner",
+      "tags": ["fll", "regional-partner", "global"],
+      "frequency": "quarterly",
+      "verified": true,
+      "notes": "Find new regional partner sites to add to fll-resource-map.md. Currently we only have HANDS on TECHNOLOGY (DACH)."
+    }
+  ],
+  "feeds": [
+    {
+      "url": "https://www.youtube.com/feeds/videos.xml?user=FIRSTLEGOLeague",
+      "name": "FIRST LEGO League — official YouTube",
+      "tags": ["fll", "video", "official", "season-reveals"],
+      "frequency": "weekly",
+      "verified": false,
+      "notes": "YouTube exposes per-channel RSS feeds. URL format above; user/channel ID may need verification. Best for season reveal videos in August."
+    },
+    {
+      "url": "https://www.first-lego-league.org/news",
+      "name": "HANDS on TECHNOLOGY news (DACH)",
+      "tags": ["fll", "regional-partner", "dach"],
+      "frequency": "monthly",
+      "verified": false,
+      "notes": "Has a /News page; RSS feed URL TBD — may need to scrape the page if no feed exists."
+    }
+  ],
+  "watchlist_pages": [
+    {
+      "url": "https://www.firstlegoleague.org",
+      "name": "Global FLL homepage",
+      "tags": ["fll", "official", "canonical"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Division structure changes, season-name announcements, scope changes (e.g., post-LEGO partnership end). Compare against what what-is-fll.md and fll-resource-map.md say."
+    },
+    {
+      "url": "https://www.firstinspires.org/first-canopy",
+      "name": "FIRST CANOPY (2026/27 season landing)",
+      "tags": ["fll", "season-2026-27", "official"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Season-specific updates, BIOGLOW manual releases, registration windows. URL will likely rotate to /first-<next> after the 2026/27 season ends."
+    },
+    {
+      "url": "https://www.first-lego-league.org/en/future-edition-en",
+      "name": "DACH partner — Future Edition page",
+      "tags": ["fll", "future-edition", "regional-partner"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Updated Future Edition specifics. The page promised 'further details in the coming weeks' as of Jan 2026."
+    },
+    {
+      "url": "https://education.lego.com",
+      "name": "LEGO Education portal",
+      "tags": ["lego-education", "spike-prime", "future-edition", "hardware"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Computer Science & AI hardware announcements (Future Edition platform), SPIKE Prime end-of-life signals, new product pages."
+    }
+  ]
+}

@@ -59,23 +59,30 @@ For each page in the queue (or just the document):
 
 ### Step 4 — Phase C: Synthesize
 
+The goal is **comprehensive coverage of every distinct resource** the source offers — not a single summary entry. When a human pastes a homepage URL, they're asking for a database from the whole site, not a single bookmark.
+
 Answer four questions, in this order:
 
 1. **What is this source?** One sentence + authority level (`official` for FIRST/LEGO/VEX/program-owned content, `independent` for trusted third-party, `community` for forums/social).
 2. **What entities does it touch?** Cross-reference against existing wiki pages. Common entities: SPIKE Prime, Mindstorms, FLL season 20XX, Innovation Project, Core Values, specific programs (FTC, FRC), specific roles (coach, judge, mentor).
-3. **What's the smallest correct change?** In order of preference:
-   - Add **one entry** to a resource map (`resources/fll-resource-map.md` or `resources/learning-materials.md` is most common).
-   - **Update** an existing entry (refine `Use when:`, add a tag) if the source illuminates a resource we already cite.
-   - Update prose in a **guide** (`guides/`) or **educator page** (`for-educators/`) only when the source teaches us something the prose got wrong.
-   - **Create a new page** only if the source covers a topic the wiki doesn't address at all. Default to update-over-create.
-4. **What's already covered?** If the wiki already cites this URL, *update* the existing entry instead of duplicating. Search for the URL with `grep -r "<url>" src/content/docs/` before adding anything.
+3. **What distinct resources does the site offer?** For each substantive sub-page you read in Phase B, ask: does this serve a *different* user question than the others? If yes, it's a separate entry. Examples of distinct resources:
+   - Cost & registration page (parents asking "what does this cost?")
+   - Team finder (parents asking "where's a team near me?")
+   - Season materials hub (coaches asking "where do I get the manual?")
+   - Volunteer onboarding (community members asking "how do I help?")
+   - Press / news archive (anyone asking "what changed recently?")
+
+   Typical yields per source: **8–12 entries for a major canonical site** (firstinspires.org, firstlegoleague.org, education.lego.com), **3–5 entries for a regional partner**, **1–3 entries for a single-topic independent resource**.
+
+4. **What's already covered?** Always `grep -r "<url>" src/content/docs/` before adding any individual URL. For URLs already cited, *update* the existing entry rather than duplicate. Use judgment to skip overlapping pages (e.g., "About" + "Mission" + "History" usually collapse into one organizational-overview entry, not three).
 
 ### Step 5 — Phase D: Record
 
-- [ ] Make the edit per the per-entry pattern in [`src/content/docs/CLAUDE.md`](../../src/content/docs/CLAUDE.md). Required fields per entry: `URL`, `Authority`, `Audience`, `Level`, `Tags`, `Use when`, plus a description paragraph.
-- [ ] **Never paste source prose.** Hard limit: ≤50 consecutive words from any external source. If tempted to paste a paragraph, write a 2-sentence summary in your own words.
-- [ ] Append a one-line entry to [`src/content/docs/log.md`](../../src/content/docs/log.md) under today's date heading. Format: `- <past-tense description> (PR #N when known). Source: <url>`.
-- [ ] Stage a **commit** (one-line metadata addition) or open a **PR** (multi-page changes). Branch off latest main with the convention `claude/ingest-<short-slug>`.
+- [ ] Make one resource-map entry per distinct resource per the per-entry pattern in [`src/content/docs/CLAUDE.md`](../../src/content/docs/CLAUDE.md). Required fields per entry: `URL`, `Authority`, `Audience`, `Level`, `Tags`, `Use when`, plus a description paragraph.
+- [ ] Group entries under appropriate section headings. For sites that warrant their own section (e.g., a regional partner's full set of resources), it's fine to introduce a new `## Section name` heading.
+- [ ] **Never paste source prose.** Hard limit: ≤50 consecutive words from any external source. If tempted to paste a paragraph, write a 2-sentence summary in your own words. This applies per-entry, not per-source — many short summaries are fine.
+- [ ] Append **one summary line per source** to [`src/content/docs/log.md`](../../src/content/docs/log.md) under today's date heading (not one line per entry — keep the audit trail at source granularity). Format: `- Ingested <source>: added N entries covering <topics>. Source: <url>`.
+- [ ] Stage a **commit per source** when ingesting multiple sources in a session. Commit message subject: `Ingest <source-name>: N new entries`. Body: list each entry's title and where it landed.
 
 ### Step 6 — Report
 
@@ -91,10 +98,10 @@ Tell the user:
 
 A successful ingest produces:
 
-1. Exactly one new or updated wiki page (rarely more — keep commits scoped).
-2. A new entry in `log.md`.
-3. A commit or PR with a present-tense subject and a body explaining *why* this source is worth citing.
-4. Generated artifacts (`public/llms-*.txt`) regenerated automatically by `prebuild` at next build.
+1. Multiple new or updated entries in resource-map files — one per distinct resource the source offers. Typical: 8–12 for a major canonical site, 3–5 for a regional partner, 1–3 for a single-topic independent resource. A 1-entry ingest is the exception, not the rule.
+2. One summary line in `log.md` for the whole source (not one per entry).
+3. A commit (one per source) with a present-tense subject like `Ingest <source>: N new entries` and a body listing the entries.
+4. Generated artifacts (`public/llms-*.txt`) regenerated automatically by `prebuild` at next build — total entry count grows by N.
 
 A skipped ingest (also valid) produces:
 
@@ -114,8 +121,10 @@ A skipped ingest (also valid) produces:
 
 ## Failure modes to avoid
 
+- **Reading only the homepage and stopping there.** A homepage rarely captures the substantive resources of a site — it's a navigation index. Always traverse via sitemap.xml or 2-hop link following.
+- **Adding only one entry from a multi-resource site.** If you read 8 substantive pages from firstinspires.org and add a single "FIRST Inspires" entry, you've thrown away the work. Each distinct resource gets its own entry.
 - **Skipping the search-for-existing-citation step.** Duplicates fragment retrieval and confuse readers.
-- **Pasting more than 50 consecutive words from the source.** That's republishing, not citing.
+- **Pasting more than 50 consecutive words from the source.** That's republishing, not citing. The limit is per-entry; many short summaries are fine.
 - **Inventing metadata.** If you don't know the source's audience, write `families, coaches` (the safe default), not "everyone."
-- **Updating five pages "while you're at it."** Keep commits scoped to the source. Other improvements go in separate PRs.
+- **Bundling multiple unrelated source ingests into one commit.** One commit per source keeps the audit trail clean and lets each ingest be reverted independently.
 - **Skipping the `log.md` entry.** The log is the audit trail the freshness agent depends on; missing entries break Phase 4.

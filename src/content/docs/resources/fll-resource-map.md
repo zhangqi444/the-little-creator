@@ -41,6 +41,50 @@ The parent organization behind all three FIRST programs: **FIRST LEGO League** (
 
 Each August FIRST releases the season's Challenge guide and the Robot Game Rule Book. These are the only authoritative source for missions, point values, penalties, and judging rubrics. If anything in our wiki contradicts the current season manual, the manual wins.
 
+### FLL Get Started (FIRST)
+
+- **URL:** https://www.firstinspires.org/programs/fll/get-started
+- **Authority:** official
+- **Audience:** families, teachers, coaches
+- **Level:** beginner
+- **Tags:** fll, official, getting-started, registration
+- **Use when:** You are new to FLL and want the canonical FIRST onboarding flow — choose a division (Discover, Explore, Challenge), see registration options (small team vs class pack), and route to sign-up.
+
+The FLL-specific getting-started flow on FIRST. Walks through the three divisions with grade-banded explanations (Discover K-1, Explore 2-4, Challenge typically grades 4–8) and routes you to the right registration option. Complements our own getting-started page — that's our family-friendly narrative; this is FIRST's structured signup path.
+
+### UNEARTHED — current FLL season (2025/26)
+
+- **URL:** https://www.firstinspires.org/programs/fll/game-and-season
+- **Authority:** official
+- **Audience:** coaches, teams, families
+- **Level:** all
+- **Tags:** fll, season-2025-26, unearthed, current
+- **Use when:** You need the current season's theme info, launch videos, materials, and registration links — all in one place.
+
+The current FLL season hub on FIRST. **UNEARTHED** is the 2025/26 theme — teams uncover stories from artifacts and innovations of the past. Page links to season materials for all three divisions, official launch videos (with FIRST CEO Chris Moore and others), and current-season registration. URL rotates to a new season landing each August.
+
+### Season Materials Library (FIRST)
+
+- **URL:** https://www.firstinspires.org/resources/library/fll/season-materials
+- **Authority:** official
+- **Audience:** coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, season-materials, downloads, official
+- **Use when:** You need the current season's downloadable materials — guidebooks, building instructions, videos, family engagement resources, event resources — organized by division (Discover, Explore, Challenge).
+
+The official downloads hub for the current season's materials. More expansive than the bare rule manuals at firstlegoleague.org/season — includes building instructions, support videos, family engagement materials, and event resources. Click each division block to drill into role-specific downloads.
+
+### Past Challenges archive (FIRST)
+
+- **URL:** https://www.firstinspires.org/resources/library/fll/past-challenges
+- **Authority:** official
+- **Audience:** coaches, teams, mentors
+- **Level:** all
+- **Tags:** fll, past-seasons, archive, history
+- **Use when:** You are researching prior season themes — for inspiration, to see how challenges have evolved, or to study mission patterns from a specific year (1998 to present).
+
+Complete archive of every FLL season since 1998, with theme names and links into each year's materials. Useful for coaches preparing teams (study past games for design patterns), for understanding how the program has evolved (e.g., 2020/21 RePLAY was the COVID season), or for veterans walking down memory lane.
+
 ### Cost & Registration (FIRST)
 
 - **URL:** https://www.firstinspires.org/programs/cost-and-registration
@@ -73,6 +117,39 @@ Starting with the 2026/27 season (FIRST CANOPY, FLL game name BIOGLOW), the prog
 - **Use when:** You need official documentation, software downloads, or lesson plans for the FLL hardware kits.
 
 Official LEGO Education portal. Hardware product pages, software downloads (LEGO SPIKE App, LEGO Education App), official lesson plans, and teacher resources. The canonical source for SPIKE Prime and Mindstorms-related questions.
+
+### FLL Technical Resources (FIRST)
+
+- **URL:** https://www.firstinspires.org/resources/library/fll/technical-resources
+- **Authority:** official
+- **Audience:** coaches, teachers
+- **Level:** intermediate
+- **Tags:** fll, hardware, technical, spike-essential, wedo, lego-education
+- **Use when:** You need details about the LEGO Education sets used in FLL Explore (SPIKE Essential, WeDo 2.0) or Challenge (SPIKE Prime), including curriculum mapping and product compatibility.
+
+Reference page for the LEGO Education hardware that powers FLL. Covers SPIKE Essential (the current FLL Explore set), legacy WeDo 2.0 (with alternative instructions for older sets), SPIKE Prime (FLL Challenge), and links to retired hardware reference. Most useful for teachers and coaches purchasing for the first time or supporting a team using older equipment.
+
+### Family Engagement Resources (FIRST)
+
+- **URL:** https://www.firstinspires.org/resources/library/fll/engagement-resources
+- **Authority:** official
+- **Audience:** families, parents
+- **Level:** beginner
+- **Tags:** fll, family, engagement, parents, at-home
+- **Use when:** You are a parent looking for activities to do with your kid at home that complement the FLL season, or guidance on supporting your child's FLL participation as a non-coach family member.
+
+FIRST's hub for family-side engagement: at-home activities, learning-through-play guidance, and ways to support your child's FLL participation outside of team meetings. Less coach-focused, more parent-focused. Useful when your kid is on a team and you want to be involved without taking on a coaching role.
+
+### Coaches & Mentors (FIRST)
+
+- **URL:** https://www.firstinspires.org/community/teams/coaches-and-mentors
+- **Authority:** official
+- **Audience:** coaches, teachers, parents
+- **Level:** all
+- **Tags:** fll, ftc, frc, coach, mentor, official, recruiting
+- **Use when:** You are considering becoming a coach or mentor for any FIRST program — or trying to recruit one — and need the official pitch, impact stats, and signup path.
+
+Cross-program coach/mentor onboarding for all FIRST programs (FLL, FTC, FRC). Covers what coaches and mentors do, impact stats from FIRST's research (4M+ youth participants since 1989, 83% of FIRST alumni pursue STEM majors), and links to register as a coach. Useful for recruiting a parent or community member to lead a team.
 
 ## Regional partners
 

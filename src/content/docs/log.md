@@ -21,6 +21,12 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ---
 
+## 2026-05-06
+
+- Re-ingested firstinspires.org at proper depth (per updated ingest-source SKILL). Crawled the FLL-relevant sitemap, read 12 pages substantively, added 7 new entries to `resources/fll-resource-map.md`: FLL Get Started flow, UNEARTHED current season hub, Season Materials Library, Past Challenges archive (1998–present), FLL Technical Resources, Family Engagement Resources, Coaches & Mentors recruitment. Brings firstinspires.org-anchored entries from 4 to 11. The total resource map count grows from 13 to 20.
+  Source: https://www.firstinspires.org
+- Updated `skill/ingest-source/SKILL.md` to codify the deeper-crawl standard. Reframed Phase C from "smallest correct change" to "comprehensive coverage of every distinct resource the source offers". Documented typical yields (8-12 entries for major canonical sites, 3-5 for regional partners). Added "reading only the homepage and stopping" as a failure mode. Per-source commit pattern (one commit per source, not per entry) preserved for clean audit trail.
+
 ## 2026-05-05
 
 - Followed up the firstinspires.org ingest with proper site traversal (sitemap → 15 FLL-relevant pages → read 5 highest-leverage). Added two NEW entries to `resources/fll-resource-map.md`: (1) **Cost & Registration** under "Official sources (canonical)" — the only place in the wiki with explicit FIRST cost info plus grant pointers; (2) **FIRST Find Local Support** under "Event finders" (renamed to "Event finders & local support") — the people-side of the local FIRST ecosystem (Program Delivery Organizations, Senior Mentors), distinct from RobotEvents which is tournament-focused.

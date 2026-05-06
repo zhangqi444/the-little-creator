@@ -25,10 +25,10 @@ The official FIRST LEGO League program site, run by FIRST. Authoritative source 
 - **Authority:** official
 - **Audience:** families, coaches, teachers, teams
 - **Level:** all
-- **Tags:** fll, ftc, frc, official, parent-organization
-- **Use when:** You're navigating across FIRST programs (FLL → FTC → FRC progression), or need policy/youth-protection information.
+- **Tags:** fll, ftc, frc, official, parent-organization, team-finder
+- **Use when:** You're navigating across FIRST programs (FLL → FTC → FRC progression), looking for a team or event near you, or need policy / youth-protection documents.
 
-The parent organization behind FLL, FIRST Tech Challenge (FTC), and FIRST Robotics Competition (FRC). Useful for understanding the broader pipeline kids progress through, and for official policy documents (Youth Protection Program, mentor agreements, etc.).
+The parent organization behind all three FIRST programs: **FIRST LEGO League** (grades K–8, ages 5–16), **FIRST Tech Challenge** (grades 7–12, ages 12–18), and **FIRST Robotics Competition** (grades 9–12, ages 14–18). Use this site to find a local team via the homepage's team-finder, choose between programs by age and grade, and access official policy documents (Youth Protection Program, mentor agreements). Note: ages can vary slightly by region.
 
 ### Season Challenge & Robot Game Rule Book
 

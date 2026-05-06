@@ -41,6 +41,17 @@ The parent organization behind all three FIRST programs: **FIRST LEGO League** (
 
 Each August FIRST releases the season's Challenge guide and the Robot Game Rule Book. These are the only authoritative source for missions, point values, penalties, and judging rubrics. If anything in our wiki contradicts the current season manual, the manual wins.
 
+### Cost & Registration (FIRST)
+
+- **URL:** https://www.firstinspires.org/programs/cost-and-registration
+- **Authority:** official
+- **Audience:** families, teachers, coaches
+- **Level:** all
+- **Tags:** fll, ftc, frc, official, cost, registration, grants
+- **Use when:** You are deciding whether to commit to FIRST and need to see costs per program — FLL Discover, Explore, Challenge, plus FTC and FRC — along with registration options and grant availability.
+
+Official cost breakdown across all FIRST programs. Prices vary by program and event participation; the page lays out base registration costs plus links to **available grants** for teams that need financial assistance. Listed in USD; international families should check with their regional partner for local pricing (see Regional partners section below).
+
 ### Future Edition transition (2026/27 onward)
 
 - **URL:** https://www.firstinspires.org/first-canopy
@@ -78,7 +89,18 @@ FLL is delivered worldwide through regional partners — official organizations 
 
 The non-profit HANDS on TECHNOLOGY e.V. has operated FLL in the DACH region (Germany, Austria, Switzerland) since 2002. Bilingual site (German and English) covering FLL Challenge (ages 9–16), FLL Explore (ages 6–10), and the upcoming Future Edition tracks (5+ and 8+) that launch for the 2026/27 season. DACH team registration opens late April / early May and runs until end of October subject to regional capacity; classes can register year-round. Site lists current fees in EUR (team and class options). Defer to firstlegoleague.org for global program rules; use this site for DACH-specific events, fees, and language-localized materials.
 
-## Event finders
+## Event finders & local support
+
+### FIRST — Find Local Support
+
+- **URL:** https://www.firstinspires.org/find-local-support
+- **Authority:** official
+- **Audience:** families, coaches, teachers
+- **Level:** all
+- **Tags:** fll, ftc, frc, official, team-finder, local-ecosystem, mentor
+- **Use when:** You want to find a team near you, identify your region's Program Delivery Organization, or understand who runs FIRST locally (Senior Mentors, volunteer leadership, regional coordinators).
+
+The people side of FIRST in your region. **Program Delivery Organizations** (PDOs) operate FIRST programs locally; **Program Delivery Partners** coordinate volunteers and teams; **Senior Mentors** bring technical and program experience. Use this when you're new to a region or want to know who to ask about events, team formation, or mentoring help. Complements RobotEvents below — that's event-focused; this is people-focused.
 
 ### RobotEvents
 

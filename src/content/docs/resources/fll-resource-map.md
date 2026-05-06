@@ -309,6 +309,61 @@ The IET's UK-side write-up of the FIRST LEGO League Future Edition — the major
 
 UK-specific FAQs on FIRST LEGO League. Useful when global program FAQs don't address UK quirks. JS-rendered — visit directly for current Q&A.
 
+### FIRST in Texas — statewide
+
+- **URL:** https://firstintexas.org
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, ftc, frc, regional-partner, texas, usa
+- **Use when:** You are in Texas and need the statewide regional partner's hub for FIRST programs (FLL, FTC, FRC, FIRST Access).
+
+The Texas regional FIRST organization (branded "FIT" or "FIRST in Texas"). Operates all major FIRST programs across Texas, with regional Program Delivery Partners (Panhandle, Central, North, South, etc.) coordinating local events. Sub-resources below.
+
+### FLL in Texas
+
+- **URL:** https://firstintexas.org/first-lego-league
+- **Authority:** official
+- **Audience:** families, coaches, teachers
+- **Level:** all
+- **Tags:** fll, regional-partner, texas, registration
+- **Use when:** You are forming an FLL team in Texas — need the regional Program Delivery Partner contact for your area, team registration link, and current-season team resources.
+
+Texas-specific FLL landing covering all three divisions (Discover PreK–1, Explore K–3, Challenge grades 4–8) with grade-banded entry points. Includes a directory of regional Program Delivery Partners by Texas area, contact email (fll@firstintexas.org), and links to register a team or access 25-26 team resources.
+
+### Texas FLL Team Resources & Advancement
+
+- **URL:** https://firstintexas.org/FLL_Resources_2
+- **Authority:** official
+- **Audience:** coaches
+- **Level:** intermediate
+- **Tags:** fll, texas, resources, advancement, coaches
+- **Use when:** You are coaching an FLL team in Texas — need season resources, regional Padlet links, advancement-to-State-Championship rules, or event host / volunteer resources.
+
+In-season hub for Texas FLL coaches. Covers: announcements, coach resources, regional Padlets, event host & volunteer resources, and the advancement formula — Qualifier → Regional (1/3 of teams advance) → State Championship (15% of regional teams advance). Designed to be proportional across Texas so teams have an equal chance to advance regardless of region.
+
+### Texas Events Calendar
+
+- **URL:** https://firstintexas.org/events
+- **Authority:** official
+- **Audience:** families, coaches, teams
+- **Level:** all
+- **Tags:** fll, ftc, frc, texas, events, calendar
+- **Use when:** You are checking which FIRST events (FLL Challenge, FLL Explore, FRC, FTC) are happening in Texas — filter by month, program, and Texas area (Panhandle, Central, North, South, etc.).
+
+Texas-specific events search. Filter by month, program, and area. Covers all FIRST programs and event types (qualifiers, regionals, state championships, get-ready events).
+
+### Texas Team Grants
+
+- **URL:** https://firstintexas.org/team-grants
+- **Authority:** official
+- **Audience:** coaches, teachers, families
+- **Level:** all
+- **Tags:** fll, ftc, frc, texas, grants, funding, financial-assistance
+- **Use when:** Your Texas team needs financial support — one application is matched against multiple statewide partner funding sources.
+
+FIRST in Texas funding-support program. Single application to be considered for funding from multiple statewide partners — FIT works behind the scenes to match team applications to sponsor funding sources. Useful for teams that don't have their own corporate sponsor and need help with registration, equipment, or travel costs.
+
 ## Event finders & local support
 
 ### FIRST — Find Local Support

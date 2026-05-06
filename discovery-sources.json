@@ -1,6 +1,6 @@
 {
   "$schema": "./discovery-sources.schema.md",
-  "_about": "Curated catalog of sources the Discovery agent (ARCHITECTURE.md Phase 3) will monitor. Three categories: web-search queries, RSS/Atom feeds, and specific watchlist pages. Each entry has `verified` to mark whether a human has confirmed the URL/query is good. The Phase 3 agent reads this file, runs each query/feed/page, filters for relevance, and opens GitHub issues for candidate sources to ingest. See discovery-sources.schema.md for field definitions.",
+  "_about": "Curated catalog of sources the Discovery agent (ARCHITECTURE.md Phase 3) monitors weekly. Three categories: web-search queries, RSS/Atom feeds, and specific watchlist pages. Each entry has `verified` to mark whether a human has confirmed the URL/query is good. The Phase 3 agent (currently the tlc-weekly-discovery-scan Cowork task) reads this file, runs each query/feed/page, filters for relevance, and opens GitHub issues for candidate sources to ingest. See discovery-sources.schema.md for field definitions.",
   "queries": [
     {
       "query": "FIRST LEGO League 2026 season news",
@@ -24,11 +24,18 @@
       "notes": "2026/27 season name. Likely high signal Aug–Oct 2026."
     },
     {
+      "query": "FLL UNEARTHED Innovation Project",
+      "tags": ["fll", "season-2025-26", "innovation-project", "current"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Current 2025/26 season's Innovation Project ideas, team blog posts, expert interview write-ups. High signal during Sept-Nov."
+    },
+    {
       "query": "FLL Innovation Project ideas season",
       "tags": ["fll", "innovation-project", "evergreen"],
       "frequency": "monthly",
       "verified": true,
-      "notes": "Long-tail: coach blogs and team showcases."
+      "notes": "Long-tail: coach blogs and team showcases. Less time-sensitive."
     },
     {
       "query": "FLL Challenge SPIKE Prime Pybricks",
@@ -38,29 +45,36 @@
       "notes": "Programming approaches discussion. Useful for learning-materials.md updates."
     },
     {
+      "query": "FLL coach blog 2026",
+      "tags": ["fll", "coach", "independent", "blog"],
+      "frequency": "monthly",
+      "verified": true,
+      "notes": "Surface independent coach voices. Bias to recent posts; many coach blogs are dormant after a season."
+    },
+    {
       "query": "FIRST LEGO League regional partner",
       "tags": ["fll", "regional-partner", "global"],
       "frequency": "quarterly",
       "verified": true,
-      "notes": "Find new regional partner sites to add to fll-resource-map.md. Currently we only have HANDS on TECHNOLOGY (DACH)."
+      "notes": "Find new regional partner sites to add to fll-resource-map.md. As of 2026-05, we have HANDS on TECHNOLOGY (DACH), FIRST Washington, IET (UK), FIRST in Texas."
     }
   ],
   "feeds": [
     {
-      "url": "https://www.youtube.com/feeds/videos.xml?user=FIRSTLEGOLeague",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuGaG4GtEj82i3pByi_bM3A",
       "name": "FIRST LEGO League — official YouTube",
       "tags": ["fll", "video", "official", "season-reveals"],
       "frequency": "weekly",
-      "verified": false,
-      "notes": "YouTube exposes per-channel RSS feeds. URL format above; user/channel ID may need verification. Best for season reveal videos in August."
+      "verified": true,
+      "notes": "Official FLL YouTube channel feed. Channel ID UCuGaG4GtEj82i3pByi_bM3A confirmed via canonical URL on the @FIRSTLEGOLeagueofficial handle. Best for season reveal videos in August."
     },
     {
-      "url": "https://www.first-lego-league.org/news",
-      "name": "HANDS on TECHNOLOGY news (DACH)",
-      "tags": ["fll", "regional-partner", "dach"],
-      "frequency": "monthly",
-      "verified": false,
-      "notes": "Has a /News page; RSS feed URL TBD — may need to scrape the page if no feed exists."
+      "url": "https://www.reddit.com/r/FIRSTRobotics/.rss",
+      "name": "r/FIRSTRobotics on Reddit",
+      "tags": ["fll", "ftc", "frc", "community", "reddit"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Cross-program Reddit community. Skewed toward FTC/FRC but FLL questions and announcements appear. Use a relevance filter (FLL keywords) to surface FLL-specific items."
     }
   ],
   "watchlist_pages": [
@@ -89,12 +103,44 @@
       "look_for": "Updated Future Edition specifics. The page promised 'further details in the coming weeks' as of Jan 2026."
     },
     {
+      "url": "https://www.first-lego-league.org/en/news",
+      "name": "HANDS on TECHNOLOGY news (DACH)",
+      "tags": ["fll", "regional-partner", "dach"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "DACH-specific FLL news. No RSS feed available; treat as page-poll only. Look for season-update posts."
+    },
+    {
+      "url": "https://education.lego.com/en-us/first-lego-league/partnership-update/",
+      "name": "LEGO Education partnership update page",
+      "tags": ["lego-education", "partnership", "transition", "high-signal"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "Updated details about the 2027-2028 LEGO Education season after the FIRST partnership ends. Currently says 'we can't share more details yet' — when that changes it's a major wiki update."
+    },
+    {
+      "url": "https://education.lego.com/en-us/first-lego-league/",
+      "name": "LEGO Education FLL hub",
+      "tags": ["lego-education", "fll", "official"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Tone shifts re: partnership, new product/curriculum announcements tied to FLL, hardware roadmap signals."
+    },
+    {
       "url": "https://education.lego.com",
       "name": "LEGO Education portal",
       "tags": ["lego-education", "spike-prime", "future-edition", "hardware"],
       "frequency": "monthly",
       "verified": true,
-      "look_for": "Computer Science & AI hardware announcements (Future Edition platform), SPIKE Prime end-of-life signals, new product pages."
+      "look_for": "Computer Science & AI hardware announcements (Future Edition platform), SPIKE Prime / SPIKE Essential end-of-life signals (June 30, 2026 retirement is current), new product pages."
+    },
+    {
+      "url": "https://www.firstinspires.org/about/press-room",
+      "name": "FIRST press room",
+      "tags": ["first", "fll", "press", "announcements"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "Press releases mentioning FIRST LEGO League, season launches, partnership news, major program changes. Surface only FLL-related items."
     }
   ]
 }

@@ -276,6 +276,39 @@ WA-specific events search and calendar for all FIRST programs. Filter by event c
 
 Volunteer roles for WA FIRST programs. Two main paths: event volunteers (seasonal, weekend day commitment, no STEM background needed — great entry point) and coaches/mentors (longer-term, technical or non-technical support). Over 50 competitions per season depend on volunteer support.
 
+### IET — United Kingdom (FIRST LEGO League hub)
+
+- **URL:** https://education.theiet.org/first-lego-league-programmes
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, uk, britain, iet
+- **Use when:** You are in the United Kingdom and need the UK regional partner's main FLL hub — links to Explore (younger teams), Challenge (older teams), funding support, FAQs, and previous-season resources.
+
+The Institution of Engineering and Technology (IET) — the UK's professional engineering body — operates FIRST LEGO League across the United Kingdom. Their FLL programmes hub links to dedicated pages for Explore, Challenge, funding support, and FAQs. Note: pages are JavaScript-rendered, so substantive program details may not surface in plain HTML scraping; visit each page directly for current information.
+
+### IET — A new era for FIRST LEGO League (UK on Future Edition)
+
+- **URL:** https://education.theiet.org/first-lego-league-programmes/a-new-era-for-first-lego-league
+- **Authority:** official
+- **Audience:** coaches, teachers, families
+- **Level:** all
+- **Tags:** fll, regional-partner, uk, future-edition, transition
+- **Use when:** You are a UK coach or family wanting the UK regional partner's perspective on the Future Edition transition (2026/27 onward).
+
+The IET's UK-side write-up of the FIRST LEGO League Future Edition — the major program transition announced January 2026. Complements FIRST/LEGO Education's own transition pages (see Future Edition transition entry above) and the DACH partner's English summary. JS-rendered; visit directly for substantive content.
+
+### IET — UK FIRST LEGO League FAQs
+
+- **URL:** https://education.theiet.org/first-lego-league-programmes/faqs
+- **Authority:** official
+- **Audience:** families, coaches, teachers
+- **Level:** all
+- **Tags:** fll, regional-partner, uk, faqs
+- **Use when:** You are in the UK and have practical questions about FLL participation that the global FIRST/LEGO Education sources don't address (UK-specific costs, registration logistics, regional event scheduling).
+
+UK-specific FAQs on FIRST LEGO League. Useful when global program FAQs don't address UK quirks. JS-rendered — visit directly for current Q&A.
+
 ## Event finders & local support
 
 ### FIRST — Find Local Support

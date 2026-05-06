@@ -208,7 +208,7 @@ Cross-program coach/mentor onboarding for all FIRST programs (FLL, FTC, FRC). Co
 
 ## Regional partners
 
-FLL is delivered worldwide through regional partners — official organizations that operate the program in their countries, running local registration, events, and program support in their language. The canonical [FIRST LEGO League](https://www.firstlegoleague.org) site links to the partner for your region; the entry below is one we've curated. We'll add more as we verify them.
+FLL is delivered worldwide through regional partners — official organizations that operate the program in their countries (or US state-level regions), running local registration, events, and program support. The canonical [FIRST LEGO League](https://www.firstlegoleague.org) site links to the partner for your region; **for the full directory** (especially US states we don't have entries for), see [FIRST Find Local Support](https://www.firstinspires.org/find-local-support). The entries below are curated, not exhaustive — additions welcome via PR.
 
 ### HANDS on TECHNOLOGY — DACH region (Germany, Austria, Switzerland)
 
@@ -220,6 +220,61 @@ FLL is delivered worldwide through regional partners — official organizations 
 - **Use when:** You are in Germany, Austria, or Switzerland and need local team registration, regional event listings, fees, or program info in German or English.
 
 The non-profit HANDS on TECHNOLOGY e.V. has operated FLL in the DACH region (Germany, Austria, Switzerland) since 2002. Bilingual site (German and English) covering FLL Challenge (ages 9–16), FLL Explore (ages 6–10), and the upcoming Future Edition tracks (5+ and 8+) that launch for the 2026/27 season. DACH team registration opens late April / early May and runs until end of October subject to regional capacity; classes can register year-round. Site lists current fees in EUR (team and class options). Defer to firstlegoleague.org for global program rules; use this site for DACH-specific events, fees, and language-localized materials.
+
+### FIRST Washington — Pacific Northwest
+
+- **URL:** https://firstwa.org
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, ftc, frc, regional-partner, washington, usa, pacific-northwest
+- **Use when:** You are in Washington state (or the broader Pacific Northwest) and need to find local FIRST programs, events, or community support.
+
+Nonprofit operating FIRST programs across Washington state — FLL, FTC, FRC, plus FIRST Access. Hosts the FRC Pacific Northwest District Championship at Eastern Washington University. Top-level entry point for the WA FIRST community; sub-resources below.
+
+### FLL Challenge in Washington
+
+- **URL:** https://firstwa.org/fll-challenge/
+- **Authority:** official
+- **Audience:** coaches, families, teachers
+- **Level:** all
+- **Tags:** fll, fll-challenge, washington, regional-partner, registration
+- **Use when:** You are forming an FLL Challenge team in Washington state — need ages, team-size requirements, registration link, and Class Pack option for classrooms.
+
+Washington-specific Challenge details: ages 9–14 (grades 4–8), 2–10 team members, minimum 2 adult coaches per team. Available as individual team or Class Pack (non-competitive option for classrooms / after-school). Registration link routes to the WA-specific challenge-registration page.
+
+### FLL Explore in Washington
+
+- **URL:** https://firstwa.org/fll-explore/
+- **Authority:** official
+- **Audience:** coaches, families, teachers
+- **Level:** beginner
+- **Tags:** fll, fll-explore, washington, regional-partner, registration
+- **Use when:** You are forming an FLL Explore team in Washington state — need ages, team-size requirements, registration link, and Class Pack option.
+
+Washington-specific Explore details: ages 6–10 (grades 2–4), 2–6 team members, 2 adult coaches per team. Same individual-team-or-Class-Pack structure as Challenge. Each season releases a new scientific topic; teams produce a poster and a moving LEGO model.
+
+### Washington Events Calendar
+
+- **URL:** https://firstwa.org/events/
+- **Authority:** official
+- **Audience:** families, coaches, teams
+- **Level:** all
+- **Tags:** fll, ftc, frc, washington, events, calendar
+- **Use when:** You are checking which FIRST events (FLL, FTC, FRC) are happening in Washington — by month, with filters for category, venue, day, and time.
+
+WA-specific events search and calendar for all FIRST programs. Filter by event category, venue, day, time, and city. Includes the upcoming Pacific Northwest District Championship and the FLL qualifying tournaments hosted across the season.
+
+### Washington Volunteer
+
+- **URL:** https://firstwa.org/volunteer/
+- **Authority:** official
+- **Audience:** parents, coaches, community members
+- **Level:** all
+- **Tags:** fll, ftc, frc, washington, volunteer, mentor
+- **Use when:** You want to volunteer at WA FIRST events or become a coach/mentor — covers seasonal event-day roles (no STEM background required) and longer-term coaching commitments.
+
+Volunteer roles for WA FIRST programs. Two main paths: event volunteers (seasonal, weekend day commitment, no STEM background needed — great entry point) and coaches/mentors (longer-term, technical or non-technical support). Over 50 competitions per season depend on volunteer support.
 
 ## Event finders & local support
 

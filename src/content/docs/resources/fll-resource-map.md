@@ -116,7 +116,62 @@ Starting with the 2026/27 season (FIRST CANOPY, FLL game name BIOGLOW), the prog
 - **Tags:** fll, spike-prime, mindstorms, hardware, lesson-plans
 - **Use when:** You need official documentation, software downloads, or lesson plans for the FLL hardware kits.
 
-Official LEGO Education portal. Hardware product pages, software downloads (LEGO SPIKE App, LEGO Education App), official lesson plans, and teacher resources. The canonical source for SPIKE Prime and Mindstorms-related questions.
+Official LEGO Education portal. Hardware product pages, software downloads (LEGO SPIKE App, LEGO Education App), official lesson plans, and teacher resources. The canonical source for SPIKE Prime and Mindstorms-related questions. See also the LEGO Education entries below for the FLL-specific page, the partnership-update notice, and the new Computer Science & AI platform.
+
+### LEGO Education — FLL hub
+
+- **URL:** https://education.lego.com/en-us/first-lego-league/
+- **Authority:** official
+- **Audience:** coaches, teachers, families
+- **Level:** all
+- **Tags:** lego-education, fll, partnership, official
+- **Use when:** You want LEGO Education's view on FLL — what the program is, why LEGO partners on it, and what's changing as the partnership ends.
+
+The LEGO Education FLL landing page. Surfaces the partnership-ending notice prominently (link to the dedicated page below), describes what LEGO Education contributes to FLL (hardware platform, curriculum), and invites schools to bring LEGO Education into the classroom independently of FLL participation.
+
+### FIRST and LEGO Education Partnership Update
+
+- **URL:** https://education.lego.com/en-us/first-lego-league/partnership-update/
+- **Authority:** official
+- **Audience:** coaches, teachers, families, teams
+- **Level:** all
+- **Tags:** lego-education, partnership, first, transition, season-2027-28
+- **Use when:** You need the canonical statement from LEGO Education on what happens to FLL after 2026/27 — including LEGO Education's plans for a standalone 2027-2028 season after the FIRST partnership ends.
+
+LEGO Education's official notice: the FIRST partnership ends after the **2026-2027 season**. **LEGO Education will launch a 2027-2028 season** of their own (details TBD). This is important context for teams deciding whether to invest in current SPIKE-based gear vs. wait for the post-partnership platform — and for understanding that "FLL" as a joint program winds down while LEGO Education continues a similar STEM offering. Note: this leaves ambiguity about how FIRST runs FLL post-partnership; see the Future Edition transition entry above for the FIRST side of the same story.
+
+### LEGO Education Computer Science & AI platform
+
+- **URL:** https://education.lego.com/en-us/lego-education-computer-science-and-ai/
+- **Authority:** official
+- **Audience:** coaches, teachers, families
+- **Level:** all
+- **Tags:** lego-education, computer-science, ai, future-edition, hardware, k-8
+- **Use when:** You want to understand the new LEGO Education hardware platform that powers FLL Future Edition (2026/27 onward) and that will underpin LEGO Education's standalone 2027-2028 season.
+
+The LEGO Education platform replacing SPIKE for K-8 STEM education. Standards-aligned curriculum with an intuitive coding canvas, hands-on lessons, and scaffolded difficulty. This is the hardware basis underneath FLL Future Edition and underneath LEGO Education's planned post-partnership offering.
+
+### LEGO Education SPIKE Prime Set (retiring June 2026)
+
+- **URL:** https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/
+- **Authority:** official
+- **Audience:** coaches, teachers
+- **Level:** all
+- **Tags:** lego-education, spike-prime, hardware, fll-challenge, retiring, purchase
+- **Use when:** You are considering buying a SPIKE Prime set for FLL Challenge — note: this product is being retired.
+
+The canonical SPIKE Prime Set product page (set 45678, grades 6-8, US$429.95, 528 elements, 50+ hours of curriculum, supports 2 students per set). **Retiring June 30, 2026** — purchasing decisions through the 2025/26 season should weigh this against the upcoming Future Edition / Computer Science & AI rollout. Existing SPIKE Prime gear remains usable for the Founders Edition through 2027/28.
+
+### LEGO Education SPIKE Essential Set (retiring June 2026)
+
+- **URL:** https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/
+- **Authority:** official
+- **Audience:** coaches, teachers
+- **Level:** all
+- **Tags:** lego-education, spike-essential, hardware, fll-explore, retiring, purchase
+- **Use when:** You are considering buying a SPIKE Essential set for FLL Explore — note: this product is being retired.
+
+The canonical SPIKE Essential Set product page (set 45345, grades 1-5, US$359.95, 449 elements, 100+ hours of curriculum). **Retiring June 30, 2026** — same purchasing-decision dynamic as SPIKE Prime above.
 
 ### FLL Technical Resources (FIRST)
 

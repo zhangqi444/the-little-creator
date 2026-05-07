@@ -37,3 +37,29 @@ jobs:
           test -s public/llms-resources.txt
           test -s public/llms-for-educators.txt
           echo "Generated artifacts present and non-empty."
+
+      # Copyright lint — fails the PR if any resource-map entry contains a
+      # verbatim run of more than 50 consecutive words from its cited source.
+      # This is the technical control that lets the project allow agents to
+      # open draft PRs (per ARCHITECTURE.md §5 autonomy rule, updated 2026-05).
+      - name: Copyright lint (>50-word verbatim check)
+        run: |
+          set +e
+          npm run lint:copyright -- --output copyright-lint-report.md --quiet
+          code=$?
+          echo "Lint exit code: $code"
+          if [ -f copyright-lint-report.md ]; then
+            echo "----- BEGIN REPORT -----"
+            cat copyright-lint-report.md
+            echo "----- END REPORT -----"
+          fi
+          exit $code
+
+      - name: Upload lint report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: copyright-lint-report
+          path: copyright-lint-report.md
+          if-no-files-found: ignore
+          retention-days: 30

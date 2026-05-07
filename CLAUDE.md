@@ -154,7 +154,11 @@ npm run build                # prebuild → generate:all → astro build
 - **Branch naming:** `claude/<short-kebab-description>` (e.g., `claude/phase-1-foundations`).
 - **Commit messages:** subject line summarizing the change in present tense, then a body explaining *why* (not just what — the diff already shows what).
 - **Never force-push to main.** Never amend a published commit.
-- **Don't auto-merge.** All work goes through PR review.
+- **Don't auto-merge.** All work goes through PR review (autonomous-agent PRs are opened as drafts; human review gates every merge).
+
+## Autonomous-agent PRs
+
+Autonomous agents (Discovery, Freshness — see `ARCHITECTURE.md` §5) **open draft PRs**, not auto-merge commits. The technical safety net is `scripts/lint-copyright.mjs` running in `pr-checks.yml`: any PR (human or agent) whose wiki text contains a verbatim run of more than 50 consecutive words from a cited source fails CI and cannot be merged. Run `npm run lint:copyright` locally before pushing if you've added or substantially edited resource-map entries.
 
 ## Source citations
 

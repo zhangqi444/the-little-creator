@@ -11,6 +11,7 @@
     "freshness:check": "node scripts/freshness-check.mjs",
     "freshness:semantic": "node scripts/freshness-semantic.mjs",
     "discover:sources": "node scripts/discover-sources.mjs",
+    "lint:copyright": "node scripts/lint-copyright.mjs",
     "prebuild": "npm run generate:all",
     "build": "astro build",
     "preview": "astro preview",

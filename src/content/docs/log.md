@@ -21,6 +21,11 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ---
 
+## 2026-05-11
+
+- Ingested FIRST Australia (regional partner): added 4 entries to `resources/fll-resource-map.md` Regional partners section — national hub, BIOGLOW 2026/27 season landing, Future Edition national rollout (covers AUD costs, May 25 registration, three-season transition table, hardware features), and the FLL Asia Pacific Open Championship national event. First Asia-Pacific entry in the resource map. Surfaced by the weekly discovery agent.
+  Source: https://www.firstaustralia.org/first-lego-league-future-edition
+
 ## 2026-05-06
 
 - Expanded `discovery-sources.json` and upgraded the `tlc-weekly-discovery-scan` Cowork task to do real discovery work. Catalog now has 18 verified entries (8 queries / 2 feeds / 8 watchlist pages) — was 12. New entries: FLL UNEARTHED Innovation Project query, FLL coach blog query, r/FIRSTRobotics Reddit RSS feed (Reddit exposes /.rss for any subreddit), HANDS on TECHNOLOGY news watchlist, LEGO Education partnership-update watchlist (high-signal — they promised more details), LEGO Education FLL hub watchlist, FIRST press room watchlist. Verified the FLL official YouTube channel ID (UCuGaG4GtEj82i3pByi_bM3A) so the YouTube feed flips from `verified: false` to `verified: true`. Dropped the DACH news entry from feeds (no RSS available) and re-added as a watchlist page. The scheduled task prompt now has Claude run actual web searches via WebSearch, fetch watchlist pages via WebFetch, dedupe against wiki citations, and open a single GitHub issue per week with candidate sources to triage — not just the no-op script.

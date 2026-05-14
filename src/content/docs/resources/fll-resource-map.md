@@ -364,6 +364,50 @@ Texas-specific events search. Filter by month, program, and area. Covers all FIR
 
 FIRST in Texas funding-support program. Single application to be considered for funding from multiple statewide partners — FIT works behind the scenes to match team applications to sponsor funding sources. Useful for teams that don't have their own corporate sponsor and need help with registration, equipment, or travel costs.
 
+### FIRST Australia — national regional partner
+
+- **URL:** https://www.firstaustralia.org
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, ftc, frc, regional-partner, australia, oceania
+- **Use when:** You are in Australia (or the broader Asia-Pacific region) and need the national regional partner's hub for FIRST LEGO League, FIRST Tech Challenge, FIRST Robotics Competition, and the Asia Pacific Open Championship.
+
+FIRST Australia is the national regional partner for FIRST programs across Australia, operated in collaboration with Macquarie University in Sydney. The hub covers all three FIRST programs (FLL, FTC, FRC) plus national events such as the FIRST LEGO League Asia Pacific Open Championship (APOC). Australian teams begin here for team registration, season information, and event scheduling. The site also hosts a national volunteer onboarding flow and a pathway to undergraduate STEM at Macquarie University.
+
+### FIRST Australia — FLL BIOGLOW season landing
+
+- **URL:** https://www.firstaustralia.org/first-lego-league-bioglow
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, australia, season-2026-27, bioglow
+- **Use when:** You are an Australian team or coach planning for the 2026/27 BIOGLOW season and need the regional partner's framing of the dual-edition structure.
+
+The Australian landing page for the 2026/27 BIOGLOW season — the final FLL season under the FIRST/LEGO partnership before the program transitions in 2027/28. Confirms that BIOGLOW will run as two parallel editions: Founders Edition (Explore grades 2-4 and Challenge grades 4-8, on SPIKE) and Future Edition (K-2 and 3-8, on LEGO Education Computer Science & AI hardware). Event availability and timing vary by region — Australian families should pair this with the FIRST Australia Future Edition page for the national rollout plan.
+
+### FIRST Australia — Future Edition national rollout
+
+- **URL:** https://www.firstaustralia.org/first-lego-league-future-edition
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, australia, future-edition, season-2026-27, costs
+- **Use when:** You are an Australian school or coach evaluating Future Edition — need the national rollout plan, registration dates, costs in AUD, the Founders-to-Future transition schedule, or the regional/national competition map.
+
+The Australian-specific Future Edition guide. Lays out the local cost picture (team registration ~AUD $225 ex-GST per season, a roughly AUD $2000 first-year team budget when including the LEGO Education Computer Science & AI kit), registrations opening 25 May 2026, and a national kickoff on 4 August 2026. Includes a three-season transition table showing how Founders and Future will run side-by-side through 2027/28 before Founders retires, with Future Edition expanding to regionals across all major Australian metros and four North/South/East/West Nationals by 2028/29. Also describes the new wireless hardware, semi-cooperative gameplay, four team roles (Driver, Operator, Technician, Specialist), and the side-by-side comparison of Founders vs Future Edition match format.
+
+### FIRST Australia — FLL APOC national event
+
+- **URL:** https://www.firstaustralia.org/first-lego-league-apoc
+- **Authority:** official
+- **Audience:** coaches, teams
+- **Level:** intermediate
+- **Tags:** fll, regional-partner, australia, asia-pacific, championship, event
+- **Use when:** You are an Australian or Asia-Pacific FLL Challenge team advancing past your national championship and need the Asia Pacific Open Championship (APOC) details.
+
+The FIRST LEGO League Asia Pacific Open Championship is a regional invitational hosted in Australia for top teams from across the Asia-Pacific region. This is one of the major end-of-season targets for advancing Australian teams (alongside the FIRST Championship in Houston). Page is the canonical regional source for APOC scheduling, venue, and qualification routes; cross-reference with national championship results to understand who attends.
+
 ## Event finders & local support
 
 ### FIRST — Find Local Support

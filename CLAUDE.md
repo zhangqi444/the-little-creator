@@ -150,15 +150,14 @@ npm run build                # prebuild → generate:all → astro build
 
 ## Branch hygiene
 
-- **One PR per branch.** Branch off the latest `main` for each new piece of work. Don't pile multiple unrelated changes onto a long-lived branch.
-- **Branch naming:** `claude/<short-kebab-description>` (e.g., `claude/phase-1-foundations`).
+- **Direct-to-`main` is the default.** The maintainer ships small commits direct to `main` and lets GitHub Pages redeploy. PRs are reserved for changes that genuinely need review (multi-file refactors, new architectural patterns, anything the author isn't sure about).
+- **Branch naming for PR work:** `claude/<short-kebab-description>` (e.g., `claude/phase-1-foundations`).
 - **Commit messages:** subject line summarizing the change in present tense, then a body explaining *why* (not just what — the diff already shows what).
 - **Never force-push to main.** Never amend a published commit.
-- **Don't auto-merge.** All work goes through PR review (autonomous-agent PRs are opened as drafts; human review gates every merge).
 
-## Autonomous-agent PRs
+## Autonomous-agent commits
 
-Autonomous agents (Discovery, Freshness — see `ARCHITECTURE.md` §5) **open draft PRs**, not auto-merge commits. The technical safety net is `scripts/lint-copyright.mjs` running in `pr-checks.yml`: any PR (human or agent) whose wiki text contains a verbatim run of more than 50 consecutive words from a cited source fails CI and cannot be merged. Run `npm run lint:copyright` locally before pushing if you've added or substantially edited resource-map entries.
+Autonomous agents (Discovery, Freshness — see `ARCHITECTURE.md` §5) **commit directly to `main`** for schema-conforming work, matching the maintainer's own pattern. The technical safety net is `scripts/lint-copyright.mjs`: agents must run `npm run lint:copyright` locally before each push, and any verbatim run of more than 50 consecutive words from a cited source aborts the push. CI re-runs the same lint on any PR work as a backstop. When an agent isn't sure (borderline copyright, ambiguous dedupe, off-topic-ness), it opens a GitHub issue instead of committing — that's the explicit fallback.
 
 ## Source citations
 

@@ -145,20 +145,20 @@ Four agents, each with a distinct role and risk profile.
 | Attribute | Value |
 |---|---|
 | Trigger | Scheduled (weekly) — currently a Cowork scheduled task on the maintainer's host |
-| Authority | Web-search a curated list of FLL-relevant queries → filter by relevance + license + authority → for accepted candidates: deep-crawl, write entries per the SKILL, run the copyright lint locally, push a branch, open a draft PR |
-| Output | **Draft PRs** (one per source) with proposed wiki edits + the candidate's source URL in the PR body. Never auto-merged; CI's copyright lint must pass before review. |
-| Human in loop | Yes — PR review and merge required before any wiki change |
-| Risk | Medium (autonomous content drafting; mitigated by mandatory CI copyright lint + draft-PR human review) |
+| Authority | Web-search a curated list of FLL-relevant queries → filter by relevance + license + authority → for accepted candidates: deep-crawl, write entries per the SKILL, run the copyright lint locally, commit and push directly to `main` |
+| Output | **Commits on `main`** (one per source). Each commit message names the source and lists new entries. Lint must pass before push; if it fails, the entry is rewritten or the candidate is deferred. |
+| Human in loop | No at write-time — review is post-hoc via `git log` / `log.md` / wiki diffs. Lint is the only mandatory gate. |
+| Risk | Medium-high (autonomous direct-to-main; mitigated by mandatory pre-push copyright lint, the wiki's structured entry pattern, and the periodic Freshness agent that catches drift after the fact) |
 
 ### Freshness agent — "check existing content"
 
 | Attribute | Value |
 |---|---|
 | Trigger | Scheduled (monthly mechanical, quarterly semantic) — currently Cowork scheduled tasks on the maintainer's host |
-| Authority | Walk catalog → check link health, diff content against latest source where reasonable → flag stale entries, broken links, contradictions. Where the fix is mechanical (a redirect, a permanent URL change), the agent may open a draft PR with the corrected entry; substantive drift opens a draft PR with the proposed rewrite or, when the rewrite needs human judgment, a GitHub issue. |
-| Output | Draft PRs for mechanical fixes, GitHub issues for judgment-call findings. Never auto-merged; copyright lint must pass before review. |
-| Human in loop | Yes — PR review or issue triage |
-| Risk | Low (read-only discovery; PR-mode mitigated by CI lint and human review) |
+| Authority | Walk catalog → check link health, diff content against latest source where reasonable → flag stale entries, broken links, contradictions. For mechanical fixes (a redirect, a permanent URL change), commit directly to `main`. For substantive drift requiring rewrite, commit the rewrite directly to `main` if confident; otherwise open a GitHub issue describing the drift for human judgment. |
+| Output | Commits on `main` for clear fixes; GitHub issues for judgment-call findings. Lint must pass before push. |
+| Human in loop | Post-hoc for clear fixes; up-front (via issues) for ambiguous drift |
+| Risk | Low-medium (read-only discovery, then direct writes for mechanical fixes; mitigated by lint + the SKILL's ≤50-word rule applied per entry) |
 
 ### Build agent — "regenerate artifacts"
 
@@ -170,7 +170,7 @@ Four agents, each with a distinct role and risk profile.
 | Human in loop | No (deterministic script) |
 | Risk | None |
 
-**Cross-cutting principle (revised 2026-05):** autonomous agents (Discovery, Freshness) **always open draft PRs first, falling back to issues only when the fix needs human judgment to draft**. The technical safety net is `scripts/lint-copyright.mjs` running in `pr-checks.yml`: any PR — including agent-drafted ones — whose new wiki text contains a verbatim run of more than 50 consecutive words from the cited source fails CI and cannot be merged. The autonomy rule shifted from "issues only" to "draft PRs with mandatory copyright lint" to remove the duplicative effort of triage-then-rewrite while keeping the human review gate at PR merge.
+**Cross-cutting principle (revised 2026-05):** autonomous agents (Discovery, Freshness) **commit directly to `main`** for clear, schema-conforming work; they fall back to GitHub issues only when the fix requires human judgment that the agent can't safely draft. The technical safety net is `scripts/lint-copyright.mjs`, which agents run locally before every push (and which `pr-checks.yml` re-runs on any PR work, agent or human): any wiki text containing a verbatim run of more than 50 consecutive words from the cited source fails the lint and the push is aborted. Review is post-hoc via `log.md` (every change has a one-line audit entry per source) and `git log`. The autonomy rule moved from "issues only" through "draft PRs" to "direct-to-main with mandatory pre-push lint" to match the maintainer's own working pattern; the cost is rolling back via revert if anything bad lands, the benefit is zero triage friction.
 
 ---
 

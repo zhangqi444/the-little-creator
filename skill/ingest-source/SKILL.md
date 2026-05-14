@@ -82,9 +82,10 @@ Answer four questions, in this order:
 - [ ] Group entries under appropriate section headings. For sites that warrant their own section (e.g., a regional partner's full set of resources), it's fine to introduce a new `## Section name` heading.
 - [ ] **Never paste source prose.** Hard limit: ≤50 consecutive words from any external source. If tempted to paste a paragraph, write a 2-sentence summary in your own words. This applies per-entry, not per-source — many short summaries are fine.
 - [ ] Append **one summary line per source** to [`src/content/docs/log.md`](../../src/content/docs/log.md) under today's date heading (not one line per entry — keep the audit trail at source granularity). Format: `- Ingested <source>: added N entries covering <topics>. Source: <url>`.
-- [ ] **Run the copyright lint locally before pushing:** `npm run lint:copyright -- --quiet`. If any entry trips the >50-word threshold, rewrite that entry's description in your own words and re-run the lint. CI runs the same lint and will block merge if it fails.
-- [ ] **For autonomous-agent runs (Discovery, Freshness):** push the branch and open a **draft PR** via `gh pr create --draft --title "Ingest <source>: N new entries" --body-file <body>`. The PR body should describe each new entry and link the source URL. Never merge from the agent — humans gate every merge.
-- [ ] **For human-led ingest sessions (Ingest agent):** stage a commit per source. Commit message subject: `Ingest <source-name>: N new entries`. Body: list each entry's title and where it landed. Push to a branch and open a PR; small obvious changes can also go direct-to-main if the maintainer prefers.
+- [ ] **Run the copyright lint locally before committing:** `npm run lint:copyright -- --quiet`. If any entry trips the >50-word threshold, rewrite that entry's description in your own words and re-run the lint. **Do not push if the lint fails.**
+- [ ] Stage one commit per source. Commit message subject: `Ingest <source-name>: N new entries`. Body: list each entry's title and where it landed. For autonomous-agent runs, also note "auto-discovery" in the body so audit-trail readers can distinguish.
+- [ ] **Commit directly to `main`** and `git push origin main`. The maintainer's working pattern is direct-to-main; the autonomy rule (ARCHITECTURE.md §5) extends the same to agents. The copyright lint you just ran is the only gate; if it passed, the commit is safe to ship.
+- [ ] If something feels off (uncertain about copyright, struggling to dedupe against existing content, the source is borderline on-topic), open a GitHub issue instead of committing — that's the explicit fallback path.
 
 ### Step 6 — Report
 

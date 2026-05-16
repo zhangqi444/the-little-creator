@@ -28,20 +28,23 @@ VEX content exists but is secondary. Default to FLL.
 ## Non-negotiables (summary — full list in CLAUDE.md)
 
 1. Family-friendly always (kids may read every page)
-2. Describe and link, never republish (≤50 consecutive words from any external source)
+2. Describe and link, never republish (≤50 consecutive words from any external source; enforced by `npm run lint:copyright`)
 3. Cite sources for every external claim
 4. Honest about uncertainty, especially current-season specifics
 5. No accounts, no analytics, no auth — static GitHub Pages only
+6. For templated URL patterns (per-season, per-region, per-event), record ONE meta-entry plus a predicted-next-URL watchlist — not many duplicate entries
 
 ## Common workflows
 
 | Task | Where to look |
 |---|---|
 | Add a curated resource | `src/content/docs/CLAUDE.md` — entry pattern; resource pages live in `src/content/docs/resources/` |
-| Ingest a website | `CLAUDE.md` — Phase A→D ingest workflow with budgets and politeness |
+| Ingest a website | `CLAUDE.md` — Phase A→D ingest workflow with budgets and politeness; also `skill/ingest-source/SKILL.md` for the execution checklist |
+| Ingest a site with a templated URL structure (per-season, per-region, per-event) | `CLAUDE.md` § "Pattern-aware ingest" — register ONE meta-entry + predicted-next-URL in `discovery-sources.json`, not many duplicate entries |
 | Update an existing guide | Edit the markdown directly; append to `src/content/docs/log.md` |
 | Add a new section | Update sidebar in `astro.config.mjs`; create a folder under `src/content/docs/` |
 | Refresh GPT knowledge files | `CUSTOM-GPT-SETUP.md` — § "Updating the GPT" |
+| Open a draft PR vs commit direct | `CLAUDE.md` § "Branch hygiene" + "Autonomous-agent commits" — direct-to-main with mandatory `npm run lint:copyright` is the default; PRs only for changes that need review |
 
 ## Commands
 

@@ -83,6 +83,7 @@ For sites:
 3. Otherwise, follow internal links up to **2 hops** from the seed, same domain only.
 4. Skip: search results, login pages, calendar, pagination beyond page 2, asset URLs already linked.
 5. Prefer same-path-prefix (e.g., seed `/fll/` → prioritize `/fll/*` over `/store/*`).
+6. **Detect URL templates.** Scan the sitemap (or the discovered link set) for patterns where many URLs share a structure differing only in a year/season/region/event/product slug — e.g., `/<YYYY>-<YY>-season/<sub-path>`, `/regions/<state>/...`, `/products/<sku>/...`. When a templated pattern is found and you can verify it holds across at least 2 instances, treat it as a **pattern** rather than a set of independent sources — see the "Pattern-aware ingest" section below for what to do with it.
 
 ### Phase B — Read
 
@@ -106,6 +107,27 @@ Answer four questions:
 - Stage the change. Direct commit if a one-line metadata addition; PR if multi-page.
 - Append to `src/content/docs/log.md`: date, source URL, what changed.
 - Cite the source URL in the entry's `URL:` field. Never paste source prose.
+- **If a templated pattern was detected in Phase A**, also update `discovery-sources.json` with the predicted next-instance URL (marked `verified: false`) so the weekly discovery agent auto-detects when new content matching the pattern appears. See "Pattern-aware ingest" below.
+
+### Pattern-aware ingest
+
+When a source has a templated URL structure that repeats across instances (per-season, per-region, per-event, per-product), **prefer ONE meta-entry that documents the pattern over many duplicate entries**.
+
+Why: a templated source can yield dozens of structurally-identical URLs. Adding one resource-map entry per instance bloats the wiki without adding distinct retrieval value — readers (and the GPT) can construct any instance URL from the template. The trade-off is: lose per-instance discoverability, gain compactness and forward-compatibility.
+
+How to record a pattern:
+
+1. **Add one meta-entry** to the appropriate resource-map file. Title it `<Source> <thing> archives — per-<X> pattern`. The entry's URL should anchor on the current/most-relevant instance (e.g., current season). The description must:
+   - State the template explicitly: `https://example.com/path/<VARIABLE>/sub-path`
+   - List the structural sub-paths that exist per instance (the "template")
+   - List the verified instances (e.g., seasons / regions found in the sitemap)
+   - Predict the next instance(s) and how/when they typically appear
+
+2. **Register the predicted next-instance URL** in `discovery-sources.json` under `watchlist_pages` with `verified: false` and a `look_for` note explaining what should appear and when. When the weekly discovery agent finds the URL returns 200 with substantive content, that's the cue to either ingest the new instance fully or refresh the meta-entry.
+
+3. **Don't add per-instance entries** unless an instance has materially different value beyond the template (e.g., an extraordinary archive page, a season with unique format). The default is "one meta-entry covers all instances."
+
+Concrete example in the wiki: the **DACH season archives — per-season pattern** entry under HANDS on TECHNOLOGY documents the `/en/<YYYY>-<YY>-season/<sub-path>` template across SUPERPOWERED, MASTERPIECE, SUBMERGED, UNEARTHED — instead of 60+ per-season-per-resource entries. The 2026-27 BIOGLOW URL is pre-registered in `discovery-sources.json` for auto-detection.
 
 ### Site traversal budgets
 

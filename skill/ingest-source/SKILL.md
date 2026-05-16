@@ -46,6 +46,7 @@ For a **site**:
 - [ ] **Filter the queue:** drop search results, login pages, calendar pages, pagination beyond page 2, asset URLs already linked, query-param duplicates.
 - [ ] **Prefer same-path-prefix.** If the seed is `example.com/fll/`, prioritize `/fll/*` over `/store/*`.
 - [ ] Cap the queue at the budget (default 30 pages).
+- [ ] **Detect URL templates.** Scan the queue for patterns where many URLs share a structure differing only in a year/season/region/event/product slug — e.g., `/<YYYY>-<YY>-season/<sub-path>`, `/regions/<state>/...`. If you find a template that holds across **2+ instances**, switch to the pattern-aware path: don't queue every instance; instead plan ONE meta-entry (see Synthesize Step 4) and a watchlist registration (see Record Step 5). See `CLAUDE.md` § "Pattern-aware ingest" for the full rule.
 
 ### Step 3 — Phase B: Read
 
@@ -79,6 +80,7 @@ Answer four questions, in this order:
 ### Step 5 — Phase D: Record
 
 - [ ] Make one resource-map entry per distinct resource per the per-entry pattern in [`src/content/docs/CLAUDE.md`](../../src/content/docs/CLAUDE.md). Required fields per entry: `URL`, `Authority`, `Audience`, `Level`, `Tags`, `Use when`, plus a description paragraph.
+- [ ] **If a templated URL pattern was detected in Phase A**, write ONE meta-entry titled `<Source> <thing> archives — per-<X> pattern` instead of per-instance entries. The meta-entry describes the template (`/path/<VARIABLE>/sub-path`), lists structural sub-paths, lists verified instances, and predicts the next instance. Then register the next-instance URL in `discovery-sources.json` with `verified: false` for auto-detection. Full rule: `CLAUDE.md` § "Pattern-aware ingest". Concrete example: the "DACH season archives — per-season pattern" entry in `resources/fll-resource-map.md`.
 - [ ] Group entries under appropriate section headings. For sites that warrant their own section (e.g., a regional partner's full set of resources), it's fine to introduce a new `## Section name` heading.
 - [ ] **Never paste source prose.** Hard limit: ≤50 consecutive words from any external source. If tempted to paste a paragraph, write a 2-sentence summary in your own words. This applies per-entry, not per-source — many short summaries are fine.
 - [ ] Append **one summary line per source** to [`src/content/docs/log.md`](../../src/content/docs/log.md) under today's date heading (not one line per entry — keep the audit trail at source granularity). Format: `- Ingested <source>: added N entries covering <topics>. Source: <url>`.

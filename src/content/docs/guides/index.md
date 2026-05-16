@@ -9,10 +9,10 @@ Practical guides written from real experience — not theory. These are things w
 
 - [Forming a Team](/guides/forming-a-team/) — How to find members, set expectations, and structure your team
 - [Planning Your Season](/guides/season-planning/) — A timeline and checklist for surviving (and enjoying) a competition season
+- [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots
 
 ## Coming Soon
 
-- Programming your first autonomous routine (FLL)
 - Building a reliable drivetrain (VEX IQ)
 - Preparing for your first tournament — what to bring, what to expect
 - Helping kids handle competition-day pressure

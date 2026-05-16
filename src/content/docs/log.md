@@ -21,6 +21,11 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ---
 
+## 2026-05-16
+
+- Mapped the DACH partner's per-season URL pattern via sitemap analysis. Pattern: `/en/<YYYY>-<YY>-season/<sub-path>` with ~15 consistent sub-paths per season (season-updates, the-<theme>-season landing, challenge-resources/{coaching,core-values,research,robot-design,robot-game,evaluation,season-documents,further-sources}, discover-resources, explore-resources, further-events-activities, international-tournaments). Seasons verified in sitemap: 2022-23 SUPERPOWERED, 2023-24 MASTERPIECE, 2024-25 SUBMERGED, 2025-26 UNEARTHED. Added a single "DACH season archives — per-season pattern" entry to `resources/fll-resource-map.md` documenting the structure (with the current-season URL as the entry's anchor); avoided adding 50+ per-season-per-resource entries that would bloat the resource map. Added two watchlist entries to `discovery-sources.json`: the current 2025-26 season-updates (active monthly newsletter) + the predicted 2026-27 BIOGLOW URL (verified: false until it appears, expected Aug 2026). When the next-season URL flips to 200, that's the cue to ingest the BIOGLOW season fully.
+  Source: https://www.first-lego-league.org/en/2022-23-season/season-updates
+
 ## 2026-05-11
 
 - Ingested FIRST Australia (regional partner): added 4 entries to `resources/fll-resource-map.md` Regional partners section — national hub, BIOGLOW 2026/27 season landing, Future Edition national rollout (covers AUD costs, May 25 registration, three-season transition table, hardware features), and the FLL Asia Pacific Open Championship national event. First Asia-Pacific entry in the resource map. Surfaced by the weekly discovery agent.

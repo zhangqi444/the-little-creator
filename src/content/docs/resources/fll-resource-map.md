@@ -221,6 +221,17 @@ FLL is delivered worldwide through regional partners — official organizations 
 
 The non-profit HANDS on TECHNOLOGY e.V. has operated FLL in the DACH region (Germany, Austria, Switzerland) since 2002. Bilingual site (German and English) covering FLL Challenge (ages 9–16), FLL Explore (ages 6–10), and the upcoming Future Edition tracks (5+ and 8+) that launch for the 2026/27 season. DACH team registration opens late April / early May and runs until end of October subject to regional capacity; classes can register year-round. Site lists current fees in EUR (team and class options). Defer to firstlegoleague.org for global program rules; use this site for DACH-specific events, fees, and language-localized materials.
 
+### DACH season archives — per-season pattern
+
+- **URL:** https://www.first-lego-league.org/en/2025-26-season/season-updates
+- **Authority:** official
+- **Audience:** coaches, families
+- **Level:** all
+- **Tags:** fll, regional-partner, dach, season-archive, pattern, current
+- **Use when:** You are looking for the DACH partner's per-season content — current-season monthly newsletters, prior-season coach resources, or comparing season-over-season program changes (registration timing, awareness concept, judging rubrics).
+
+The DACH partner archives each season under a consistent URL pattern: **`https://www.first-lego-league.org/en/<YYYY>-<YY>-season/<sub-path>`**. Each season template includes `/season-updates` (monthly newsletter archive), `/the-<theme>-season` (theme landing), `/challenge-resources/*` (coaching, core-values, research, robot-design, robot-game, evaluation, season-documents), `/discover-resources`, `/explore-resources`, and `/further-events-activities`. Verified seasons on the site as of May 2026: **2022-23 SUPERPOWERED**, **2023-24 MASTERPIECE**, **2024-25 SUBMERGED**, **2025-26 UNEARTHED**. The URL above points at the current season's update archive; swap the year segment to navigate any past season. Future seasons follow the same pattern — **2026-27 BIOGLOW** will live at `/en/2026-27-season/...` once HANDS on TECHNOLOGY publishes those pages (typically as the season ramps up over the summer).
+
 ### FIRST Washington — Pacific Northwest
 
 - **URL:** https://firstwa.org

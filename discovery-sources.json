@@ -111,6 +111,22 @@
       "look_for": "DACH-specific FLL news. No RSS feed available; treat as page-poll only. Look for season-update posts."
     },
     {
+      "url": "https://www.first-lego-league.org/en/2025-26-season/season-updates",
+      "name": "DACH current-season updates (UNEARTHED 2025-26)",
+      "tags": ["fll", "regional-partner", "dach", "season-archive", "current"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Monthly DACH season-update newsletters. New posts under /season-updates/full-view/<slug>. Pattern note: DACH archives each season at /en/<YYYY>-<YY>-season/*; swap year to access prior seasons. Verified seasons in sitemap: 2022-23, 2023-24, 2024-25, 2025-26."
+    },
+    {
+      "url": "https://www.first-lego-league.org/en/2026-27-season/season-updates",
+      "name": "DACH next-season updates (BIOGLOW 2026-27) — pattern-predicted",
+      "tags": ["fll", "regional-partner", "dach", "season-archive", "next", "predicted"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "URL doesn't exist YET as of May 2026 — predicted from the DACH per-season URL pattern (/en/<YYYY>-<YY>-season/season-updates). Expected to start populating Aug 2026 when BIOGLOW season ramps up. Flip verified to true once the URL returns 200 with content. If still 404 by Sept 2026, check if the pattern changed."
+    },
+    {
       "url": "https://education.lego.com/en-us/first-lego-league/partnership-update/",
       "name": "LEGO Education partnership update page",
       "tags": ["lego-education", "partnership", "transition", "high-signal"],

@@ -16,7 +16,8 @@ How we meet the requirements in [`BRD.md`](BRD.md). This document covers the *ho
                                  │ reads
 ┌────────────────────────────────┴────────────────────────────────────┐
 │ Layer 4 — Distribution artifacts (auto-generated, never edited)     │
-│  public/llms.txt · llms-full.txt · llms-<section>.txt · skill/      │
+│  public/llms/{llms.txt, llms-full.txt, llms-<section>.txt} · skill/ │
+│  artifacts/llms-internal/llms-<section>.txt (wiki-only, not served) │
 └────────────────────────────────┬────────────────────────────────────┘
                                  │ generated from
 ┌────────────────────────────────┴────────────────────────────────────┐
@@ -97,14 +98,17 @@ The generator detects this pattern and emits each entry as a structured block in
 
 ## 3. Layer 4 — Distribution artifacts (generated)
 
-### `public/llms.txt`
+### `public/llms/llms.txt`
 Curated table of contents. Title + description per page, grouped by section, ordered to match the website sidebar. Includes per-page entry counts. Small enough to fit easily in any LLM context.
 
-### `public/llms-full.txt`
+### `public/llms/llms-full.txt`
 Whole-corpus dump. Every page rendered as a block; curated entries rendered as structured per-entry sub-blocks. Primary upload target for the Custom GPT.
 
-### `public/llms-<section>.txt`
-One file per top-level section (`llms-resources.txt`, `llms-for-educators.txt`, etc.). Smaller than `llms-full.txt`; better RAG retrieval when uploaded as separate Custom GPT knowledge files.
+### `public/llms/llms-<section>.txt`
+One file per top-level public section (`llms-resources.txt`, `llms-for-educators.txt`, etc.). Smaller than `llms-full.txt`; better RAG retrieval when uploaded as separate Custom GPT knowledge files.
+
+### `artifacts/llms-internal/llms-<section>.txt`
+Wiki-internal sections — the CLAUDE.md authoring rules (`llms-CLAUDE.txt`) and the log audit trail (`llms-log.txt`). NOT served by Astro and NOT uploaded to the Custom GPT; generated for local agent consumption (e.g., a freshness agent reading the audit trail). Lives outside `public/` so it's clearly separated from external-facing artifacts.
 
 ### `skill/`
 Claude Skill bundle: `SKILL.md` (frontmatter + invocation guidance) + `templates/` + `examples/fll/` + `examples/vex/`. Distributed to AI coding tool users.
@@ -165,7 +169,7 @@ Four agents, each with a distinct role and risk profile.
 | Attribute | Value |
 |---|---|
 | Trigger | `npm run build` (which runs `prebuild → generate:llms`), and GitHub Actions (`deploy.yml`, `pr-checks.yml`) |
-| Authority | Read wiki → write `public/llms*.txt` and `skill/` artifacts |
+| Authority | Read wiki → write `public/llms/*.txt`, `artifacts/llms-internal/*.txt`, and `skill/` artifacts |
 | Output | Generated files, never committed |
 | Human in loop | No (deterministic script) |
 | Risk | None |

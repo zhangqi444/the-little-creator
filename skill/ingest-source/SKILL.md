@@ -104,7 +104,7 @@ A successful ingest produces:
 1. Multiple new or updated entries in resource-map files — one per distinct resource the source offers. Typical: 8–12 for a major canonical site, 3–5 for a regional partner, 1–3 for a single-topic independent resource. A 1-entry ingest is the exception, not the rule.
 2. One summary line in `log.md` for the whole source (not one per entry).
 3. A commit (one per source) with a present-tense subject like `Ingest <source>: N new entries` and a body listing the entries.
-4. Generated artifacts (`public/llms-*.txt`) regenerated automatically by `prebuild` at next build — total entry count grows by N.
+4. Generated artifacts (`public/llms/*.txt` for public files + `artifacts/llms-internal/*.txt` for internal) regenerated automatically by `prebuild` at next build — total entry count grows by N.
 
 A skipped ingest (also valid) produces:
 

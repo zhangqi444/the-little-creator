@@ -32,11 +32,12 @@ jobs:
 
       - name: Verify generated artifacts
         run: |
-          test -s public/llms.txt
-          test -s public/llms-full.txt
-          test -s public/llms-resources.txt
-          test -s public/llms-for-educators.txt
-          echo "Generated artifacts present and non-empty."
+          test -s public/llms/llms.txt
+          test -s public/llms/llms-full.txt
+          test -s public/llms/llms-resources.txt
+          test -s public/llms/llms-for-educators.txt
+          test -s artifacts/llms-internal/llms-log.txt
+          echo "Generated artifacts present and non-empty (public + internal)."
 
       # Copyright lint — fails the PR if any resource-map entry contains a
       # verbatim run of more than 50 consecutive words from its cited source.

@@ -11,7 +11,7 @@ The Custom GPT is a chat-based assistant for FIRST LEGO League questions, backed
 ## Prerequisites
 
 - A free ChatGPT account (Custom GPTs are usable on the free tier with limits; create-and-publish requires Plus or Team — check current OpenAI pricing).
-- This repo cloned locally, *or* the `public/llms-*.txt` files already generated and downloaded.
+- This repo cloned locally, *or* the `public/llms/*.txt` files already generated and downloaded.
 - About 10–15 minutes.
 
 ## Step 1 — Generate the knowledge files

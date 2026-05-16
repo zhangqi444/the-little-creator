@@ -6,6 +6,9 @@ dist/
 .astro/
 
 # Generated artifacts (rebuilt by scripts/generate-llms-txt.mjs)
+public/llms/
+artifacts/
+# Legacy locations — keep ignored so old checkouts don't show stale files dirty
 public/llms.txt
 public/llms-full.txt
 public/llms-*.txt

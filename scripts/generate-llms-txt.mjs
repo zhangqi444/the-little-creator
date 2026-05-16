@@ -1,11 +1,16 @@
 #!/usr/bin/env node
 // Walks src/content/docs/, reads frontmatter and per-entry metadata, and
-// emits four kinds of artifacts in public/ for any LLM that visits the site:
+// emits artifacts split between PUBLIC (for external LLM consumption) and
+// INTERNAL (for wiki-maintenance agents only, not web-served):
 //
-//   public/llms.txt              — curated TOC (title, description, URL)
-//   public/llms-full.txt         — full corpus, every page (and entry)
-//   public/llms-<section>.txt    — one file per top-level section, for use
-//                                  as separate Custom GPT knowledge files
+//   public/llms/llms.txt                   — curated TOC (title, description, URL)
+//   public/llms/llms-full.txt              — full corpus, every page (and entry)
+//   public/llms/llms-<section>.txt         — one file per top-level public section,
+//                                            for use as Custom GPT knowledge files
+//   artifacts/llms-internal/llms-<section>.txt — wiki-internal sections (CLAUDE.md
+//                                            authoring rules, log audit trail);
+//                                            NOT served by Astro, generated for
+//                                            local agent consumption only
 //
 // Curated resource pages can use a per-entry metadata pattern:
 //
@@ -33,7 +38,14 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = join(fileURLToPath(new URL('.', import.meta.url)), '..');
 const CONTENT_DIR = join(ROOT, 'src/content/docs');
-const PUBLIC_DIR = join(ROOT, 'public');
+const PUBLIC_DIR = join(ROOT, 'public/llms');
+const INTERNAL_DIR = join(ROOT, 'artifacts/llms-internal');
+
+// Sections that are wiki-internal (CLAUDE.md authoring rules; log audit trail).
+// These are never uploaded to the Custom GPT and not meant for external LLM
+// consumption. They're still generated so agents working on the wiki locally
+// can read them as structured artifacts.
+const INTERNAL_SECTIONS = new Set(['CLAUDE', 'log']);
 
 const SECTION_ORDER = [
   'getting-started',
@@ -353,17 +365,31 @@ async function main() {
   }
 
   // ---------- write ----------
+  // Public files: TOC + full corpus + public per-section files → public/llms/
+  // Internal files: wiki-maintenance per-section files (CLAUDE, log) → artifacts/llms-internal/
   await mkdir(PUBLIC_DIR, { recursive: true });
+  await mkdir(INTERNAL_DIR, { recursive: true });
+
   await writeFile(join(PUBLIC_DIR, 'llms.txt'), toc.join('\n') + '\n');
   await writeFile(join(PUBLIC_DIR, 'llms-full.txt'), full.join('\n') + '\n');
+
+  const publicSectionFiles = [];
+  const internalSectionFiles = [];
   for (const [name, content] of Object.entries(perSectionFiles)) {
-    await writeFile(join(PUBLIC_DIR, name), content + '\n');
+    // name is "llms-<section>.txt" — extract the section key
+    const sectionKey = name.replace(/^llms-/, '').replace(/\.txt$/, '');
+    const isInternal = INTERNAL_SECTIONS.has(sectionKey);
+    const targetDir = isInternal ? INTERNAL_DIR : PUBLIC_DIR;
+    await writeFile(join(targetDir, name), content + '\n');
+    (isInternal ? internalSectionFiles : publicSectionFiles).push(name);
   }
 
   const totalEntries = pages.reduce((sum, p) => sum + p.entries.length, 0);
-  const sectionFileList = Object.keys(perSectionFiles).join(', ');
   console.log(
-    `Wrote llms.txt, llms-full.txt, and ${Object.keys(perSectionFiles).length} per-section files (${sectionFileList}).\n` +
+    `Wrote public/llms/{llms.txt, llms-full.txt, ${publicSectionFiles.length} per-section} ` +
+    `and artifacts/llms-internal/{${internalSectionFiles.length} per-section}.\n` +
+    `Public sections: ${publicSectionFiles.join(', ')}\n` +
+    `Internal sections: ${internalSectionFiles.join(', ')}\n` +
     `${pages.length} pages, ${totalEntries} curated entries across ${orderedKeys.length} sections.`
   );
 }

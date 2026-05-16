@@ -140,7 +140,7 @@ Always prefer "skip and log" over "fetch and ignore."
 ```bash
 npm install                  # first time
 npm run dev                  # local Astro server at :4321
-npm run generate:llms        # regenerate public/llms-*.txt
+npm run generate:llms        # regenerate public/llms/*.txt + artifacts/llms-internal/*.txt
 npm run generate:skill       # validate skill/SKILL.md
 npm run generate:all         # both generators
 npm run build                # prebuild → generate:all → astro build
@@ -179,7 +179,8 @@ When you cite something:
 | `src/content/docs/community/` | Find-a-team, contributing | Hand-written |
 | `src/content/docs/log.md` | Chronological audit trail of additions/changes | Append-only, every PR |
 | `skill/` | Claude Skill bundle for AI coding tools | Hand-written, generator-validated |
-| `public/llms*.txt` | Generated artifacts. **Do not edit by hand.** | Generator |
+| `public/llms/*.txt` | Generated public artifacts (uploaded to GPT, fetched by LLM visitors). **Do not edit by hand.** | Generator |
+| `artifacts/llms-internal/*.txt` | Generated wiki-internal artifacts (CLAUDE.md content, log audit trail). Not web-served. **Do not edit by hand.** | Generator |
 | `BRD.md`, `ARCHITECTURE.md` | Design docs (the *why* and *how*) | Update when requirements change |
 
 ## When in doubt

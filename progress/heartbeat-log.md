@@ -263,3 +263,9 @@
 - Created `src/content/docs/for-educators/parent-communication.md` (226 lines) — communication timeline (onboarding/monthly/pre-tournament/day-before/post-tournament), 5 copy-paste message templates, group chat management tips, handling difficult parent conversations.
 - Updated `for-educators/index.md` — added Parent Communication Guide.
 - Commit `13a22bf`, pushed to main.
+
+## 2026-05-17 22:58 UTC
+
+- Both repos: no open issues.
+- Completed wave-5 remaining task: added registration guide link to `getting-started/index.md` (step 2 in "First steps for any family"), renumbered steps. Paired with registration guide and system prompt work done in prior turn this session.
+- All wave-5 backlog items now complete.

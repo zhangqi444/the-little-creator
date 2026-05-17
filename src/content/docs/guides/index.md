@@ -17,6 +17,7 @@ Practical guides written from real experience — not theory. These are things w
 - [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro-corrected driving, basic PID, mission selector patterns, and debugging
 - [VEX IQ Programming Guide](/guides/vex-iq-programming/) — Getting started with VEXcode Blocks and Python for VEX IQ robots
+- [Robot Maintenance Guide](/guides/robot-maintenance/) — Keeping SPIKE Prime and VEX IQ hardware in good shape through a full season
 
 ### Competition prep
 - [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges

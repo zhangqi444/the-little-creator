@@ -39,7 +39,7 @@
 
 ## Further backlog (next wave — derive from BRD/code)
 
-- [ ] `getting-started/progression-guide.md` — FLL → VEX IQ → VEX V5 progression path; when and how to level up
+- [x] `getting-started/progression-guide.md` — FLL → VEX IQ → VEX V5 progression path; when and how to level up
 - [ ] `guides/robot-maintenance.md` — keeping SPIKE Prime / VEX IQ hardware in good shape across a season
 - [ ] `for-educators/assessment-rubric.md` — assessment rubric for classroom programs (distinct from FLL judging rubric)
 - [x] Update home `index.mdx` — reflect all new guides and resources in the hero/navigation

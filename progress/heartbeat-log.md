@@ -152,3 +152,14 @@
 **Step 3 — Roadmap iteration**:
 - Updated `src/content/docs/index.mdx` — refreshed hero tagline to include VEX, updated guide cards to reflect 4 grouped sections (Getting Started / Building & Programming / Competition Prep / Team Culture), added VEX Resource Map card alongside FLL Resource Map, updated "Browse" CTA to link to /guides/, improved "Contribute" card.
 - Commit `a08199c`, pushed to main.
+
+## 2026-05-17 12:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/getting-started/progression-guide.md` (151 lines) — FLL Discover→Explore→Challenge→VEX IQ→VEX V5 progression table, when-to-move-up guidance for each step, FLL→FTC/FRC path, doing multiple programs, key decision questions.
+- Updated `getting-started/index.md` — added progression guide and equipment guide links.
+- Commit `004057c`, pushed to main.

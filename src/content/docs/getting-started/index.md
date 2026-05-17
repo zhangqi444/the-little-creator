@@ -21,9 +21,10 @@ FLL might seem overwhelming at first — there's hardware, software, teamwork, a
 ## First steps for any family
 
 1. **Find a local competition** — Search [FLL's official site](https://www.firstlegoleague.org) or [RobotEvents.com](https://www.robotevents.com) for events near you. If you are outside the US, find your country's regional partner via the [FLL Resource Map](/resources/fll-resource-map/).
-2. **Join or form a team** — See our [Community](/community/) section to find teammates, or our [Forming a Team guide](/guides/forming-a-team/).
-3. **Understand the gear** — See the [FLL Equipment Guide](/guides/equipment-guide/) for what you actually need and how to get it without overspending.
-4. **Start building** — Don't wait until you feel "ready." Just start.
+2. **Register your team** — See the [How to Register guide](/guides/registration-guide/) for the step-by-step national + regional sign-up flow. If you're in Washington state, your regional partner is [FIRST Washington](https://firstwa.org).
+3. **Join or form a team** — See our [Community](/community/) section to find teammates, or our [Forming a Team guide](/guides/forming-a-team/).
+4. **Understand the gear** — See the [FLL Equipment Guide](/guides/equipment-guide/) for what you actually need and how to get it without overspending.
+5. **Start building** — Don't wait until you feel "ready." Just start.
 
 ## What to expect your first season
 

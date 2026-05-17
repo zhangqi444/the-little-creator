@@ -11,11 +11,11 @@ Practical guides written from real experience — not theory. These are things w
 - [Planning Your Season](/guides/season-planning/) — A timeline and checklist for surviving (and enjoying) a competition season
 - [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect, and how to keep your team calm on competition day
+- [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges
 
 ## Coming Soon
 
-- Building a reliable drivetrain (VEX IQ)
-- Innovation Project guide — researching a real-world problem and presenting to judges
+- Building a reliable drivetrain (VEX IQ / FLL)
 - Helping kids handle competition-day pressure
 
 :::tip

@@ -12,6 +12,7 @@ A section for the people running robotics in classrooms, after-school clubs, lib
 - **[Lesson Plan Template](/for-educators/lesson-plan-template/)** — A reusable single-session lesson plan format with timing, materials, and learning objectives. Copy and customize per session.
 - **[FLL Core Values Rubric](/for-educators/core-values-rubric/)** — A practical 1–4 observation rubric for the six FLL Core Values, designed for use throughout the season.
 - **[Classroom Assessment Rubric](/for-educators/assessment-rubric/)** — A broader 5-category rubric (programming, building, teamwork, project work, problem solving) for grading or structured feedback in classroom and club settings.
+- **[Differentiation Guide](/for-educators/differentiation-guide/)** — How to adapt FLL and VEX for teams with mixed skill levels — giving every kid meaningful, challenging work.
 
 ## Who this section is for
 

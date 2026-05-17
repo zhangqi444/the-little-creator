@@ -35,4 +35,11 @@
 - [x] `first-tournament-expectations.md` — what to expect emotionally/socially at first tournament (complements checklist)
 - [x] `resources/vex-resource-map.md` — VEX equivalent of the FLL resource map (VEX forums, RobotEvents, official docs)
 - [x] Improve `resources/index.md` — link to all guides from resource pages cross-navigation
-- [ ] `community/index.md` improvements — more guidance on how to contribute content
+- [x] `community/index.md` improvements — more guidance on how to contribute content
+
+## Further backlog (next wave — derive from BRD/code)
+
+- [ ] `getting-started/progression-guide.md` — FLL → VEX IQ → VEX V5 progression path; when and how to level up
+- [ ] `guides/robot-maintenance.md` — keeping SPIKE Prime / VEX IQ hardware in good shape across a season
+- [ ] `for-educators/assessment-rubric.md` — assessment rubric for classroom programs (distinct from FLL judging rubric)
+- [ ] Update home `index.mdx` — reflect all new guides and resources in the hero/navigation

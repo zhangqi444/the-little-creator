@@ -131,3 +131,14 @@
 - Created `src/content/docs/guides/first-tournament-expectations.md` (120 lines) — pre-tournament nerves, robot failure reactions, comparison dynamics, coach self-management, post-tournament debrief questions, what to say if team doesn't advance.
 - Updated `guides/index.md` — added to Competition prep section.
 - Commit `f24646f`, pushed to main.
+
+## 2026-05-17 10:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Rewrote `src/content/docs/community/index.md` (+101 lines) — 5 concrete contribution paths (issue → web edit → resource entry → guide writing → showcase), full metadata template, contribution guidelines summary, links to CLAUDE.md and CONTRIBUTING.md.
+- Commit `fe5ce94`, pushed to main.
+- All items in "Next backlog" now complete. Added "Further backlog" with next wave of tasks.

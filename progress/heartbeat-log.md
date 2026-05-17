@@ -219,3 +219,14 @@
 - Created `src/content/docs/for-educators/differentiation-guide.md` (188 lines) — role families by level (programming/building/IP/Core Values), stretch task calibration, strategic pairing, expert kid management, session format adaptations, quick-reference table.
 - Updated `for-educators/index.md` — added Differentiation Guide link.
 - Commit `476d43b`, pushed to main.
+
+## 2026-05-17 18:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: No open issues on either repo.
+
+**Step 3 — Roadmap iteration**:
+- Updated `src/content/docs/resources/index.md` — added Progression Guide, Robot Maintenance, Robot Strategy, Practice Session Structure, First Tournament, Classroom Assessment Rubric, Differentiation Guide links. All Wave 4 items now complete.
+- Added Wave 5 backlog (4 items).
+- Commit `061cd1e`, pushed to main.

@@ -22,7 +22,7 @@
 - [ ] `python-intermediate.md` — gyro-corrected driving, PID basics, mission selector patterns
 - [ ] `vex-iq-programming.md` — VEX IQ equivalent of the SPIKE Prime guide
 - [ ] `core-values-activities.md` — team-building activities that reinforce FLL Core Values
-- [ ] `judging-prep.md` — what FLL judges look for and how to prepare kids for judging presentations
+- [x] `judging-prep.md` — what FLL judges look for and how to prepare kids for judging presentations
 - [ ] Add `resources/index.md` improvements — link to new guides from resource pages
 
 ## Needs human input

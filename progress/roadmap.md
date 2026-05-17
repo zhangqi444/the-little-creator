@@ -57,3 +57,12 @@
 - [x] `guides/notebook-guide.md` — how to keep an FLL engineering notebook that impresses judges
 - [x] `for-educators/parent-communication.md` — templates and tips for keeping parents informed and engaged throughout the season
 - [x] `getting-started/index.md` — link to progression guide from the season-planning and VEX sections
+
+## Wave 6 backlog (new session additions — 2026-05-17)
+
+- [x] `guides/registration-guide.md` — step-by-step national + regional registration
+- [x] `guides/registration-reference.md` — verified PDO registration URLs by region
+- [x] `guides/division-eligibility.md` — age/grade eligibility for all three divisions
+- [x] `resources/fll-resource-map.md` — expanded with 8 U.S. + Canada regional PDO entries
+- [x] `CUSTOM-GPT-SETUP.md` — regional sourcing rule, source confidence, link style, age collection pattern
+- [x] `guides/index.md` — linked new wave-6 guides

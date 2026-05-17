@@ -269,3 +269,10 @@
 - Both repos: no open issues.
 - Completed wave-5 remaining task: added registration guide link to `getting-started/index.md` (step 2 in "First steps for any family"), renumbered steps. Paired with registration guide and system prompt work done in prior turn this session.
 - All wave-5 backlog items now complete.
+
+## 2026-05-17 23:58 UTC
+
+- Both repos synced, zero open issues in both
+- Wave-6 guides already landed this session (registration, division eligibility, regional partners)
+- Heartbeat task: added 3 missing guides to guides/index.md (division-eligibility, registration-guide, registration-reference)
+- Updated roadmap.md with wave-6 summary

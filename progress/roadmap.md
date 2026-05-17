@@ -32,7 +32,7 @@
 ## Next backlog (derived from BRD / gaps in content)
 
 - [x] `equipment-guide.md` — "buy or borrow?" guide for first-year families deciding on SPIKE Prime hardware
-- [ ] `first-tournament-expectations.md` — what to expect emotionally/socially at first tournament (complements checklist)
+- [x] `first-tournament-expectations.md` — what to expect emotionally/socially at first tournament (complements checklist)
 - [x] `resources/vex-resource-map.md` — VEX equivalent of the FLL resource map (VEX forums, RobotEvents, official docs)
 - [x] Improve `resources/index.md` — link to all guides from resource pages cross-navigation
 - [ ] `community/index.md` improvements — more guidance on how to contribute content

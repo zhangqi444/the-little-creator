@@ -76,3 +76,15 @@
 - Created `src/content/docs/guides/drivetrain-basics.md` (170 lines) — drive configs, SPIKE Prime tips, VEX IQ tips, common mistakes table, testing protocol, when to rebuild vs. tune in software.
 - Updated `guides/index.md`.
 - Commit `a575da7`, pushed to main.
+
+## 2026-05-17 05:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/vex-iq-programming.md` (301 lines) — VEX IQ Brain overview, VEXcode Blocks + Python, SmartDrive setup, gyro correction, sensor usage, driver control, Skills Challenge, common mistakes.
+- Updated `guides/index.md` — all "Coming Soon" items now have pages; removed that section.
+- Commit `c24d611`, pushed to main.
+- All original backlog items now complete. Need to derive new tasks from BRD/code for next heartbeat.

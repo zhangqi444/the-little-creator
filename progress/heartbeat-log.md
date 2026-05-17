@@ -109,3 +109,14 @@
 - Created `src/content/docs/guides/equipment-guide.md` (155 lines) — required gear table, buy/borrow/share breakdown, common mistakes (Mindstorms, SPIKE Essential), cost-reduction options, year-2 budget.
 - Updated `guides/index.md` — reorganised into grouped sections (Getting started / Building / Competition / Culture).
 - Commit `54ec54a`, pushed to main.
+
+## 2026-05-17 08:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/resources/vex-resource-map.md` (195 lines) — official sources (vex.com, RobotEvents, VEXcode, API docs, VEX Education), community (VEX Forum, subreddits, PROS, LemLib), YouTube channels, progression pathway table.
+- Updated `resources/index.md` — added VEX Resource Map to the resource maps section.
+- Commit `b6276ae`, pushed to main.

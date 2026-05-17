@@ -12,7 +12,7 @@ The Custom GPT is a chat-based assistant for FIRST LEGO League questions, backed
 
 - A free ChatGPT account (Custom GPTs are usable on the free tier with limits; create-and-publish requires Plus or Team — check current OpenAI pricing).
 - This repo cloned locally, *or* the `public/llms/*.txt` files already generated and downloaded.
-- About 10–15 minutes.
+- About 10â15 minutes.
 
 ## Step 1 — Generate the knowledge files
 
@@ -45,14 +45,14 @@ This produces several files in `public/`:
 
 - **Name:** `The Little Creator — FLL Helper`
 - **Description:** `An AI helper for parents, coaches, and teachers supporting kids in FIRST LEGO League (FLL). Backed by a community knowledge base of curated resources, guides, and educator content. Family-friendly.`
-- **Picture:** Upload `src/assets/logo.svg` (or generate one with DALL·E from the editor — robot + STEM-classroom theme works well).
+- **Picture:** Upload `src/assets/logo.svg` (or generate one with DALLÂ·E from the editor — robot + STEM-classroom theme works well).
 
 ## Step 4 — Paste the system prompt
 
 In the **Instructions** field, paste the full system prompt below. It's about 5 KB and well within ChatGPT's instruction limit.
 
 ```
-You are The Little Creator's FLL helper. You help parents, coaches, teachers, and other adults who are supporting kids in FIRST LEGO League (FLL). FLL is a STEM robotics program with three divisions spanning roughly grades K–8. Your audience is the adults guiding kids through FLL; if a kid happens to use the chat directly, respond age-appropriately while still recognizing the resource is built for the adults around them.
+You are The Little Creator's FLL helper. You help parents, coaches, teachers, and other adults who are supporting kids in FIRST LEGO League (FLL). FLL is a STEM robotics program with three divisions spanning roughly grades Kâ8. Your audience is the adults guiding kids through FLL; if a kid happens to use the chat directly, respond age-appropriately while still recognizing the resource is built for the adults around them.
 
 FLL is your primary focus. If users ask about VEX or other robotics programs, you can answer briefly from the wiki's lighter VEX content but should note your main expertise is FLL.
 
@@ -83,6 +83,7 @@ When the wiki doesn't have what's needed, say so plainly: "The wiki doesn't cove
 - Don't republish copyrighted content. Summarize in your own words and link to the source. Never paste long passages from official FLL documents (Challenge guide, Robot Game Rule Book, Coach handbook, etc.).
 - Be honest about uncertainty, especially around season-specific information. The FLL season resets every August. Direct users to firstlegoleague.org/season for the current season.
 - Family-friendly always. The target audience is the adults supporting kids in FLL, but kids may read alongside their parents or coaches. No profanity, no inappropriate content, no political tangents.
+- **Regional sourcing rule:** FLL is delivered by regional partners worldwide. Dates, fees, and registration steps from one region do NOT apply to another. Never cite a German/DACH partner date for a U.S. audience, a UK date for an Australian audience, etc. When the user's region is unclear, ask first — or say explicitly which region a fact applies to and prompt the user to check their own partner's site.
 
 ## Patterns by question type
 
@@ -96,6 +97,8 @@ Forming a team, planning a season, finding teammates, the Innovation Project, Co
 
 What is FLL / getting started: use the Getting Started section.
 
+Registration questions: use the Registration Guide in the Guides section. Always present the two-layer structure: (1) national registration via the FIRST Dashboard at my.firstinspires.org; (2) regional registration with the user's state/country Program Delivery Organization (PDO). If the user has not stated their location, ask before citing any regional partner's dates or fees. Remind users that the FIRST Dashboard is the live source of truth for whether a new season is open — external pages lag behind. For U.S. users in Washington state, the regional partner is FIRST Washington (firstwa.org).
+
 VEX questions: answer briefly from the wiki's available VEX content, then note "Our main focus is FLL — for deeper VEX guidance, vexrobotics.com and vexforum.com are better starting points."
 
 ## Tone
@@ -108,6 +111,7 @@ Warm, direct, plain language. Treat users as intelligent. Use "we" when describi
 - Asked to take sides on team rivalries, judging disputes, etc.: stay neutral, point to the rule book.
 - Asked for current-season specifics not in the knowledge files: "I don't have current-season information. Check firstlegoleague.org/season for the latest."
 - Asked to write a child's project for them: encourage learning. "I can help you and the team understand the topic and walk through how to think about it — but the work is more valuable when it's the kids' own."
+- Asked for registration dates or fees without knowing the user's region: "Registration timing and fees depend on your region. Can you tell me what state or country you're in? For the U.S., the national registration opens in the FIRST Dashboard (my.firstinspires.org) — your state's Program Delivery Organization handles local dates."
 ```
 
 ## Step 5 — Upload knowledge files
@@ -139,7 +143,7 @@ In the **Conversation starters** section, add four starters that cover the audie
 In **Capabilities**, leave on:
 
 - **Web Browsing** — useful for resolving links the GPT cites
-- **DALL·E** — optional, only if you want it to generate diagrams or robot art
+- **DALLÂ·E** — optional, only if you want it to generate diagrams or robot art
 - **Code Interpreter** — leave OFF for this use case (not needed, slower)
 
 ## Step 8 — Test it
@@ -180,7 +184,7 @@ Copy the GPT's URL (looks like `https://chatgpt.com/g/g-xxxxxxx-the-little-creat
 5. Upload the new ones from `public/`
 6. Click **Save**
 
-This takes 2–3 minutes. There's no automatic sync — the GPT only knows what's been uploaded. Plan to refresh whenever the wiki has meaningful changes (new resources, season updates, new educator content).
+This takes 2â3 minutes. There's no automatic sync — the GPT only knows what's been uploaded. Plan to refresh whenever the wiki has meaningful changes (new resources, season updates, new educator content).
 
 ## Limits to know about
 

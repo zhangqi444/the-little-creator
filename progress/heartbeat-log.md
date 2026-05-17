@@ -197,3 +197,14 @@
 - Created `src/content/docs/guides/robot-strategy.md` (159 lines) — scoring structure, mission mapping table, expected value calculation, run structures (conservative/progressive/experimental), path optimisation, attachment sequencing, strategy document template, mid-run failure handling.
 - Updated `guides/index.md` — added Robot Strategy to Competition prep section.
 - Commit `20daa80`, pushed to main.
+
+## 2026-05-17 16:58 UTC
+
+**Step 0 — Sync**: open-forge pulled README.md update (cbf8746). TLC already up to date.
+
+**Step 1 — Issues**: open-forge — no open issues (PR #54 now closed/merged). No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/practice-session-structure.md` (164 lines) — 4-phase structure (check-in/focused work/test+share/debrief), time tables for 60/90/120 min sessions, team splitting by workstream, plan→build→test loop, season phase adjustment table, common problem handling.
+- Updated `guides/index.md` — added Practice Session Structure to Competition prep section.
+- Commit `9af33b2`, pushed to main.

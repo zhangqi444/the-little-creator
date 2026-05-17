@@ -23,7 +23,7 @@
 - [x] `vex-iq-programming.md` — VEX IQ equivalent of the SPIKE Prime guide
 - [x] `core-values-activities.md` — team-building activities that reinforce FLL Core Values
 - [x] `judging-prep.md` — what FLL judges look for and how to prepare kids for judging presentations
-- [ ] Add `resources/index.md` improvements — link to new guides from resource pages
+- [x] Add `resources/index.md` improvements — link to new guides from resource pages
 
 ## Needs human input
 
@@ -34,5 +34,5 @@
 - [ ] `equipment-guide.md` — "buy or borrow?" guide for first-year families deciding on SPIKE Prime hardware
 - [ ] `first-tournament-expectations.md` — what to expect emotionally/socially at first tournament (complements checklist)
 - [ ] `resources/vex-resource-map.md` — VEX equivalent of the FLL resource map (VEX forums, RobotEvents, official docs)
-- [ ] Improve `resources/index.md` — link to all guides from resource pages cross-navigation
+- [x] Improve `resources/index.md` — link to all guides from resource pages cross-navigation
 - [ ] `community/index.md` improvements — more guidance on how to contribute content

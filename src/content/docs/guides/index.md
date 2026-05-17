@@ -11,6 +11,9 @@ Practical guides written from real experience — not theory. These are things w
 - [Forming a Team](/guides/forming-a-team/) — How to find members, set expectations, and structure your team
 - [FLL Equipment Guide](/guides/equipment-guide/) — What gear you need, what it costs, and how to get it without overspending
 - [Planning Your Season](/guides/season-planning/) — A timeline and checklist for surviving (and enjoying) a competition season
+- [Division Eligibility — Which Program is Right for Your Child?](/guides/division-eligibility/) — Age ranges for Discover, Explore, and Challenge; how to handle the 9–10 overlap zone
+- [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step: national FIRST registration plus your regional partner sign-up
+- [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners
 
 ### Building and programming
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for FLL (SPIKE Prime) and VEX IQ robots

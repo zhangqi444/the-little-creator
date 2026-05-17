@@ -22,6 +22,7 @@ Practical guides written from real experience — not theory. These are things w
 ### Competition prep
 - [FLL Robot Strategy Guide](/guides/robot-strategy/) — How to analyse missions, prioritise by expected value, and build a run strategy
 - [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
+- [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record, when, and how to make judges take notice
 - [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges
 - [Preparing for FLL Judging](/guides/judging-prep/) — What judges look for across all three sessions, and how to help your team present with confidence
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect, and how to keep your team calm on competition day

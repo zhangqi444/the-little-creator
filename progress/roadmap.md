@@ -41,5 +41,12 @@
 
 - [x] `getting-started/progression-guide.md` — FLL → VEX IQ → VEX V5 progression path; when and how to level up
 - [x] `guides/robot-maintenance.md` — keeping SPIKE Prime / VEX IQ hardware in good shape across a season
-- [ ] `for-educators/assessment-rubric.md` — assessment rubric for classroom programs (distinct from FLL judging rubric)
+- [x] `for-educators/assessment-rubric.md` — assessment rubric for classroom programs (distinct from FLL judging rubric)
 - [x] Update home `index.mdx` — reflect all new guides and resources in the hero/navigation
+
+## Wave 4 backlog (next batch)
+
+- [ ] `guides/robot-strategy.md` — how to plan and prioritise FLL robot missions for maximum score
+- [ ] `guides/practice-session-structure.md` — how to run an effective 90-minute practice session
+- [ ] `for-educators/differentiation-guide.md` — adapting FLL/VEX for different skill levels within one team
+- [ ] `resources/index.md` — add for-educators links to resource index

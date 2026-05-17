@@ -174,3 +174,15 @@
 - Created `src/content/docs/guides/robot-maintenance.md` (172 lines) — general habits, SPIKE Prime battery/tire/axle care, VEX IQ motor/connector/brain care, troubleshooting table, end-of-season checklist, when to replace vs. repair.
 - Updated `guides/index.md` — added Robot Maintenance to Building & Programming section.
 - Commit `3aadbfe`, pushed to main.
+
+## 2026-05-17 14:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/for-educators/assessment-rubric.md` (145 lines) — 5-category rubric (programming, building, collaboration, project work, problem solving), 1–4 scale with observable behaviors, grade conversion table, end-of-season portfolio prompt.
+- Updated `for-educators/index.md` — added assessment rubric link.
+- All "Further backlog" items now complete. Added Wave 4.
+- Commit `2a49552`, pushed to main.

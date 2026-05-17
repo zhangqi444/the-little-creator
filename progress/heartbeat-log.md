@@ -241,3 +241,14 @@
 - Created `src/content/docs/guides/gracious-professionalism.md` (157 lines) — GP at practice, at tournaments, for coaches/parents, age-appropriate explanations (9–11/12–14/15–16), real-time coaching moments, quick-reference table.
 - Updated `guides/index.md` — added Gracious Professionalism to Team culture section.
 - Commit `60f4dbb`, pushed to main.
+
+## 2026-05-17 20:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: No open issues on either repo.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/notebook-guide.md` (179 lines) — what belongs in a notebook (meeting logs, design decisions, test data, IP research trail, team contributions), when to write, physical vs. digital, common mistakes table, what judges look for, quick-start for teams that haven't been keeping one.
+- Updated `guides/index.md` — added Engineering Notebook Guide to Competition prep section.
+- Commit `1f0605e`, pushed to main.

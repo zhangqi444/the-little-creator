@@ -8,6 +8,7 @@ A curated list of tools, software, and learning materials that our community act
 ## Resource maps (curated link indexes)
 
 - [FLL Resource Map](/resources/fll-resource-map/) — Authoritative and trusted FIRST LEGO League sources, with metadata
+- [VEX Resource Map](/resources/vex-resource-map/) — Official and community resources for VEX IQ and VEX V5
 - [Software & Tools](/resources/software-tools/) — Programming environments, simulation, design tools
 - [Learning Materials](/resources/learning-materials/) — Books, courses, videos, and tutorials
 
@@ -19,6 +20,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [What is FLL?](/getting-started/what-is-fll/) — Program overview, age divisions, and what a season looks like
 - [What is VEX?](/getting-started/what-is-vex/) — VEX IQ, V5, and how it differs from FLL
 - [Forming a Team](/guides/forming-a-team/) — How to find members and structure your team
+- [FLL Equipment Guide](/guides/equipment-guide/) — What gear you need, what it costs, and how to get it without overspending
 
 ### Building and programming
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for SPIKE Prime and VEX IQ
@@ -46,4 +48,4 @@ We don't republish content from other sites — we point at it. Every resource e
 
 ## Suggesting a resource
 
-This index is community-maintained. Open an issue or pull request to add a resource — see our [Community](/community/) page. Use the metadata schema demonstrated on the FLL Resource Map and Learning Materials pages.
+This index is community-maintained. Open an issue or pull request to add a resource — see our [Community](/community/) page. Use the metadata schema demonstrated on the resource map pages.

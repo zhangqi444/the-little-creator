@@ -208,7 +208,7 @@ Cross-program coach/mentor onboarding for all FIRST programs (FLL, FTC, FRC). Co
 
 ## Regional partners
 
-FLL is delivered worldwide through regional partners — official organizations that operate the program in their countries (or US state-level regions), running local registration, events, and program support. The canonical [FIRST LEGO League](https://www.firstlegoleague.org) site links to the partner for your region; **for the full directory** (especially US states we don't have entries for), see [FIRST Find Local Support](https://www.firstinspires.org/find-local-support). The entries below are curated, not exhaustive — additions welcome via PR.
+FLL is delivered worldwide through regional partners — official organizations that operate the program in their countries (or US state-level regions), running local registration, events, and program support. The canonical [FIRST LEGO League](https://www.firstlegoleague.org) site links to the partner for your region; **for the full directory** (especially US states or countries not listed below), see [FIRST Find Local Support](https://www.firstinspires.org/find-local-support). The entries below are curated, not exhaustive — additions welcome via PR.
 
 ### HANDS on TECHNOLOGY — DACH region (Germany, Austria, Switzerland)
 
@@ -418,6 +418,96 @@ The Australian-specific Future Edition guide. Lays out the local cost picture (t
 - **Use when:** You are an Australian or Asia-Pacific FLL Challenge team advancing past your national championship and need the Asia Pacific Open Championship (APOC) details.
 
 The FIRST LEGO League Asia Pacific Open Championship is a regional invitational hosted in Australia for top teams from across the Asia-Pacific region. This is one of the major end-of-season targets for advancing Australian teams (alongside the FIRST Championship in Houston). Page is the canonical regional source for APOC scheduling, venue, and qualification routes; cross-reference with national championship results to understand who attends.
+
+### U.S. regional partners — additional states
+
+### FIRST California (Southern) — cafirst.org
+
+- **URL:** https://cafirst.org/fll
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, usa, california, southern-california
+- **Use when:** You are in Southern California and need local FLL team registration, qualifying events, or regional program info.
+
+FIRST California (CA FIRST) is the Program Delivery Organization for Southern California. Covers FLL Challenge, Explore, and Discover divisions. For Northern California, see FIRST NorCal (firstnorcal.org) — California is split into two PDOs. Registration and event info are on the FIRST Dashboard nationally; CA FIRST manages local qualifying events and state championship pathways.
+
+### FIRST NorCal — Northern California
+
+- **URL:** https://firstnorcal.org
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, usa, california, northern-california
+- **Use when:** You are in Northern California and need local FLL team registration, qualifying events, or regional program info.
+
+FIRST NorCal is the Program Delivery Organization for Northern California. California is split: teams in the north register and compete through NorCal; teams in the south through CA FIRST (cafirst.org). If you're unsure which covers your zip code, use FIRST's Find Local Support tool (firstinspires.org/find-local-support).
+
+### FIRST in Florida — firstinflorida.org
+
+- **URL:** https://firstinflorida.org/programs/first-lego-league
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, usa, florida
+- **Use when:** You are in Florida and need local FLL registration, qualifying events, or regional program info.
+
+FIRST in Florida is the statewide PDO for Florida, described as the largest K-12 robotics program in the state. Covers all three FLL divisions plus FTC and FRC. The FLL page has division overviews and links to registration; qualifying tournament slots open in fall through RobotEvents.
+
+### FIRST in Michigan — firstinmichigan.us
+
+- **URL:** https://firstinmichigan.us/FLL-Challenge
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, usa, michigan
+- **Use when:** You are in Michigan and need local FLL Challenge registration, qualifying events, or state championship info.
+
+FIRST in Michigan runs one of the largest FIRST ecosystems in the U.S. The FLL Challenge page covers division details, registration, and event pathways. Michigan has a robust set of qualifying tournaments leading to a state championship. Registration flows through the FIRST Dashboard nationally; Michigan-specific event registration is through RobotEvents.
+
+### FIRST Mid-Atlantic — midatlanticrobotics.com
+
+- **URL:** https://midatlanticrobotics.com/fll/
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, usa, new-jersey, pennsylvania, delaware
+- **Use when:** You are in New Jersey, Pennsylvania, or Delaware and need local FLL registration, qualifying events, or regional program info.
+
+FIRST Mid-Atlantic (FMA) serves New Jersey, Pennsylvania, and Delaware. The FLL page covers registration steps, qualifying tournament listings, and advancement pathways for the tri-state area. Note: FIRST Pennsylvania (firstpa.org) also operates in PA — if you're unsure which applies to your area, use the Find Local Support tool.
+
+### FIRST in Upper Midwest — firstuppermidwest.org
+
+- **URL:** https://firstuppermidwest.org
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, usa, minnesota, north-dakota, south-dakota
+- **Use when:** You are in Minnesota, North Dakota, or South Dakota and need local FLL registration, events, or regional program info.
+
+FIRST in Upper Midwest (formerly FIRST Minnesota) is the PDO for Minnesota, North Dakota, and South Dakota. The site covers all FIRST programs in the region. For FLL-specific pages, navigate to the Programs section; registration flows through the FIRST Dashboard and local event registration through RobotEvents.
+
+### ORTOP — Oregon (ortop.org)
+
+- **URL:** https://ortop.org/fll
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, usa, oregon
+- **Use when:** You are in Oregon and need local FLL registration, qualifying events, or regional program info.
+
+ORTOP (Oregon Robotics Tournament & Outreach Program) is Oregon's PDO for FLL programs. The FLL page covers all three divisions (Discover, Explore, Challenge) and includes current season info (2026-27 BIOGLOW is referenced on-site). Season registration is at ortop.org/for-teams/season-registration/. One of the more actively updated regional sites.
+
+### FIRST Robotics Canada — firstroboticscanada.org
+
+- **URL:** https://firstroboticscanada.org
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, canada
+- **Use when:** You are in Canada and need to find your provincial FLL program, registration info, or local events.
+
+FIRST Robotics Canada is the national PDO for Canada, covering FLL, FTC, and FRC across all provinces. Canada operates provincial sub-regions (Ontario, Quebec, BC, Alberta, etc.) — the national site routes to the right provincial partner. For FLL specifically, registration is through the FIRST Dashboard; provincial partners manage local qualifying events and championships.
 
 ## Event finders & local support
 

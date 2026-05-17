@@ -17,7 +17,7 @@
 ## Backlog (next tasks — pick one per heartbeat)
 
 - [ ] `drivetrain-basics.md` — building a reliable drive base for VEX IQ / FLL; common mistakes
-- [ ] `tournament-day-checklist.md` — what to pack, what to expect, how to keep kids calm
+- [x] `tournament-day-checklist.md` — what to pack, what to expect, how to keep kids calm
 - [ ] `innovation-project-guide.md` — how to research a real-world problem, design a solution, present to judges
 - [ ] `python-intermediate.md` — gyro-corrected driving, PID basics, mission selector patterns
 - [ ] `vex-iq-programming.md` — VEX IQ equivalent of the SPIKE Prime guide

@@ -43,3 +43,14 @@
 - Created `src/content/docs/guides/judging-prep.md` (139 lines) — all three FLL judging sessions (Innovation Project, Robot Design, Core Values), what judges look for, practical prep, awards overview.
 - Updated `guides/index.md`.
 - Commit `0718339`, pushed to main.
+
+## 2026-05-17 02:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/core-values-activities.md` (155 lines) — 7 practical team activities (Silent Sort, One-Word Story, Tower Challenge, Strength Spotlight, Failure Museum, Two Truths and a Build Goal, Decision Jam) with debrief questions and coaching notes.
+- Updated `guides/index.md`.
+- Commit `63d762f`, pushed to main.

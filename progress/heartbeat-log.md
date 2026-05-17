@@ -186,3 +186,14 @@
 - Updated `for-educators/index.md` — added assessment rubric link.
 - All "Further backlog" items now complete. Added Wave 4.
 - Commit `2a49552`, pushed to main.
+
+## 2026-05-17 15:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date. WhatsApp reconnected — no action needed.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/robot-strategy.md` (159 lines) — scoring structure, mission mapping table, expected value calculation, run structures (conservative/progressive/experimental), path optimisation, attachment sequencing, strategy document template, mid-run failure handling.
+- Updated `guides/index.md` — added Robot Strategy to Competition prep section.
+- Commit `20daa80`, pushed to main.

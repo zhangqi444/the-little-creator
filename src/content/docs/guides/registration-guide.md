@@ -105,3 +105,4 @@ These are typical ranges — your PDO sets the binding dates for your region. Do
 - [Forming a Team](/guides/forming-a-team/) — finding teammates and setting expectations
 - [Season Planning](/guides/season-planning/) — what to do after you register
 - [FLL Resource Map](/resources/fll-resource-map/) — official sources including Cost & Registration, regional partners, and the FIRST Dashboard
+- [Registration Reference — Region by Region](/guides/registration-reference/) — verified PDO registration URLs for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners

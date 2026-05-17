@@ -15,6 +15,7 @@ FLL might seem overwhelming at first — there's hardware, software, teamwork, a
 ## Start here
 
 - [**What is FLL?**](/getting-started/what-is-fll/) — A plain-language overview of the program: the three divisions, what a Challenge season looks like, and what's changing with the Future Edition transition.
+- [**Division Eligibility**](/guides/division-eligibility/) — Which FLL division is right for your child? Age ranges, the Discover/Explore/Challenge overlap zone, and how to handle edge cases.
 - [**What is VEX?**](/getting-started/what-is-vex/) — VEX IQ, V5, and how it differs from FLL.
 - [**Robotics Progression Guide**](/getting-started/progression-guide/) — How to think about the journey from FLL through VEX IQ to VEX V5: when to level up and what changes.
 

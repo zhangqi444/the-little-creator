@@ -48,5 +48,5 @@
 
 - [x] `guides/robot-strategy.md` — how to plan and prioritise FLL robot missions for maximum score
 - [x] `guides/practice-session-structure.md` — how to run an effective 90-minute practice session
-- [ ] `for-educators/differentiation-guide.md` — adapting FLL/VEX for different skill levels within one team
+- [x] `for-educators/differentiation-guide.md` — adapting FLL/VEX for different skill levels within one team
 - [ ] `resources/index.md` — add for-educators links to resource index

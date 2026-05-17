@@ -208,3 +208,14 @@
 - Created `src/content/docs/guides/practice-session-structure.md` (164 lines) — 4-phase structure (check-in/focused work/test+share/debrief), time tables for 60/90/120 min sessions, team splitting by workstream, plan→build→test loop, season phase adjustment table, common problem handling.
 - Updated `guides/index.md` — added Practice Session Structure to Competition prep section.
 - Commit `9af33b2`, pushed to main.
+
+## 2026-05-17 17:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date. WhatsApp reconnected — no action needed.
+
+**Step 1 — Issues**: No open issues on either repo (open-forge PR #54 now closed).
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/for-educators/differentiation-guide.md` (188 lines) — role families by level (programming/building/IP/Core Values), stretch task calibration, strategic pairing, expert kid management, session format adaptations, quick-reference table.
+- Updated `for-educators/index.md` — added Differentiation Guide link.
+- Commit `476d43b`, pushed to main.

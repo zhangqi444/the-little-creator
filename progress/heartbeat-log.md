@@ -163,3 +163,14 @@
 - Created `src/content/docs/getting-started/progression-guide.md` (151 lines) — FLL Discover→Explore→Challenge→VEX IQ→VEX V5 progression table, when-to-move-up guidance for each step, FLL→FTC/FRC path, doing multiple programs, key decision questions.
 - Updated `getting-started/index.md` — added progression guide and equipment guide links.
 - Commit `004057c`, pushed to main.
+
+## 2026-05-17 13:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date. WhatsApp reconnected — no action needed.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/robot-maintenance.md` (172 lines) — general habits, SPIKE Prime battery/tire/axle care, VEX IQ motor/connector/brain care, troubleshooting table, end-of-season checklist, when to replace vs. repair.
+- Updated `guides/index.md` — added Robot Maintenance to Building & Programming section.
+- Commit `3aadbfe`, pushed to main.

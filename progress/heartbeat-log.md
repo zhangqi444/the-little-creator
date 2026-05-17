@@ -65,3 +65,14 @@
 - Created `src/content/docs/guides/python-intermediate.md` (294 lines) — gyro-corrected driving, proportional control / PID basics, mission selector pattern, attachment motor control, debugging techniques.
 - Updated `guides/index.md`.
 - Commit `8c0ca63`, pushed to main.
+
+## 2026-05-17 04:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/drivetrain-basics.md` (170 lines) — drive configs, SPIKE Prime tips, VEX IQ tips, common mistakes table, testing protocol, when to rebuild vs. tune in software.
+- Updated `guides/index.md`.
+- Commit `a575da7`, pushed to main.

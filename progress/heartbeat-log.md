@@ -142,3 +142,13 @@
 - Rewrote `src/content/docs/community/index.md` (+101 lines) — 5 concrete contribution paths (issue → web edit → resource entry → guide writing → showcase), full metadata template, contribution guidelines summary, links to CLAUDE.md and CONTRIBUTING.md.
 - Commit `fe5ce94`, pushed to main.
 - All items in "Next backlog" now complete. Added "Further backlog" with next wave of tasks.
+
+## 2026-05-17 11:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date. WhatsApp briefly reconnected (499→connected) — no action needed.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Updated `src/content/docs/index.mdx` — refreshed hero tagline to include VEX, updated guide cards to reflect 4 grouped sections (Getting Started / Building & Programming / Competition Prep / Team Culture), added VEX Resource Map card alongside FLL Resource Map, updated "Browse" CTA to link to /guides/, improved "Contribute" card.
+- Commit `a08199c`, pushed to main.

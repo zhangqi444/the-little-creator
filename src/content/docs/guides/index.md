@@ -12,11 +12,12 @@ Practical guides written from real experience — not theory. These are things w
 - [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect, and how to keep your team calm on competition day
 - [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges
+- [Preparing for FLL Judging](/guides/judging-prep/) — What judges look for across all three sessions, and how to help your team present with confidence
 
 ## Coming Soon
 
 - Building a reliable drivetrain (VEX IQ / FLL)
-- Helping kids handle competition-day pressure
+- Core Values team activities
 
 :::tip
 Have experience to share? We'd love your contribution. See the [Community](/community/) page for how to contribute.

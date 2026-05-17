@@ -54,3 +54,14 @@
 - Created `src/content/docs/guides/core-values-activities.md` (155 lines) — 7 practical team activities (Silent Sort, One-Word Story, Tower Challenge, Strength Spotlight, Failure Museum, Two Truths and a Build Goal, Decision Jam) with debrief questions and coaching notes.
 - Updated `guides/index.md`.
 - Commit `63d762f`, pushed to main.
+
+## 2026-05-17 03:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: open-forge #54 is a PR — skipped. No TLC issues.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/python-intermediate.md` (294 lines) — gyro-corrected driving, proportional control / PID basics, mission selector pattern, attachment motor control, debugging techniques.
+- Updated `guides/index.md`.
+- Commit `8c0ca63`, pushed to main.

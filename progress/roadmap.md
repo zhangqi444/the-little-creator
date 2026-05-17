@@ -19,7 +19,7 @@
 - [ ] `drivetrain-basics.md` — building a reliable drive base for VEX IQ / FLL; common mistakes
 - [x] `tournament-day-checklist.md` — what to pack, what to expect, how to keep kids calm
 - [x] `innovation-project-guide.md` — how to research a real-world problem, design a solution, present to judges
-- [ ] `python-intermediate.md` — gyro-corrected driving, PID basics, mission selector patterns
+- [x] `python-intermediate.md` — gyro-corrected driving, PID basics, mission selector patterns
 - [ ] `vex-iq-programming.md` — VEX IQ equivalent of the SPIKE Prime guide
 - [x] `core-values-activities.md` — team-building activities that reinforce FLL Core Values
 - [x] `judging-prep.md` — what FLL judges look for and how to prepare kids for judging presentations

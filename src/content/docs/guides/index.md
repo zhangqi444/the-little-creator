@@ -20,6 +20,7 @@ Practical guides written from real experience — not theory. These are things w
 - [Robot Maintenance Guide](/guides/robot-maintenance/) — Keeping SPIKE Prime and VEX IQ hardware in good shape through a full season
 
 ### Competition prep
+- [FLL Robot Strategy Guide](/guides/robot-strategy/) — How to analyse missions, prioritise by expected value, and build a run strategy
 - [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges
 - [Preparing for FLL Judging](/guides/judging-prep/) — What judges look for across all three sessions, and how to help your team present with confidence
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect, and how to keep your team calm on competition day

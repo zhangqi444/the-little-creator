@@ -230,3 +230,14 @@
 - Updated `src/content/docs/resources/index.md` — added Progression Guide, Robot Maintenance, Robot Strategy, Practice Session Structure, First Tournament, Classroom Assessment Rubric, Differentiation Guide links. All Wave 4 items now complete.
 - Added Wave 5 backlog (4 items).
 - Commit `061cd1e`, pushed to main.
+
+## 2026-05-17 19:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date. WhatsApp 499→connected — no action needed.
+
+**Step 1 — Issues**: No open issues on either repo.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/guides/gracious-professionalism.md` (157 lines) — GP at practice, at tournaments, for coaches/parents, age-appropriate explanations (9–11/12–14/15–16), real-time coaching moments, quick-reference table.
+- Updated `guides/index.md` — added Gracious Professionalism to Team culture section.
+- Commit `60f4dbb`, pushed to main.

@@ -53,7 +53,7 @@
 
 ## Wave 5 backlog (next batch)
 
-- [ ] `guides/gracious-professionalism.md` — what GP actually looks like in practice; concrete examples for kids and coaches
+- [x] `guides/gracious-professionalism.md` — what GP actually looks like in practice; concrete examples for kids and coaches
 - [ ] `guides/notebook-guide.md` — how to keep an FLL engineering notebook that impresses judges
 - [ ] `for-educators/parent-communication.md` — templates and tips for keeping parents informed and engaged throughout the season
 - [ ] `getting-started/index.md` — link to progression guide from the season-planning and VEX sections

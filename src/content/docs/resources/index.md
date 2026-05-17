@@ -19,6 +19,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 ### Getting started
 - [What is FLL?](/getting-started/what-is-fll/) — Program overview, age divisions, and what a season looks like
 - [What is VEX?](/getting-started/what-is-vex/) — VEX IQ, V5, and how it differs from FLL
+- [Robotics Progression Guide](/getting-started/progression-guide/) — FLL → VEX IQ → VEX V5: when and how to level up
 - [Forming a Team](/guides/forming-a-team/) — How to find members and structure your team
 - [FLL Equipment Guide](/guides/equipment-guide/) — What gear you need, what it costs, and how to get it without overspending
 
@@ -27,12 +28,16 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Robot Programming Basics](/guides/robot-programming-basics/) — First programs in SPIKE App (Blocks and Python)
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro driving, PID, mission selector patterns
 - [VEX IQ Programming Guide](/guides/vex-iq-programming/) — VEXcode Blocks and Python for VEX IQ robots
+- [Robot Maintenance Guide](/guides/robot-maintenance/) — Keeping SPIKE Prime and VEX IQ hardware in good shape
 
 ### Competition prep
 - [Planning Your Season](/guides/season-planning/) — Month-by-month FLL season timeline
+- [FLL Robot Strategy Guide](/guides/robot-strategy/) — Mission prioritisation, expected value, and run planning
+- [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
 - [Innovation Project Guide](/guides/innovation-project-guide/) — Research, design, and present your Innovation Project
 - [Preparing for FLL Judging](/guides/judging-prep/) — What all three judging panels look for
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect
+- [Your First Tournament](/guides/first-tournament-expectations/) — What to expect emotionally and socially
 
 ### Team culture
 - [Core Values Team Activities](/guides/core-values-activities/) — Team-building activities for coaches
@@ -40,7 +45,9 @@ Not sure how to apply what you find? These guides walk you through the doing:
 ### For educators
 - [8-Week Starter Curriculum](/for-educators/curriculum-starter/) — Ready-to-use curriculum framework
 - [Lesson Plan Template](/for-educators/lesson-plan-template/) — Reusable template for individual sessions
-- [Core Values Rubric](/for-educators/core-values-rubric/) — In-season observation rubric
+- [Core Values Rubric](/for-educators/core-values-rubric/) — In-season observation rubric for coaches
+- [Classroom Assessment Rubric](/for-educators/assessment-rubric/) — 5-category rubric for grading and structured feedback
+- [Differentiation Guide](/for-educators/differentiation-guide/) — Adapting FLL/VEX for teams with mixed skill levels
 
 ## How this section works
 

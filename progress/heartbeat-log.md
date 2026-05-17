@@ -252,3 +252,14 @@
 - Created `src/content/docs/guides/notebook-guide.md` (179 lines) — what belongs in a notebook (meeting logs, design decisions, test data, IP research trail, team contributions), when to write, physical vs. digital, common mistakes table, what judges look for, quick-start for teams that haven't been keeping one.
 - Updated `guides/index.md` — added Engineering Notebook Guide to Competition prep section.
 - Commit `1f0605e`, pushed to main.
+
+## 2026-05-17 21:58 UTC
+
+**Step 0 — Sync**: open-forge had remote branch update (claude/go-setup-RLDJL) — no action needed. TLC up to date. WhatsApp 499→connected — informational.
+
+**Step 1 — Issues**: No open issues on either repo.
+
+**Step 3 — Roadmap iteration**:
+- Created `src/content/docs/for-educators/parent-communication.md` (226 lines) — communication timeline (onboarding/monthly/pre-tournament/day-before/post-tournament), 5 copy-paste message templates, group chat management tips, handling difficult parent conversations.
+- Updated `for-educators/index.md` — added Parent Communication Guide.
+- Commit `13a22bf`, pushed to main.

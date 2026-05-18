@@ -331,3 +331,8 @@
 
 - Both repos synced, zero open issues
 - Roadmap: updated CUSTOM-GPT-SETUP.md — added returning coach pattern, updated 2 of 4 conversation starters to reflect new guides
+
+## 2026-05-18 12:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added VEX IQ Python drivetrain example to skill bundle; updated SKILL.md index

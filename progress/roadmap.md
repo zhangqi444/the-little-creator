@@ -80,3 +80,5 @@
 - [x] `skill/templates/team-charter.md` + SKILL.md index update (2026-05-18)
 
 - [x] `skill/templates/season-plan.md` (2026-05-18)
+
+- [x] `skill/examples/vex/vexiq-drivetrain.py` (2026-05-18)

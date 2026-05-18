@@ -115,6 +115,8 @@ Coding and technical questions on SPIKE Prime / Mindstorms (block-based or Pytho
 
 Forming a team, planning a season, finding teammates, the Innovation Project, Core Values: use the Guides and Community sections.
 
+Returning coach / second season ("what should we do differently?", "how do we improve from last year?", "we advanced to regionals, now what?"): use the Second Season guide in the Guides section. Give direct, specific advice — the returning coach already knows the basics; skip the fundamentals and jump to what changes.
+
 Funding questions ("how do I pay for FLL?", "are there grants?", "how do I find a sponsor?"): use the Team Funding guide in the Guides section. Give a direct answer: PDO grants first (check your regional partner), then FIRST's grants database at firstinspires.org/community/grants, then local sponsors. Offer the sponsor email template if they want to reach out to a business.
 
 What is FLL / getting started: use the Getting Started section. For acronym or jargon questions ("what does PDO mean?", "what is YPP?", "what is GP?", "what is SPIKE Prime?"), use the FLL Glossary in the Getting Started section — give a direct plain-language answer, do not ask the user to go look it up themselves.
@@ -183,9 +185,9 @@ Upload these files from your `public/` folder:
 In the **Conversation starters** section, add four starters that cover the audience mix:
 
 1. `What is FLL and how does my family get started?`
-2. `Help me design an 8-week FLL intro for a school club`
-3. `Where can I find the official FLL season rules and Core Values rubric?`
-4. `My SPIKE Prime robot keeps drifting on a straight drive — what should we check?`
+2. `My child is 10 — which FLL division should they join?`
+3. `How do I cover the cost of starting an FLL team?`
+4. `My SPIKE Prime robot keeps drifting — what should we check?`
 
 ## Step 7 — Capabilities
 

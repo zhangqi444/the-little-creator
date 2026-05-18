@@ -15,6 +15,7 @@ Practical guides written from real experience — not theory. These are things w
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step: national FIRST registration plus your regional partner sign-up
 - [Funding Your FLL Team — Grants, Sponsors, and Fundraising](/guides/team-funding/) — How to cover registration, equipment, and travel costs; known grant programs and a sponsor pitch template
 - [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management
+- [FLL Future Edition Transition — What It Means for Your Team](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained practically
 - [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners
 
 ### Building and programming

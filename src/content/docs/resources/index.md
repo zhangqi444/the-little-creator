@@ -36,6 +36,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro driving, PID, mission selector patterns
 - [VEX IQ Programming Guide](/guides/vex-iq-programming/) — VEXcode Blocks and Python for VEX IQ robots
 - [Robot Maintenance Guide](/guides/robot-maintenance/) — Keeping SPIKE Prime and VEX IQ hardware in good shape
+- [Robot Troubleshooting — Common Problems and Fixes](/guides/robot-troubleshooting/) — Drift, missed missions, attachment failures, tournament breakdowns, and a 10-minute fix checklist
 
 ### Competition prep
 - [Planning Your Season](/guides/season-planning/) — Month-by-month FLL season timeline

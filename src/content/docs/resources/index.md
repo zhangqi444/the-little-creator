@@ -26,6 +26,8 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Division Eligibility](/guides/division-eligibility/) — Which FLL division is right for your child; age ranges and the Discover/Explore/Challenge overlap zone
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step national + regional registration walkthrough
 - [Funding Your FLL Team](/guides/team-funding/) — Grants, sponsor pitch template, and fundraising ideas
+- [FLL Future Edition Transition](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained for coaches
+- [Your Second FLL Season](/guides/second-season/) — The 10 changes returning coaches make; covers robot strategy, IP depth, and judging prep
 
 ### Building and programming
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for SPIKE Prime and VEX IQ
@@ -47,6 +49,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Core Values Team Activities](/guides/core-values-activities/) — Team-building activities for coaches
 - [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like for kids, coaches, and parents
 - [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record and how to make judges take notice
+- [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep it healthy
 
 ### For educators
 - [8-Week Starter Curriculum](/for-educators/curriculum-starter/) — Ready-to-use curriculum framework

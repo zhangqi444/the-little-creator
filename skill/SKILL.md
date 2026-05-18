@@ -34,6 +34,7 @@ Invoke when the user is:
   - `line-follower.py` — proportional line follower (beginner)
   - `gyro-straight.py` — gyro-corrected straight drive + point turn helpers
   - `mission-runner.py` — button-activated mission selector for competition day
+  - `sensors.py` — color detection, distance stop, force sensor patterns for FLL missions
 - **examples/vex/** — Working VEX V5 C++ (PROS framework). Tune drivetrain
   constants before relying on distance helpers.
   - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)

@@ -341,3 +341,8 @@
 
 - Both repos synced, zero open issues (fresh session)
 - Roadmap: added guides/future-edition-transition.md — Future Edition vs Founders Edition transition, buy SPIKE Prime decision, two-track timeline
+
+## 2026-05-18 14:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: wired Future Edition transition guide into system prompt (BIOGLOW pattern) and added cross-link from what-is-fll.md

@@ -84,3 +84,5 @@
 - [x] `skill/examples/vex/vexiq-drivetrain.py` (2026-05-18)
 
 - [x] `guides/future-edition-transition.md` — practical 2026/27 transition guide (2026-05-18)
+
+- [x] Future Edition wired into system prompt + what-is-fll cross-link (2026-05-18)

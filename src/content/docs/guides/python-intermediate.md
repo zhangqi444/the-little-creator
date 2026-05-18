@@ -290,3 +290,4 @@ When you adjust `Kp`, speed, or distance values, write down what you changed and
 - [Robot Programming Basics](/guides/robot-programming-basics/) — the fundamentals this guide builds on
 - [Season Planning](/guides/season-planning/) — when to invest in robot consistency vs. adding missions
 - [FLL Resource Map](/resources/fll-resource-map/) — official SPIKE Prime Python API docs and community tutorials
+- **Skill bundle code examples** — ready-to-use SPIKE Prime Python in the project skill bundle: `gyro-straight.py` (gyro-corrected drive + point turn), `mission-runner.py` (button-activated competition selector), `sensors.py` (color/distance/force sensor patterns). If you're using an AI coding tool (Claude Code, Cursor), the skill bundle is loaded automatically when you work in this repo.

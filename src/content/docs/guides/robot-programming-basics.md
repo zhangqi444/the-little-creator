@@ -155,3 +155,5 @@ Python opens up more control over the gyro, sensors, and custom logic. The learn
 
 - [Season Planning](/guides/season-planning/) — where programming fits in the overall season timeline
 - [FLL Resource Map](/resources/fll-resource-map/) — official SPIKE Prime documentation and community tutorials
+- [Intermediate Python for FLL Robots](/guides/python-intermediate/) — gyro-corrected driving, PID basics, mission selector patterns
+- **Skill bundle code examples** — ready-to-use SPIKE Prime Python: `line-follower.py`, `gyro-straight.py`, `mission-runner.py`, `sensors.py`. In the project's `skill/examples/fll/` folder.

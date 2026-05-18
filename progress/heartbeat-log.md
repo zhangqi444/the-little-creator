@@ -357,3 +357,8 @@
 - Both repos synced, zero open issues
 - Cross-linked future-edition, second-season, finding-mentors to resources/index.md
 - Roadmap: added guides/fll-awards.md — all FLL awards explained, advancement mechanics, Champion's Award myth
+
+## 2026-05-18 17:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added awards/advancement and mentor routing patterns to CUSTOM-GPT-SETUP.md system prompt

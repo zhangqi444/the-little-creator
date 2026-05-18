@@ -49,7 +49,7 @@ In January 2026, FIRST and LEGO Education announced a major program transition. 
 - The **Founders Edition** continues the existing SPIKE-based program through its final 2027/28 season.
 - The **Future Edition** launches in 2026/27 on a new LEGO Education Computer Science & AI hardware platform and becomes the unified program from 2028/29 onward.
 
-The Future Edition introduces wireless hardware, motorized task models, semi-cooperative matches on a shared field, and four defined team roles. **Future Edition equipment is not backward-compatible with SPIKE** — relevant if you're about to buy gear. For a deeper write-up and links to authoritative sources, see the [Future Edition entry in our resource map](/resources/fll-resource-map/#future-edition-transition-202627-onward).
+The Future Edition introduces wireless hardware, motorized task models, semi-cooperative matches on a shared field, and four defined team roles. **Future Edition equipment is not backward-compatible with SPIKE** — relevant if you're about to buy gear. For a deeper write-up and links to authoritative sources, see the [Future Edition entry in our resource map](/resources/fll-resource-map/#future-edition-transition-202627-onward) or the [Future Edition Transition guide](/guides/future-edition-transition/) for practical guidance on hardware decisions and what changes for your team.
 
 ## What you need to get started (Challenge)
 

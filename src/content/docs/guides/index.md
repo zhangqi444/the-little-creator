@@ -19,6 +19,7 @@ Practical guides written from real experience — not theory. These are things w
 - [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners
 
 ### Building and programming
+- [Robot Troubleshooting — Common Problems and Fixes](/guides/robot-troubleshooting/) — Drift, missed missions, attachment failures, tournament-day breakdowns, and quick fixes
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for FLL (SPIKE Prime) and VEX IQ robots
 - [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro-corrected driving, basic PID, mission selector patterns, and debugging

@@ -82,3 +82,5 @@
 - [x] `skill/templates/season-plan.md` (2026-05-18)
 
 - [x] `skill/examples/vex/vexiq-drivetrain.py` (2026-05-18)
+
+- [x] `guides/future-edition-transition.md` — practical 2026/27 transition guide (2026-05-18)

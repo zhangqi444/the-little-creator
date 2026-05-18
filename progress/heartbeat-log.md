@@ -336,3 +336,8 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added VEX IQ Python drivetrain example to skill bundle; updated SKILL.md index
+
+## 2026-05-18 13:00 UTC
+
+- Both repos synced, zero open issues (fresh session)
+- Roadmap: added guides/future-edition-transition.md — Future Edition vs Founders Edition transition, buy SPIKE Prime decision, two-track timeline

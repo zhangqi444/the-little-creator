@@ -305,3 +305,8 @@
 - Both repos synced, zero open issues
 - Roadmap iteration: added guides/second-season.md for returning coaches (P3 persona)
 - Fixed resources/index.md: added missing parent-communication link
+
+## 2026-05-18 07:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap iteration: updated log.md with full wave-6/7/8 session history (8 entries)

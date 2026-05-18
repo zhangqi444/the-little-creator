@@ -276,3 +276,9 @@
 - Wave-6 guides already landed this session (registration, division eligibility, regional partners)
 - Heartbeat task: added 3 missing guides to guides/index.md (division-eligibility, registration-guide, registration-reference)
 - Updated roadmap.md with wave-6 summary
+
+## 2026-05-18 02:05 UTC
+
+- Both repos synced, zero open issues
+- Roadmap iteration: added guides/team-funding.md covering PDO grants, FIRST grants, local sponsor strategy with pitch template, fundraising options
+- Linked from guides/index.md

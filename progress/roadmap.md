@@ -66,3 +66,7 @@
 - [x] `resources/fll-resource-map.md` — expanded with 8 U.S. + Canada regional PDO entries
 - [x] `CUSTOM-GPT-SETUP.md` — regional sourcing rule, source confidence, link style, age collection pattern
 - [x] `guides/index.md` — linked new wave-6 guides
+
+## Wave 7 backlog
+
+- [x] `guides/team-funding.md` — grants, sponsors, fundraising for first-year teams (2026-05-18)

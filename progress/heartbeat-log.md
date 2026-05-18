@@ -294,3 +294,8 @@
 - Both repos synced, zero open issues
 - Roadmap iteration: updated CUSTOM-GPT-SETUP.md to route glossary/acronym questions and funding questions to correct guides
 - No new content file this heartbeat — system prompt wiring was the gap
+
+## 2026-05-18 05:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap iteration: updated resources/index.md to cross-link 6 missing wave-6/7 guides

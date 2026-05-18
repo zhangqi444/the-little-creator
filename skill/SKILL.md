@@ -26,8 +26,13 @@ Invoke when the user is:
 - **templates/** — Markdown templates families fill in. Read the file, copy
   the structure, customize the placeholders. Don't invent fields kids don't
   need.
+  - `engineering-notebook-entry.md` — single-session notebook entry
+  - `team-charter.md` — team agreements, roles, goals, and GP statement
 - **examples/fll/** — Working SPIKE Prime Python. Targets the official FLL
   kit; tune motor ports and constants per robot.
+  - `line-follower.py` — proportional line follower (beginner)
+  - `gyro-straight.py` — gyro-corrected straight drive + point turn helpers
+  - `mission-runner.py` — button-activated mission selector for competition day
 - **examples/vex/** — Working VEX V5 C++ (PROS framework). Tune drivetrain
   constants before relying on distance helpers.
 

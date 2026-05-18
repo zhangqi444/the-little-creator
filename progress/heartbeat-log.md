@@ -383,3 +383,10 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added guides/first-four-weeks.md — week 1-4 action plan for new P1 coaches (BRD outcome gap)
+
+## 2026-05-18 22:00 UTC
+
+- Session compacted; re-ran startup sequence
+- Both repos synced, zero open issues
+- Wired first-four-weeks into system prompt (new-coach routing pattern) + resources/index.md
+- Roadmap: added guides/tournament-week-prep.md — closes P1 BRD gap for 'week 12' guidance

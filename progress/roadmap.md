@@ -96,3 +96,6 @@
 - [x] `guides/robot-troubleshooting.md` (2026-05-18)
 
 - [x] `guides/first-four-weeks.md` — week-by-week new coach guide (2026-05-18)
+
+- [x] `guides/tournament-week-prep.md` — final 2 weeks before qualifier (2026-05-18)
+- [x] Wired first-four-weeks into system prompt + resources/index.md (2026-05-18)

@@ -54,6 +54,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Core Values Rubric](/for-educators/core-values-rubric/) — In-season observation rubric for coaches
 - [Classroom Assessment Rubric](/for-educators/assessment-rubric/) — 5-category rubric for grading and structured feedback
 - [Differentiation Guide](/for-educators/differentiation-guide/) — Adapting FLL/VEX for teams with mixed skill levels
+- [Parent Communication Guide](/for-educators/parent-communication/) — Templates and tips for keeping parents informed without getting overwhelmed
 
 ## How this section works
 

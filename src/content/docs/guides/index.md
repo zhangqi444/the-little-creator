@@ -14,6 +14,7 @@ Practical guides written from real experience — not theory. These are things w
 - [Division Eligibility — Which Program is Right for Your Child?](/guides/division-eligibility/) — Age ranges for Discover, Explore, and Challenge; how to handle the 9–10 overlap zone
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step: national FIRST registration plus your regional partner sign-up
 - [Funding Your FLL Team — Grants, Sponsors, and Fundraising](/guides/team-funding/) — How to cover registration, equipment, and travel costs; known grant programs and a sponsor pitch template
+- [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management
 - [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners
 
 ### Building and programming

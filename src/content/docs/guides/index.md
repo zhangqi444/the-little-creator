@@ -35,6 +35,7 @@ Practical guides written from real experience — not theory. These are things w
 - [Your First Tournament — What to Expect](/guides/first-tournament-expectations/) — The emotions, social dynamics, and how to help kids come out of it with a great experience
 
 ### Team culture
+- [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep the relationship healthy
 - [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like — concrete examples for kids, coaches, and parents
 - [Core Values Team Activities](/guides/core-values-activities/) — Practical team-building activities that help your team genuinely live FLL Core Values
 

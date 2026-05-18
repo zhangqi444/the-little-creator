@@ -36,6 +36,8 @@ Invoke when the user is:
   - `mission-runner.py` — button-activated mission selector for competition day
 - **examples/vex/** — Working VEX V5 C++ (PROS framework). Tune drivetrain
   constants before relying on distance helpers.
+  - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)
+  - `vexiq-drivetrain.py` — VEX IQ Python drivetrain helpers (VEXcode IQ API)
 
 ## Tone
 

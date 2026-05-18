@@ -25,6 +25,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [FLL Glossary](/getting-started/glossary/) — Plain-language definitions for PDO, YPP, GP, SPIKE Prime, and every other acronym you'll encounter
 - [Division Eligibility](/guides/division-eligibility/) — Which FLL division is right for your child; age ranges and the Discover/Explore/Challenge overlap zone
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step national + regional registration walkthrough
+- [Your First Four Weeks as an FLL Coach](/guides/first-four-weeks/) — Week-by-week action plan: first meeting, hardware session, exploring missions, dividing the work
 - [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for WA, OR, TX, CA, FL, MI, Mid-Atlantic, and international partners
 - [Funding Your FLL Team](/guides/team-funding/) — Grants, sponsor pitch template, and fundraising ideas
 - [FLL Future Edition Transition](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained for coaches

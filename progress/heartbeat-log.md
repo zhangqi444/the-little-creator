@@ -299,3 +299,9 @@
 
 - Both repos synced, zero open issues
 - Roadmap iteration: updated resources/index.md to cross-link 6 missing wave-6/7 guides
+
+## 2026-05-18 06:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap iteration: added guides/second-season.md for returning coaches (P3 persona)
+- Fixed resources/index.md: added missing parent-communication link

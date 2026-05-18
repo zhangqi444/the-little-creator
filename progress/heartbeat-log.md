@@ -316,3 +316,8 @@
 - Both repos synced, zero open issues
 - Roadmap iteration: added 2 SPIKE Prime Python examples to skill bundle (mission-runner, gyro-straight)
 - Targets P4 persona (student programmer using AI coding tools)
+
+## 2026-05-18 09:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added team-charter template (was advertised in SKILL.md but missing); updated SKILL.md to list all examples and templates

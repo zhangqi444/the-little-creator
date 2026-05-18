@@ -8,6 +8,7 @@ Practical guides written from real experience — not theory. These are things w
 ## Available Guides
 
 ### Getting started
+- [Your First Four Weeks as an FLL Coach](/guides/first-four-weeks/) — Week-by-week action plan for brand-new coaches: first meeting, hardware, exploring missions, dividing the work
 - [Forming a Team](/guides/forming-a-team/) — How to find members, set expectations, and structure your team
 - [FLL Equipment Guide](/guides/equipment-guide/) — What gear you need, what it costs, and how to get it without overspending
 - [Planning Your Season](/guides/season-planning/) — A timeline and checklist for surviving (and enjoying) a competition season

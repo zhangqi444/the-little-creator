@@ -26,7 +26,7 @@ FLL might seem overwhelming at first — there's hardware, software, teamwork, a
 2. **Register your team** — See the [How to Register guide](/guides/registration-guide/) for the step-by-step national + regional sign-up flow. If you're in Washington state, your regional partner is [FIRST Washington](https://firstwa.org).
 3. **Join or form a team** — See our [Community](/community/) section to find teammates, or our [Forming a Team guide](/guides/forming-a-team/).
 4. **Understand the gear** — See the [FLL Equipment Guide](/guides/equipment-guide/) for what you actually need and how to get it without overspending.
-5. **Start building** — Don't wait until you feel "ready." Just start.
+5. **Start building** — Don't wait until you feel "ready." Just start. For your first month, see the [First Four Weeks guide](/guides/first-four-weeks/) for a week-by-week plan.
 
 ## What to expect your first season
 

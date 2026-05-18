@@ -88,3 +88,5 @@
 - [x] Future Edition wired into system prompt + what-is-fll cross-link (2026-05-18)
 
 - [x] `guides/finding-mentors.md` (2026-05-18)
+
+- [x] `guides/fll-awards.md` — awards and advancement guide (2026-05-18)

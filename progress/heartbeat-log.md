@@ -351,3 +351,9 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added guides/finding-mentors.md — where to find technical experts, what to ask for, how to manage the relationship
+
+## 2026-05-18 16:00 UTC
+
+- Both repos synced, zero open issues
+- Cross-linked future-edition, second-season, finding-mentors to resources/index.md
+- Roadmap: added guides/fll-awards.md — all FLL awards explained, advancement mechanics, Champion's Award myth

@@ -28,6 +28,7 @@ Invoke when the user is:
   need.
   - `engineering-notebook-entry.md` — single-session notebook entry
   - `team-charter.md` — team agreements, roles, goals, and GP statement
+  - `season-plan.md` — full-season checklist with phases, weekly log, and post-season reflection
 - **examples/fll/** — Working SPIKE Prime Python. Targets the official FLL
   kit; tune motor ports and constants per robot.
   - `line-follower.py` — proportional line follower (beginner)

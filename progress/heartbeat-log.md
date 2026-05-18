@@ -346,3 +346,8 @@
 
 - Both repos synced, zero open issues
 - Roadmap: wired Future Edition transition guide into system prompt (BIOGLOW pattern) and added cross-link from what-is-fll.md
+
+## 2026-05-18 15:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added guides/finding-mentors.md — where to find technical experts, what to ask for, how to manage the relationship

@@ -326,3 +326,8 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added season-plan template to skill bundle (was advertised but missing)
+
+## 2026-05-18 11:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: updated CUSTOM-GPT-SETUP.md — added returning coach pattern, updated 2 of 4 conversation starters to reflect new guides

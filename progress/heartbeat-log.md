@@ -310,3 +310,9 @@
 
 - Both repos synced, zero open issues
 - Roadmap iteration: updated log.md with full wave-6/7/8 session history (8 entries)
+
+## 2026-05-18 08:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap iteration: added 2 SPIKE Prime Python examples to skill bundle (mission-runner, gyro-straight)
+- Targets P4 persona (student programmer using AI coding tools)

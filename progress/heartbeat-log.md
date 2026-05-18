@@ -378,3 +378,8 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added guides/robot-troubleshooting.md — drift, missed missions, tournament failures, 10-min fix checklist
+
+## 2026-05-18 21:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added guides/first-four-weeks.md — week 1-4 action plan for new P1 coaches (BRD outcome gap)

@@ -94,3 +94,5 @@
 - [x] `skill/examples/fll/sensors.py` + resources/index.md cleanup (2026-05-18)
 
 - [x] `guides/robot-troubleshooting.md` (2026-05-18)
+
+- [x] `guides/first-four-weeks.md` — week-by-week new coach guide (2026-05-18)

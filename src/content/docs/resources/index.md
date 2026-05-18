@@ -47,6 +47,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Preparing for FLL Judging](/guides/judging-prep/) — What all three judging panels look for
 - [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect
+- [Tournament Week Prep — Final Two Weeks Before Your Qualifier](/guides/tournament-week-prep/) — Robot freeze, 5x mission drill, mock judging, packing list, and keeping the team calm
 - [Your First Tournament](/guides/first-tournament-expectations/) — What to expect emotionally and socially
 
 ### Team culture

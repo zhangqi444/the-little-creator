@@ -70,3 +70,5 @@
 ## Wave 7 backlog
 
 - [x] `guides/team-funding.md` — grants, sponsors, fundraising for first-year teams (2026-05-18)
+
+- [x] `getting-started/glossary.md` — FLL acronyms and jargon for first-year families (2026-05-18)

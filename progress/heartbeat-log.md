@@ -282,3 +282,9 @@
 - Both repos synced, zero open issues
 - Roadmap iteration: added guides/team-funding.md covering PDO grants, FIRST grants, local sponsor strategy with pitch template, fundraising options
 - Linked from guides/index.md
+
+## 2026-05-18 03:05 UTC
+
+- Both repos synced, zero open issues
+- Roadmap iteration: added getting-started/glossary.md with full FLL term/acronym reference
+- Linked from getting-started/index.md

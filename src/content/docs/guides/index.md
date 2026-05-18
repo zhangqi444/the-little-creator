@@ -26,6 +26,7 @@ Practical guides written from real experience — not theory. These are things w
 - [Robot Maintenance Guide](/guides/robot-maintenance/) — Keeping SPIKE Prime and VEX IQ hardware in good shape through a full season
 
 ### Competition prep
+- [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth
 - [FLL Robot Strategy Guide](/guides/robot-strategy/) — How to analyse missions, prioritise by expected value, and build a run strategy
 - [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
 - [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record, when, and how to make judges take notice

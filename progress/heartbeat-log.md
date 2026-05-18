@@ -288,3 +288,9 @@
 - Both repos synced, zero open issues
 - Roadmap iteration: added getting-started/glossary.md with full FLL term/acronym reference
 - Linked from getting-started/index.md
+
+## 2026-05-18 04:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap iteration: updated CUSTOM-GPT-SETUP.md to route glossary/acronym questions and funding questions to correct guides
+- No new content file this heartbeat — system prompt wiring was the gap

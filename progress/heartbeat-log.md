@@ -373,3 +373,8 @@
 
 - Both repos synced, zero open issues
 - Roadmap: cross-linked skill bundle examples from python-intermediate and robot-programming-basics guides
+
+## 2026-05-18 20:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added guides/robot-troubleshooting.md — drift, missed missions, tournament failures, 10-min fix checklist

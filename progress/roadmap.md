@@ -92,3 +92,5 @@
 - [x] `guides/fll-awards.md` — awards and advancement guide (2026-05-18)
 
 - [x] `skill/examples/fll/sensors.py` + resources/index.md cleanup (2026-05-18)
+
+- [x] `guides/robot-troubleshooting.md` (2026-05-18)

@@ -362,3 +362,9 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added awards/advancement and mentor routing patterns to CUSTOM-GPT-SETUP.md system prompt
+
+## 2026-05-18 18:00 UTC
+
+- Both repos synced, zero open issues
+- Fixed: resources/index.md now has all 25 guides cross-linked (fll-awards, registration-reference added)
+- Roadmap: added skill/examples/fll/sensors.py — color/distance/force sensor patterns for P4

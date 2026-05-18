@@ -78,3 +78,5 @@
 - [x] `skill/examples/fll/mission-runner.py` + `gyro-straight.py` — SPIKE Prime examples for P4 (2026-05-18)
 
 - [x] `skill/templates/team-charter.md` + SKILL.md index update (2026-05-18)
+
+- [x] `skill/templates/season-plan.md` (2026-05-18)

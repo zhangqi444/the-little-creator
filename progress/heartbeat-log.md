@@ -321,3 +321,8 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added team-charter template (was advertised in SKILL.md but missing); updated SKILL.md to list all examples and templates
+
+## 2026-05-18 10:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added season-plan template to skill bundle (was advertised but missing)

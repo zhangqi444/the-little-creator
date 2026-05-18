@@ -25,6 +25,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [FLL Glossary](/getting-started/glossary/) — Plain-language definitions for PDO, YPP, GP, SPIKE Prime, and every other acronym you'll encounter
 - [Division Eligibility](/guides/division-eligibility/) — Which FLL division is right for your child; age ranges and the Discover/Explore/Challenge overlap zone
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step national + regional registration walkthrough
+- [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for WA, OR, TX, CA, FL, MI, Mid-Atlantic, and international partners
 - [Funding Your FLL Team](/guides/team-funding/) — Grants, sponsor pitch template, and fundraising ideas
 - [FLL Future Edition Transition](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained for coaches
 - [Your Second FLL Season](/guides/second-season/) — The 10 changes returning coaches make; covers robot strategy, IP depth, and judging prep
@@ -42,6 +43,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
 - [Innovation Project Guide](/guides/innovation-project-guide/) — Research, design, and present your Innovation Project
 - [Preparing for FLL Judging](/guides/judging-prep/) — What all three judging panels look for
+- [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect
 - [Your First Tournament](/guides/first-tournament-expectations/) — What to expect emotionally and socially
 

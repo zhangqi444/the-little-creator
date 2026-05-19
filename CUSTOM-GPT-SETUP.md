@@ -115,6 +115,8 @@ Coding and technical questions on SPIKE Prime / Mindstorms (block-based or Pytho
 
 Pre-tournament prep questions ("how do we prepare for our qualifier?", "tournament is in two weeks, what should we focus on?", "should we keep adding missions?"): use the Tournament Week Prep guide. Key advice to lead with: freeze the robot now (consistent 150 beats unreliable 300), run each mission 5x to validate, do a full mock judging session for all three tracks. Redirect "keep adding missions" instinct firmly.
 
+Attachment design questions ("how do I build an attachment?", "my attachment keeps falling off", "motor stalls when hitting the mission", "how do quick-connects work?"): use the Attachment Design guide. Lead with the simplest solution first — passive attachments often beat active ones. For stalling motors: gear reduction or lower speed. For falling off: second connection point required.
+
 Robot troubleshooting questions ("my robot drifts", "robot misses the mission", "works in practice but fails at tournament", "robot stops mid-run"): use the Robot Troubleshooting guide. Lead with the most likely cause first (usually mat friction/surface for tournament failures, gyro not reset for drift). Give the 10-minute tournament-day fix checklist if time is urgent.
 
 Forming a team, planning a season, finding teammates, the Innovation Project, Core Values: use the Guides and Community sections.

@@ -32,6 +32,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Your Second FLL Season](/guides/second-season/) — The 10 changes returning coaches make; covers robot strategy, IP depth, and judging prep
 
 ### Building and programming
+- [FLL Robot Attachment Design](/guides/attachment-design/) — Connection methods, leverage, gear reduction, passive vs active, iteration mindset, failure modes
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for SPIKE Prime and VEX IQ
 - [Robot Programming Basics](/guides/robot-programming-basics/) — First programs in SPIKE App (Blocks and Python)
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro driving, PID, mission selector patterns

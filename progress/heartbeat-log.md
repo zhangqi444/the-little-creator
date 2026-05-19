@@ -406,3 +406,8 @@
 - Both repos synced, zero open issues
 - Wired after-advancing into system prompt + resources/index.md
 - Roadmap: added guides/coaching-without-doing.md — question technique, dominant/disengaged kids, letting things fail
+
+## 2026-05-19 11:00 UTC
+
+- Both repos synced, zero open issues
+- Wired coaching-without-doing into system prompt (coaching technique pattern) + resources/index.md

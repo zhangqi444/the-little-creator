@@ -456,3 +456,9 @@
 - Added 5 more routing patterns (drivetrain, practice, Python, maintenance, first tournament)
 - All 33 guides now have routing coverage in system prompt (28+5 = 33 patterns)
 - Created skill/ingest-source/SKILL.md — implements ARCHITECTURE.md Phase 2 ingest workflow
+
+## 2026-05-19 19:00 UTC
+
+- Both repos synced, zero open issues
+- Added scripts/lint-frontmatter.mjs + npm script (lint:frontmatter)
+- Workflow CI step needs manual addition by maintainer (PAT lacks workflow scope)

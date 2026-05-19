@@ -113,3 +113,12 @@
 
 - [x] `skill/ingest-source/SKILL.md` — Phase 2 ingest workflow skill (2026-05-19)
 - [x] All 33 guides wired into system prompt routing (2026-05-19)
+
+- [x] `scripts/lint-frontmatter.mjs` + npm script (2026-05-19) — PAT lacks workflow scope, CI wiring needs manual add
+
+### ⚠️ Needs human action
+- Add frontmatter lint step to `.github/workflows/pr-checks.yml` (PAT lacks `workflow` scope to push):
+  ```yaml
+      - name: Frontmatter lint
+        run: npm run lint:frontmatter
+  ```

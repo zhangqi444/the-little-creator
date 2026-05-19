@@ -34,6 +34,7 @@ Practical guides written from real experience — not theory. These are things w
 - [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
 - [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record, when, and how to make judges take notice
 - [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges
+- [How to Interview an Expert for Your Innovation Project](/guides/ip-expert-interview/) — Question preparation, roles during the call, using what you learn, and what judges look for in expert evidence
 - [Preparing for FLL Judging](/guides/judging-prep/) — What judges look for across all three sessions, and how to help your team present with confidence
 - [After Advancing — Preparing for Regionals or State Championship](/guides/after-advancing/) — What changes at the next level, 3-week prep plan, managing expectations with kids and parents
 - [Tournament Week Prep — Final Two Weeks Before Your Qualifier](/guides/tournament-week-prep/) — Robot freeze, 5x mission drill, mock judging, packing list, keeping the team calm

@@ -449,3 +449,10 @@
 - Both repos synced, zero open issues (WhatsApp reconnect noted)
 - Added 4 more routing patterns: Core Values, robot programming beginners, tournament day logistics, team formation
 - Total routing patterns: 28
+
+## 2026-05-19 18:00 UTC
+
+- Both repos synced, zero open issues
+- Added 5 more routing patterns (drivetrain, practice, Python, maintenance, first tournament)
+- All 33 guides now have routing coverage in system prompt (28+5 = 33 patterns)
+- Created skill/ingest-source/SKILL.md — implements ARCHITECTURE.md Phase 2 ingest workflow

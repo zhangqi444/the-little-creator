@@ -110,3 +110,6 @@
 - [x] `guides/attachment-design.md` (2026-05-19)
 
 - [x] `guides/ip-expert-interview.md` (2026-05-19)
+
+- [x] `skill/ingest-source/SKILL.md` — Phase 2 ingest workflow skill (2026-05-19)
+- [x] All 33 guides wired into system prompt routing (2026-05-19)

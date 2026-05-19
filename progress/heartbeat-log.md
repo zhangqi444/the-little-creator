@@ -411,3 +411,11 @@
 
 - Both repos synced, zero open issues
 - Wired coaching-without-doing into system prompt (coaching technique pattern) + resources/index.md
+
+## 2026-05-19 12:00 UTC
+
+- Both repos synced, zero open issues
+- Fixed forming-a-team.md missing frontmatter
+- Added coaching-without-doing cross-link to second-season.md
+- Wired coaching-without-doing into system prompt + resources/index.md
+- Roadmap: added guides/when-a-kid-wants-to-quit.md — motivation, push vs let go, graceful exit

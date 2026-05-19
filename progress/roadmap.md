@@ -99,3 +99,5 @@
 
 - [x] `guides/tournament-week-prep.md` — final 2 weeks before qualifier (2026-05-18)
 - [x] Wired first-four-weeks into system prompt + resources/index.md (2026-05-18)
+
+- [x] `guides/after-advancing.md` — preparing for regionals/state championship (2026-05-19)

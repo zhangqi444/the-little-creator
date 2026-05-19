@@ -395,3 +395,8 @@
 
 - Both repos synced, zero open issues
 - Wired tournament-week-prep into system prompt (pre-tournament routing) + resources/index.md
+
+## 2026-05-19 09:00 UTC
+
+- Both repos synced, zero open issues
+- Roadmap: added guides/after-advancing.md — 3-week prep for teams advancing to regionals

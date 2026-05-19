@@ -400,3 +400,9 @@
 
 - Both repos synced, zero open issues
 - Roadmap: added guides/after-advancing.md — 3-week prep for teams advancing to regionals
+
+## 2026-05-19 10:00 UTC
+
+- Both repos synced, zero open issues
+- Wired after-advancing into system prompt + resources/index.md
+- Roadmap: added guides/coaching-without-doing.md — question technique, dominant/disengaged kids, letting things fail

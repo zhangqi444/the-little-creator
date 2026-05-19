@@ -101,3 +101,5 @@
 - [x] Wired first-four-weeks into system prompt + resources/index.md (2026-05-18)
 
 - [x] `guides/after-advancing.md` — preparing for regionals/state championship (2026-05-19)
+
+- [x] `guides/coaching-without-doing.md` — stepping back as a coach (2026-05-19)

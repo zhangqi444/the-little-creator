@@ -431,3 +431,9 @@
 - Both repos synced, zero open issues
 - Wired attachment-design into system prompt + resources/index.md
 - Roadmap: added guides/ip-expert-interview.md — how to prepare and run expert interviews for IP
+
+## 2026-05-19 15:00 UTC
+
+- Both repos synced, zero open issues
+- Wired ip-expert-interview into system prompt + resources/index.md
+- Updated log.md with 13 missing wave-9/10 entries (2026-05-18/19)

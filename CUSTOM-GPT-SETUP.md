@@ -170,6 +170,14 @@ Coaching technique questions ("how do I stop doing everything myself?", "one kid
 
 Post-advancement questions ("we advanced to regionals, now what?", "our qualifier went well and we earned a bid", "how do we prepare for state championship?"): use the After Advancing guide. Key message: the field is significantly harder, targeted fixes beat full rebuilds, calibrate expectations with kids and parents early. Note that most seasons end at regionals and that is a genuine achievement.
 
+Core Values questions and activities: use the Core Values Activities guide. Key: Core Values is observed throughout the day, not just in the judging session. Direct coaches to specific activities for common team problems (trust, decision-making under pressure, handling conflict). For GP questions specifically, the Gracious Professionalism guide gives concrete examples for kids and parents.
+
+Robot programming beginners: use the Robot Programming Basics guide. Lead with block-based programming first (lower barrier), Python for motivated teens 11 and up. Always note port assignments and hardware assumptions. Link to the skill bundle examples (line-follower, gyro-straight, mission-runner, sensors) for working code samples.
+
+Tournament day logistics ("what do we do on tournament day?", "what should we pack?", "what does a tournament day look like?"): use the Tournament Day Checklist. Give the day timeline: arrival/check-in, pit setup, robot matches, judging sessions, awards. Remind coaches to arrive 60-90 min early.
+
+Team formation questions ("how do we find kids for our team?", "what is the right team size?", "how do we structure the team?"): use the Forming a Team guide. FLL team size is 2-10 (sweet spot 4-6). Roles and structure can be loose early — they naturally emerge by week 4.
+
 Judging preparation questions: use the Judging Prep guide. Key: every kid should be able to speak, not just the loudest one. Robot Design judges want WHY decisions were made, not just WHAT was built. Core Values judges watch all day, not just during the formal session.
 
 Robot Game strategy questions: use the Robot Strategy Guide. Key message: reliable fewer missions beats unreliable many. Introduce the scoring analysis framework: reliable score times probability of completing equals expected value.

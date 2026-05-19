@@ -108,3 +108,5 @@
 - [x] Fix forming-a-team.md frontmatter (2026-05-19)
 
 - [x] `guides/attachment-design.md` (2026-05-19)
+
+- [x] `guides/ip-expert-interview.md` (2026-05-19)

@@ -425,3 +425,9 @@
 - Both repos synced, zero open issues
 - Wired when-a-kid-wants-to-quit into system prompt + resources/index.md
 - Roadmap: added guides/attachment-design.md — connection methods, leverage, gear reduction, iteration
+
+## 2026-05-19 14:00 UTC
+
+- Both repos synced, zero open issues
+- Wired attachment-design into system prompt + resources/index.md
+- Roadmap: added guides/ip-expert-interview.md — how to prepare and run expert interviews for IP

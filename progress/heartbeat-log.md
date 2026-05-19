@@ -437,3 +437,9 @@
 - Both repos synced, zero open issues
 - Wired ip-expert-interview into system prompt + resources/index.md
 - Updated log.md with 13 missing wave-9/10 entries (2026-05-18/19)
+
+## 2026-05-19 16:00 UTC
+
+- Both repos synced, zero open issues
+- Added 6 missing routing patterns to system prompt (judging, robot strategy, equipment, season planning, notebook, IP process)
+- Total routing patterns: 24

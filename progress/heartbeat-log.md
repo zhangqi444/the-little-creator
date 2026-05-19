@@ -419,3 +419,9 @@
 - Added coaching-without-doing cross-link to second-season.md
 - Wired coaching-without-doing into system prompt + resources/index.md
 - Roadmap: added guides/when-a-kid-wants-to-quit.md — motivation, push vs let go, graceful exit
+
+## 2026-05-19 13:00 UTC
+
+- Both repos synced, zero open issues
+- Wired when-a-kid-wants-to-quit into system prompt + resources/index.md
+- Roadmap: added guides/attachment-design.md — connection methods, leverage, gear reduction, iteration

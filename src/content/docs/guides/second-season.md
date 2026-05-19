@@ -145,6 +145,7 @@ The teams that burn out are usually the ones who made it too serious too fast. K
 
 ## Related
 
+- [Coaching Without Doing It For Them](/guides/coaching-without-doing/) — Year two is when stepping back becomes possible; this guide shows how
 - [Season Planning](/guides/season-planning/) — month-by-month calendar for the full season
 - [FLL Robot Strategy Guide](/guides/robot-strategy/) — mission scoring and run strategy
 - [Preparing for FLL Judging](/guides/judging-prep/) — what each panel is looking for

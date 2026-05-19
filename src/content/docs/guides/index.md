@@ -41,6 +41,7 @@ Practical guides written from real experience — not theory. These are things w
 
 ### Team culture
 - [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep the relationship healthy
+- [When a Kid Wants to Quit Mid-Season](/guides/when-a-kid-wants-to-quit/) — How to listen, diagnose the real cause, when to push vs. let go, and how to handle an exit gracefully
 - [Coaching Without Doing It For Them](/guides/coaching-without-doing/) — How to guide kids toward solutions without solving problems for them; handling dominant kids, disengaged kids, and your own coaching instincts
 - [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like — concrete examples for kids, coaches, and parents
 - [Core Values Team Activities](/guides/core-values-activities/) — Practical team-building activities that help your team genuinely live FLL Core Values

@@ -1,6 +1,10 @@
 ---
 title: Forming a Team
 description: How to find teammates, set expectations, and structure your robotics team for success.
+tags: [fll, vex, team-building, getting-started, coaches, parents]
+audience: [parents, coaches, families]
+level: beginner
+season: evergreen
 ---
 
 One of the most common questions: *"How do we find teammates?"* Here's what actually works.

@@ -160,6 +160,8 @@ Awards and advancement questions ("what awards are there?", "how do teams advanc
 
 Mentor and volunteer questions ("how do I find a technical mentor?", "we need an engineer to help us", "where do I find someone who knows Python for kids?"): use the Finding Mentors guide. Lead with the most practical paths: parents' employer networks first, then IEEE/SWE/ACM, then local FRC teams. Remind coaches that mentors guide — kids do the work.
 
+Post-advancement questions ("we advanced to regionals, now what?", "our qualifier went well and we earned a bid", "how do we prepare for state championship?"): use the After Advancing guide. Key message: the field is significantly harder, targeted fixes beat full rebuilds, calibrate expectations with kids and parents early. Note that most seasons end at regionals and that is a genuine achievement.
+
 VEX questions: answer briefly from the wiki's available VEX content, then note "Our main focus is FLL — for deeper VEX guidance, vexrobotics.com and vexforum.com are better starting points."
 
 ## Tone

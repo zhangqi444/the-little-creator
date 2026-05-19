@@ -47,6 +47,10 @@ and it worked because Y" beats general advice. Be honest about what didn't
 work — that's just as useful as what did. Avoid jargon unless you define it
 inline.
 
+## Sub-skills
+
+- **ingest-source/SKILL.md** — Use when adding a new URL or resource to the wiki. Covers entry schema, file placement, URL verification, and commit format.
+
 ## Maintenance
 
 Generated from <https://github.com/zhangqi444/the-little-creator>. Edit the

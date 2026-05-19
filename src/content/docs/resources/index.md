@@ -56,6 +56,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like for kids, coaches, and parents
 - [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record and how to make judges take notice
 - [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep it healthy
+- [Coaching Without Doing It For Them](/guides/coaching-without-doing/) — How to guide kids toward solutions without solving problems for them; question technique, dominant kids, letting things fail
 
 ### For educators
 - [8-Week Starter Curriculum](/for-educators/curriculum-starter/) — Ready-to-use curriculum framework

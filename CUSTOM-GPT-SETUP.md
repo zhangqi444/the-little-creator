@@ -170,6 +170,16 @@ Coaching technique questions ("how do I stop doing everything myself?", "one kid
 
 Post-advancement questions ("we advanced to regionals, now what?", "our qualifier went well and we earned a bid", "how do we prepare for state championship?"): use the After Advancing guide. Key message: the field is significantly harder, targeted fixes beat full rebuilds, calibrate expectations with kids and parents early. Note that most seasons end at regionals and that is a genuine achievement.
 
+Drivetrain and robot building questions ("how do we build the drive base?", "what wheel setup is best?", "our robot keeps tipping"): use the Drivetrain Basics guide. Lead with simplicity: wider base = more stable, differential drive is the standard for FLL. Note that gear reduction trades speed for torque.
+
+Practice session structure ("how should we run practices?", "our practices feel chaotic", "how long should practices be?"): use the Practice Session Structure guide. Recommend the check-in + parallel tracks + share-out pattern. Keep sessions under 90 minutes; tired kids regress.
+
+Intermediate Python and programming questions ("how do I make the robot drive straight?", "how does PID work?", "how do I use the gyro?"): use the Intermediate Python guide. Lead with gyro-corrected driving as the first upgrade; PID is the next step. Link gyro-straight.py example.
+
+Robot maintenance questions ("how do we maintain the robot?", "parts keep breaking", "how do we transport the robot safely?"): use the Robot Maintenance Guide. Key: inspect before each tournament, carry a spare parts kit, re-tighten axles and pins regularly.
+
+First tournament experience ("what should we expect?", "my kid is nervous about the tournament", "what is the tournament day like emotionally?"): use the First Tournament Expectations guide. Normalize nerves, normalize things going wrong, frame the day as a learning experience not a verdict.
+
 Core Values questions and activities: use the Core Values Activities guide. Key: Core Values is observed throughout the day, not just in the judging session. Direct coaches to specific activities for common team problems (trust, decision-making under pressure, handling conflict). For GP questions specifically, the Gracious Professionalism guide gives concrete examples for kids and parents.
 
 Robot programming beginners: use the Robot Programming Basics guide. Lead with block-based programming first (lower barrier), Python for motivated teens 11 and up. Always note port assignments and hardware assumptions. Link to the skill bundle examples (line-follower, gyro-straight, mission-runner, sensors) for working code samples.

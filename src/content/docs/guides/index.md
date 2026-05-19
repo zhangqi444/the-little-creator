@@ -21,6 +21,7 @@ Practical guides written from real experience — not theory. These are things w
 
 ### Building and programming
 - [Robot Troubleshooting — Common Problems and Fixes](/guides/robot-troubleshooting/) — Drift, missed missions, attachment failures, tournament-day breakdowns, and quick fixes
+- [FLL Robot Attachment Design](/guides/attachment-design/) — How to design, build, and test effective attachments; connection methods, leverage, gear reduction, iteration, and notebook documentation
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for FLL (SPIKE Prime) and VEX IQ robots
 - [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro-corrected driving, basic PID, mission selector patterns, and debugging

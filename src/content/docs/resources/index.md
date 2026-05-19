@@ -45,6 +45,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [FLL Robot Strategy Guide](/guides/robot-strategy/) — Mission prioritisation, expected value, and run planning
 - [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
 - [Innovation Project Guide](/guides/innovation-project-guide/) — Research, design, and present your Innovation Project
+- [How to Interview an Expert for Your Innovation Project](/guides/ip-expert-interview/) — Question prep, roles during the call, using what you learn, what judges look for in expert evidence
 - [Preparing for FLL Judging](/guides/judging-prep/) — What all three judging panels look for
 - [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect

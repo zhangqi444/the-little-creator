@@ -495,3 +495,19 @@
   - Added 3 missing 2026-05-19 entries: routing-patterns for all 33 guides, skill/ingest-source/SKILL.md initial add, scripts/lint-frontmatter.mjs add
   - Updated progress/roadmap.md to mark log catch-up done
   - Committed and pushed: 521898f
+
+## 2026-05-23 03:58 UTC
+
+- Synced both repos (both already up to date)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap task completed: `getting-started/what-is-fll.md` Wave 9 update (BIOGLOW 2026-27 season)
+  - Updated description and tags (added bioglow, canopy, season-2026-27)
+  - Added `season: evergreen` frontmatter field
+  - Updated active-season note: 2025/26 UNEARTHED wrapping up; BIOGLOW begins August 2026
+  - Renamed "What's changing" section to include "BIOGLOW"
+  - Added season-change timing block: June 8-15 Dashboard maintenance, July Storefront, Sept Game Set purchases
+  - Added Future Edition Transition guide to "Where to go next"
+  - Added log.md entry for the change
+  - Updated progress/roadmap.md to mark task done
+  - Commits: da34616 (what-is-fll update), fbf6874 (log entry), pushed to main

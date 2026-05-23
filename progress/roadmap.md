@@ -129,7 +129,7 @@
 
 ## Wave 9 backlog (next tasks)
 
-- [ ] `getting-started/what-is-fll.md` — review and update for Future Edition / BIOGLOW 2026-27 season; add note about season-change timing
+- [x] `getting-started/what-is-fll.md` — review and update for Future Edition / BIOGLOW 2026-27 season; add note about season-change timing (2026-05-23)
 - [ ] `discovery-sources.json` — add predictive watchlist entries for 2026-27 season (BIOGLOW PDO pages for major regions)
 - [ ] `resources/fll-resource-map.md` — audit existing entries for broken links; refresh any 404s
 - [x] `guides/index.md` — verify all guide cards/links reflect current groupings (align with sidebar) (2026-05-23)

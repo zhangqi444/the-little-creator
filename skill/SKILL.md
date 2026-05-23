@@ -26,10 +26,19 @@ Invoke when the user is:
 - **templates/** — Markdown templates families fill in. Read the file, copy
   the structure, customize the placeholders. Don't invent fields kids don't
   need.
+  - `engineering-notebook-entry.md` — single-session notebook entry
+  - `team-charter.md` — team agreements, roles, goals, and GP statement
+  - `season-plan.md` — full-season checklist with phases, weekly log, and post-season reflection
 - **examples/fll/** — Working SPIKE Prime Python. Targets the official FLL
   kit; tune motor ports and constants per robot.
+  - `line-follower.py` — proportional line follower (beginner)
+  - `gyro-straight.py` — gyro-corrected straight drive + point turn helpers
+  - `mission-runner.py` — button-activated mission selector for competition day
+  - `sensors.py` — color detection, distance stop, force sensor patterns for FLL missions
 - **examples/vex/** — Working VEX V5 C++ (PROS framework). Tune drivetrain
   constants before relying on distance helpers.
+  - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)
+  - `vexiq-drivetrain.py` — VEX IQ Python drivetrain helpers (VEXcode IQ API)
 
 ## Tone
 
@@ -37,6 +46,10 @@ Write for parents and kids, not engineers. Concrete beats abstract: "we did X
 and it worked because Y" beats general advice. Be honest about what didn't
 work — that's just as useful as what did. Avoid jargon unless you define it
 inline.
+
+## Sub-skills
+
+- **ingest-source/SKILL.md** — Use when adding a new URL or resource to the wiki. Covers entry schema, file placement, URL verification, and commit format.
 
 ## Maintenance
 

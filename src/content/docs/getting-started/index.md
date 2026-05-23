@@ -15,18 +15,23 @@ FLL might seem overwhelming at first — there's hardware, software, teamwork, a
 ## Start here
 
 - [**What is FLL?**](/getting-started/what-is-fll/) — A plain-language overview of the program: the three divisions, what a Challenge season looks like, and what's changing with the Future Edition transition.
+- [**FLL Glossary**](/getting-started/glossary/) — Plain-language definitions for the acronyms and jargon you'll hit as a first-year family: PDO, YPP, GP, SPIKE Prime, and more.
+- [**Division Eligibility**](/guides/division-eligibility/) — Which FLL division is right for your child? Age ranges, the Discover/Explore/Challenge overlap zone, and how to handle edge cases.
+- [**What is VEX?**](/getting-started/what-is-vex/) — VEX IQ, V5, and how it differs from FLL.
+- [**Robotics Progression Guide**](/getting-started/progression-guide/) — How to think about the journey from FLL through VEX IQ to VEX V5: when to level up and what changes.
 
 ## First steps for any family
 
 1. **Find a local competition** — Search [FLL's official site](https://www.firstlegoleague.org) or [RobotEvents.com](https://www.robotevents.com) for events near you. If you are outside the US, find your country's regional partner via the [FLL Resource Map](/resources/fll-resource-map/).
-2. **Join or form a team** — See our [Community](/community/) section to find teammates, or our [Forming a Team guide](/guides/forming-a-team/).
-3. **Get the tools** — Check the [FLL Resource Map](/resources/fll-resource-map/) for the official kit, software, and learning materials.
-4. **Start building** — Don't wait until you feel "ready." Just start.
+2. **Register your team** — See the [How to Register guide](/guides/registration-guide/) for the step-by-step national + regional sign-up flow. If you're in Washington state, your regional partner is [FIRST Washington](https://firstwa.org).
+3. **Join or form a team** — See our [Community](/community/) section to find teammates, or our [Forming a Team guide](/guides/forming-a-team/).
+4. **Understand the gear** — See the [FLL Equipment Guide](/guides/equipment-guide/) for what you actually need and how to get it without overspending.
+5. **Start building** — Don't wait until you feel "ready." Just start. For your first month, see the [First Four Weeks guide](/guides/first-four-weeks/) for a week-by-week plan.
 
 ## What to expect your first season
 
-Your first season will feel chaotic. That's normal. You'll probably spend more time figuring out logistics than actually programming. By season two, things click. Stay the course.
+Your first season will feel chaotic. That's normal. You'll probably spend more time figuring out logistics than actually programming. By season two, things click. Stay the course. See [Your First Tournament — What to Expect](/guides/first-tournament-expectations/) for the emotional side of it.
 
 ## Looking beyond FLL?
 
-Many kids progress from FLL into [VEX Robotics](/getting-started/what-is-vex/) (ages 11–18+) once they've got a season or two under their belt. We have starter content for VEX too, but our primary focus right now is FLL.
+Many kids progress from FLL into [VEX Robotics](/getting-started/what-is-vex/) (ages 11–18+) once they've got a season or two under their belt. The [Progression Guide](/getting-started/progression-guide/) covers when and how to make that move.

@@ -462,3 +462,15 @@
 - Both repos synced, zero open issues
 - Added scripts/lint-frontmatter.mjs + npm script (lint:frontmatter)
 - Workflow CI step needs manual addition by maintainer (PAT lacks workflow scope)
+
+## 2026-05-23 00:58 UTC
+
+- Both repos synced (already up to date)
+- Zero open issues on either repo
+- Step 3 — Roadmap: expanded `astro.config.mjs` sidebar
+  - Old sidebar: 9 entries (original scaffolding only)
+  - New sidebar: 65 label entries covering all 34+ guides and resource pages
+  - Guides reorganized into 5 collapsible sub-groups (Getting Started / Building & Programming / Competition Prep / Team Culture / Returning Coaches)
+  - Added VEX Resource Map, Progression Guide, Glossary, and all For Educators pages
+  - Commit `cf0434d`, pushed to main
+- Updated progress/roadmap.md with Wave 9 backlog

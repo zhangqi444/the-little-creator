@@ -122,3 +122,15 @@
       - name: Frontmatter lint
         run: npm run lint:frontmatter
   ```
+
+## Wave 8 sidebar update (2026-05-23)
+
+- [x] `astro.config.mjs` sidebar expansion — all 34+ guides now appear in website navigation, grouped into collapsible sub-sections
+
+## Wave 9 backlog (next tasks)
+
+- [ ] `getting-started/what-is-fll.md` — review and update for Future Edition / BIOGLOW 2026-27 season; add note about season-change timing
+- [ ] `discovery-sources.json` — add predictive watchlist entries for 2026-27 season (BIOGLOW PDO pages for major regions)
+- [ ] `resources/fll-resource-map.md` — audit existing entries for broken links; refresh any 404s
+- [ ] `guides/index.md` — verify all guide cards/links reflect current groupings (align with sidebar)
+- [ ] `src/content/docs/log.md` — catch up log with any missing entries from May 19 onwards

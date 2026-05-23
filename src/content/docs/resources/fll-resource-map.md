@@ -441,11 +441,11 @@ The FIRST LEGO League Asia Pacific Open Championship is a regional invitational 
 - **Tags:** fll, regional-partner, usa, california, southern-california
 - **Use when:** You are in Southern California and need local FLL team registration, qualifying events, or regional program info.
 
-FIRST California (CA FIRST) is the Program Delivery Organization for Southern California. Covers FLL Challenge, Explore, and Discover divisions. For Northern California, see FIRST NorCal (firstnorcal.org) — California is split into two PDOs. Registration and event info are on the FIRST Dashboard nationally; CA FIRST manages local qualifying events and state championship pathways.
+FIRST California (CA FIRST) is the Program Delivery Organization for Southern California. Covers FLL Challenge, Explore, and Discover divisions. For Northern California, see FIRST NorCal (norcalfll.org) — California is split into two PDOs. Registration and event info are on the FIRST Dashboard nationally; CA FIRST manages local qualifying events and state championship pathways.
 
 ### FIRST NorCal — Northern California
 
-- **URL:** https://firstnorcal.org
+- **URL:** https://www.norcalfll.org
 - **Authority:** official
 - **Audience:** families, coaches, teachers, teams
 - **Level:** all
@@ -456,7 +456,7 @@ FIRST NorCal is the Program Delivery Organization for Northern California. Calif
 
 ### FIRST in Florida — firstinflorida.org
 
-- **URL:** https://firstinflorida.org/programs/first-lego-league
+- **URL:** https://firstinflorida.org/first-lego-league/
 - **Authority:** official
 - **Audience:** families, coaches, teachers, teams
 - **Level:** all

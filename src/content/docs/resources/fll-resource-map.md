@@ -74,6 +74,17 @@ The current FLL season hub on FIRST. **UNEARTHED** is the 2025/26 theme — team
 
 The official downloads hub for the current season's materials. More expansive than the bare rule manuals at firstlegoleague.org/season — includes building instructions, support videos, family engagement materials, and event resources. Click each division block to drill into role-specific downloads.
 
+### CANOPY 2026/27 registration timeline + new FIRST Dashboard / Storefront
+
+- **URL:** https://www.firstinspires.org/first-canopy
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, ftc, frc, season-2026-27, canopy, registration, dashboard, storefront, time-sensitive
+- **Use when:** You are registering (or planning to register) for the 2026/27 FIRST CANOPY season and need the updated timeline — especially the Dashboard maintenance window and the new Storefront launch.
+
+For 2026/27 (FIRST CANOPY — three biodiversity-themed challenges: BIOGLOW for FLL, BIOBUZZ for FTC, BIOCORE for FRC), FIRST is rolling out a refreshed Dashboard and a brand-new Storefront. Key dates announced by FIRST in May 2026: **June 8–15 the Dashboard is closed for maintenance** (add students to your 2025-26 roster before this window if you have a late-season event). **After June 15** teams and Class Packs can mark intent to participate in CANOPY on an updated team profile. **In July** the new Storefront launches — registration purchases and grant management move there. **In September** registered teams can purchase Game Sets via the Storefront (grant-funded purchases should wait for this). Watch the [FIRST Community blog](https://community.firstinspires.org/) for follow-up posts on Dashboard and Storefront specifics.
+
 ### Past Challenges archive (FIRST)
 
 - **URL:** https://www.firstinspires.org/resources/library/fll/past-challenges

@@ -157,6 +157,14 @@
       "frequency": "weekly",
       "verified": true,
       "look_for": "Press releases mentioning FIRST LEGO League, season launches, partnership news, major program changes. Surface only FLL-related items."
+    },
+    {
+      "url": "https://community.firstinspires.org/topic/fll/",
+      "name": "FIRST Community blog — FLL feed",
+      "tags": ["first", "fll", "community-blog", "announcements", "high-signal"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "FIRST staff and FIRST LEGO League staff posts. High-signal channel for season launches, Dashboard / Storefront changes, Future Edition rollout, championship recaps. Surfaced examples to watch for: posts in 2026 about CANOPY registration timeline, Dashboard maintenance windows, the new Storefront launch."
     }
   ]
 }

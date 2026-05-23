@@ -2,6 +2,8 @@
 
 How we meet the requirements in [`BRD.md`](BRD.md). This document covers the *how*; the *why* and *what* live in the BRD.
 
+The architecture is **program-agnostic** — the wiki source-of-truth, generator scripts, copyright lint, discovery agent, and freshness agent all work identically whether the source covers FLL, FTC, FRC, VEX IQ, VEX V5, or VEX U. Per-program specifics (resource maps, season planning, equipment guides) live in the wiki content, not the platform.
+
 ---
 
 ## 1. Overview — five-layer model

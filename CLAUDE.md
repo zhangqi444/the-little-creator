@@ -6,13 +6,21 @@ For the *why* see [`BRD.md`](BRD.md). For the *how at a system level* see [`ARCH
 
 ## What this project is
 
-A community knowledge base for **FIRST LEGO League** (FLL). Audience: kids (ages 9–16), parents coaching them, and teachers running classroom or club programs. Three consumption surfaces, in order of priority:
+A community knowledge base for **youth competitive robotics programs**. Six programs in scope, co-equal in the wiki:
 
-1. **Custom GPT (chat)** — primary; <https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper>
+**FIRST family** — FLL (ages 4–16, three divisions: Discover, Explore, Challenge), FTC (grades 7–12), FRC (grades 9–12).
+
+**VEX family** — VEX IQ (ages 8–14), VEX V5 / VRC (grades 8–12), VEX U (college).
+
+Audience varies by program: FLL is family-first (kids may read every page); FTC mostly teens; FRC and VEX V5 are predominantly older students; VEX U is adults. The wiki keeps family-friendliness as a project-wide invariant (kids may stumble onto any page) while allowing technical depth where the audience expects it.
+
+Three consumption surfaces, in order of priority:
+
+1. **Custom GPT (chat)** — primary; <https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper> (currently FLL-focused; will be reframed to cover all programs as content matures)
 2. **Astro/Starlight site** — secondary; hosts the wiki and the AI-readable artifacts
-3. **Claude Skill bundle** — for AI coding tools (older students writing SPIKE Prime / VEX code)
+3. **Claude Skill bundle** — for AI coding tools (older students writing SPIKE Prime / Pybricks / VEXcode / PROS / FTC SDK code)
 
-VEX content exists but is secondary. New work defaults to FLL unless explicitly scoped to VEX.
+FLL has the most-developed coverage as of 2026-05 (60+ entries, multi-region). FTC, FRC, VEX IQ, VEX V5, VEX U are being built out — when adding new content, ingest at the depth specified in `skill/ingest-source/SKILL.md` regardless of which program; the per-entry pattern, copyright lint, and pattern-aware ingest rule all apply identically.
 
 ## Non-negotiables
 

@@ -10,13 +10,18 @@ Both files describe the same project. To avoid drift, this file delegates to `CL
 
 ## Quick orientation
 
-The Little Creator is a community knowledge base for **FIRST LEGO League** (FLL). Three consumption surfaces, in priority order:
+The Little Creator is a community knowledge base for **youth competitive robotics programs** — six programs, co-equal in the wiki:
 
-1. Custom GPT (chat) — primary
+- **FIRST family:** FLL (ages 4–16, three divisions), FTC (grades 7–12), FRC (grades 9–12)
+- **VEX family:** VEX IQ (8–14), VEX V5 / VRC (grades 8–12), VEX U (college)
+
+Three consumption surfaces, in priority order:
+
+1. Custom GPT (chat) — primary; currently FLL-focused, will broaden as content matures
 2. Astro/Starlight site — secondary
-3. Claude Skill bundle — for code generation
+3. Claude Skill bundle — for code generation across program-specific environments (SPIKE Prime / Pybricks / VEXcode / PROS / FTC SDK)
 
-VEX content exists but is secondary. Default to FLL.
+FLL has the most-developed coverage as of 2026-05. The other five programs are being built out; the same SKILL workflow + per-entry pattern + copyright lint applies to all programs.
 
 ## Read before editing
 

@@ -1,6 +1,6 @@
 # Business Requirements Document — The Little Creator
 
-A community knowledge base for FIRST LEGO League (FLL), accessed primarily through chat and AI coding tools.
+A community knowledge base for **youth competitive robotics programs**, accessed primarily through chat and AI coding tools. Currently in-scope: the FIRST family (FLL, FTC, FRC) and the VEX family (VEX IQ, VEX V5/VRC, VEX U).
 
 ---
 
@@ -70,15 +70,27 @@ A teen using Claude Code, Cursor, or similar to write SPIKE Prime / Mindstorms c
 ## 4. Scope
 
 ### In scope
-- **FIRST LEGO League** — primary focus, all seasons.
-- **VEX content allowed but secondary** — kept in the wiki as a "next step" for kids progressing past FLL; not co-equal in user-facing surfaces.
+
+Six youth competitive robotics programs, all co-equal in the wiki (different surfaces may emphasize specific programs — see Consumption surfaces below):
+
+**FIRST family** (operated by FIRST, the parent non-profit):
+- **FIRST LEGO League (FLL)** — ages 4–16 across three divisions (Discover 4–6, Explore 6–10, Challenge 9–16). The wiki's most-developed coverage; uses LEGO Education hardware.
+- **FIRST Tech Challenge (FTC)** — grades 7–12. Natural progression from FLL Challenge; uses REV Robotics / goBILDA hardware.
+- **FIRST Robotics Competition (FRC)** — grades 9–12. The largest, most complex FIRST program; teams of 25+; uses an open hardware kit + custom fabrication.
+
+**VEX family** (operated by REC Foundation + VEX Robotics):
+- **VEX IQ** — ages 8–14. Plastic snap-together parts; entry point for VEX.
+- **VEX V5 / VRC** (VEX Robotics Competition) — grades 8–12. Metal/aluminum construction; high school competition.
+- **VEX U** — college. Two robots per team, university-level engineering scope.
+
+**Common infrastructure** across all programs:
 - **Markdown source of truth** in a public GitHub repository.
 - **Three consumption surfaces:** chat (Custom GPT), website (Astro/Starlight), AI coding tools (Claude Skill).
-- **Family-friendly, kid-accessible content** — vocabulary, tone, examples assume mixed adult/kid readership.
 - **Curated metadata + outbound links** — we describe and point at sources; we never republish their content.
+- **Tone calibrated to audience** — FLL is family-friendly (kids may read); FTC mostly teens; FRC and VEX V5 are predominantly older students; VEX U is adults. The wiki preserves family-friendliness as a project-wide invariant (kids may stumble onto any page), but technical depth is allowed where the audience expects it.
 
 ### Out of scope (intentionally, for v1)
-- **FRC and FTC** (FIRST Robotics Competition / FIRST Tech Challenge) — different programs, different audiences, different infrastructure needs. Future possibility, not v1.
+- **Other robotics competitions** — WRO (World Robot Olympiad), Botball, BEST, TSA TEAMS, RoboCup Junior, KhuFLY, regional/local competitions. Possible future additions; not in v1.
 - **Real-time tournament scoring or event management** — RobotEvents and FIRST handle this.
 - **Hardware sales, kit comparisons, affiliate links** — we point at vendors; we don't sell.
 - **Hosted commercial chatbot service** — we use existing platforms (ChatGPT) rather than running our own.

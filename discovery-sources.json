@@ -57,6 +57,48 @@
       "frequency": "quarterly",
       "verified": true,
       "notes": "Find new regional partner sites to add to fll-resource-map.md. As of 2026-05, we have HANDS on TECHNOLOGY (DACH), FIRST Washington, IET (UK), FIRST in Texas."
+    },
+    {
+      "query": "FIRST Tech Challenge DECODE 2025-26 season",
+      "tags": ["ftc", "season-2025-26", "decode", "current"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Current FTC season. High signal during build season (Sept-Feb)."
+    },
+    {
+      "query": "FIRST Tech Challenge BIOBUZZ 2026-27",
+      "tags": ["ftc", "season-2026-27", "biobuzz", "next"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Next FTC season (releases Sept 12, 2026 per FIRST announcement). High signal late Aug-Oct 2026."
+    },
+    {
+      "query": "FIRST Robotics Competition REBUILT 2025-26 season",
+      "tags": ["frc", "season-2025-26", "rebuilt", "current"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Current FRC season. High signal during build season (Jan-Apr). REBUILT presented by Haas."
+    },
+    {
+      "query": "FIRST Robotics Competition BIOCORE 2026-27",
+      "tags": ["frc", "season-2026-27", "biocore", "next"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Next FRC season (releases Jan 9, 2027 per FIRST announcement). High signal Jan-Feb 2027."
+    },
+    {
+      "query": "VEX V5 Robotics Competition current season game",
+      "tags": ["vex-v5", "vrc", "season", "current"],
+      "frequency": "monthly",
+      "verified": true,
+      "notes": "VEX V5 / VRC game updates. VEX season cycle is different from FIRST — runs April-April."
+    },
+    {
+      "query": "VEX IQ Competition current season game",
+      "tags": ["vex-iq", "season", "current"],
+      "frequency": "monthly",
+      "verified": true,
+      "notes": "VEX IQ game updates. Companion to V5 query above."
     }
   ],
   "feeds": [
@@ -75,6 +117,22 @@
       "frequency": "weekly",
       "verified": true,
       "notes": "Cross-program Reddit community. Skewed toward FTC/FRC but FLL questions and announcements appear. Use a relevance filter (FLL keywords) to surface FLL-specific items."
+    },
+    {
+      "url": "https://www.reddit.com/r/FTC/.rss",
+      "name": "r/FTC on Reddit",
+      "tags": ["ftc", "community", "reddit"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "FTC-specific Reddit. Build season is high-signal Sept-Feb; many strategy and code-snippet discussions."
+    },
+    {
+      "url": "https://www.reddit.com/r/FRC/.rss",
+      "name": "r/FRC on Reddit",
+      "tags": ["frc", "community", "reddit"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "FRC-specific Reddit. Largest FRC online community after Chief Delphi. Build season is high-signal Jan-Apr."
     }
   ],
   "watchlist_pages": [
@@ -165,7 +223,6 @@
       "frequency": "weekly",
       "verified": true,
       "look_for": "FIRST staff and FIRST LEGO League staff posts. High-signal channel for season launches, Dashboard / Storefront changes, Future Edition rollout, championship recaps. Surfaced examples to watch for: posts in 2026 about CANOPY registration timeline, Dashboard maintenance windows, the new Storefront launch."
-    }
     },
     {
       "url": "https://firstinspires.org/team-based-programs/first-lego-league/fll-challenge",
@@ -230,6 +287,54 @@
       "frequency": "weekly",
       "verified": false,
       "look_for": "BIOGLOW season launch content: official game name confirmation, theme reveal, manual drop, Future Edition vs Founders Edition season differentiation. URL may redirect to a season-specific slug — follow redirects. Flip verified once BIOGLOW content is live here."
+    },
+    {
+      "url": "https://www.firstinspires.org/programs/ftc/game-and-season",
+      "name": "FTC — current season page (DECODE → BIOBUZZ)",
+      "tags": ["ftc", "season", "official", "high-signal"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "DECODE updates (current 2025-26 season) and BIOBUZZ launch (Sept 12, 2026). URL rotates per season — watch for new season content replacing DECODE around early September 2026."
+    },
+    {
+      "url": "https://www.firstinspires.org/programs/frc/game-and-season",
+      "name": "FRC — current season page (REBUILT → BIOCORE)",
+      "tags": ["frc", "season", "official", "high-signal"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "REBUILT Team Updates and BIOCORE launch (Jan 9, 2027). URL rotates per season — watch for new season content replacing REBUILT in January 2027."
+    },
+    {
+      "url": "https://community.firstinspires.org/topic/ftc/",
+      "name": "FIRST Community blog — FTC feed",
+      "tags": ["ftc", "community-blog", "announcements"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "FTC-tagged posts from FIRST staff: season previews, championship results, program updates, FIRST Tech Challenge Skill Builders posts. Counterpart to the FLL feed we already watch."
+    },
+    {
+      "url": "https://community.firstinspires.org/topic/frc/",
+      "name": "FIRST Community blog — FRC feed",
+      "tags": ["frc", "community-blog", "announcements"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "FRC-tagged posts from FIRST staff: Game Preview posts, Carpet Sales, Team Updates, Championship coverage. Was the source of the 'Carpet Sales Open' and 'Game Preview 2027: StarterBots' posts."
+    },
+    {
+      "url": "https://www.vexrobotics.com",
+      "name": "VEX Robotics homepage",
+      "tags": ["vex-iq", "vex-v5", "vex-u", "official"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Product announcements, hardware updates, new curriculum releases. Less time-sensitive than FIRST sites (VEX cycle is calmer) but worth a monthly poll. Note: VEX U gets shorter shrift here than IQ/V5; check separately for VEX U news if focused on that."
+    },
+    {
+      "url": "https://recf.org",
+      "name": "REC Foundation",
+      "tags": ["vex-iq", "vex-v5", "vex-u", "official", "rec-foundation"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "REC Foundation operates VEX competitions (separate from VEX Robotics the company). Watch for tournament rules updates, regional event announcements, grant programs, scholarship news. Org-side counterpart to vexrobotics.com (product-side)."
     }
   ]
 }

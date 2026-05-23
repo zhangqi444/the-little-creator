@@ -474,3 +474,24 @@
   - Added VEX Resource Map, Progression Guide, Glossary, and all For Educators pages
   - Commit `cf0434d`, pushed to main
 - Updated progress/roadmap.md with Wave 9 backlog
+
+## 2026-05-23 01:58 UTC
+
+- Synced both repos (open-forge already up to date; the-little-creator pulled 4 file changes)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap task completed: `guides/index.md` aligned with sidebar groupings
+  - Moved `second-season` from "Getting started" to new "Returning coaches" section
+  - Reordered guides in "Building and programming" and "Competition prep" to match sidebar
+  - Moved `finding-mentors` to "Getting started" (matches sidebar placement)
+  - Committed and pushed: a1ae319
+
+## 2026-05-23 02:58 UTC
+
+- Synced both repos (both already up to date)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap task completed: `src/content/docs/log.md` catch-up (Wave 9)
+  - Added 3 missing 2026-05-19 entries: routing-patterns for all 33 guides, skill/ingest-source/SKILL.md initial add, scripts/lint-frontmatter.mjs add
+  - Updated progress/roadmap.md to mark log catch-up done
+  - Committed and pushed: 521898f

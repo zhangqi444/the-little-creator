@@ -132,5 +132,5 @@
 - [ ] `getting-started/what-is-fll.md` — review and update for Future Edition / BIOGLOW 2026-27 season; add note about season-change timing
 - [ ] `discovery-sources.json` — add predictive watchlist entries for 2026-27 season (BIOGLOW PDO pages for major regions)
 - [ ] `resources/fll-resource-map.md` — audit existing entries for broken links; refresh any 404s
-- [ ] `guides/index.md` — verify all guide cards/links reflect current groupings (align with sidebar)
-- [ ] `src/content/docs/log.md` — catch up log with any missing entries from May 19 onwards
+- [x] `guides/index.md` — verify all guide cards/links reflect current groupings (align with sidebar) (2026-05-23)
+- [x] `src/content/docs/log.md` — catch up log with missing entries from May 19 onwards (2026-05-23)

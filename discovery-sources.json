@@ -166,5 +166,70 @@
       "verified": true,
       "look_for": "FIRST staff and FIRST LEGO League staff posts. High-signal channel for season launches, Dashboard / Storefront changes, Future Edition rollout, championship recaps. Surfaced examples to watch for: posts in 2026 about CANOPY registration timeline, Dashboard maintenance windows, the new Storefront launch."
     }
+    },
+    {
+      "url": "https://firstinspires.org/team-based-programs/first-lego-league/fll-challenge",
+      "name": "FIRST FLL Challenge landing page",
+      "tags": ["fll", "official", "season-2026-27", "bioglow", "high-signal"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "BIOGLOW season-specific content: game manual drop (expected Aug 2026), registration open/close notices, Future Edition challenge materials. Watch for URL or page restructure if FIRST merges Founders/Future Edition pages."
+    },
+    {
+      "url": "https://www.firstwashington.org/fll-challenge",
+      "name": "FIRST Washington — FLL Challenge page",
+      "tags": ["fll", "regional-partner", "washington", "usa", "season-2026-27"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "BIOGLOW 2026-27 registration opens for WA state (historically early Aug). Watch for Storefront links, qualifier dates, and any Future Edition specific notes for Washington teams. Flip verified once BIOGLOW content appears on this page."
+    },
+    {
+      "url": "https://www.firstwashington.org/fll-explore",
+      "name": "FIRST Washington — FLL Explore page",
+      "tags": ["fll", "fll-explore", "regional-partner", "washington", "usa", "season-2026-27"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "BIOGLOW 2026-27 Explore (younger division) registration and event details for Washington state."
+    },
+    {
+      "url": "https://firstintexas.org/first-lego-league",
+      "name": "FIRST in Texas — FLL hub",
+      "tags": ["fll", "regional-partner", "texas", "usa", "season-2026-27"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "BIOGLOW 2026-27 registration links for Texas teams, PDO sub-region contacts (Panhandle, Central, North, South), qualifier schedule. Flip verified once BIOGLOW content appears."
+    },
+    {
+      "url": "https://iop.theiet.org/first-lego-league",
+      "name": "IET (UK) — FLL hub",
+      "tags": ["fll", "regional-partner", "uk", "season-2026-27"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "BIOGLOW 2026-27 registration for UK teams, Future Edition rollout notes for UK, UK qualifier and national championship dates. Flip verified once BIOGLOW content appears."
+    },
+    {
+      "url": "https://iop.theiet.org/first-lego-league/future-edition",
+      "name": "IET (UK) — Future Edition page",
+      "tags": ["fll", "regional-partner", "uk", "future-edition", "season-2026-27"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "UK-specific Future Edition guidance as BIOGLOW launches. Page was early-access as of May 2026; watch for full content drop around Aug 2026. Flip verified once substantive content appears."
+    },
+    {
+      "url": "https://www.first-lego-league.org/en/2026-27-season/the-bioglow-season",
+      "name": "DACH — BIOGLOW season landing (pattern-predicted)",
+      "tags": ["fll", "regional-partner", "dach", "season-2026-27", "bioglow", "predicted"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "DACH partner's season-specific hub for BIOGLOW 2026-27. URL follows the confirmed pattern /en/<YYYY>-<YY>-season/the-<theme>-season (e.g. 2025-26 has /the-unearthed-season). Expected to populate Aug 2026. Flip verified once the page returns 200 with content."
+    },
+    {
+      "url": "https://www.firstlegoleague.org/season",
+      "name": "Global FLL — current season page",
+      "tags": ["fll", "official", "canonical", "season-2026-27", "bioglow"],
+      "frequency": "weekly",
+      "verified": false,
+      "look_for": "BIOGLOW season launch content: official game name confirmation, theme reveal, manual drop, Future Edition vs Founders Edition season differentiation. URL may redirect to a season-specific slug — follow redirects. Flip verified once BIOGLOW content is live here."
+    }
   ]
 }

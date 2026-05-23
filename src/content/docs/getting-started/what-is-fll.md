@@ -1,9 +1,10 @@
 ---
 title: What is FLL?
-description: Plain-language overview of FIRST LEGO League — its three age divisions, what a Challenge season looks like, and how the program is changing in 2026/27.
-tags: [fll, getting-started, future-edition]
+description: Plain-language overview of FIRST LEGO League — its three age divisions, what a Challenge season looks like, and how the program is changing in 2026/27 with BIOGLOW and the Future Edition.
+tags: [fll, getting-started, future-edition, bioglow, canopy, season-2026-27]
 audience: [families, parents, teachers, kids]
 level: beginner
+season: evergreen
 ---
 
 FIRST LEGO League (FLL) is a family of educational robotics programs for kids aged **4 to 16**, run globally by FIRST and LEGO Education. It's organized as three age divisions that build on each other — newcomers start in whichever one matches their kid's age and progress as they grow.
@@ -40,31 +41,36 @@ FLL emphasizes teamwork, discovery, inclusion, and gracious professionalism. Jud
 - **Nov–Dec** — Qualifying tournaments
 - **Jan–Apr** — Regional and world championship (for qualifying teams)
 
-The active season at time of writing is **2025/26** (Founders Edition). Next season begins August 2026 — see "What's changing" below.
+The **2025/26 season (UNEARTHED, Founders Edition)** is wrapping up with spring 2026 championships. The **2026/27 season — FIRST CANOPY, with the FLL game called BIOGLOW — begins August 2026.** If you're starting fresh or re-registering, you're planning for BIOGLOW. See "What's changing" below for the two-edition choice you'll need to make, and the [CANOPY registration timeline](/resources/fll-resource-map/#canopy-202627-registration-timeline--new-first-dashboard--storefront) for key sign-up dates.
 
-## What's changing: Future Edition (2026/27 onward)
+## What's changing: Future Edition and BIOGLOW (2026/27)
 
-In January 2026, FIRST and LEGO Education announced a major program transition. Starting with the **2026/27 season** (named **FIRST CANOPY**, with the FLL game called **BIOGLOW**), FLL Challenge runs in two parallel editions:
+In January 2026, FIRST and LEGO Education announced a major program transition. Starting with the **2026/27 BIOGLOW season** (under the umbrella name **FIRST CANOPY**), FLL Challenge runs in two parallel editions:
 
 - The **Founders Edition** continues the existing SPIKE-based program through its final 2027/28 season.
 - The **Future Edition** launches in 2026/27 on a new LEGO Education Computer Science & AI hardware platform and becomes the unified program from 2028/29 onward.
 
-The Future Edition introduces wireless hardware, motorized task models, semi-cooperative matches on a shared field, and four defined team roles. **Future Edition equipment is not backward-compatible with SPIKE** — relevant if you're about to buy gear. For a deeper write-up and links to authoritative sources, see the [Future Edition entry in our resource map](/resources/fll-resource-map/#future-edition-transition-202627-onward) or the [Future Edition Transition guide](/guides/future-edition-transition/) for practical guidance on hardware decisions and what changes for your team.
+The Future Edition introduces wireless hardware, motorized task models, semi-cooperative matches on a shared field, and four defined team roles. **Future Edition equipment is not backward-compatible with SPIKE** — relevant if you're about to buy gear.
+
+**Season-change timing note (2026):** BIOGLOW season materials and registration open in August 2026. Before then, FIRST is rolling out an updated Dashboard and brand-new Storefront for CANOPY: the Dashboard closes for maintenance **June 8–15** (add students to your 2025-26 roster before then if you have a late-season event). The new Storefront launches in **July 2026** — team registration and Game Set purchases move there. Registered teams can purchase Game Sets in **September 2026**.
+
+For a deeper write-up and links to authoritative sources, see the [Future Edition entry in our resource map](/resources/fll-resource-map/#future-edition-transition-202627-onward) or the [Future Edition Transition guide](/guides/future-edition-transition/) for practical guidance on hardware decisions and what changes for your team.
 
 ## What you need to get started (Challenge)
 
 - A team of 2–10 kids aged 9–16
-- A LEGO Education SPIKE Prime set (the official FLL Challenge robotics kit)
+- A LEGO Education SPIKE Prime set (the official FLL Challenge robotics kit — see note above re: Future Edition hardware for 2026/27)
 - The seasonal Challenge Set from FIRST (mat + mission models)
 - A coach (usually a parent — no engineering degree required!)
 - Registration through FIRST or your regional partner — see [find a team](/community/find-a-team/) and the [FLL Resource Map](/resources/fll-resource-map/) for region-specific links
 
 ## Programming in Challenge
 
-Today's Challenge robots are programmed using **LEGO SPIKE App** (block-based) or **Python** via the SPIKE Prime hub. Most beginners start with blocks and graduate to Python within a season or two. The Future Edition will introduce a new programming environment built around LEGO Education Computer Science & AI; we'll update this section once the wiki has confirmed it from official 2026/27 materials.
+Today's Founders Edition robots are programmed using **LEGO SPIKE App** (block-based) or **Python** via the SPIKE Prime hub. Most beginners start with blocks and graduate to Python within a season or two. The Future Edition will introduce a new programming environment built around LEGO Education Computer Science & AI; we'll update this section once official 2026/27 materials confirm the details.
 
 ## Where to go next
 
 - [Forming a team](/guides/forming-a-team/) — recruit kids, pick a coach, set expectations
 - [Season planning](/guides/season-planning/) — month-by-month plan for a Challenge season
+- [Future Edition Transition guide](/guides/future-edition-transition/) — Founders vs Future Edition: the hardware decision for 2026/27
 - [FLL Resource Map](/resources/fll-resource-map/) — curated list of official sources, regional partners, and trusted independent resources

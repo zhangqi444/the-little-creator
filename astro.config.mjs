@@ -10,7 +10,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'The Little Creator',
-      description: 'A community for kids and parents exploring robotics together — FLL, VEX, and beyond.',
+      description: 'A community knowledge base for youth competitive robotics — FIRST (FLL, FTC, FRC) and VEX (IQ, V5, U). For families, coaches, and teachers.',
       logo: {
         src: './src/assets/logo.svg',
         replacesTitle: false,
@@ -27,8 +27,10 @@ export default defineConfig({
           items: [
             { label: 'Overview', link: '/getting-started/' },
             { label: 'What is FLL?', link: '/getting-started/what-is-fll/' },
+            { label: 'What is FTC?', link: '/getting-started/what-is-ftc/' },
+            { label: 'What is FRC?', link: '/getting-started/what-is-frc/' },
             { label: 'What is VEX?', link: '/getting-started/what-is-vex/' },
-            { label: 'FLL/VEX Progression Guide', link: '/getting-started/progression-guide/' },
+            { label: 'Progression Guide (FLL → FTC → FRC; FLL → VEX)', link: '/getting-started/progression-guide/' },
             { label: 'Glossary', link: '/getting-started/glossary/' },
           ],
         },
@@ -37,6 +39,8 @@ export default defineConfig({
           items: [
             { label: 'Overview', link: '/resources/' },
             { label: 'FLL Resource Map', link: '/resources/fll-resource-map/' },
+            { label: 'FTC Resource Map', link: '/resources/ftc-resource-map/' },
+            { label: 'FRC Resource Map', link: '/resources/frc-resource-map/' },
             { label: 'VEX Resource Map', link: '/resources/vex-resource-map/' },
             { label: 'Software & Tools', link: '/resources/software-tools/' },
             { label: 'Learning Materials', link: '/resources/learning-materials/' },

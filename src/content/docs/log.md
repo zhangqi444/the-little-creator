@@ -21,6 +21,11 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ---
 
+## 2026-05-23
+
+- **Phase 2 — wiki content scaffolding for FTC and FRC.** Created `getting-started/what-is-ftc.md` (program overview with FLL/FTC/FRC comparison table, season structure, hardware/software needs) and `getting-started/what-is-frc.md` (same shape, FRC-specific). Created `resources/ftc-resource-map.md` with **7 entries** (FTC program home; Get Started; DECODE 2025/26 season; Team Management Resources; Programming Resources; FTC SDK on GitHub; ftc-docs.firstinspires.org) — all deep-crawled per the SKILL. Created `resources/frc-resource-map.md` with **7 entries** (FRC program home; Get Started; REBUILT 2025/26 season; Season Materials; KitBot; Newly Formed Teams Rookie criteria; WPILib) — all deep-crawled. Updated Astro sidebar to surface all 4 program pages and all 4 resource maps. Reframed `getting-started/index.md` from FLL-first to program-agnostic (intro now leads with both FIRST and VEX families; Start-here links to all 4 program pages). Site description updated. Net effect: the wiki is now visibly multi-program; the discovery agent can ingest FTC/FRC sources into existing structure rather than needing to create it.
+  Source: https://www.firstinspires.org/programs/ftc/ + https://www.firstinspires.org/programs/frc/
+
 ## 2026-05-16
 
 - **Project scope expanded** from FLL-primary to multi-program. Now in-scope: the FIRST family (FLL, FTC, FRC) and the VEX family (VEX IQ, VEX V5/VRC, VEX U) — six programs total, co-equal in the wiki. Updated `BRD.md` §4 with the new in-scope list (replaced "FLL primary, VEX secondary" framing), the personas and tone guidance now acknowledge audiences spanning ages 4 to college. Updated `CLAUDE.md`, `AGENTS.md`, `ARCHITECTURE.md` to cascade the change: agents and SKILL workflow apply identically across all programs. FLL has the most-developed coverage as of today (60+ entries); FTC/FRC/VEX builds-out start in subsequent phases. No content changes in this commit — Phase 1 is governance only. Phase 2+: content scaffolding, ingests, GPT reframe.

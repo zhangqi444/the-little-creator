@@ -8,17 +8,27 @@ level: beginner
 
 Welcome! If you're new to FIRST LEGO League, this is the place to begin.
 
-FLL spans **three age divisions** (Discover for ages 4–6, Explore for 6–10, Challenge for 9–16). Most of this wiki focuses on Challenge — the competitive program for older kids — but the [What is FLL?](/getting-started/what-is-fll/) overview covers all three so you can find your starting point.
+This wiki covers the major youth competitive robotics programs in two families:
 
-FLL might seem overwhelming at first — there's hardware, software, teamwork, and a research project all happening at once. But the learning curve is part of the fun, and you don't need to figure it out alone.
+- **FIRST family** — [FLL](/getting-started/what-is-fll/) (ages 4–16), [FTC](/getting-started/what-is-ftc/) (grades 7–12), [FRC](/getting-started/what-is-frc/) (grades 9–12)
+- **VEX family** — [VEX IQ, V5, U](/getting-started/what-is-vex/) (ages 8 to college)
 
-## Start here
+Most families start with FLL Discover/Explore/Challenge in elementary or middle school. From there, students typically progress to FTC and then FRC (the FIRST pipeline), or to VEX IQ → VEX V5 (the VEX pipeline). The [Progression Guide](/getting-started/progression-guide/) covers when and how to move between programs. FLL has the most-developed coverage on this wiki today; FTC, FRC, and VEX coverage is growing.
 
-- [**What is FLL?**](/getting-started/what-is-fll/) — A plain-language overview of the program: the three divisions, what a Challenge season looks like, and what's changing with the Future Edition transition.
-- [**FLL Glossary**](/getting-started/glossary/) — Plain-language definitions for the acronyms and jargon you'll hit as a first-year family: PDO, YPP, GP, SPIKE Prime, and more.
-- [**Division Eligibility**](/guides/division-eligibility/) — Which FLL division is right for your child? Age ranges, the Discover/Explore/Challenge overlap zone, and how to handle edge cases.
-- [**What is VEX?**](/getting-started/what-is-vex/) — VEX IQ, V5, and how it differs from FLL.
-- [**Robotics Progression Guide**](/getting-started/progression-guide/) — How to think about the journey from FLL through VEX IQ to VEX V5: when to level up and what changes.
+Whichever program you're in, expect it to feel overwhelming at first — there's hardware, software, teamwork, and (for some programs) a research project all happening at once. The learning curve is part of the fun, and you don't need to figure it out alone.
+
+## Start here — pick the program that fits your kid's age
+
+- [**What is FLL?**](/getting-started/what-is-fll/) — FIRST LEGO League, ages 4–16, three divisions (Discover, Explore, Challenge). The most common starting point.
+- [**What is FTC?**](/getting-started/what-is-ftc/) — FIRST Tech Challenge, grades 7–12. Natural progression from FLL Challenge.
+- [**What is FRC?**](/getting-started/what-is-frc/) — FIRST Robotics Competition, grades 9–12. The largest, most complex FIRST program.
+- [**What is VEX?**](/getting-started/what-is-vex/) — VEX IQ, V5, and VEX U. Parallel pathway to the FIRST family.
+
+## Cross-program references
+
+- [**Glossary**](/getting-started/glossary/) — Plain-language definitions for acronyms and jargon (PDO, YPP, GP, SPIKE Prime, KitBot, and more).
+- [**Division Eligibility**](/guides/division-eligibility/) — Which FLL division is right for your child? (FLL-specific.)
+- [**Progression Guide**](/getting-started/progression-guide/) — How to think about moving from FLL up through FTC/FRC or across to VEX.
 
 ## First steps for any family
 
@@ -32,6 +42,12 @@ FLL might seem overwhelming at first — there's hardware, software, teamwork, a
 
 Your first season will feel chaotic. That's normal. You'll probably spend more time figuring out logistics than actually programming. By season two, things click. Stay the course. See [Your First Tournament — What to Expect](/guides/first-tournament-expectations/) for the emotional side of it.
 
-## Looking beyond FLL?
+## Looking beyond your current program?
 
-Many kids progress from FLL into [VEX Robotics](/getting-started/what-is-vex/) (ages 11–18+) once they've got a season or two under their belt. The [Progression Guide](/getting-started/progression-guide/) covers when and how to make that move.
+Once kids have a season or two under their belt, the natural next moves are:
+
+- **FLL Challenge → FTC** (grades 7–12; same FIRST community, more engineering depth)
+- **FTC → FRC** (grades 9–12; the largest FIRST program, industrial-sized robots, six-week build seasons)
+- **FLL → VEX IQ → VEX V5** (parallel pathway, different ecosystem)
+
+The [Progression Guide](/getting-started/progression-guide/) covers when and how to make these moves.

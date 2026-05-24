@@ -24,7 +24,7 @@ Most families follow one of two paths:
 - **FLL path:** Discover → Explore → Challenge → (optional) FTC or FRC
 - **VEX path:** VEX IQ → VEX V5 → VEX U
 
-FLL Challenge and VEX IQ overlap in age range (9–14) and are often run at the same schools or clubs. Some teams do both; most pick one.
+FLL Challenge and VEX IQ overlap in age range (9–14) and are often run at the same schools or clubs. Some teams do both; most pick one. For the university-level continuation of the VEX path, see [What is VEX U?](/getting-started/what-is-vex-u/) — it's a real continuing-engagement option, not just a footnote.
 
 ---
 

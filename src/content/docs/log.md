@@ -199,3 +199,19 @@ Discovery sources: +3 watchlist entries — gm0.org (high-signal FTC community d
 Phase A budget notes: Chief Delphi robots.txt explicitly disallows ClaudeBot for ai-train (Cloudflare-managed). Wrote that entry from prior public knowledge without fetching. REV and goBILDA both allow the ingest UA with crawl-delay 10. gm0.org is open. The Blue Alliance was not fetched — entry written from prior public knowledge.
 
 Phase C/D: All entries followed the per-entry metadata schema (URL/Authority/Audience/Level/Tags/Use when + description). Lint check: 0 verbatim runs >50 words, 0 schema failures across the now-122-entry corpus.
+
+### 2026-05-23 — New page: What is VEX U?
+
+The existing `what-is-vex.md` had VEX U as one row in a table; `progression-guide.md` had it as one bullet. Both undersold what's actually a continuing-engagement program with 200+ teams worldwide and a real transition story from V5 alumni.
+
+Added `/getting-started/what-is-vex-u/` covering:
+- Who VEX U is for (currently-enrolled university students; no dual-enrollment shortcut)
+- How VEX U differs from V5RC (loosened build restrictions, custom electronics allowed, two robots per team rather than per alliance)
+- The three common formation pathways (V5RC alumni continuing, new university programs, capstone project courses)
+- First steps for a new VEX U team (eligibility check, RobotEvents registration, VURC game manual addendum, VURC knowledge base, dual-robot budget, scholarship eligibility)
+- VEX U vs. FRC (FRC is collegiate-outreach; VEX U is direct competition — they coexist)
+- VEX U vs. VAIRC (autonomous-only sibling program)
+
+Sidebar wired (under Getting Started, between What is VEX? and Progression Guide). Cross-links added in what-is-vex.md and progression-guide.md so the new page is discoverable from both natural entry points.
+
+Wiki page count: 61 → 62.

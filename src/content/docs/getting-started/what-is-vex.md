@@ -13,7 +13,7 @@ VEX is a competitive robotics program for students from middle school through un
 | VEX V5 | 11–18 | Metal components, more advanced |
 | VEX U | University | Full custom builds |
 
-For most families coming from FLL, **VEX IQ** is the natural next step. **VEX V5** (also called VRC — VEX Robotics Competition) is what most high school teams compete in.
+For most families coming from FLL, **VEX IQ** is the natural next step. **VEX V5** (also called VRC — VEX Robotics Competition) is what most high school teams compete in. For more on the university-level program, see [What is VEX U?](/getting-started/what-is-vex-u/).
 
 ## How VEX Competitions Work
 

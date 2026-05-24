@@ -1,11 +1,15 @@
 ---
-title: Robot Programming Basics
+title: FLL Robot Programming Basics (SPIKE Prime)
 description: Getting started with programming your FLL Challenge robot — block-based SPIKE App and Python, with practical tips for beginners.
 tags: [fll, spike-prime, programming, python, block-based, beginners]
 audience: [kids, teens, parents, coaches]
 level: beginner
 season: 2025
 ---
+
+:::note[Program scope]
+This guide is for **FLL Challenge** on the **SPIKE Prime hub**. Different programs use different programming environments: FTC uses the [FTC SDK](/resources/ftc-resource-map/) (Java or Blockly via OnBot Java / Android Studio); FRC uses [WPILib](/resources/frc-resource-map/) (Java, C++, or Python); VEX IQ and V5 use [VEXcode](/resources/vex-resource-map/) (Blocks, Python, or C++). For older students moving beyond SPIKE Prime, see the [Progression Guide](/getting-started/progression-guide/).
+:::
 
 Programming your FLL robot is one of the most rewarding parts of the season. This guide covers the two official options — block-based and Python — and gives practical tips for getting your first programs running.
 

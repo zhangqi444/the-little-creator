@@ -160,3 +160,23 @@ Phase C — Synthesize: added 12 new entries grouped into three new sections in 
 Phase D — Record: pattern-aware ingest applied — the KB pattern gets ONE meta-entry (not 7 per-program entries) and is registered in `discovery-sources.json` as a templated source so future RECF KB additions auto-surface. Also registered the VEX Worlds annual page in the discovery watchlist.
 
 vex-resource-map.md: 13 → 25 entries. discovery-sources.json watchlist: 25 → 27 entries.
+
+### 2026-05-23 — Guide audit: relabel FLL-only guides with generic titles
+
+After the multi-program scope expansion, an audit of /guides/* found four guides whose generic titles overstated their scope. Renamed three to be FLL-prefixed (file paths kept stable to avoid breaking 24 internal links) and added a "Program scope" callout pointing to FTC/FRC/VEX equivalents (or to resource maps as a stop-gap until per-program guides exist):
+
+- `first-tournament-expectations.md` → "Your First FLL Tournament — What to Expect"
+- `tournament-day-checklist.md` → "FLL Tournament Day Checklist"
+- `robot-programming-basics.md` → "FLL Robot Programming Basics (SPIKE Prime)"
+
+The fourth was `forming-a-team.md` — kept the generic title because the guide IS cross-program, but expanded it from 3 programs (FLL/VEX IQ/VEX V5) to all 6: added FLL Discover/Explore + FTC + FRC + VEX U to the team-size table, broadened the "where to find teammates" guidance, and expanded the roles table with sub-team patterns common in FTC/FRC.
+
+Sidebar labels in `astro.config.mjs` updated to match the new titles.
+
+Out of the remaining guides:
+- 15 are already FLL-prefixed (season-planning, equipment-guide, etc.) — correctly labeled, no change.
+- 3 are multi-platform and say so in the title (drivetrain-basics "for FLL and VEX IQ", practice-session-structure, robot-maintenance) — correctly labeled, no change.
+- 7 are universally applicable (when-a-kid-wants-to-quit, gracious-professionalism, coaching-without-doing, etc.) — content is broad enough; left tags alone.
+- 1 is correctly VEX-prefixed (vex-iq-programming) — no change.
+
+No dedicated FTC, FRC, or VEX first-tournament guides exist yet — those are on the backlog.

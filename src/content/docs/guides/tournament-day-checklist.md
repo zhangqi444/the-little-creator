@@ -1,11 +1,15 @@
 ---
-title: Tournament Day Checklist
+title: FLL Tournament Day Checklist
 description: What to pack, what to expect, and how to keep your team calm on competition day — for first-time FLL families and coaches.
 tags: [fll, tournament, competition, checklist, coaches, parents]
 audience: [parents, coaches, families]
 level: beginner
 season: evergreen
 ---
+
+:::note[Program scope]
+The packing and emotional-prep advice in this checklist transfers fairly well across programs, but the per-day schedule (judging sessions, match cadence, alliance selection, inspection rules) is specific to FLL Challenge. FTC, FRC, and VEX tournaments run differently. For program-specific tournament-day guidance, see the [FTC](/resources/ftc-resource-map/), [FRC](/resources/frc-resource-map/), or [VEX](/resources/vex-resource-map/) resource maps. Dedicated checklists for those programs are on the backlog.
+:::
 
 Your first tournament day will feel chaotic no matter how well you prepare — so prepare well. This is what you actually need, what the day actually looks like, and how to keep kids from melting down.
 

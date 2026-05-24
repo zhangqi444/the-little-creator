@@ -1,11 +1,15 @@
 ---
-title: Your First Tournament — What to Expect
+title: Your First FLL Tournament — What to Expect
 description: What really happens at a first FLL tournament — the emotions, the social dynamics, and how to help kids (and coaches) come out of it with a great experience.
 tags: [fll, tournament, first-time, parents, coaches, emotional-prep]
 audience: [families, parents, coaches]
 level: beginner
 season: evergreen
 ---
+
+:::note[Program scope]
+This guide is written from the FLL Challenge tournament experience. The emotional and social dynamics described here apply broadly to first tournaments in any youth robotics program, but the specifics — judging session structure, scoring cadence, alliance dynamics — differ across programs. For FTC, see the [FTC Resource Map](/resources/ftc-resource-map/); for FRC, see the [FRC Resource Map](/resources/frc-resource-map/); for VEX, see the [VEX Resource Map](/resources/vex-resource-map/). Dedicated first-tournament guides for those programs are on the wiki backlog.
+:::
 
 The [Tournament Day Checklist](/guides/tournament-day-checklist/) covers what to pack and what the schedule looks like. This guide covers everything the checklist can't: what the experience *feels* like, and how to help your team navigate it well.
 

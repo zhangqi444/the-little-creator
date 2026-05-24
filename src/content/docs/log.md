@@ -215,3 +215,18 @@ Added `/getting-started/what-is-vex-u/` covering:
 Sidebar wired (under Getting Started, between What is VEX? and Progression Guide). Cross-links added in what-is-vex.md and progression-guide.md so the new page is discoverable from both natural entry points.
 
 Wiki page count: 61 → 62.
+
+### 2026-05-23 — Community OSS libraries + VEX U first-team guide + GPT setup refresh
+
+**Open-source community libraries.** Added an "Open-source community libraries" section to both ftc-resource-map.md (+4 entries) and frc-resource-map.md (+6 entries) covering the libraries most-cited by competitive teams:
+
+- FTC: RoadRunner (autonomous motion library, canonical), FTCLib (command-based programming pattern adapted from WPILib), EasyOpenCV (vision pipeline simplification), FTC Dashboard (live tuning and telemetry).
+- FRC: PathPlanner (autonomous path planning, near-universal in modern FRC), Choreo (time-optimal trajectory generation), PhotonVision (coprocessor vision pipeline), AdvantageKit (deterministic match logging + replay, from team 6328), AdvantageScope (match-data visualization), YAGSL (generic swerve drivetrain library).
+
+None of these were fetched directly — wiki entries written from prior public knowledge with each library's canonical URL cited. All are open-source on GitHub; descriptions cover what the library solves and when a team should adopt it.
+
+**VEX U first-team guide.** New `/guides/vex-u-first-team/` parallel in structure to the FLL `first-four-weeks.md` but adapted for the university context: emphasis on faculty mentor + storage + dual-robot budget as week-0 preconditions, then a four-week build-out (register on RobotEvents → hardware order + meeting rhythm → strategy session + basic build → design review + semester plan). Includes a "what NOT to do" callout per week (don't commit hardware before reading the game, don't lock a final design in month one). Wired into sidebar and cross-linked from `what-is-vex-u.md`.
+
+**CUSTOM-GPT-SETUP.md refresh.** Updated the "coverage depth varies" paragraph to reflect current state — FTC/FRC/VEX each at 15-25 curated entries now (was "starter coverage that is growing"). Specific vendor and library examples added so the GPT can frame its capabilities accurately.
+
+Wiki: 62 → 63 pages, 143 → 153 curated entries.

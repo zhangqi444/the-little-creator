@@ -196,6 +196,78 @@ More casual than Chief Delphi. Active during Build Season and championship weeks
 
 ---
 
+## Open-source community libraries
+
+WPILib provides the foundation, but most modern competitive teams layer open-source community libraries on top of it. The entries below cover the most-cited libraries — what each one solves and when a team should consider adopting it. All are free and live on GitHub.
+
+### PathPlanner — autonomous path planning and following
+
+- **URL:** https://pathplanner.dev/
+- **Authority:** community (widely-adopted)
+- **Audience:** teen programmers, mentors
+- **Level:** intermediate, advanced
+- **Tags:** frc, autonomous, path-planning, swerve, oss
+- **Use when:** Designing autonomous routines that move the robot smoothly through a sequence of waypoints — especially on a swerve drivetrain. Almost universal in modern competitive FRC.
+
+PathPlanner is the dominant FRC autonomous path-planning tool. Ships with a GUI editor (PathPlanner Lib) where teams sketch trajectories on a field image, plus runtime libraries for Java, C++, and Python that follow those trajectories at competition time. Integrates with both REV and CTRE drivetrains. Has largely replaced the WPILib trajectory APIs as the default for new teams. Maintained by mjansen4857; sponsored by FRC team 3015.
+
+### Choreo — trajectory optimisation
+
+- **URL:** https://sleipnirgroup.github.io/Choreo/
+- **Authority:** community (rapidly-growing)
+- **Audience:** advanced teen programmers, mentors
+- **Level:** advanced
+- **Tags:** frc, autonomous, trajectory-optimization, swerve, oss
+- **Use when:** A team wants time-optimal trajectories (rather than the cubic-spline trajectories PathPlanner generates) — useful in tight, fast autonomous routines on a swerve.
+
+Choreo is a newer trajectory optimiser using nonlinear programming to find time-optimal paths within drivetrain kinematics constraints. Steeper learning curve than PathPlanner; pays off in elimination matches where every autonomous second matters. Often used alongside PathPlanner (Choreo for the demanding paths, PathPlanner for the rest). Maintained by Sleipnir Group.
+
+### PhotonVision — vision processing for coprocessors
+
+- **URL:** https://photonvision.org/
+- **Authority:** community (widely-adopted)
+- **Audience:** advanced teen programmers, mentors
+- **Level:** intermediate, advanced
+- **Tags:** frc, vision, apriltags, coprocessor, oss
+- **Use when:** A team is adding camera-based localisation or game-piece detection to their robot — typically running on a Raspberry Pi, Orange Pi, or similar coprocessor.
+
+PhotonVision is the canonical open-source vision pipeline for FRC. Runs as a standalone app on a Raspberry Pi (or other Linux coprocessor) and streams detected AprilTags, retro-reflective targets, and contour-based game piece poses back to the roboRIO over NetworkTables. Community alternative to commercial vision systems. Common pairing with Choreo / PathPlanner for vision-corrected autonomous.
+
+### AdvantageKit — logging and replay framework
+
+- **URL:** https://docs.advantagescope.org/getting-started/manage-data/log-with-advantagekit/
+- **Authority:** community (team 6328 Mechanical Advantage)
+- **Audience:** advanced teen programmers, mentors
+- **Level:** advanced
+- **Tags:** frc, logging, replay, debugging, oss
+- **Use when:** A team wants to log every input and output during a match and be able to replay the match deterministically off-robot for debugging.
+
+AdvantageKit (from FRC 6328) is a logging framework that records every sensor input, motor command, and NetworkTable value during a match. The killer feature is **deterministic replay** — you can re-run the match code off-robot in simulation, with the recorded inputs, and reproduce exactly what happened. Indispensable for debugging "it only fails at the regional" intermittent bugs. Pairs with AdvantageScope for visualization.
+
+### AdvantageScope — match data visualizer
+
+- **URL:** https://docs.advantagescope.org/
+- **Authority:** community (team 6328)
+- **Audience:** teens, mentors, scouts
+- **Level:** intermediate, advanced
+- **Tags:** frc, visualization, debugging, telemetry, oss
+- **Use when:** Visualising log data from a match — robot trajectory on a field map, mechanism states over time, sensor traces. Works with AdvantageKit logs, WPILib data logs, and live NetworkTables.
+
+AdvantageScope is the visualisation front-end paired with AdvantageKit (but also works standalone with WPILib data logs). Plays back logs with synchronised 3D field view, mechanism state, and graph traces. Replaces older tools like Shuffleboard for post-match analysis on serious teams. Maintained by FRC team 6328.
+
+### YAGSL — Yet Another Generic Swerve Library
+
+- **URL:** https://github.com/BroncBotz3481/YAGSL
+- **Authority:** community
+- **Audience:** advanced teen programmers, mentors
+- **Level:** advanced
+- **Tags:** frc, swerve, drivetrain, oss
+- **Use when:** A team is building a swerve drivetrain from heterogeneous parts (mixing REV and CTRE, or a non-standard module) and wants a generic library that abstracts the motor controller details.
+
+YAGSL is a generic swerve drivetrain library that works across motor controller stacks (REV, CTRE, off-the-shelf SDS modules, custom modules). The intended use is "configure your swerve via JSON and inherit a working SwerveDrive subsystem". Particularly useful for teams whose swerve module choice differs from the most common turnkey solutions. Maintained by BroncBotz3481.
+
+---
+
 ## Suggesting an addition
 
-This map is intentionally curated. To suggest a resource, open a pull request with the per-entry metadata schema. Independent and community resources are welcome with appropriate authority flagging. Notable open-source community libraries (PhotonVision, PathPlanner, AdvantageKit, YAGSL) and team-specific learning resources (FRC 1678 white papers, FRC 254's archive) are good follow-up candidates not yet covered here.
+This map is intentionally curated. To suggest a resource, open a pull request with the per-entry metadata schema. Independent and community resources are welcome with appropriate authority flagging. Notable team-specific learning resources (FRC 1678 white papers, FRC 254's archive, FRC 6328 Mechanical Advantage's GitHub) are good follow-up candidates not yet covered here.

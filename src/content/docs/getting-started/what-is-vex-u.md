@@ -64,6 +64,7 @@ It is *not* a fit if a college student is already deeply invested in FRC mentors
 
 ## Resources
 
+- [Starting a VEX U Team — First-Month Checklist](/guides/vex-u-first-team/) — concrete week-by-week plan for forming a new team
 - [VURC program page](https://recf.org/teams/competition/vex-u-robotics-competition/) (REC Foundation)
 - [VURC knowledge base](https://vurc-kb.recf.org/hc/en-us) (canonical Q&A and registration docs)
 - [VEX Robotics World Championship](/resources/vex-resource-map/#vex-robotics-world-championship) (annual culmination — VEX U has its own division)

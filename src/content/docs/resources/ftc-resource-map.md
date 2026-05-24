@@ -161,4 +161,54 @@ Chief Delphi is the largest cross-program FIRST community forum (FRC-dominant bu
 
 The most active casual FTC community on the web. More forgiving than Chief Delphi for beginner questions. Robot reveals are common in pre-competition weeks. Mods are responsive about rule-violation posts. Not a source for official rule interpretations — for those, file a Q&A through the official FIRST Q&A forum each season.
 
+---
+
+## Open-source community libraries
+
+The FTC SDK gives you everything you need to run a basic robot, but most competitive teams layer open-source community libraries on top to solve the same problems FRC's WPILib ecosystem solves. The entries below cover the most-cited libraries.
+
+### RoadRunner — autonomous motion library
+
+- **URL:** https://rr.brott.dev/
+- **Authority:** community (widely-adopted; FRC-inspired)
+- **Audience:** teen programmers, mentors
+- **Level:** intermediate, advanced
+- **Tags:** ftc, autonomous, path-following, motion-profiling, oss
+- **Use when:** Building autonomous routines that move smoothly through waypoints — especially on mecanum or tank drivetrains. The canonical FTC autonomous motion library.
+
+RoadRunner is the dominant autonomous motion library in FTC — analogous to PathPlanner in FRC. Provides motion profiling, trajectory generation, and trajectory following with feedforward + feedback control for mecanum, tank, and (in v1.0+) custom drivetrains. Pairs naturally with goBILDA's Pinpoint odometry computer or with custom dead-wheel odometry pods. Maintained by Ryan Brott; current major version is 1.0 (1.0 is a substantial rewrite from the long-lived 0.5 — many tutorials still reference 0.5).
+
+### FTCLib — command-based programming for FTC
+
+- **URL:** https://docs.ftclib.org/ftclib
+- **Authority:** community
+- **Audience:** teen programmers, mentors
+- **Level:** intermediate, advanced
+- **Tags:** ftc, command-based, programming, oss
+- **Use when:** A team wants to organise their robot code in the command-based pattern (the same pattern WPILib popularised in FRC) — subsystems, commands, command groups.
+
+FTCLib brings the command-based programming framework — popularised by WPILib in FRC — into FTC. Wraps the FTC SDK's lower-level APIs in subsystems and commands, encourages a cleaner separation of "what the robot can do" from "what we want it to do now", and integrates well with RoadRunner. Often the choice for teams whose programmers have FRC exposure (mentors, alumni) and want the same architecture across both programs.
+
+### EasyOpenCV — vision pipeline simplification
+
+- **URL:** https://github.com/OpenFTC/EasyOpenCV
+- **Authority:** community (FTC OpenFTC org)
+- **Audience:** advanced teen programmers, mentors
+- **Level:** advanced
+- **Tags:** ftc, vision, opencv, apriltags, oss
+- **Use when:** Implementing camera-based detection (game pieces, AprilTags, custom contours) on the Control Hub or an attached webcam, without writing the OpenCV boilerplate from scratch.
+
+EasyOpenCV provides a simplified pipeline interface for OpenCV-based vision processing inside an FTC OpMode. Wraps camera lifecycle, frame capture, and pipeline switching so teams can focus on the per-frame processing logic. Pairs with the official Vuforia and TensorFlow Lite paths that ship with the SDK — many teams use EasyOpenCV for custom detection alongside the official APIs for AprilTags. Maintained by the OpenFTC organisation, which also maintains community Control Hub firmware tools.
+
+### FTC Dashboard — live tuning and telemetry
+
+- **URL:** https://acmerobotics.github.io/ftc-dashboard/
+- **Authority:** community (Acme Robotics)
+- **Audience:** teen programmers, mentors
+- **Level:** intermediate, advanced
+- **Tags:** ftc, dashboard, tuning, telemetry, oss
+- **Use when:** Tuning PID gains, visualising odometry traces, or seeing live robot state from a laptop on the same network as the Driver Hub.
+
+FTC Dashboard runs a web server on the Control Hub during OpModes and serves a browser-based dashboard with live telemetry plots, configurable variables (for live tuning), and a field overlay for odometry / trajectory visualization. Indispensable for tuning RoadRunner trajectories and debugging mid-match behavior. Maintained by Acme Robotics (FTC team).
+
 This map is intentionally curated. To suggest a resource, open a pull request with the per-entry metadata schema (URL, Authority, Audience, Level, Tags, Use when, description). Independent and community resources are welcome with appropriate authority flagging.

@@ -58,7 +58,8 @@ export default defineConfig({
               items: [
                 { label: 'Forming a Team', link: '/guides/forming-a-team/' },
                 { label: 'Planning Your Season', link: '/guides/season-planning/' },
-                { label: 'First Four Weeks', link: '/guides/first-four-weeks/' },
+                { label: 'First Four Weeks (FLL)', link: '/guides/first-four-weeks/' },
+                { label: 'Starting a VEX U Team', link: '/guides/vex-u-first-team/' },
                 { label: 'Equipment Guide', link: '/guides/equipment-guide/' },
                 { label: 'Team Funding', link: '/guides/team-funding/' },
                 { label: 'Division Eligibility', link: '/guides/division-eligibility/' },

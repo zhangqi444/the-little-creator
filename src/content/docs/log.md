@@ -142,3 +142,21 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 ### 2026-05-23 — Restored missing frontmatter on `skill/ingest-source/SKILL.md`
 
 The `name:` + `description:` YAML frontmatter on `skill/ingest-source/SKILL.md` was lost in commit `66d919b` (May 19). `scripts/build-skill.mjs` had been erroring on every run since. Restored the frontmatter and broadened the description to mention all six in-scope programs (FLL, FTC, FRC, VEX IQ, V5, U) per the Phase 1 scope expansion. Skill bundle now validates cleanly.
+
+### 2026-05-23 — VEX deep-ingest: REC Foundation, VEX U, grants, scholarships, KB pattern
+
+Closing the thinnest-coverage gap left after the multi-program scope expansion. The existing vex-resource-map.md had 13 entries focused on VEX Robotics (the hardware company) and the IQ/V5 product lines — zero coverage of the REC Foundation (the org that actually runs the competitions), zero VEX U entries, and no mention of grants or scholarships despite >$110M of scholarship opportunity tracked by RECF.
+
+Phase A — Discover: read recf.org/robots.txt + page-sitemap1.xml. Sitemap enumerates ~70 pages spanning RECF programs (VIQRC, V5RC, VURC, VAIRC, ADC), the Worlds championship, grants/scholarships, Girl Powered, RECF Trainings.
+
+Phase B — Read: fetched RECF homepage navigation, VEX U Robotics Competition page (200+ teams; based on V5 with relaxed build restrictions; current season Push Back transitioning to Override 2026-27), Grants page (matches schools with sponsor resources), Scholarships page ($110M+ across 100+ universities). Noted the per-program KB subdomain pattern: `<program>-kb.recf.org/hc/en-us` across 7+ programs.
+
+Phase C — Synthesize: added 12 new entries grouped into three new sections in vex-resource-map.md:
+- REC Foundation & competition infrastructure (4): RECF homepage, REC Library KB pattern (meta-entry per pattern-aware ingest rule), New to Robotics landing, RECF Trainings
+- VEX U & advanced programs (3): VURC, VAIRC, ADC (RECF-adjacent)
+- Funding & student opportunities (3): Team Grants, Scholarships, Girl Powered
+- Major events (2): VEX Robotics World Championship, RECF Signature Events
+
+Phase D — Record: pattern-aware ingest applied — the KB pattern gets ONE meta-entry (not 7 per-program entries) and is registered in `discovery-sources.json` as a templated source so future RECF KB additions auto-surface. Also registered the VEX Worlds annual page in the discovery watchlist.
+
+vex-resource-map.md: 13 → 25 entries. discovery-sources.json watchlist: 25 → 27 entries.

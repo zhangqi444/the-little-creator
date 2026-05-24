@@ -359,6 +359,22 @@
       "frequency": "monthly",
       "verified": true,
       "look_for": "REC Foundation operates VEX competitions (separate from VEX Robotics the company). Watch for tournament rules updates, regional event announcements, grant programs, scholarship news. Org-side counterpart to vexrobotics.com (product-side)."
+    },
+    {
+      "url": "https://kb.roboticseducation.org",
+      "name": "REC Library — per-program KB pattern (vurc-kb, v5rc-kb, viqrc-kb, vairc-kb, adc-kb, grants-kb)",
+      "tags": ["recf", "kb", "vex-iq", "vex-v5", "vex-u", "vex-ai", "pattern"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Templated subdomain pattern: https://<program>-kb.recf.org/hc/en-us. Verified instances as of 2026-05: vgoc-kb (VEX GO), viqrc-kb (VEX IQ), v5rc-kb (V5), vurc-kb (VEX U), vairc-kb (VEX AI), adc-kb (Aerial Drone), grants-kb (Grants), plus general kb.roboticseducation.org. When RECF spins up a new program, a new <program>-kb subdomain typically appears — watch for this and ingest as a new sibling entry. The general KB publishes cross-program articles for students, parents, volunteers."
+    },
+    {
+      "url": "https://recf.org/vex-robotics-world-championship/",
+      "name": "VEX Robotics World Championship (annual, late April)",
+      "tags": ["vex-worlds", "championship", "recf", "annual"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Annual championship page — location, dates, registration, qualification criteria. URL stays stable; content rolls over each year. Major refresh typically appears Jan–Feb when next year's location is announced. Recent edition: 2026 St. Louis, April 21–30."
     }
   ]
 }

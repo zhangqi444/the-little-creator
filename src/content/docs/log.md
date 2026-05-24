@@ -180,3 +180,22 @@ Out of the remaining guides:
 - 1 is correctly VEX-prefixed (vex-iq-programming) — no change.
 
 No dedicated FTC, FRC, or VEX first-tournament guides exist yet — those are on the backlog.
+
+### 2026-05-23 — FTC + FRC deep-ingest: vendors and community resources
+
+Brought the FTC and FRC resource maps from the original "FIRST Inspires sub-pages only" 7-entry baseline closer to FLL/VEX parity by adding the dominant hardware vendors and the canonical community references for each program.
+
+**FTC additions (7 → 14 entries):**
+- Hardware vendors: REV Robotics (FTC Control System + DUO mechanical), goBILDA (modular metric system + 25% FTC team discount), TETRIX (classroom-friendly alternative)
+- Community: Game Manual 0 (gm0.org — the comprehensive community-written FTC handbook, treated as canonical companion to ftc-docs), Chief Delphi FTC sub-forums, r/FTC
+
+**FRC additions (7 → 15 entries):**
+- New section "WPILib documentation — long-form reference" splitting out docs.wpilib.org from the marketing site
+- Hardware vendors: REV Robotics ION (FRC product line, distinct from FTC DUO), CTRE Phoenix ecosystem (Kraken / Talon FX / Phoenix 6), AndyMark (long-time mechanical), FIRST Choice voucher store
+- Community: The Blue Alliance (canonical match/team data + API), Statbotics (predictive Elo analytics), Chief Delphi, r/FRC
+
+Discovery sources: +3 watchlist entries — gm0.org (high-signal FTC community docs), ftc-docs.firstinspires.org (official SDK docs, weekly poll during season), thebluealliance.com/blog (TBA site changes). Total watchlist now 30.
+
+Phase A budget notes: Chief Delphi robots.txt explicitly disallows ClaudeBot for ai-train (Cloudflare-managed). Wrote that entry from prior public knowledge without fetching. REV and goBILDA both allow the ingest UA with crawl-delay 10. gm0.org is open. The Blue Alliance was not fetched — entry written from prior public knowledge.
+
+Phase C/D: All entries followed the per-entry metadata schema (URL/Authority/Audience/Level/Tags/Use when + description). Lint check: 0 verbatim runs >50 words, 0 schema failures across the now-122-entry corpus.

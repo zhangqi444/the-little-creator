@@ -375,6 +375,30 @@
       "frequency": "monthly",
       "verified": true,
       "look_for": "Annual championship page — location, dates, registration, qualification criteria. URL stays stable; content rolls over each year. Major refresh typically appears Jan–Feb when next year's location is announced. Recent edition: 2026 St. Louis, April 21–30."
+    },
+    {
+      "url": "https://gm0.org/en/latest/",
+      "name": "Game Manual 0 — community FTC handbook",
+      "tags": ["ftc", "community", "gm0", "documentation", "high-signal"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Major content additions in mechanics/programming/awards sections. New season often triggers updates to drivetrain, intake, and dead-wheel chapters. Hosted on Read the Docs; commits visible at github.com/gamemanual0/gm0."
+    },
+    {
+      "url": "https://ftc-docs.firstinspires.org/",
+      "name": "ftc-docs — official FTC programming docs",
+      "tags": ["ftc", "official", "programming", "sdk"],
+      "frequency": "weekly",
+      "verified": true,
+      "look_for": "SDK version bumps (currently 9.x), new sections on Control Hub features, programming environment changes (Blockly, OnBot Java, Android Studio). Season-aligned changes typically September."
+    },
+    {
+      "url": "https://www.thebluealliance.com/blog",
+      "name": "The Blue Alliance — official blog",
+      "tags": ["frc", "community", "tba", "data", "scouting"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Site feature announcements (new API endpoints, new event types, new data fields), maintainer notes, season-readiness posts. TBA the data site is the primary asset — the blog is a secondary signal for major site changes."
     }
   ]
 }

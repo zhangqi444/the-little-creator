@@ -133,6 +133,30 @@
       "frequency": "weekly",
       "verified": true,
       "notes": "FRC-specific Reddit. Largest FRC online community after Chief Delphi. Build season is high-signal Jan-Apr."
+    },
+    {
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7jrVEiBjPrOM7-RZSAoebg",
+      "name": "VEX Robotics — official YouTube",
+      "tags": ["vex-iq", "vex-v5", "vex-u", "video", "official", "season-reveals"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Official VEX Robotics channel. Channel ID UC7jrVEiBjPrOM7-RZSAoebg confirmed via canonical URL on the @VEXRobotics handle. Best for game reveals (V5 + IQ), official tutorials, and championship coverage."
+    },
+    {
+      "url": "https://www.reddit.com/r/vexiq/.rss",
+      "name": "r/vexiq on Reddit",
+      "tags": ["vex-iq", "community", "reddit"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "VEX IQ-specific subreddit. Smaller community than r/VEX (V5/VRC) but where IQ-specific questions and game strategy lands."
+    },
+    {
+      "url": "https://www.reddit.com/r/VEX/.rss",
+      "name": "r/VEX on Reddit",
+      "tags": ["vex-v5", "vrc", "vex-iq", "community", "reddit"],
+      "frequency": "weekly",
+      "verified": true,
+      "notes": "Main VEX subreddit, V5/VRC-heavy. High-signal during VEX season (April-April cycle differs from FIRST). Common venue for strategy debate and code sharing."
     }
   ],
   "watchlist_pages": [

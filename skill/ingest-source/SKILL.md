@@ -1,6 +1,11 @@
+---
+name: ingest-source
+description: Ingest a URL or text source into the youth robotics wiki (FLL, FTC, FRC, VEX IQ, V5, U). Reads the source (with bounded sub-page traversal for sites), identifies relevant wiki entities, updates the appropriate pages with proper metadata, never republishes copyrighted content, appends to log.md, and stages a commit or PR. Use when a human pastes a URL and asks to "ingest" or "add this to the wiki," or when working through the autonomous-discovery pipeline (Phase 3 of ARCHITECTURE.md).
+---
+
 # Ingest Source Skill
 
-Use this skill when a maintainer pastes a URL or provides a new FLL/VEX resource to add to the wiki's resource maps or guides.
+Use this skill when a maintainer pastes a URL or provides a new resource for any of the six in-scope programs (FLL, FTC, FRC, VEX IQ, V5, U) to add to the wiki's resource maps or guides.
 
 ## When to use
 

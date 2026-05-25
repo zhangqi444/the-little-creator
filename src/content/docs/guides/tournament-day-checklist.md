@@ -8,7 +8,7 @@ season: evergreen
 ---
 
 :::note[Program scope]
-The packing and emotional-prep advice in this checklist transfers fairly well across programs, but the per-day schedule (judging sessions, match cadence, alliance selection, inspection rules) is specific to FLL Challenge. FTC, FRC, and VEX tournaments run differently. For program-specific tournament-day guidance, see the [FTC](/resources/ftc-resource-map/), [FRC](/resources/frc-resource-map/), or [VEX](/resources/vex-resource-map/) resource maps. Dedicated checklists for those programs are on the backlog.
+The packing and emotional-prep advice in this checklist transfers fairly well across programs, but the per-day schedule (judging sessions, match cadence, alliance selection, inspection rules) is specific to FLL Challenge. For program-specific tournament guidance see [Your First FTC Tournament](/guides/first-ftc-tournament/), [Your First FRC Tournament](/guides/first-frc-tournament/), and [Your First VEX Tournament](/guides/first-vex-tournament/) — each covers the day's flow and program-specific packing additions.
 :::
 
 Your first tournament day will feel chaotic no matter how well you prepare — so prepare well. This is what you actually need, what the day actually looks like, and how to keep kids from melting down.

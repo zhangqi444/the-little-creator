@@ -230,3 +230,28 @@ None of these were fetched directly — wiki entries written from prior public k
 **CUSTOM-GPT-SETUP.md refresh.** Updated the "coverage depth varies" paragraph to reflect current state — FTC/FRC/VEX each at 15-25 curated entries now (was "starter coverage that is growing"). Specific vendor and library examples added so the GPT can frame its capabilities accurately.
 
 Wiki: 62 → 63 pages, 143 → 153 curated entries.
+
+### 2026-05-23 — Per-program tournament + awards + judging-doc guides (8 new pages)
+
+Closes the explicit backlog flagged in the guide audit ("dedicated FTC/FRC/VEX first-tournament guides are on the backlog") and the highest-value gap identified afterward (FTC/FRC equivalents to FLL's notebook-guide.md). Eight new pages added under /guides/:
+
+**Tournament guides (3):**
+- `first-ftc-tournament.md` — single-day format, judging interview structure, alliance selection, inspection, FLL→FTC comparison table, FTC-specific packing additions
+- `first-frc-tournament.md` — 3-day regional vs. district format, scouting as a role, pit life dynamics, alliance selection drama, costs, FLL→FRC comparison table
+- `first-vex-tournament.md` — covers VIQRC/V5RC/VURC together (one structure, program-specific differences flagged); explains the Skills Challenge as VEX's unique parallel competition
+
+**Awards guides (3):**
+- `ftc-awards.md` — Inspire as the headline, plus Think / Innovate / Connect / Motivate / Control / Design / Compass / Promote / Winning Alliance / Dean's List; what each measures; rookie targets
+- `frc-awards.md` — Impact (formerly Chairman's) as the headline, plus Engineering Inspiration / Rookie All Star / Industrial Design / Excellence in Engineering / Innovation in Control / Quality / Safety / Woodie Flowers / Dean's List; advancement matrix
+- `vex-awards.md` — Excellence as the headline; Design / Build / Amaze / Think / Innovate / Sportsmanship / Robot Skills Champion / Tournament Champion; consistent across VIQRC / V5RC / VURC with program-specific notes
+
+**Judging documents (2):**
+- `ftc-engineering-portfolio.md` — explains the Portfolio vs. notebook distinction (most common rookie confusion), the design-iteration block pattern that wins Think Awards, season timeline, common mistakes
+- `frc-impact-submission.md` — covers the essay (10,000 char limit), 3-minute video, judged interview; emphasises Impact is a multi-year project; year-by-year build-out plan for rookies
+
+**Cross-linking:**
+- Sidebar wired (all 8 grouped under Competition Prep alongside FLL counterparts)
+- "Program scope" callouts in first-tournament-expectations.md and tournament-day-checklist.md updated from "on the backlog" to direct links to the new program-equivalents
+- New pages cross-link back to their FLL counterparts and to their resource maps
+
+Wiki: 63 → 71 pages. Aggregate now spans all six programs with roughly parallel coverage for tournament experience, awards, and judging documentation.

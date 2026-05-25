@@ -8,7 +8,7 @@ season: evergreen
 ---
 
 :::note[Program scope]
-This guide is written from the FLL Challenge tournament experience. The emotional and social dynamics described here apply broadly to first tournaments in any youth robotics program, but the specifics — judging session structure, scoring cadence, alliance dynamics — differ across programs. For FTC, see the [FTC Resource Map](/resources/ftc-resource-map/); for FRC, see the [FRC Resource Map](/resources/frc-resource-map/); for VEX, see the [VEX Resource Map](/resources/vex-resource-map/). Dedicated first-tournament guides for those programs are on the wiki backlog.
+This guide is written from the FLL Challenge tournament experience. The emotional and social dynamics described here apply broadly to first tournaments in any youth robotics program, but the specifics — judging session structure, scoring cadence, alliance dynamics — differ across programs. For program-specific equivalents see [Your First FTC Tournament](/guides/first-ftc-tournament/), [Your First FRC Tournament](/guides/first-frc-tournament/), and [Your First VEX Tournament](/guides/first-vex-tournament/).
 :::
 
 The [Tournament Day Checklist](/guides/tournament-day-checklist/) covers what to pack and what the schedule looks like. This guide covers everything the checklist can't: what the experience *feels* like, and how to help your team navigate it well.

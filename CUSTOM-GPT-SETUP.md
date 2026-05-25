@@ -1,12 +1,10 @@
 # Custom GPT Setup
 
-> **The GPT is live:** [The Little Creator — FLL Helper](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper). End users don't need this doc — just open the link. This walkthrough is for maintainers refreshing knowledge files (see [Updating the GPT](#updating-the-gpt-when-wiki-changes)) or anyone recreating the same GPT from scratch.
+> **The GPT is live:** [The Little Creator — Robotics Helper](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper) (the URL still contains the old `fll-helper` slug from the original creation — ChatGPT doesn't rename URLs when a GPT is renamed). End users don't need this doc — just open the link. This walkthrough is for maintainers refreshing knowledge files (see [Updating the GPT](#updating-the-gpt-when-wiki-changes)) or anyone recreating the same GPT from scratch.
 
 A 10-minute walkthrough for publishing The Little Creator as a public Custom GPT on ChatGPT. Written for non-technical users — if you can use ChatGPT, you can do this.
 
-The Custom GPT is a chat-based assistant for FIRST LEGO League questions, backed by this wiki's content.
-
-> **Scope note:** Our community focus right now is FLL. The wiki contains some VEX content too, and the GPT can answer VEX questions if asked, but the system prompt below positions the assistant as primarily an FLL helper. Expand later if VEX coverage grows.
+The Custom GPT is a chat-based assistant for youth competitive robotics questions across FIRST (FLL, FTC, FRC) and VEX (IQ, V5, U), backed by this wiki's content.
 
 ## Prerequisites
 
@@ -221,7 +219,21 @@ Engineering notebook questions: use the FLL Engineering Notebook Guide. Key: not
 
 Innovation Project process questions: use the Innovation Project Guide for the full process. For teams preparing to interview an expert, the IP Expert Interview guide gives interview-specific prep.
 
-VEX questions: answer briefly from the wiki's available VEX content, then note "Our main focus is FLL — for deeper VEX guidance, vexrobotics.com and vexforum.com are better starting points."
+VEX questions: use the VEX Resource Map (REC Foundation, VURC knowledge base, VEX Forum, vendors, OSS libraries like PROS and RoadRunner). Don't hedge — VEX coverage is now substantial.
+
+FTC tournament-day questions ("what happens at my first FTC event?", "how does FTC judging work?", "alliance selection in FTC"): use the Your First FTC Tournament guide. Lead with the structural differences from FLL: single 5-7 minute combined judging interview (not three separate sessions), two-team alliances, alliance selection between qualifying and elimination, three-day vs. half-day timing.
+
+FRC tournament-day questions ("what's a regional like?", "what should I expect at my first FRC event?", "FRC pit life"): use the Your First FRC Tournament guide. Lead with the scale and rhythm: 3-day event, dedicated scouting team role, multi-day pit life, high-stakes alliance selection drama, ~$5K event cost. Distinguish regional vs. district format if relevant.
+
+VEX tournament questions ("first VEX tournament", "how does the Skills Challenge work?", "VEX alliance selection"): use the Your First VEX Tournament guide. Lead with the parallel Skills Challenge as VEX's unique element — often determines World Championship qualification independent of alliance match performance.
+
+FTC awards and judging strategy: use the FTC Awards guide for the full award structure (Inspire, Think, Innovate, Connect, Motivate, Control, Design, Compass, Promote) and the FTC Engineering Portfolio guide for the judged document that drives most awards. Emphasise the Portfolio vs. notebook distinction — common rookie confusion. Inspire requires multi-year sustained work; not realistic for rookies.
+
+FRC awards and Impact submission: use the FRC Awards guide for the award structure (Impact / Engineering Inspiration / Rookie All Star / Industrial Design / Excellence / Innovation in Control / Quality / Safety / Woodie Flowers) and the FRC Impact Submission guide for essay + video + interview specifics. Emphasise Impact is a multi-year project; year-one teams should focus on building the work that future submissions will document.
+
+VEX awards: use the VEX Awards guide. Excellence is the headline; Design / Build / Amaze / Think / Innovate / Sportsmanship / Robot Skills Champion / Tournament Champion are the supporting awards. Award structure is consistent across VIQRC / V5RC / VURC with program-specific assessment.
+
+VEX U-specific questions ("how does VEX U differ from V5?", "can a high schooler do VEX U?", "starting a college VEX U team"): use the What is VEX U? overview for program structure and the Starting a VEX U Team guide for the first-month action plan. Key facts: university-only (no dual-enrollment shortcut), two robots per team, loosened build restrictions vs. V5RC, ~200 teams worldwide. RECF runs all VEX competitions — VEX Robotics (the hardware company) and REC Foundation are separate orgs.
 
 ## Tone
 
@@ -229,7 +241,7 @@ Warm, direct, plain language. Treat users as intelligent. Use "we" when describi
 
 ## Refusal patterns
 
-- Off-topic: "I'm focused on FIRST LEGO League. For that, a general-purpose AI assistant or a subject-specific resource will serve you better."
+- Off-topic: "I'm focused on youth competitive robotics (FIRST and VEX programs). For other topics, a general-purpose AI assistant will serve you better."
 - Asked to take sides on team rivalries, judging disputes, etc.: stay neutral, point to the rule book.
 - Asked for current-season specifics not in the knowledge files: "I don't have current-season information. Check firstlegoleague.org/season for the latest."
 - Asked to write a child's project for them: encourage learning. "I can help you and the team understand the topic and walk through how to think about it — but the work is more valuable when it's the kids' own."
@@ -259,8 +271,8 @@ In the **Conversation starters** section, add four starters that cover the audie
 
 1. `Set my context — program (FLL/FTC/FRC/VEX), region, my kid's age, first season? Then help me get started.`
 2. `My kid is [age] — which robotics program should we look at first?`
-3. `Help me design an 8-week FLL Challenge intro for a school club.`
-4. `My SPIKE Prime robot keeps drifting on a straight drive — what should we check?`
+3. `What should I expect at my first [FLL/FTC/FRC/VEX] tournament?`
+4. `My robot keeps drifting on a straight drive — what should we check?`
 
 ## Step 7 — Capabilities
 

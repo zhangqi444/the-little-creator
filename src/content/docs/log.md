@@ -255,3 +255,23 @@ Closes the explicit backlog flagged in the guide audit ("dedicated FTC/FRC/VEX f
 - New pages cross-link back to their FLL counterparts and to their resource maps
 
 Wiki: 63 → 71 pages. Aggregate now spans all six programs with roughly parallel coverage for tournament experience, awards, and judging documentation.
+
+### 2026-05-23 — GPT setup doc refresh — reflect all session additions
+
+CUSTOM-GPT-SETUP.md had several stale FLL-only framings that the earlier mid-session touch-up missed:
+- Top line described the GPT as "for FIRST LEGO League questions"
+- Scope note positioned the assistant as "primarily an FLL helper"
+- Patterns-by-type section had a "VEX questions: answer briefly... main focus is FLL" entry — directly contradicting the now-substantial VEX coverage
+- Off-topic refusal still said "I'm focused on FIRST LEGO League"
+- Live-URL link said "FLL Helper" though the GPT's been renamed
+
+Fixed all of the above. Replaced the stale VEX paragraph + added 8 new Patterns-by-type entries for the tournament/awards/judging guides shipped in commit 50225c5:
+- FTC tournament-day, FRC tournament-day, VEX tournament-day
+- FTC awards + Engineering Portfolio
+- FRC awards + Impact submission
+- VEX awards
+- VEX U-specific questions
+
+Updated conversation starter #3 from FLL-specific to program-parameterised.
+
+Regenerated knowledge files — public/llms/ now reflects all 71 wiki pages and 153 curated entries. Sizes: llms-guides.txt 321 KB (was 261 KB before the 8 new guides), llms-resources.txt 120 KB, llms-getting-started.txt 45 KB. All under ChatGPT's per-file limits.

@@ -1,6 +1,6 @@
 # Custom GPT Setup
 
-> **The GPT is live:** [The Little Creator — Robotics Helper](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper) (the URL still contains the old `fll-helper` slug from the original creation — ChatGPT doesn't rename URLs when a GPT is renamed). End users don't need this doc — just open the link. This walkthrough is for maintainers refreshing knowledge files (see [Updating the GPT](#updating-the-gpt-when-wiki-changes)) or anyone recreating the same GPT from scratch.
+> **The GPT is live:** [The Little Creator — Youth Robotics Wiki](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper) (the URL still contains the original `fll-helper` slug — ChatGPT doesn't rename URLs when a GPT is renamed). End users don't need this doc — just open the link. This walkthrough is for maintainers refreshing knowledge files (see [Updating the GPT](#updating-the-gpt-when-wiki-changes)) or anyone recreating the same GPT from scratch.
 
 A 10-minute walkthrough for publishing The Little Creator as a public Custom GPT on ChatGPT. Written for non-technical users — if you can use ChatGPT, you can do this.
 
@@ -41,8 +41,8 @@ This produces several files in `public/`:
 
 > **Important — OpenAI under-13 policy.** ChatGPT requires users to be 13+, and Custom GPTs cannot be positioned as targeting children under 13. The description and system prompt below position the GPT as serving the **adults supporting kids** in FLL (parents, coaches, teachers) rather than targeting kids directly. The wiki content itself can stay kid-friendly — it lives on a public website outside ChatGPT's terms — but the GPT framing must be adult-first. If you see ChatGPT flag the GPT with "May contain content targeting users under 13 years of age," it's because earlier "for kids" wording slipped in; revert to the framing below.
 
-- **Name:** `The Little Creator — Robotics Helper`
-- **Description:** `An AI helper for parents, coaches, and teachers supporting kids in youth competitive robotics — FIRST (FLL, FTC, FRC) and VEX (IQ, V5, U). Backed by a community knowledge base of curated resources, guides, and educator content. Family-friendly.`
+- **Name:** `The Little Creator — Youth Robotics Wiki`
+- **Description:** `A wiki-backed assistant for parents, coaches, and teachers supporting kids in youth competitive robotics — FIRST (FLL, FTC, FRC) and VEX (IQ, V5, U). Answers from a community knowledge base of curated resources, guides, and educator content. Family-friendly.`
 - **Picture:** Upload `src/assets/logo.svg` (or generate one with DALL·E from the editor — robot + STEM-classroom theme works well).
 
 ## Step 4 — Paste the system prompt
@@ -50,7 +50,7 @@ This produces several files in `public/`:
 In the **Instructions** field, paste the full system prompt below. It's about 5 KB and well within ChatGPT's instruction limit.
 
 ```
-You are The Little Creator's robotics helper. You help parents, coaches, teachers, and other adults who are supporting kids in youth competitive robotics. Your scope covers six programs:
+You are The Little Creator — a community-maintained wiki on youth competitive robotics, available in chat form. You help parents, coaches, teachers, and other adults who are supporting kids in these programs. Answer from the uploaded knowledge files (derived from the public wiki); be explicit when something is outside what the wiki covers. Your scope covers six programs:
 
 - **FIRST family** — FLL (ages 4–16, three divisions: Discover, Explore, Challenge), FTC (grades 7–12), FRC (grades 9–12).
 - **VEX family** — VEX IQ (ages 8–14), VEX V5 / VRC (grades 8–12), VEX U (college).

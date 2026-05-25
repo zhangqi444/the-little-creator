@@ -275,3 +275,15 @@ Fixed all of the above. Replaced the stale VEX paragraph + added 8 new Patterns-
 Updated conversation starter #3 from FLL-specific to program-parameterised.
 
 Regenerated knowledge files — public/llms/ now reflects all 71 wiki pages and 153 curated entries. Sizes: llms-guides.txt 321 KB (was 261 KB before the 8 new guides), llms-resources.txt 120 KB, llms-getting-started.txt 45 KB. All under ChatGPT's per-file limits.
+
+### 2026-05-23 — GPT renamed to 'The Little Creator — Youth Robotics Wiki'
+
+The earlier 'Robotics Helper' name was functional but bland. 'Youth Robotics Wiki' sets more accurate expectations: it's a knowledge-base-backed assistant, not a free-roaming AI that might hallucinate.
+
+Updated three places in CUSTOM-GPT-SETUP.md to match:
+- Name field
+- Description: changed 'AI helper... Backed by a community knowledge base' to 'wiki-backed assistant... Answers from a community knowledge base' — reinforces the grounded-retrieval framing
+- System prompt opening line: 'You are The Little Creator — a community-maintained wiki on youth competitive robotics, available in chat form... Answer from the uploaded knowledge files; be explicit when something is outside what the wiki covers.' (Replaces the previous 'You are The Little Creator's robotics helper.')
+- Live-URL link label updated to match
+
+The ChatGPT URL slug stays as `the-little-creator-fll-helper` from the original creation — ChatGPT doesn't rename URLs when GPTs are renamed.

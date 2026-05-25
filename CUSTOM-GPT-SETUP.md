@@ -263,7 +263,11 @@ Upload these files from your `public/llms/` folder (note the path moved as of 20
 - `llms-community.txt`
 - `llms-showcase.txt`
 
-(Skip `llms-full.txt` — uploading both the unified and per-section files duplicates content. Use the per-section files for cleaner retrieval. Skip `llms-CLAUDE.txt` and `llms-log.txt` — those are wiki-internal files in `artifacts/llms-internal/`, not for the GPT.)
+**Skip these files** even though they're in `public/llms/`:
+
+- `llms.txt` — the [llmstxt.org](https://llmstxt.org/) index manifest. A small table of contents designed for web crawlers, not for GPT retrieval. Adds nothing useful inside ChatGPT (the GPT can't follow the URLs it contains in real time).
+- `llms-full.txt` — the entire wiki concatenated. Uploading this AND the per-section files duplicates content; ChatGPT's retrieval will pull the same passage twice and answer quality suffers. Use the per-section files only.
+- `llms-CLAUDE.txt` and `llms-log.txt` — wiki-internal files that live in `artifacts/llms-internal/`, not `public/llms/`. They aren't for the GPT regardless.
 
 ## Step 6 — Conversation starters
 

@@ -118,6 +118,17 @@ Official cost breakdown across all FIRST programs. Prices vary by program and ev
 
 Starting with the 2026/27 season (FIRST CANOPY, FLL game name BIOGLOW), the program runs in two parallel editions during a multi-year transition. The **Founders Edition** continues the existing SPIKE-based program through its final 2027/28 season. The **Future Edition** launches in 2026/27 on the new LEGO Education Computer Science & AI platform and becomes the unified program from 2028/29 onward. New gameplay introduces wireless hardware, motorized task models, semi-cooperative matches on a shared field, and four defined team roles. Future Edition equipment is **not backward-compatible** with SPIKE — important for purchasing decisions. Announced by FIRST and LEGO Education on January 12, 2026. See also the [DACH partner's English summary](https://www.first-lego-league.org/en/future-edition-en) for additional context.
 
+### FIRST community blog — "A New Era for FIRST LEGO League"
+
+- **URL:** https://community.firstinspires.org/new-era-first-lego-league-future-edition
+- **Authority:** official
+- **Audience:** coaches, teachers, families, teams
+- **Level:** all
+- **Tags:** fll, future-edition, transition, season-2026-27, community-blog, canonical-announcement
+- **Use when:** You want FIRST's own staff-authored announcement of the Future Edition launch — the canonical reference for the four player roles, semi-cooperative gameplay, and the updated age/grade bands.
+
+Authored by Kim Wierman and Camilla Bottke (FIRST LEGO League) and published January 12, 2026, this is the staff-bylined "why and what changes" post on the FIRST community blog. It introduces the four team roles (Driver, Operator, Technician, Specialist), the shift to semi-cooperative 2.5-minute matches on a shared field, motorized game models, and the simplified age bands (US/Canada: Grades K-2 and 3-8; international: ages 5-7 and 8-16). Also confirms the **Discover division retires after the 2025/26 UNEARTHED season** — Future Edition starts FLL at age 5 (K-2) instead of age 4. Pair this with our Future Edition transition entry above and with the [partnership update](https://education.lego.com/en-us/first-lego-league/partnership-update/) for the LEGO Education side of the same story.
+
 ### LEGO Education — SPIKE Prime / Mindstorms
 
 - **URL:** https://education.lego.com
@@ -241,7 +252,29 @@ The non-profit HANDS on TECHNOLOGY e.V. has operated FLL in the DACH region (Ger
 - **Tags:** fll, regional-partner, dach, season-archive, pattern, current
 - **Use when:** You are looking for the DACH partner's per-season content — current-season monthly newsletters, prior-season coach resources, or comparing season-over-season program changes (registration timing, awareness concept, judging rubrics).
 
-The DACH partner archives each season under a consistent URL pattern: **`https://www.first-lego-league.org/en/<YYYY>-<YY>-season/<sub-path>`**. Each season template includes `/season-updates` (monthly newsletter archive), `/the-<theme>-season` (theme landing), `/challenge-resources/*` (coaching, core-values, research, robot-design, robot-game, evaluation, season-documents), `/discover-resources`, `/explore-resources`, and `/further-events-activities`. Verified seasons on the site as of May 2026: **2022-23 SUPERPOWERED**, **2023-24 MASTERPIECE**, **2024-25 SUBMERGED**, **2025-26 UNEARTHED**. The URL above points at the current season's update archive; swap the year segment to navigate any past season. Future seasons follow the same pattern — **2026-27 BIOGLOW** will live at `/en/2026-27-season/...` once HANDS on TECHNOLOGY publishes those pages (typically as the season ramps up over the summer).
+The DACH partner archives each season under a consistent URL pattern: **`https://www.first-lego-league.org/en/<YYYY>-<YY>-season/<sub-path>`**. Each season template includes `/season-updates` (monthly newsletter archive), `/the-<theme>-season` (theme landing), `/challenge-resources/*` (coaching, core-values, research, robot-design, robot-game, evaluation, season-documents), `/discover-resources`, `/explore-resources`, and `/further-events-activities`. Verified seasons on the site as of May 2026: **2022-23 SUPERPOWERED**, **2023-24 MASTERPIECE**, **2024-25 SUBMERGED**, **2025-26 UNEARTHED**, and (newly live) **2026-27 BIOGLOW** — see the next two entries for the BIOGLOW landing and the Future Edition pricing-structure update. The URL above points at the current season's update archive; swap the year segment to navigate any past season.
+
+### HANDS on TECHNOLOGY — BIOGLOW (2026/27) season landing
+
+- **URL:** https://www.first-lego-league.org/en/2026-27-season/bioglow
+- **Authority:** official
+- **Audience:** families, coaches, teachers, teams
+- **Level:** all
+- **Tags:** fll, regional-partner, dach, season-2026-27, bioglow, current-next
+- **Use when:** You are in the DACH region and need the BIOGLOW season calendar at a glance — registration opens, kickoff, material shipping, deadlines, and the DACH final.
+
+The DACH partner's BIOGLOW landing page. Key dates published as of May 2026: registration opens **May 19, 2026** (both Founders Edition Explore/Challenge and Future Edition 8+); kickoff (challenge release worldwide) is **August 4, 2026**; default material shipping starts **August 5, 2026** (earlier shipping requestable but not before that date); Challenge registration deadline **October 31, 2026**; Future Edition 8+ registration deadline **March 31, 2027** (with the earlier October 31 cut-off if the team wants to compete at events on that date); Explore exhibitions close 4 weeks prior to each event; season events run **November 2026 to April 2027**; the **DACH Final** (Germany/Austria/Switzerland) is in **April 2027**. The page also confirms BIOGLOW runs in both editions: Future Edition (Grades 1-3 for 5+, Grades 4-10 for 8+) on the LEGO Education Computer Science & AI platform, and Founders Edition (Explore Grades 1-4, Challenge Grades 5-10) on the existing SPIKE platform.
+
+### HANDS on TECHNOLOGY — Future Edition pricing & transition bonus
+
+- **URL:** https://www.first-lego-league.org/en/2026-27-season/season-updates/future-edition-pricing-structure-transition-bonus
+- **Authority:** official
+- **Audience:** coaches, teachers, families
+- **Level:** all
+- **Tags:** fll, regional-partner, dach, future-edition, season-2026-27, pricing, transition-bonus
+- **Use when:** You are budgeting for Future Edition 8+ in the DACH region — and especially if you are an existing team switching over from a Founders/SPIKE setup and want to know whether the event-fee waiver applies to you.
+
+Published **May 19, 2026** by HANDS on TECHNOLOGY as a DACH-only season-update post. Lays out an unbundled fee model: a tiered program fee (€250 for 8 participants / €350 for 16 / €450 for 24), a flat €140 per season set (one set covers up to 24 participants), per-country logistics (€20 DE / €25 AT / €42 CH), and an optional €100 event fee per team. The **LEGO Education Computer Science & AI hardware is sold separately and not included** in any of these line items. Existing teams switching to Future Edition can use voucher code **HoT_FT8+_2026** at group-registration time to waive the event fee for the transition season. DACH-specific pricing only — teams in other regions should check with their own regional partner.
 
 ### FIRST Washington — Pacific Northwest
 

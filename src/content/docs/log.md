@@ -21,6 +21,11 @@ One date heading per day. Multiple bullets per heading is fine. Don't edit histo
 
 ---
 
+## 2026-05-25
+
+- **Ingest: FLL Future Edition + BIOGLOW expansion (auto-discovery).** Added three new entries to `fll-resource-map.md`. (1) Under Official sources, the FIRST community blog post "A New Era for FIRST LEGO League: Inspiring the Next Generation of Learners" (Kim Wierman & Camilla Bottke, Jan 12, 2026) — canonical staff-bylined Future Edition launch announcement covering the four player roles, semi-cooperative matches, simplified age/grade bands, and the **Discover-division retirement after UNEARTHED**. (2) Under Regional partners, the **DACH BIOGLOW (2026/27) season landing** — confirms the pattern-predicted URL `/en/2026-27-season/bioglow` is now live and pulls out the published season calendar (registration May 19, kickoff Aug 4, deadlines, DACH Final April 2027). (3) Under Regional partners, the **DACH Future Edition pricing & transition bonus** post (May 19, 2026) — DACH-only fee structure with the `HoT_FT8+_2026` voucher code for existing teams. Also lightly edited the existing "DACH season archives — per-season pattern" entry to acknowledge BIOGLOW is now a verified season under the pattern.
+  Source: https://community.firstinspires.org/new-era-first-lego-league-future-edition + https://www.first-lego-league.org/en/2026-27-season/bioglow + https://www.first-lego-league.org/en/2026-27-season/season-updates/future-edition-pricing-structure-transition-bonus
+
 ## 2026-05-23
 
 - **Phase 5 — Custom GPT reframed for multi-program.** Updated `CUSTOM-GPT-SETUP.md` so the canonical GPT positioning now spans FLL + FTC + FRC + VEX (IQ/V5/U) rather than FLL-only. Name changed from "The Little Creator — FLL Helper" to "The Little Creator — Robotics Helper". Description, system-prompt opening, context-triage section (now triages on program FIRST, then region/division/first-season), Behavior rules "stay in scope" line, and Conversation starters all updated. Coverage-depth caveat baked into the prompt: FLL is the most-developed (60+ entries), FTC/FRC/VEX are starter-coverage and the GPT should be honest about uncertainty for those. Knowledge-file upload path updated (public/llms/ now, not public/ root). Maintainer must re-paste in the GPT editor + re-upload regenerated knowledge files for the change to take effect — same workflow as previous updates.
@@ -287,3 +292,32 @@ Updated three places in CUSTOM-GPT-SETUP.md to match:
 - Live-URL link label updated to match
 
 The ChatGPT URL slug stays as `the-little-creator-fll-helper` from the original creation — ChatGPT doesn't rename URLs when GPTs are renamed.
+
+### 2026-05-26 — Fix GPT under-13 classifier trigger — strict adult-facing framing
+
+OpenAI's classifier flagged the GPT with "May contain content targeting users under 13 years of age" — the same failure mode CUSTOM-GPT-SETUP.md warned about. Even though our content covers programs that include under-13 children (FLL Discover 4-6, Explore 6-10, IQ 8+), the GPT itself must be positioned for the adults around them per ChatGPT's 13+ terms of service.
+
+Scrubbed every visible-to-classifier surface and tightened the system prompt:
+
+**Renamed** to `The Little Creator — Robotics for Parents & Coaches` (was `Youth Robotics Wiki`). Names the adult audience explicitly.
+
+**Description rewrite** — adults as the subject:
+- Was: "A wiki-backed assistant for parents, coaches, and teachers supporting kids in youth competitive robotics..."
+- Now: "A wiki-backed assistant for the parents, coaches, and teachers behind youth robotics teams... for the adults running teams."
+
+**Conversation starters** — removed every "my kid" / "my child" reference (these are visible to the classifier):
+- #1: "team-member age range, first season as a coach or parent?" (was "my kid's age, first season?")
+- #2: "Helping a [age]-year-old find a robotics program — which should we look at first?" (was "My kid is [age] —")
+- #3: "...as a coach or parent?" appended
+- #4: "Our team's robot" (was "My robot")
+
+**System prompt scrub** — removed clauses that anticipated child users:
+- Audience-awareness section: "ChatGPT requires its users to be 13 or older, so the people typing to you are adults — write for them directly. The young people they're supporting are subjects you discuss, not interlocutors you address."
+- Removed the "If a kid uses the chat directly, respond with simpler vocabulary" instruction
+- Tone section: "Treat users as intelligent adults — they are parents, coaches, teachers, and mentors, not the young people on their teams." (replaced the "If a child is using the chat" clause)
+- Behavior rules: "Professional and clean tone always" (was "Family-friendly always... kids may read alongside their parents")
+- Test checklist: "Tone is professional and clean" (was "Tone is family-friendly")
+
+The CUSTOM-GPT-SETUP.md warning callout at the top of Step 3 already documented this failure mode; we just hadn't fully followed our own guidance. Now we do.
+
+Kept untouched: quoted-user-question examples in Patterns-by-type section ("my kid wants to quit", "my child is nervous about the tournament"). Those are authentic phrases adults actually type when asking the GPT for help, and the GPT needs to recognize them. They're internal to the system prompt (not surfaced to the classifier) and describe the adult user's situation, not the GPT's audience.

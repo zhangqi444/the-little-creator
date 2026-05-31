@@ -399,6 +399,38 @@
       "frequency": "monthly",
       "verified": true,
       "look_for": "Site feature announcements (new API endpoints, new event types, new data fields), maintainer notes, season-readiness posts. TBA the data site is the primary asset — the blog is a secondary signal for major site changes."
+    },
+    {
+      "url": "https://www.firstinspires.org/first-biobuzz",
+      "name": "FIRST BIOBUZZ season landing (FTC 2026-27) — pattern-predicted",
+      "tags": ["ftc", "season-2026-27", "biobuzz", "official", "predicted"],
+      "frequency": "weekly",
+      "verified": false,
+      "look_for": "URL does not exist YET as of May 2026 — predicted from the FIRST per-season URL pattern (e.g., /first-canopy for 2026/27). BIOBUZZ is the FTC-specific sub-game under FIRST CANOPY. Expected to go live around the BIOBUZZ reveal on September 12, 2026. Flip verified once the URL returns 200 with substantive season content. If 404 by Oct 2026, check /first-canopy for an updated FTC-specific anchor instead."
+    },
+    {
+      "url": "https://www.firstinspires.org/programs/ftc/team-updates",
+      "name": "FTC Team Updates page — BIOBUZZ 2026-27 (pattern-predicted)",
+      "tags": ["ftc", "season-2026-27", "biobuzz", "team-updates", "official", "predicted"],
+      "frequency": "weekly",
+      "verified": false,
+      "look_for": "FTC publishes numbered Team Updates (Q&A clarifications to the game manual) throughout the season. URL pattern follows prior seasons — expected to activate after BIOBUZZ reveal (Sept 12, 2026). Flip verified once the page returns 200 and lists BIOBUZZ-specific updates. If the URL differs, check the main /programs/ftc/ page for a Team Updates link. High signal Oct 2026 through Mar 2027."
+    },
+    {
+      "url": "https://www.firstinspires.org/first-biocore",
+      "name": "FIRST BIOCORE season landing (FRC 2026-27) — pattern-predicted",
+      "tags": ["frc", "season-2026-27", "biocore", "official", "predicted"],
+      "frequency": "monthly",
+      "verified": false,
+      "look_for": "URL does not exist YET as of May 2026 — predicted from the FIRST per-season URL pattern (/first-<theme>). BIOCORE is the FRC-specific game under FIRST CANOPY 2026/27; Kickoff is January 9, 2027. Expected to activate Jan 2027. Flip verified once the URL returns 200 with substantive game content. If 404 by Feb 2027, check /programs/frc/game-and-season for the updated FRC season anchor."
+    },
+    {
+      "url": "https://www.chiefdelphi.com",
+      "name": "Chief Delphi — FRC community forum",
+      "tags": ["frc", "community", "chief-delphi", "high-signal"],
+      "frequency": "monthly",
+      "verified": true,
+      "look_for": "Chief Delphi is the primary FRC community forum — the equivalent of the FTC subreddit but larger and more authoritative. Look for major technical discussions, scouting frameworks, strategy threads, and official FIRST clarifications cross-posted. High signal during build season (Jan through Apr). Also watch for BIOCORE Kickoff discussion threads in Jan 2027. The site runs Discourse; no RSS feed — treat as page-poll only."
     }
   ]
 }

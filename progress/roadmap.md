@@ -161,4 +161,11 @@
 - [x] `guides/ftc-programming-basics.md` — FTC SDK programming intro for rookie teams: FTC Blocks, OnBot Java, Android Studio entry points; mecanum TeleOp and encoder-based Autonomous examples; hardware map, telemetry, and common-mistakes coverage (2026-05-31)
 - [x] `guides/frc-programming-basics.md` — WPILib intro for rookie FRC teams: TimedRobot, Command-based framework, Shuffleboard telemetry, and a drive-forward Autonomous example (2026-05-31)
 - [x] `for-educators/ftc-curriculum-starter.md` — 8-week FTC onboarding curriculum for classroom/club (FTC equivalent of curriculum-starter.md) (2026-05-31)
-- [ ] `discovery-sources.json` — add predictive entries for new FTC/FRC season content pages (BIOBUZZ, CANOPY) that are not yet verified
+- [x] `discovery-sources.json` — add predictive entries for new FTC/FRC season content pages (BIOBUZZ, CANOPY) that are not yet verified (2026-05-31)
+
+## Wave 15 backlog (next tasks — derive from gaps)
+
+- [ ] `guides/vex-v5-programming-basics.md` — VEX V5 programming intro for rookie teams: VEXcode Pro V5, blocks vs. C++, drive base control, sensor basics, autonomous skeleton (complement to vex-iq-programming.md which covers IQ; this covers V5/VRC older-student audience)
+- [ ] `resources/vex-iq-resource-map.md` — VEX IQ equivalent of fll-resource-map.md: RobotEvents, vexiq-kb, VEX forums, official curriculum, community YouTube
+- [ ] `getting-started/what-is-vex.md` — review and update for current VEX IQ / V5 season; add crosslinks to new guides added in waves 10-14
+- [ ] `guides/index.md` — verify all guide cards/links are current after Wave 14 additions (ftc-programming-basics, frc-programming-basics, ftc-curriculum-starter)

@@ -350,3 +350,9 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 ## 2026-05-31 (session 2)
 
 - `getting-started/what-is-vex.md` — review and update (Wave 15 task). Added proper frontmatter (tags, audience, level, season), current season callout (Push Back 2025-26 / Override 2026-27), expanded VEX Programs table with grade/competition columns, Competition section (Skills Challenge explained, RobotEvents, World Championship), new Awards section linking to /guides/vex-awards/, expanded Programming section with per-program breakdowns (IQ and V5) linking to /guides/vex-iq-programming/ and /guides/vex-v5-programming-basics/, Key Differences from FLL expanded with 5 points, Resources section cross-linking all wave 10-15 VEX guides and resource maps.
+
+## 2026-05-31 (session 3)
+
+- `for-educators/frc-curriculum-starter.md` — new guide (Wave 16 task). 8-week FRC onboarding curriculum for classroom/club: week-by-week outline from hardware tour through scrimmage, covering roboRIO/PDH/CAN bus orientation, WPILib VS Code setup, TimedRobot TeleOp, Command-based Subsystem/Command pattern, encoder-based distance driving, NavX/Pigeon gyro for heading correction, Autonomous with SequentialCommandGroup, and a full practice match scrimmage. Includes adapting notes for students with Java experience, no hardware (simulation), large teams, and mixed grade levels. Links to FRC Programming Basics, FRC Awards, FRC Impact Submission, and First FRC Tournament.
+- `for-educators/index.md` — added FRC Curriculum Starter link; renamed "Curriculum Starter" to "FLL Curriculum Starter" for clarity alongside FTC and FRC entries.
+- `astro.config.mjs` sidebar — For Educators section updated: "Curriculum Starter" renamed to "FLL Curriculum Starter"; FTC Curriculum Starter (was missing) and FRC Curriculum Starter added.

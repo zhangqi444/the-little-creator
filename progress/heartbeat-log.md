@@ -826,3 +826,8 @@
 - Also: astro.config.mjs + resources/index.md updated with VEX IQ and VEX V5 resource map links (VEX IQ map was missing from sidebar since Wave 15)
 - Also: marked assessment-guide.md [x] in roadmap (was done in commit 0ed5379 but not marked)
 - Commit 2d9e5ff, pushed to main
+
+## 2026-05-31 20:58 UTC
+- **Repos:** open-forge already up-to-date; the-little-creator already up-to-date
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator
+- **Roadmap task:** Wave 20 — created `getting-started/what-is-vex-iq.md` (dedicated VEX IQ getting-started page, ages 8-14, snap-together hardware, cooperative alliance format, Skills Challenge, programming options, key differences from FLL). Updated sidebar and index.md. Commit eadc61e pushed to main.

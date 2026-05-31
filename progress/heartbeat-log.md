@@ -557,3 +557,25 @@
 - Committed and pushed: 83242a8
 
 **Remaining Wave 11 tasks**: `what-is-frc.md` (BIOCORE/CANOPY alignment), `frc-resource-map.md` link audit, `ftc-resource-map.md` link audit.
+
+## 2026-05-31 01:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 11)**:
+- Updated `src/content/docs/getting-started/what-is-frc.md` — aligned with CANOPY/BIOCORE 2026-27 season announcement.
+  - Added "FIRST CANOPY and BIOCORE (2026/27 season)" section mirroring depth of what-is-ftc.md BIOBUZZ section
+  - BIOCORE presented by Haas, Kickoff **January 9, 2027**
+  - New Dashboard/Storefront: maintenance June 8-15 2026, Storefront opens July 2026, BIOCORE materials Jan 9 2027
+  - Cross-linked to CANOPY registration timeline anchor in fll-resource-map
+  - Season glance bullet updated to note BIOCORE Jan 9 date
+  - Current season note (REBUILT 2025/26) added with forward pointer to BIOCORE section
+  - Tags updated: added `canopy`, `biocore`, `season-2026-27`
+  - Registration section simplified for new Storefront flow
+- Committed and pushed: c67f05c
+
+**Remaining Wave 11 tasks**: `frc-resource-map.md` link audit, `ftc-resource-map.md` link audit.

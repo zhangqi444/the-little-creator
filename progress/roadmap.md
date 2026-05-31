@@ -144,6 +144,6 @@
 ## Wave 11 backlog (next tasks — derive from gaps)
 
 - [x] `getting-started/what-is-ftc.md` — review and align with CANOPY/BIOBUZZ 2026-27 season announcement (2026-05-31)
-- [ ] `getting-started/what-is-frc.md` — review and align with CANOPY/BIOCORE 2027 season announcement
+- [x] `getting-started/what-is-frc.md` — review and align with CANOPY/BIOCORE 2027 season announcement (2026-05-31)
 - [ ] `resources/frc-resource-map.md` — link audit (same pattern as fll-resource-map.md audit in Wave 9)
 - [ ] `resources/ftc-resource-map.md` — link audit

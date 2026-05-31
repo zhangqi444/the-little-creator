@@ -808,3 +808,21 @@
 - V5RC-specific packing list and full awards table with advancement notes
 - Also: astro.config.mjs sidebar + guides/index.md updated
 - Commit 49c1f8b, pushed to main
+
+---
+
+## 2026-05-31 19:58 UTC
+
+**Repos synced:** open-forge ✓, the-little-creator ✓ (both already up-to-date)
+**open-forge issues:** 0 open
+**the-little-creator issues:** 0 open
+**Roadmap task (Wave 20):** `resources/vex-v5-resource-map.md`
+- Dedicated VEX V5/VRC resource map for high-school teams
+- Official sources: V5 hardware page, V5RC current game + KB, RobotEvents, VEXcode Pro V5, Python API, VEX Education
+- RECF resources: grants, trainings, Girl Powered, World Championship, Signature Events
+- Programming: PROS (open-source C++ / RTOS), LemLib (autonomous odometry/path following)
+- Community: VEX Forum, VRC subreddit (r/vrc), VRC Discord servers
+- YouTube: 1010W Robotics, RECF official channel
+- Also: astro.config.mjs + resources/index.md updated with VEX IQ and VEX V5 resource map links (VEX IQ map was missing from sidebar since Wave 15)
+- Also: marked assessment-guide.md [x] in roadmap (was done in commit 0ed5379 but not marked)
+- Commit 2d9e5ff, pushed to main

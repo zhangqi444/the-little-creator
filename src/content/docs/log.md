@@ -321,3 +321,14 @@ Scrubbed every visible-to-classifier surface and tightened the system prompt:
 The CUSTOM-GPT-SETUP.md warning callout at the top of Step 3 already documented this failure mode; we just hadn't fully followed our own guidance. Now we do.
 
 Kept untouched: quoted-user-question examples in Patterns-by-type section ("my kid wants to quit", "my child is nervous about the tournament"). Those are authentic phrases adults actually type when asking the GPT for help, and the GPT needs to recognize them. They're internal to the system prompt (not surfaced to the classifier) and describe the adult user's situation, not the GPT's audience.
+
+## 2026-05-31
+
+- `resources/frc-resource-map.md` — link audit (Wave 11 task). Fixed 5 broken/redirected URLs:
+  - Choreo: `sleipnirgroup.github.io/Choreo/` → `choreo.autos/` (site migrated)
+  - AdvantageKit: `docs.advantagescope.org/.../log-with-advantagekit/` (404) → `docs.advantagekit.org/` (AdvantageKit now has its own docs site)
+  - YAGSL: `github.com/BroncBotz3481/YAGSL` → `github.com/Yet-Another-Software-Suite/YAGSL` (repo transferred to new org)
+  - CTRE vendor: `www.ctr-electronics.com/` → `store.ctr-electronics.com/` (canonical redirect target)
+  - CTRE docs inline link: `pro.docs.ctr-electronics.com` → `v6.docs.ctr-electronics.com/en/stable/` (renamed)
+  - AndyMark: `www.andymark.com/` → `andymark.com/` (canonical redirect target)
+  All other links (firstinspires.org, wpilib.org, docs.wpilib.org, revrobotics.com, firstchoicebyandymark.com, thebluealliance.com, statbotics.io, chiefdelphi.com, pathplanner.dev, photonvision.org, docs.advantagescope.org, docs.revrobotics.com/docs/ion) return 200.

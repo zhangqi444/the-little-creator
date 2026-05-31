@@ -115,18 +115,18 @@ REV's FRC product line is branded **REV ION** — note it's distinct from the FT
 
 ### CTRE — Cross The Road Electronics
 
-- **URL:** https://www.ctr-electronics.com/
+- **URL:** https://store.ctr-electronics.com/
 - **Authority:** independent (long-time FRC vendor)
 - **Audience:** mentors, teens, advanced programmers
 - **Level:** intermediate, advanced
 - **Tags:** frc, hardware, ctre, motors, motor-controllers, swerve, falcon, kraken
 - **Use when:** Sourcing the Talon SRX / Talon FX / Kraken X60 / Kraken X44 motor controllers and motors, CANcoders (absolute encoders), Pigeon IMU, or building a swerve drivetrain using a SwerveModuleConstants-backed library.
 
-CTRE's Phoenix ecosystem is one of two dominant motor-controller stacks in FRC (REV being the other). Their **Kraken** brushless motors with integrated FOC control are widely used on competitive swerve drivetrains. The Phoenix 6 software framework is the canonical CTRE programming interface — well-integrated with WPILib's command-based pattern. Documentation at [pro.docs.ctr-electronics.com](https://pro.docs.ctr-electronics.com/).
+CTRE's Phoenix ecosystem is one of two dominant motor-controller stacks in FRC (REV being the other). Their **Kraken** brushless motors with integrated FOC control are widely used on competitive swerve drivetrains. The Phoenix 6 software framework is the canonical CTRE programming interface — well-integrated with WPILib's command-based pattern. Documentation at [v6.docs.ctr-electronics.com/en/stable](https://v6.docs.ctr-electronics.com/en/stable/).
 
 ### AndyMark — long-time FRC mechanical vendor
 
-- **URL:** https://www.andymark.com/
+- **URL:** https://andymark.com/
 - **Authority:** independent (long-time FRC vendor)
 - **Audience:** mentors, coaches, teens
 - **Level:** beginner, intermediate
@@ -213,7 +213,7 @@ PathPlanner is the dominant FRC autonomous path-planning tool. Ships with a GUI 
 
 ### Choreo — trajectory optimisation
 
-- **URL:** https://sleipnirgroup.github.io/Choreo/
+- **URL:** https://choreo.autos/
 - **Authority:** community (rapidly-growing)
 - **Audience:** advanced teen programmers, mentors
 - **Level:** advanced
@@ -235,7 +235,7 @@ PhotonVision is the canonical open-source vision pipeline for FRC. Runs as a sta
 
 ### AdvantageKit — logging and replay framework
 
-- **URL:** https://docs.advantagescope.org/getting-started/manage-data/log-with-advantagekit/
+- **URL:** https://docs.advantagekit.org/
 - **Authority:** community (team 6328 Mechanical Advantage)
 - **Audience:** advanced teen programmers, mentors
 - **Level:** advanced
@@ -257,7 +257,7 @@ AdvantageScope is the visualisation front-end paired with AdvantageKit (but also
 
 ### YAGSL — Yet Another Generic Swerve Library
 
-- **URL:** https://github.com/BroncBotz3481/YAGSL
+- **URL:** https://github.com/Yet-Another-Software-Suite/YAGSL
 - **Authority:** community
 - **Audience:** advanced teen programmers, mentors
 - **Level:** advanced

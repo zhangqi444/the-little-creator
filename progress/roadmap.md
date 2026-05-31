@@ -134,3 +134,16 @@
 - [ ] `resources/fll-resource-map.md` — audit existing entries for broken links; refresh any 404s
 - [x] `guides/index.md` — verify all guide cards/links reflect current groupings (align with sidebar) (2026-05-23)
 - [x] `src/content/docs/log.md` — catch up log with missing entries from May 19 onwards (2026-05-23)
+- [x] `discovery-sources.json` — added 8 BIOGLOW 2026-27 predictive watchlist entries: Global FLL /season, FIRST FLL Challenge page, FIRST Washington (Challenge + Explore), FIRST in Texas, IET UK (hub + Future Edition), DACH BIOGLOW landing (pattern-predicted). All new entries marked verified:false; flip when BIOGLOW content goes live (expected Aug 2026). (2026-05-23)
+- [x] `resources/fll-resource-map.md` — link audit complete. Fixed: firstnorcal.org (dead DNS) → norcalfll.org; firstinflorida.org/programs/... → /first-lego-league/ (redirect). firstroboticscanada.org is Cloudflare-protected (live). All other tested URLs 200. (2026-05-23)
+
+## Wave 10 backlog
+
+- [x] `guides/index.md` — wire 9 new FTC/FRC/VEX guides (tournament, awards, judging docs, VEX U start guide) added in external commits; updated description to reflect all-6-program scope (2026-05-30)
+
+## Wave 11 backlog (next tasks — derive from gaps)
+
+- [ ] `getting-started/what-is-ftc.md` — review and align with CANOPY/BIOBUZZ 2026-27 season announcement (mirrors what-is-fll.md update done in Wave 9)
+- [ ] `getting-started/what-is-frc.md` — review and align with CANOPY/BIOCORE 2027 season announcement
+- [ ] `resources/frc-resource-map.md` — link audit (same pattern as fll-resource-map.md audit in Wave 9)
+- [ ] `resources/ftc-resource-map.md` — link audit

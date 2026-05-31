@@ -511,3 +511,29 @@
   - Added log.md entry for the change
   - Updated progress/roadmap.md to mark task done
   - Commits: da34616 (what-is-fll update), fbf6874 (log entry), pushed to main
+## 2026-05-23 04:58 UTC
+- Both repos in sync, no open issues
+- discovery-sources.json: added 8 BIOGLOW 2026-27 predictive watchlist entries (Global FLL /season, FIRST FLL Challenge, FIRST Washington x2, FIRST in Texas, IET UK x2, DACH BIOGLOW landing)
+- All new entries marked verified:false; expected to go live Aug 2026 as BIOGLOW season ramps up
+- Next: fll-resource-map.md link audit (Wave 9 remaining task)
+
+## 2026-05-23 19:58 UTC
+- Both repos synced (the-little-creator pulled new FTC/FRC content from external commits)
+- No open issues on either repo
+- fll-resource-map.md link audit: fixed firstnorcal.org (dead DNS → norcalfll.org) and firstinflorida.org redirect URL
+- Wave 9 backlog now fully complete
+
+
+## 2026-05-30 23:59 UTC
+
+- Both repos synced (open-forge already up to date; the-little-creator pulled 25 file changes — new FTC/FRC/VEX guides wave)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap task completed: `guides/index.md` Wave 10 update
+  - Wired 9 new guides from recent external commits into the guides index:
+    - Competition prep: FTC Awards, FRC Awards, VEX Awards, FTC Engineering Portfolio, FRC Impact Submission, Your First FTC/FRC/VEX Tournament
+    - Getting started: Starting a VEX U Team
+  - Updated frontmatter description and intro to mention FTC, FRC, and all 6 programs
+  - Renamed "Your First Tournament" to "Your First FLL Tournament" for disambiguation
+  - Commit b63fc30, pushed to main
+- Updated roadmap.md: Wave 10 marked done; Wave 11 backlog derived (FTC/FRC what-is pages for CANOPY season, resource map link audits)

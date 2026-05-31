@@ -537,3 +537,23 @@
   - Renamed "Your First Tournament" to "Your First FLL Tournament" for disambiguation
   - Commit b63fc30, pushed to main
 - Updated roadmap.md: Wave 10 marked done; Wave 11 backlog derived (FTC/FRC what-is pages for CANOPY season, resource map link audits)
+
+## 2026-05-31 00:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 11)**:
+- Updated `src/content/docs/getting-started/what-is-ftc.md` — aligned with CANOPY/BIOBUZZ 2026-27 season announcement.
+  - Added BIOBUZZ September 12, 2026 release date
+  - Added "FIRST CANOPY and BIOBUZZ (2026/27 season)" section with Dashboard June 8-15 maintenance window, Storefront July 2026 launch, game materials release date
+  - Noted existing Control Hub / Driver Hub hardware carries over unchanged
+  - Updated tags: added `canopy`, `biobuzz`, `season-2026-27`
+  - Cross-linked to CANOPY registration timeline anchor in fll-resource-map
+  - Mirrors depth of `what-is-fll.md` Wave 9 season update
+- Committed and pushed: 83242a8
+
+**Remaining Wave 11 tasks**: `what-is-frc.md` (BIOCORE/CANOPY alignment), `frc-resource-map.md` link audit, `ftc-resource-map.md` link audit.

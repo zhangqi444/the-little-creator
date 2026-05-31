@@ -661,3 +661,21 @@
 - Updated tone note to acknowledge technical depth is appropriate for FTC/FRC/VEX U audiences.
 - Committed: 7ee3248, pushed to main
 - Updated progress/roadmap.md — Wave 13 first task complete
+
+## 2026-05-31 06:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date (open-forge and the-little-creator).
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 14)**:
+- Added `guides/ftc-programming-basics.md` — new FTC SDK programming intro guide for rookie teams.
+- Covers three entry points: FTC Blocks (browser-based, no install), OnBot Java (browser-based Java), and Android Studio.
+- Includes full mecanum TeleOp Java example with hardware map wiring, encoder-based Autonomous example with ticks-per-rev notes, telemetry guidance, and a common-rookie-mistakes table.
+- Links to community libraries: Road Runner, FTCLib, EasyOpenCV, FTC Dashboard.
+- Updated `resources/index.md` and `guides/index.md` to link the new guide in the Building and programming section.
+- Updated `src/content/docs/log.md` with the change record.
+- Committed: 1a24a17, pushed to main.
+- Updated `progress/roadmap.md` — Wave 14 first task complete; added 3 next backlog items.

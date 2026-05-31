@@ -42,6 +42,8 @@ export default defineConfig({
             { label: 'FLL Resource Map', link: '/resources/fll-resource-map/' },
             { label: 'FTC Resource Map', link: '/resources/ftc-resource-map/' },
             { label: 'FRC Resource Map', link: '/resources/frc-resource-map/' },
+            { label: 'VEX IQ Resource Map', link: '/resources/vex-iq-resource-map/' },
+            { label: 'VEX V5/VRC Resource Map', link: '/resources/vex-v5-resource-map/' },
             { label: 'VEX Resource Map', link: '/resources/vex-resource-map/' },
             { label: 'Software & Tools', link: '/resources/software-tools/' },
             { label: 'Learning Materials', link: '/resources/learning-materials/' },

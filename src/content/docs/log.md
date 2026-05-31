@@ -378,3 +378,13 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 ## 2026-05-31 (heartbeat 17:58 UTC)
 - Added `guides/vex-v5-tournament.md` — V5RC tournament guide for coaches and teen teams: competitive alliance format, autonomous bonus strategy, scouting, alliance selection, pit setup, engineering notebook depth, emotional coaching, awards table. Commit 49c1f8b.
 - Updated `astro.config.mjs` sidebar and `guides/index.md` with new guide link.
+
+## 2026-05-31 (heartbeat 19:01 UTC)
+- Added `for-educators/assessment-guide.md` — comprehensive assessment guide for all six programs. Commit 0ed5379.
+- Updated `for-educators/index.md` and `astro.config.mjs` sidebar with new guide link.
+
+## 2026-05-31 (heartbeat 19:58 UTC)
+- Added `resources/vex-v5-resource-map.md` — dedicated VEX V5/VRC resource map covering hardware overview, V5RC current game, V5RC KB, RobotEvents, VEXcode Pro V5, Python API, VEX Education, RECF grants/trainings/Girl Powered, PROS, LemLib, VEX Forum, VRC subreddit, VRC Discord, YouTube channels (1010W, RECF). Wave 20 task.
+- Updated `astro.config.mjs` sidebar to add VEX IQ Resource Map and VEX V5/VRC Resource Map entries (VEX IQ map was created in Wave 15 but never wired into sidebar).
+- Updated `resources/index.md` to list VEX IQ and VEX V5/VRC resource maps alongside existing VEX Resource Map entry.
+- Marked `for-educators/assessment-guide.md` done in progress/roadmap.md (was completed in commit 0ed5379 but roadmap not updated at the time).

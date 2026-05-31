@@ -189,4 +189,10 @@
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
 - [x] `guides/vex-v5-tournament.md` — V5RC-specific tournament guide (complement to first-vex-tournament; covers competitive alliance format in depth, scouting for alliance selection, pit strategy for teens, engineering notebook in pit interview context)
-- [ ] `for-educators/assessment-guide.md` — teacher guide for assessing student contributions in mixed-skill teams across all six programs (expand on assessment-rubric.md with formative tools and self-assessment templates)
+- [x] `for-educators/assessment-guide.md` — teacher guide for assessing student contributions in mixed-skill teams across all six programs (expand on assessment-rubric.md with formative tools and self-assessment templates) (2026-05-31 commit 0ed5379)
+
+## Wave 20 backlog
+
+- [x] `resources/vex-v5-resource-map.md` — dedicated VEX V5/VRC resource map (mirrors vex-iq-resource-map.md pattern; covers V5 hardware, v5rc-kb, RobotEvents, VEXcode, PROS, LemLib, VEX Forum, VRC subreddit, YouTube channels). Also added VEX IQ Resource Map and VEX V5/VRC Resource Map to sidebar + resources/index.md (both were missing). (2026-05-31)
+- [ ] `getting-started/what-is-vex-iq.md` — dedicated VEX IQ getting-started page (parallel to what-is-ftc.md, what-is-frc.md, what-is-vex-u.md; currently only a general what-is-vex.md exists)
+- [ ] `getting-started/what-is-vex-v5.md` — dedicated VEX V5/VRC getting-started page for families considering the step up from IQ

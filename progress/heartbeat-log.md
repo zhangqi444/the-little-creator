@@ -769,3 +769,21 @@
 - Adapting notes: 60-min sessions, prior coding experience, single shared robot, mixed skill levels, VEX IQ alumni fast-track
 - Also: for-educators/index.md link + astro.config.mjs sidebar entry
 - Committed 1a8302b and pushed to main
+
+---
+
+## 2026-05-31 16:58 UTC
+
+**Repos synced:** open-forge ✓, the-little-creator ✓ (both already up-to-date)
+**open-forge issues:** 0 open
+**the-little-creator issues:** 0 open
+**Roadmap task (Wave 18/19):** `guides/vex-iq-tournament.md`
+- Detailed VEX IQ (VIQRC) tournament guide for families, parents, coaches, and younger students
+- Collaborative match format explained (key difference from V5RC/FRC)
+- Teamwork Challenge: autonomous period strategy, alliance scoring, pre-match coordination
+- Skills Challenge: Driver Skills vs Autonomous Coding Skills, combined rank as advancement pathway
+- Inspection checklist: sizing box, 3D-printed parts rules, firmware
+- Pit setup: battery management, tools, team banner, culture notes
+- Judging: Excellence, Design, Build, Think, Sportsmanship — prep tips for ages 8-12
+- Schedule management roles, common mistakes, post-event debrief
+- Also: astro.config.mjs sidebar + guides/index.md updated

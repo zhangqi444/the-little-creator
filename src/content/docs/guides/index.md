@@ -52,7 +52,9 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Your First FLL Tournament — What to Expect](/guides/first-tournament-expectations/) — The emotions, social dynamics, and how to help kids come out of it with a great experience
 - [Your First FTC Tournament — What to Expect](/guides/first-ftc-tournament/) — Single combined judging interview, two-team alliances, alliance selection, and how FTC differs from FLL on tournament day
 - [Your First FRC Tournament — What to Expect](/guides/first-frc-tournament/) — Three-day event format, pit life, scouting as a role, alliance selection drama, regional vs. district structure
+
 - [Your First VEX Tournament — What to Expect](/guides/first-vex-tournament/) — Qualification matches, the Skills Challenge (VEX's unique parallel competition), alliance selection across VIQRC / V5RC / VURC
+- [VEX IQ Tournament Guide — VIQRC In Depth](/guides/vex-iq-tournament/) — Detailed VIQRC-specific guide: collaborative match format, Driving Skills vs Autonomous Coding Skills, pit setup for younger students, judging categories
 - [After Advancing — Preparing for Regionals or State Championship](/guides/after-advancing/) — What changes at the next level, 3-week prep plan, managing expectations with kids and parents
 
 ### Team culture

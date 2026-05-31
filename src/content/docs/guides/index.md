@@ -29,6 +29,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Robot Troubleshooting — Common Problems and Fixes](/guides/robot-troubleshooting/) — Drift, missed missions, attachment failures, tournament-day breakdowns, and quick fixes
 - [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro-corrected driving, basic PID, mission selector patterns, and debugging
+- [FTC Programming Basics](/guides/ftc-programming-basics/) — OnBot Java, FTC Blocks, and Android Studio; writing TeleOp and Autonomous OpModes for rookie FTC teams
 - [VEX IQ Programming Guide](/guides/vex-iq-programming/) — Getting started with VEXcode Blocks and Python for VEX IQ robots
 
 ### Competition prep

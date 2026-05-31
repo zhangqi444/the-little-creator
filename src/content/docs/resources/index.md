@@ -42,6 +42,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for SPIKE Prime and VEX IQ
 - [Robot Programming Basics](/guides/robot-programming-basics/) — First programs in SPIKE App (Blocks and Python)
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro driving, PID, mission selector patterns
+- [FTC Programming Basics](/guides/ftc-programming-basics/) — OnBot Java, FTC Blocks, and Android Studio; TeleOp and Autonomous for rookie FTC teams
 - [VEX IQ Programming Guide](/guides/vex-iq-programming/) — VEXcode Blocks and Python for VEX IQ robots
 - [Robot Maintenance Guide](/guides/robot-maintenance/) — Keeping SPIKE Prime and VEX IQ hardware in good shape
 - [Robot Troubleshooting — Common Problems and Fixes](/guides/robot-troubleshooting/) — Drift, missed missions, attachment failures, tournament breakdowns, and a 10-minute fix checklist

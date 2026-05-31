@@ -23,6 +23,7 @@ Whichever program you're in, expect it to feel overwhelming at first — there's
 - [**What is FTC?**](/getting-started/what-is-ftc/) — FIRST Tech Challenge, grades 7–12. Natural progression from FLL Challenge.
 - [**What is FRC?**](/getting-started/what-is-frc/) — FIRST Robotics Competition, grades 9–12. The largest, most complex FIRST program.
 - [**What is VEX?**](/getting-started/what-is-vex/) — VEX IQ, V5, and VEX U. Parallel pathway to the FIRST family.
+- [**What is VEX IQ?**](/getting-started/what-is-vex-iq/) — For ages 8–14; snap-together plastic kit, cooperative alliance matches, Skills Challenge.
 
 ## Cross-program references
 

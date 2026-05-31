@@ -388,3 +388,8 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 - Updated `astro.config.mjs` sidebar to add VEX IQ Resource Map and VEX V5/VRC Resource Map entries (VEX IQ map was created in Wave 15 but never wired into sidebar).
 - Updated `resources/index.md` to list VEX IQ and VEX V5/VRC resource maps alongside existing VEX Resource Map entry.
 - Marked `for-educators/assessment-guide.md` done in progress/roadmap.md (was completed in commit 0ed5379 but roadmap not updated at the time).
+
+## 2026-05-31 (heartbeat 20:58 UTC)
+- Added `getting-started/what-is-vex-iq.md` — dedicated VEX IQ getting-started page (Wave 20 task). Covers: who VEX IQ is for, comparison table vs FLL Challenge and VEX V5, season timeline (Push Back 2025-26 / Override 2026-27), alliance (Teamwork) match format including the cooperative structure unique to IQ, Skills Challenge (Driver + Autonomous Coding), awards breakdown, programming options (Blocks/Python/C++), what you need to get started, key differences from FLL, and full resources section linking to VEX IQ Resource Map, guides, curriculum. Follows the pattern of what-is-ftc.md and what-is-vex-u.md.
+- Updated `astro.config.mjs` sidebar — added "What is VEX IQ?" entry in Getting Started section between "What is VEX?" and "What is VEX U?".
+- Updated `getting-started/index.md` — added "What is VEX IQ?" link in the program list.

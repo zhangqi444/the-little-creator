@@ -1,9 +1,11 @@
 ---
 title: Guides
-description: Practical guides for FLL and VEX teams — written from real experience, not theory.
+description: Practical guides for FLL, FTC, FRC, and VEX teams — written from real experience, not theory.
 ---
 
 Practical guides written from real experience — not theory. These are things we've learned the hard way so you don't have to.
+
+Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ, VEX V5, and VEX U.
 
 ## Available Guides
 
@@ -18,6 +20,7 @@ Practical guides written from real experience — not theory. These are things w
 - [FLL Future Edition Transition — What It Means for Your Team](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained practically
 - [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners
 - [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep the relationship healthy
+- [Starting a VEX U Team — First-Month Checklist](/guides/vex-u-first-team/) — Eligibility, registration, building two robots, finding a faculty mentor, and the first-year timeline for new university VEX U programs
 
 ### Building and programming
 - [Drivetrain Basics](/guides/drivetrain-basics/) — Building a reliable drive base for FLL (SPIKE Prime) and VEX IQ robots
@@ -34,11 +37,19 @@ Practical guides written from real experience — not theory. These are things w
 - [How to Interview an Expert for Your Innovation Project](/guides/ip-expert-interview/) — Question preparation, roles during the call, using what you learn, and what judges look for in expert evidence
 - [Preparing for FLL Judging](/guides/judging-prep/) — What judges look for across all three sessions, and how to help your team present with confidence
 - [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth
+- [FTC Awards — What Each One Rewards](/guides/ftc-awards/) — Inspire Award, Think, Innovate, Connect, Motivate, Control, Design, Compass, Promote; what each measures and realistic targets for rookie teams
+- [FRC Awards — What Each One Rewards](/guides/frc-awards/) — Impact Award (formerly Chairman's), Engineering Inspiration, Rookie All Star, and the full award matrix; how to build toward Impact over multiple seasons
+- [VEX Awards — What Each One Rewards](/guides/vex-awards/) — Excellence Award as the headline; Design, Build, Think, Robot Skills Champion across VIQRC, V5RC, and VURC
 - [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record, when, and how to make judges take notice
+- [FTC Engineering Portfolio — Practical Guide](/guides/ftc-engineering-portfolio/) — How to build a Portfolio that actually wins awards; the Portfolio vs. notebook distinction that trips up most rookie FTC teams
+- [FRC Impact Award Submission — Practical Guide](/guides/frc-impact-submission/) — The essay (10,000 chars), the video, and the judged interview; how to build a multi-year submission strategy starting in year one
 - [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect, and how to keep your team calm on competition day
 - [Tournament Week Prep — Final Two Weeks Before Your Qualifier](/guides/tournament-week-prep/) — Robot freeze, 5x mission drill, mock judging, packing list, keeping the team calm
-- [Your First Tournament — What to Expect](/guides/first-tournament-expectations/) — The emotions, social dynamics, and how to help kids come out of it with a great experience
+- [Your First FLL Tournament — What to Expect](/guides/first-tournament-expectations/) — The emotions, social dynamics, and how to help kids come out of it with a great experience
+- [Your First FTC Tournament — What to Expect](/guides/first-ftc-tournament/) — Single combined judging interview, two-team alliances, alliance selection, and how FTC differs from FLL on tournament day
+- [Your First FRC Tournament — What to Expect](/guides/first-frc-tournament/) — Three-day event format, pit life, scouting as a role, alliance selection drama, regional vs. district structure
+- [Your First VEX Tournament — What to Expect](/guides/first-vex-tournament/) — Qualification matches, the Skills Challenge (VEX's unique parallel competition), alliance selection across VIQRC / V5RC / VURC
 - [After Advancing — Preparing for Regionals or State Championship](/guides/after-advancing/) — What changes at the next level, 3-week prep plan, managing expectations with kids and parents
 
 ### Team culture

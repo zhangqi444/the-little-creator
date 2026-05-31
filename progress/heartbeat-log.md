@@ -831,3 +831,12 @@
 - **Repos:** open-forge already up-to-date; the-little-creator already up-to-date
 - **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator
 - **Roadmap task:** Wave 20 — created `getting-started/what-is-vex-iq.md` (dedicated VEX IQ getting-started page, ages 8-14, snap-together hardware, cooperative alliance format, Skills Challenge, programming options, key differences from FLL). Updated sidebar and index.md. Commit eadc61e pushed to main.
+
+## 2026-05-31 21:58 UTC
+- Both repos already up to date (no pull required)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap task: Wave 20 final task — created `getting-started/what-is-vex-v5.md`
+  - Wired into sidebar (astro.config.mjs) and getting-started/index.md
+  - Appended to log.md
+  - Marked done in progress/roadmap.md

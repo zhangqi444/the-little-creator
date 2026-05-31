@@ -195,4 +195,4 @@
 
 - [x] `resources/vex-v5-resource-map.md` — dedicated VEX V5/VRC resource map (mirrors vex-iq-resource-map.md pattern; covers V5 hardware, v5rc-kb, RobotEvents, VEXcode, PROS, LemLib, VEX Forum, VRC subreddit, YouTube channels). Also added VEX IQ Resource Map and VEX V5/VRC Resource Map to sidebar + resources/index.md (both were missing). (2026-05-31)
 - [x] `getting-started/what-is-vex-iq.md` — dedicated VEX IQ getting-started page (parallel to what-is-ftc.md, what-is-frc.md, what-is-vex-u.md; currently only a general what-is-vex.md exists)
-- [ ] `getting-started/what-is-vex-v5.md` — dedicated VEX V5/VRC getting-started page for families considering the step up from IQ
+- [x] `getting-started/what-is-vex-v5.md` — dedicated VEX V5/VRC getting-started page for families considering the step up from IQ (2026-05-31 heartbeat 21:58)

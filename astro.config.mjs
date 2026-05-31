@@ -31,6 +31,7 @@ export default defineConfig({
             { label: 'What is FRC?', link: '/getting-started/what-is-frc/' },
             { label: 'What is VEX?', link: '/getting-started/what-is-vex/' },
             { label: 'What is VEX IQ?', link: '/getting-started/what-is-vex-iq/' },
+            { label: 'What is VEX V5 / VRC?', link: '/getting-started/what-is-vex-v5/' },
             { label: 'What is VEX U?', link: '/getting-started/what-is-vex-u/' },
             { label: 'Progression Guide (FLL → FTC → FRC; FLL → VEX)', link: '/getting-started/progression-guide/' },
             { label: 'Glossary', link: '/getting-started/glossary/' },

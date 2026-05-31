@@ -690,3 +690,13 @@
 - Updated `guides/index.md` to link the new guide under "Building and programming"
 - Appended to `src/content/docs/log.md`
 - Commit `090ec23`, pushed to main
+
+## 2026-05-31 08:58 UTC
+
+- Both repos synced (already up to date)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Both queues empty — proceeded to Step 3 roadmap iteration
+- **Wave 14 task:** Created `src/content/docs/for-educators/ftc-curriculum-starter.md` — 8-week FTC onboarding curriculum for classroom/club: hardware tour, FTC Blocks TeleOp, mecanum TeleOp, encoders/sensors, Autonomous intro, sensor-based Autonomous + strategy, engineering notebook, and scrimmage/reflection. Adapting notes for older students, mixed skill levels, tank-drive teams. Linked from `for-educators/index.md`.
+- Appended to `src/content/docs/log.md`
+- Updated `progress/roadmap.md` — Wave 14 `ftc-curriculum-starter.md` marked done

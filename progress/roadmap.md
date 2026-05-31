@@ -160,5 +160,5 @@
 
 - [x] `guides/ftc-programming-basics.md` — FTC SDK programming intro for rookie teams: FTC Blocks, OnBot Java, Android Studio entry points; mecanum TeleOp and encoder-based Autonomous examples; hardware map, telemetry, and common-mistakes coverage (2026-05-31)
 - [x] `guides/frc-programming-basics.md` — WPILib intro for rookie FRC teams: TimedRobot, Command-based framework, Shuffleboard telemetry, and a drive-forward Autonomous example (2026-05-31)
-- [ ] `for-educators/ftc-curriculum-starter.md` — 8-week FTC onboarding curriculum for classroom/club (FTC equivalent of curriculum-starter.md)
+- [x] `for-educators/ftc-curriculum-starter.md` — 8-week FTC onboarding curriculum for classroom/club (FTC equivalent of curriculum-starter.md) (2026-05-31)
 - [ ] `discovery-sources.json` — add predictive entries for new FTC/FRC season content pages (BIOBUZZ, CANOPY) that are not yet verified

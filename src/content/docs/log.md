@@ -332,3 +332,7 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
   - CTRE docs inline link: `pro.docs.ctr-electronics.com` → `v6.docs.ctr-electronics.com/en/stable/` (renamed)
   - AndyMark: `www.andymark.com/` → `andymark.com/` (canonical redirect target)
   All other links (firstinspires.org, wpilib.org, docs.wpilib.org, revrobotics.com, firstchoicebyandymark.com, thebluealliance.com, statbotics.io, chiefdelphi.com, pathplanner.dev, photonvision.org, docs.advantagescope.org, docs.revrobotics.com/docs/ion) return 200.
+- `resources/ftc-resource-map.md` — link audit (Wave 11 task). Fixed 2 broken/redirected URLs:
+  - TETRIX: `tetrixrobotics.com/ftc` → `www.pitsco.com/collections/tetrix-robotics` (domain defunct — TLS cert mismatch; brand moved to Pitsco Education storefront)
+  - Chief Delphi FTC: `chiefdelphi.com/c/ftc/30` → `chiefdelphi.com/c/technical/programming/30` (forum category reorganized; old path 301-redirects to new)
+  All other links (firstinspires.org ×5, github.com/FIRST-Tech-Challenge, ftc-docs.firstinspires.org, revrobotics.com, docs.revrobotics.com/docs/duo, gobilda.com/ftc, gm0.org, reddit.com/r/FTC, rr.brott.dev, docs.ftclib.org/ftclib, github.com/OpenFTC/EasyOpenCV, acmerobotics.github.io/ftc-dashboard) return 200.

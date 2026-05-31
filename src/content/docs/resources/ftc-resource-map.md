@@ -115,14 +115,14 @@ goBILDA is a modular metric build system widely used in FTC. Metric pattern with
 
 ### TETRIX — long-time FTC mechanical kit
 
-- **URL:** https://www.tetrixrobotics.com/ftc
+- **URL:** https://www.pitsco.com/collections/tetrix-robotics
 - **Authority:** independent (long-time FTC vendor)
 - **Audience:** coaches, teens
 - **Level:** beginner
 - **Tags:** ftc, hardware, tetrix, mechanical, beginner-friendly
 - **Use when:** A team is choosing between vendor ecosystems and wants a classroom-friendly alternative. TETRIX is common in school-based programs.
 
-TETRIX has been an FTC mechanical vendor since the program's early years — aluminum extrusion, hubs, motors, structural plates. More approachable for teachers without prior robotics experience than goBILDA's modular metric system but generally lower ceiling for competitive builds. Often the choice for new in-school programs adopting FTC alongside other STEM curricula.
+TETRIX has been an FTC mechanical vendor since the program's early years — aluminum extrusion, hubs, motors, structural plates. More approachable for teachers without prior robotics experience than goBILDA's modular metric system but generally lower ceiling for competitive builds. Often the choice for new in-school programs adopting FTC alongside other STEM curricula. **Note (2026-05):** the legacy `tetrixrobotics.com` domain no longer resolves; the brand is now sold exclusively through Pitsco Education at the URL above.
 
 ---
 
@@ -141,14 +141,14 @@ The most comprehensive community-written FTC resource on the web. Covers the gap
 
 ### Chief Delphi — FTC sub-forums
 
-- **URL:** https://www.chiefdelphi.com/c/ftc/30
+- **URL:** https://www.chiefdelphi.com/c/technical/programming/30
 - **Authority:** community
 - **Audience:** teens, coaches, technical mentors
 - **Level:** intermediate, advanced
 - **Tags:** ftc, community, forum, strategy
 - **Use when:** You have a specific technical question, want robot reveals from competitive teams, or want to follow strategic discussion around the current game.
 
-Chief Delphi is the largest cross-program FIRST community forum (FRC-dominant but with active FTC, FLL, and outreach categories). Less FTC-specific than r/FTC or Discord, but signal-to-noise is high — many top FTC alumni cross over from FRC and post here. Good for "is this design legal", "has anyone built X mechanism", and post-event reveal discussion.
+Chief Delphi is the largest cross-program FIRST community forum (FRC-dominant but with active FTC, FLL, and outreach categories). Less FTC-specific than r/FTC or Discord, but signal-to-noise is high — many top FTC alumni cross over from FRC and post here. Good for "is this design legal", "has anyone built X mechanism", and post-event reveal discussion. **Note (2026-05):** the old `/c/ftc/30` path now redirects to `/c/technical/programming/30`; URL updated accordingly.
 
 ### r/FTC — Reddit community
 

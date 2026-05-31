@@ -700,3 +700,14 @@
 - **Wave 14 task:** Created `src/content/docs/for-educators/ftc-curriculum-starter.md` — 8-week FTC onboarding curriculum for classroom/club: hardware tour, FTC Blocks TeleOp, mecanum TeleOp, encoders/sensors, Autonomous intro, sensor-based Autonomous + strategy, engineering notebook, and scrimmage/reflection. Adapting notes for older students, mixed skill levels, tank-drive teams. Linked from `for-educators/index.md`.
 - Appended to `src/content/docs/log.md`
 - Updated `progress/roadmap.md` — Wave 14 `ftc-curriculum-starter.md` marked done
+
+## 2026-05-31 10:58 UTC
+
+- Both repos synced (already up to date)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap task: implemented `guides/vex-v5-programming-basics.md` (Wave 15 task 1)
+  - VEX V5 / VRC programming intro for rookie teams (V5 Brain, VEXcode Blocks/C++/PROS comparison, first TeleOp, motor cartridges, smartdrive autonomous, Competition template, sensor examples, drivetrain styles, common mistakes)
+  - Added to sidebar (astro.config.mjs) and guides/index.md
+  - Also backfilled FTC/FRC programming basics sidebar entries missing since Wave 14
+  - Committed 0a9c604 and pushed to main

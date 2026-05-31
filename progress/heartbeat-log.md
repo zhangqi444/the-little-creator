@@ -679,3 +679,14 @@
 - Updated `src/content/docs/log.md` with the change record.
 - Committed: 1a24a17, pushed to main.
 - Updated `progress/roadmap.md` — Wave 14 first task complete; added 3 next backlog items.
+
+## 2026-05-31 07:58 UTC
+
+- Both repos synced (already up to date)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Both queues empty — proceeded to Step 3 roadmap iteration
+- **Wave 14 task:** Created `src/content/docs/guides/frc-programming-basics.md` — WPILib programming intro for rookie FRC teams: Java language overview, VS Code + WPILib setup, TimedRobot vs Command-based comparison table, arcade-drive TeleOp example (Spark MAX + DifferentialDrive), encoder-based Autonomous example, Shuffleboard telemetry, CAN bus overview, common mistakes table, pathfinder to PathPlanner / Limelight / Phoenix 6 / AdvantageKit.
+- Updated `guides/index.md` to link the new guide under "Building and programming"
+- Appended to `src/content/docs/log.md`
+- Commit `090ec23`, pushed to main

@@ -79,7 +79,10 @@ export default defineConfig({
                 { label: 'Robot Troubleshooting', link: '/guides/robot-troubleshooting/' },
                 { label: 'FLL Robot Programming Basics (SPIKE)', link: '/guides/robot-programming-basics/' },
                 { label: 'FLL Python Intermediate', link: '/guides/python-intermediate/' },
+                { label: 'FTC Programming Basics', link: '/guides/ftc-programming-basics/' },
+                { label: 'FRC Programming Basics', link: '/guides/frc-programming-basics/' },
                 { label: 'VEX IQ Programming', link: '/guides/vex-iq-programming/' },
+                { label: 'VEX V5 Programming Basics', link: '/guides/vex-v5-programming-basics/' },
               ],
             },
             {

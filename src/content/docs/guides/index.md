@@ -31,6 +31,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Intermediate Python for FLL Robots](/guides/python-intermediate/) — Gyro-corrected driving, basic PID, mission selector patterns, and debugging
 - [FTC Programming Basics](/guides/ftc-programming-basics/) — OnBot Java, FTC Blocks, and Android Studio; writing TeleOp and Autonomous OpModes for rookie FTC teams
 - [VEX IQ Programming Guide](/guides/vex-iq-programming/) — Getting started with VEXcode Blocks and Python for VEX IQ robots
+- [VEX V5 Programming Basics](/guides/vex-v5-programming-basics/) — VEXcode Pro V5, Blocks vs. C++, drive base control, sensor basics, and autonomous skeleton for rookie V5RC teams
 - [FRC Programming Basics](/guides/frc-programming-basics/) — WPILib TimedRobot and Command-based frameworks, Shuffleboard telemetry, and a drive-forward Autonomous example for rookie FRC teams
 
 ### Competition prep

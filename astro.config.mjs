@@ -108,6 +108,7 @@ export default defineConfig({
                 { label: 'Your First FRC Tournament', link: '/guides/first-frc-tournament/' },
                 { label: 'Your First VEX Tournament', link: '/guides/first-vex-tournament/' },
                 { label: 'VEX IQ Tournament Guide (VIQRC In Depth)', link: '/guides/vex-iq-tournament/' },
+                { label: 'VEX V5 Tournament Guide (V5RC In Depth)', link: '/guides/vex-v5-tournament/' },
                 { label: 'After Advancing', link: '/guides/after-advancing/' },
               ],
             },

@@ -734,3 +734,26 @@
 - Resources section: cross-links to all Wave 10-15 VEX guides and resource maps
 - Verified guides/index.md current for Wave 14 additions
 - Committed + pushed: 38fa95b
+
+## 2026-05-31 13:58 UTC
+- repos synced (both already up to date)
+- open-forge issues: 0 open
+- the-little-creator issues: 0 open
+- Roadmap task (Wave 16): `for-educators/frc-curriculum-starter.md`
+  - 8-week FRC classroom/club onboarding curriculum
+  - Covers: hardware tour (roboRIO/PDH/CAN), WPILib TimedRobot, Command-based Subsystem/Command, encoder distance driving, gyro heading correction, SequentialCommandGroup Autonomous, practice scrimmage
+  - Adapting notes: Java-experienced students, simulation-only, large teams, mixed grades
+  - Also fixed: FTC Curriculum Starter was missing from astro.config.mjs sidebar (backfilled); FLL label clarified in sidebar and for-educators/index.md
+  - Committed c11bc79 and pushed to main
+
+## 2026-05-31 14:58 UTC
+
+**Repos synced:** open-forge ✓, the-little-creator ✓ (both already up-to-date)
+**open-forge issues:** 0 open
+**the-little-creator issues:** 0 open
+**Roadmap task (Wave 17):** `for-educators/vex-iq-curriculum-starter.md`
+- 8-week VEX IQ onboarding curriculum for classroom/club (ages 8-14)
+- Week-by-week: hardware tour → VEXcode IQ Blocks → drivetrain config → sensors → events/loops → Autonomous Coding Skills → Teamwork Challenge → mini-tournament
+- Adapting notes: younger students (8-10), single shared kit, prior Scratch experience, condensed library/workshop format
+- Also: for-educators/index.md link + astro.config.mjs sidebar entry
+- Committed 69a5557 and pushed to main

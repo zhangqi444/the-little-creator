@@ -169,3 +169,17 @@
 - [x] `resources/vex-iq-resource-map.md` — VEX IQ equivalent of fll-resource-map.md: RobotEvents, vexiq-kb, VEX forums, official curriculum, community YouTube
 - [x] `getting-started/what-is-vex.md` — review and update for current VEX IQ / V5 season; add crosslinks to new guides added in waves 10-14 (2026-05-31)
 - [x] `guides/index.md` — verified current: ftc-programming-basics, frc-programming-basics, vex-v5-programming-basics all linked; ftc-curriculum-starter is in for-educators/index.md where it belongs (2026-05-31)
+
+## Wave 16 backlog
+
+- [x] `for-educators/frc-curriculum-starter.md` — 8-week FRC onboarding curriculum for classroom/club (roboRIO hardware tour, WPILib TimedRobot + Command-based, encoders, gyro heading correction, Autonomous SequentialCommandGroup, scrimmage). Also added FTC Curriculum Starter to sidebar (was missing since Wave 14) and renamed sidebar "Curriculum Starter" → "FLL Curriculum Starter" for clarity. (2026-05-31)
+
+## Wave 17 backlog
+
+- [x] `for-educators/vex-iq-curriculum-starter.md` — 8-week VEX IQ onboarding curriculum for classroom/club; VEX IQ equivalent of the FLL/FTC/FRC curriculum starters (ages 8-14, VEXcode IQ Blocks, hardware tour, sensors, Autonomous Coding Skills, Teamwork Challenge format). Added to for-educators/index.md and sidebar. (2026-05-31)
+
+## Wave 18 backlog (next tasks — derive from gaps)
+
+- [ ] `for-educators/vex-v5-curriculum-starter.md` — 8-week VEX V5/VRC onboarding curriculum (complements vex-iq-curriculum-starter; covers V5 Brain + Smart Motor, VEXcode Pro V5 C++/Python, Competition template, encoder + gyro, Autonomous strategy)
+- [ ] `guides/vex-iq-tournament.md` — more detailed VEX IQ tournament-day guide (complement to the general first-vex-tournament; covers VIQRC-specific match structure, Driving Skills vs Autonomous Coding Skills, pit setup for IQ teams, judging categories)
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)

@@ -711,3 +711,9 @@
   - Added to sidebar (astro.config.mjs) and guides/index.md
   - Also backfilled FTC/FRC programming basics sidebar entries missing since Wave 14
   - Committed 0a9c604 and pushed to main
+
+## 2026-05-31 11:58 UTC
+- repos synced (both already up to date)
+- open-forge issues: 0 open
+- the-little-creator issues: 0 open
+- roadmap task completed: `resources/vex-iq-resource-map.md` — VEX IQ-focused resource map (Wave 15); covers official VIQC program/game page, VIQRC KB, RobotEvents, VEXcode, Python API, VEX Education, RECF program pages, grants, Girl Powered, World Championship, VEX Forum, r/vexiq, Kepler Electronics YouTube, RECF YouTube; committed feat: add VEX IQ resource map (1ee4c75) and pushed to main

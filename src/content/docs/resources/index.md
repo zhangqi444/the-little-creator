@@ -12,6 +12,7 @@ A curated list of tools, software, and learning materials that our community act
 - [FRC Resource Map](/resources/frc-resource-map/) — Official and community resources for FIRST Robotics Competition
 - [VEX IQ Resource Map](/resources/vex-iq-resource-map/) — Official and community resources for VEX IQ (VIQRC)
 - [VEX V5/VRC Resource Map](/resources/vex-v5-resource-map/) — Official and community resources for VEX V5 and VRC high-school teams
+- [VEX U Resource Map](/resources/vex-u-resource-map/) — VURC program page, VURC KB, RobotEvents, PROS/OkapiLib/LemLib, RECF scholarships, and community forums for university teams
 - [VEX Resource Map](/resources/vex-resource-map/) — Combined resource map covering VEX IQ, V5, and VEX U
 - [Software & Tools](/resources/software-tools/) — Programming environments, simulation, design tools
 - [Learning Materials](/resources/learning-materials/) — Books, courses, videos, and tutorials

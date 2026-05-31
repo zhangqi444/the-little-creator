@@ -196,3 +196,7 @@
 - [x] `resources/vex-v5-resource-map.md` — dedicated VEX V5/VRC resource map (mirrors vex-iq-resource-map.md pattern; covers V5 hardware, v5rc-kb, RobotEvents, VEXcode, PROS, LemLib, VEX Forum, VRC subreddit, YouTube channels). Also added VEX IQ Resource Map and VEX V5/VRC Resource Map to sidebar + resources/index.md (both were missing). (2026-05-31)
 - [x] `getting-started/what-is-vex-iq.md` — dedicated VEX IQ getting-started page (parallel to what-is-ftc.md, what-is-frc.md, what-is-vex-u.md; currently only a general what-is-vex.md exists)
 - [x] `getting-started/what-is-vex-v5.md` — dedicated VEX V5/VRC getting-started page for families considering the step up from IQ (2026-05-31 heartbeat 21:58)
+
+## Wave 21 backlog
+
+- [x] `resources/vex-u-resource-map.md` — dedicated VEX U/VURC resource map to complete six-program resource coverage (parallel to fll-resource-map, ftc-resource-map, frc-resource-map, vex-iq-resource-map, vex-v5-resource-map). Covers RECF VURC program page, VURC KB, RobotEvents, PROS, OkapiLib, LemLib, RECF scholarships, community forums (VEX Forum VEX U section, r/vexu), RECF Signature Events. Added to sidebar + resources/index.md. (2026-05-31 heartbeat 22:58)

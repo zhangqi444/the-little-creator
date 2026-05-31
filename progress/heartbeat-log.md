@@ -787,3 +787,24 @@
 - Judging: Excellence, Design, Build, Think, Sportsmanship — prep tips for ages 8-12
 - Schedule management roles, common mistakes, post-event debrief
 - Also: astro.config.mjs sidebar + guides/index.md updated
+
+---
+
+## 2026-05-31 17:58 UTC
+
+**Repos synced:** open-forge ✓, the-little-creator ✓ (both already up-to-date)
+**open-forge issues:** 0 open
+**the-little-creator issues:** 0 open
+**Roadmap task (Wave 19):** `guides/vex-v5-tournament.md`
+- V5RC-specific tournament guide for coaches and teen teams
+- Competitive alliance match format (contrast with VIQRC collaborative)
+- Autonomous bonus strategy, driver control, endgame mechanics, WP/AP ranking
+- Skills Challenge: Driver Skills + Autonomous Skills; advancement path via Robot Skills Champion
+- Scouting methodology with simple scouting sheet template
+- Alliance selection strategy: captain picks, declining, lower-seed wins
+- Pit setup: battery rotation, spare V5 Smart Motors, tool kit, judge pit visits
+- Engineering notebook depth expected at high-school level
+- Handling emotional side: alliance rejection, defensive play frustration, interview nerves
+- V5RC-specific packing list and full awards table with advancement notes
+- Also: astro.config.mjs sidebar + guides/index.md updated
+- Commit 49c1f8b, pushed to main

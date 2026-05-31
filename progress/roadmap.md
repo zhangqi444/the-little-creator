@@ -188,5 +188,5 @@
 ## Wave 19 backlog (next tasks — derive from gaps)
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
-- [ ] `guides/vex-v5-tournament.md` — V5RC-specific tournament guide (complement to first-vex-tournament; covers competitive alliance format in depth, scouting for alliance selection, pit strategy for teens, engineering notebook in pit interview context)
+- [x] `guides/vex-v5-tournament.md` — V5RC-specific tournament guide (complement to first-vex-tournament; covers competitive alliance format in depth, scouting for alliance selection, pit strategy for teens, engineering notebook in pit interview context)
 - [ ] `for-educators/assessment-guide.md` — teacher guide for assessing student contributions in mixed-skill teams across all six programs (expand on assessment-rubric.md with formative tools and self-assessment templates)

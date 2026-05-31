@@ -374,3 +374,7 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 - `guides/vex-iq-tournament.md` — new guide (Wave 18/19 task). Detailed VIQRC-specific tournament guide covering: collaborative alliance format (both teams score together, not against each other), VIQRC vs V5RC comparison table, full-day schedule, Teamwork Challenge match structure (autonomous period → driver control, alliance scoring not individual), Skills Challenge deep-dive (Driver Skills vs Autonomous Coding Skills, combined rank as advancement pathway), inspection checklist (sizing box, 3D-printed parts rules, firmware), pit setup for younger students (battery management, tools, team banner), judging categories in depth (Excellence, Design, Build, Think, Sportsmanship awards), managing the day schedule (role assignments, buffer time), common first-year mistakes, post-event debrief questions. Audience: families, parents, coaches, kids ages 8-14.
 - `astro.config.mjs` sidebar — Competition Prep section: added VEX IQ Tournament Guide after Your First VEX Tournament.
 - `guides/index.md` — added VEX IQ Tournament Guide entry in Competition Prep section.
+
+## 2026-05-31 (heartbeat 17:58 UTC)
+- Added `guides/vex-v5-tournament.md` — V5RC tournament guide for coaches and teen teams: competitive alliance format, autonomous bonus strategy, scouting, alliance selection, pit setup, engineering notebook depth, emotional coaching, awards table. Commit 49c1f8b.
+- Updated `astro.config.mjs` sidebar and `guides/index.md` with new guide link.

@@ -1,6 +1,6 @@
 ---
 title: Resources
-description: Curated tools, software, and learning materials for FLL and VEX robotics teams.
+description: Curated tools, software, and learning materials for FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U teams.
 ---
 
 A curated list of tools, software, and learning materials that our community actually uses. We update this as we discover better options.
@@ -8,7 +8,9 @@ A curated list of tools, software, and learning materials that our community act
 ## Resource maps (curated link indexes)
 
 - [FLL Resource Map](/resources/fll-resource-map/) — Authoritative and trusted FIRST LEGO League sources, with metadata
-- [VEX Resource Map](/resources/vex-resource-map/) — Official and community resources for VEX IQ and VEX V5
+- [FTC Resource Map](/resources/ftc-resource-map/) — Official and community resources for FIRST Tech Challenge
+- [FRC Resource Map](/resources/frc-resource-map/) — Official and community resources for FIRST Robotics Competition
+- [VEX Resource Map](/resources/vex-resource-map/) — Official and community resources for VEX IQ, V5, and VEX U
 - [Software & Tools](/resources/software-tools/) — Programming environments, simulation, design tools
 - [Learning Materials](/resources/learning-materials/) — Books, courses, videos, and tutorials
 
@@ -18,8 +20,11 @@ Not sure how to apply what you find? These guides walk you through the doing:
 
 ### Getting started
 - [What is FLL?](/getting-started/what-is-fll/) — Program overview, age divisions, and what a season looks like
-- [What is VEX?](/getting-started/what-is-vex/) — VEX IQ, V5, and how it differs from FLL
-- [Robotics Progression Guide](/getting-started/progression-guide/) — FLL → VEX IQ → VEX V5: when and how to level up
+- [What is FTC?](/getting-started/what-is-ftc/) — FIRST Tech Challenge overview: hardware, judging, and how it differs from FLL
+- [What is FRC?](/getting-started/what-is-frc/) — FIRST Robotics Competition overview: team size, build season, and the step up from FTC
+- [What is VEX?](/getting-started/what-is-vex/) — VEX IQ, V5/VRC, and VEX U: the full VEX family explained
+- [What is VEX U?](/getting-started/what-is-vex-u/) — University-level VEX: how it works, eligibility, and how to start a team
+- [Robotics Progression Guide](/getting-started/progression-guide/) — FLL → VEX IQ → VEX V5 → FTC → FRC: when and how to level up
 - [Forming a Team](/guides/forming-a-team/) — How to find members and structure your team
 - [FLL Equipment Guide](/guides/equipment-guide/) — What gear you need, what it costs, and how to get it without overspending
 - [FLL Glossary](/getting-started/glossary/) — Plain-language definitions for PDO, YPP, GP, SPIKE Prime, and every other acronym you'll encounter
@@ -30,6 +35,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [Funding Your FLL Team](/guides/team-funding/) — Grants, sponsor pitch template, and fundraising ideas
 - [FLL Future Edition Transition](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained for coaches
 - [Your Second FLL Season](/guides/second-season/) — The 10 changes returning coaches make; covers robot strategy, IP depth, and judging prep
+- [Starting a VEX U Team — First-Month Checklist](/guides/vex-u-first-team/) — Eligibility, registration, building two robots, finding a faculty mentor, and the first-year timeline
 
 ### Building and programming
 - [FLL Robot Attachment Design](/guides/attachment-design/) — Connection methods, leverage, gear reduction, passive vs active, iteration mindset, failure modes
@@ -48,10 +54,19 @@ Not sure how to apply what you find? These guides walk you through the doing:
 - [How to Interview an Expert for Your Innovation Project](/guides/ip-expert-interview/) — Question prep, roles during the call, using what you learn, what judges look for in expert evidence
 - [Preparing for FLL Judging](/guides/judging-prep/) — What all three judging panels look for
 - [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth
+- [FTC Awards — What Each One Rewards](/guides/ftc-awards/) — Inspire Award, Think, Innovate, Connect, Motivate, Control, Design, Compass; what each measures and targets for rookie teams
+- [FTC Engineering Portfolio — Practical Guide](/guides/ftc-engineering-portfolio/) — How to build a Portfolio that wins awards; the Portfolio vs. notebook distinction that trips up most rookie FTC teams
+- [FRC Awards — What Each One Rewards](/guides/frc-awards/) — Impact Award, Engineering Inspiration, Rookie All Star, and the full award matrix
+- [FRC Impact Award Submission — Practical Guide](/guides/frc-impact-submission/) — The essay, video, and judged interview; how to build a multi-year submission strategy starting in year one
+- [VEX Awards — What Each One Rewards](/guides/vex-awards/) — Excellence Award and the Design, Build, Think, Robot Skills Champion awards across VIQRC, V5RC, and VURC
+- [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record and how to make judges take notice
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect
 - [Tournament Week Prep — Final Two Weeks Before Your Qualifier](/guides/tournament-week-prep/) — Robot freeze, 5x mission drill, mock judging, packing list, and keeping the team calm
+- [Your First FLL Tournament](/guides/first-tournament-expectations/) — What to expect emotionally and socially at your first FLL qualifier
+- [Your First FTC Tournament](/guides/first-ftc-tournament/) — Combined judging interview, two-team alliances, alliance selection, and how FTC differs from FLL on tournament day
+- [Your First FRC Tournament](/guides/first-frc-tournament/) — Three-day event format, pit life, scouting, alliance selection, and regional vs. district structure
+- [Your First VEX Tournament](/guides/first-vex-tournament/) — Qualification matches, the Skills Challenge, and alliance selection across VIQRC, V5RC, and VURC
 - [After Advancing — Preparing for Regionals or State Championship](/guides/after-advancing/) — What changes at the next level, 3-week prep plan, managing expectations with kids and parents
-- [Your First Tournament](/guides/first-tournament-expectations/) — What to expect emotionally and socially
 
 ### Team culture
 - [Core Values Team Activities](/guides/core-values-activities/) — Team-building activities for coaches

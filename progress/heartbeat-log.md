@@ -840,3 +840,12 @@
   - Wired into sidebar (astro.config.mjs) and getting-started/index.md
   - Appended to log.md
   - Marked done in progress/roadmap.md
+
+## 2026-05-31 22:58 UTC
+- **Repos:** open-forge already up-to-date; the-little-creator already up-to-date
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator
+- **Roadmap task:** Wave 21 — created `resources/vex-u-resource-map.md`
+  - Dedicated VEX U/VURC resource map completing six-program resource coverage
+  - Sections: official sources (RECF VURC page, VURC KB, V5RC current game, RobotEvents, VEX V5 hardware), RECF resources (scholarships, trainings, World Championship), programming (VEXcode, PROS, OkapiLib, LemLib, Python API), community (VEX Forum VEX U section, r/vexu, VEX Forum PROS section), season/events (Signature Events, Event Partners)
+  - Updated `astro.config.mjs` sidebar and `resources/index.md`
+  - Commit 022e596, pushed to main

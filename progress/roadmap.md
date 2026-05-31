@@ -146,4 +146,4 @@
 - [x] `getting-started/what-is-ftc.md` — review and align with CANOPY/BIOBUZZ 2026-27 season announcement (2026-05-31)
 - [x] `getting-started/what-is-frc.md` — review and align with CANOPY/BIOCORE 2027 season announcement (2026-05-31)
 - [x] `resources/frc-resource-map.md` — link audit (same pattern as fll-resource-map.md audit in Wave 9) (2026-05-31)
-- [ ] `resources/ftc-resource-map.md` — link audit
+- [x] `resources/ftc-resource-map.md` — link audit (2026-05-31)

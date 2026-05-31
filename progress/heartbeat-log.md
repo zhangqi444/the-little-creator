@@ -602,3 +602,27 @@
 - Updated `progress/roadmap.md` — marked frc-resource-map audit complete
 
 **Remaining Wave 11 tasks**: `resources/ftc-resource-map.md` link audit
+
+## 2026-05-31 03:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 11 completion)**:
+- Performed link audit on `resources/ftc-resource-map.md` — final Wave 11 task.
+- Audited all 17 URLs. Found and fixed 2 broken/redirected links:
+  1. **TETRIX** — `tetrixrobotics.com/ftc` → `www.pitsco.com/collections/tetrix-robotics` (legacy domain defunct; TLS cert for `pitsco.com` doesn't match `tetrixrobotics.com`; brand fully migrated to Pitsco Education storefront)
+  2. **Chief Delphi FTC** — `chiefdelphi.com/c/ftc/30` → `chiefdelphi.com/c/technical/programming/30` (forum category reorganised; old path 301-redirects to new location)
+  - Also added descriptive notes to both entries explaining the changes.
+  - All other tested URLs return 200.
+- Committed: 329d42d, pushed to main
+- Updated `progress/roadmap.md` — Wave 11 now fully complete
+
+**Wave 11 now complete.** All tasks done:
+- [x] what-is-ftc.md — CANOPY/BIOBUZZ 2026-27 alignment
+- [x] what-is-frc.md — CANOPY/BIOCORE 2026-27 alignment  
+- [x] frc-resource-map.md — link audit (5 fixes)
+- [x] ftc-resource-map.md — link audit (2 fixes)

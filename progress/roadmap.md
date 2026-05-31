@@ -167,5 +167,5 @@
 
 - [x] `guides/vex-v5-programming-basics.md` ✓ done — VEX V5 programming intro for rookie teams: VEXcode Pro V5, blocks vs. C++, drive base control, sensor basics, autonomous skeleton (complement to vex-iq-programming.md which covers IQ; this covers V5/VRC older-student audience)
 - [x] `resources/vex-iq-resource-map.md` — VEX IQ equivalent of fll-resource-map.md: RobotEvents, vexiq-kb, VEX forums, official curriculum, community YouTube
-- [ ] `getting-started/what-is-vex.md` — review and update for current VEX IQ / V5 season; add crosslinks to new guides added in waves 10-14
-- [ ] `guides/index.md` — verify all guide cards/links are current after Wave 14 additions (ftc-programming-basics, frc-programming-basics, ftc-curriculum-starter)
+- [x] `getting-started/what-is-vex.md` — review and update for current VEX IQ / V5 season; add crosslinks to new guides added in waves 10-14 (2026-05-31)
+- [x] `guides/index.md` — verified current: ftc-programming-basics, frc-programming-basics, vex-v5-programming-basics all linked; ftc-curriculum-starter is in for-educators/index.md where it belongs (2026-05-31)

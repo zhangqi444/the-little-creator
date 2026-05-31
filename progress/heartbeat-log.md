@@ -717,3 +717,20 @@
 - open-forge issues: 0 open
 - the-little-creator issues: 0 open
 - roadmap task completed: `resources/vex-iq-resource-map.md` — VEX IQ-focused resource map (Wave 15); covers official VIQC program/game page, VIQRC KB, RobotEvents, VEXcode, Python API, VEX Education, RECF program pages, grants, Girl Powered, World Championship, VEX Forum, r/vexiq, Kepler Electronics YouTube, RECF YouTube; committed feat: add VEX IQ resource map (1ee4c75) and pushed to main
+
+## 2026-05-31 12:58 UTC
+
+**Repos synced:** open-forge ✓, the-little-creator ✓ (both already up-to-date)
+**open-forge issues:** 0 open
+**the-little-creator issues:** 0 open
+**Roadmap task:** Wave 15 — updated `getting-started/what-is-vex.md`
+- Added frontmatter (tags, audience, level, season)
+- Current season callout (Push Back 2025-26 / Override 2026-27)
+- Expanded Programs table with grade/competition columns
+- Competition section: Skills Challenge, RobotEvents, World Championship
+- New Awards section → /guides/vex-awards/
+- Programming section: per-program breakdown (IQ + V5) with guide links
+- Key Differences from FLL: 5 expanded points
+- Resources section: cross-links to all Wave 10-15 VEX guides and resource maps
+- Verified guides/index.md current for Wave 14 additions
+- Committed + pushed: 38fa95b

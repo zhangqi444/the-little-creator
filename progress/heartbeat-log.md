@@ -579,3 +579,26 @@
 - Committed and pushed: c67f05c
 
 **Remaining Wave 11 tasks**: `frc-resource-map.md` link audit, `ftc-resource-map.md` link audit.
+
+## 2026-05-31 02:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 11)**:
+- Performed link audit on `resources/frc-resource-map.md` (remaining Wave 11 task after frc/ftc getting-started pages were updated in prior heartbeats).
+- Audited all 19 URLs in the file. Found and fixed 5 broken/redirected links:
+  1. **Choreo** — `sleipnirgroup.github.io/Choreo/` → `choreo.autos/` (site migrated to new domain)
+  2. **AdvantageKit** — `docs.advantagescope.org/getting-started/manage-data/log-with-advantagekit/` (404) → `docs.advantagekit.org/` (AdvantageKit split into its own dedicated docs site at docs.advantagekit.org)
+  3. **YAGSL** — `github.com/BroncBotz3481/YAGSL` → `github.com/Yet-Another-Software-Suite/YAGSL` (repo transferred to new GitHub org)
+  4. **CTRE vendor URL** — `www.ctr-electronics.com/` → `store.ctr-electronics.com/` (canonical post-redirect URL)
+  5. **CTRE docs inline** — `pro.docs.ctr-electronics.com` → `v6.docs.ctr-electronics.com/en/stable/` (Phoenix 6 docs URL renamed)
+  - Also: `www.andymark.com/` → `andymark.com/` (redirect stripped www)
+  - All other tested URLs return 200 (firstinspires.org, wpilib.org, docs.wpilib.org, revrobotics.com, firstchoicebyandymark.com, thebluealliance.com, statbotics.io, chiefdelphi.com, pathplanner.dev, photonvision.org, docs.advantagescope.org, docs.revrobotics.com/docs/ion)
+- Committed: 49f107e, pushed to main
+- Updated `progress/roadmap.md` — marked frc-resource-map audit complete
+
+**Remaining Wave 11 tasks**: `resources/ftc-resource-map.md` link audit

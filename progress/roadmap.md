@@ -147,3 +147,11 @@
 - [x] `getting-started/what-is-frc.md` — review and align with CANOPY/BIOCORE 2027 season announcement (2026-05-31)
 - [x] `resources/frc-resource-map.md` — link audit (same pattern as fll-resource-map.md audit in Wave 9) (2026-05-31)
 - [x] `resources/ftc-resource-map.md` — link audit (2026-05-31)
+
+## Wave 12 backlog
+
+- [x] `resources/index.md` — expand to cover all six programs: added FTC + FRC resource map links, what-is-ftc, what-is-frc, what-is-vex-u, vex-u-first-team to Getting started, and all FTC/FRC/VEX competition prep guides (ftc-awards, ftc-engineering-portfolio, frc-awards, frc-impact-submission, vex-awards, first-ftc-tournament, first-frc-tournament, first-vex-tournament) that were missing after Waves 10-11 (2026-05-31)
+
+## Wave 13 backlog
+
+- [x] `skill/SKILL.md` — expand to cover all six programs: updated frontmatter description, added FTC/FRC/VEX U to "When to use this skill", added Programs covered table, added Wiki guides by program section linking FTC/FRC/VEX key pages, updated tone note to acknowledge technical depth for older audiences (2026-05-31)

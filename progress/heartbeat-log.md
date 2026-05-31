@@ -626,3 +626,38 @@
 - [x] what-is-frc.md — CANOPY/BIOCORE 2026-27 alignment  
 - [x] frc-resource-map.md — link audit (5 fixes)
 - [x] ftc-resource-map.md — link audit (2 fixes)
+
+## 2026-05-31 04:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 12 start)**:
+- Updated `resources/index.md` — first Wave 12 task.
+- Added FTC Resource Map and FRC Resource Map to the resource maps section.
+- Added what-is-ftc, what-is-frc, what-is-vex-u, and vex-u-first-team to Getting started section.
+- Added 8 FTC/FRC/VEX competition prep guides to Competition prep section: ftc-awards, ftc-engineering-portfolio, frc-awards, frc-impact-submission, vex-awards, first-ftc-tournament, first-frc-tournament, first-vex-tournament.
+- Updated frontmatter description to reflect all-six-program scope (was FLL+VEX only).
+- Committed: b183dd4, pushed to main
+- Updated `progress/roadmap.md` — Wave 12 first task complete
+
+## 2026-05-31 05:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 13)**:
+- Updated `skill/SKILL.md` — expanded from FLL/VEX-only to all six programs.
+- Updated frontmatter description to include FTC, FRC, VEX U with their programming languages (Java/Kotlin FTC SDK, C++ WPILib, etc.)
+- Added "Programs covered" table listing all seven program tiers (FLL Discover/Explore, FLL Challenge, FTC, FRC, VEX IQ, VEX V5/VRC, VEX U) with ages, hardware, and typical languages.
+- Expanded "When to use this skill" — added FTC SDK and FRC WPILib code-gen use cases.
+- Added "Wiki guides by program" section with direct links to key FTC, FRC, VEX, and cross-program wiki pages.
+- Updated tone note to acknowledge technical depth is appropriate for FTC/FRC/VEX U audiences.
+- Committed: 7ee3248, pushed to main
+- Updated progress/roadmap.md — Wave 13 first task complete

@@ -136,6 +136,7 @@ export default defineConfig({
             { label: 'FLL Curriculum Starter', link: '/for-educators/curriculum-starter/' },
             { label: 'FTC Curriculum Starter', link: '/for-educators/ftc-curriculum-starter/' },
             { label: 'FRC Curriculum Starter', link: '/for-educators/frc-curriculum-starter/' },
+            { label: 'VEX IQ Curriculum Starter', link: '/for-educators/vex-iq-curriculum-starter/' },
             { label: 'Lesson Plan Template', link: '/for-educators/lesson-plan-template/' },
             { label: 'Core Values Rubric', link: '/for-educators/core-values-rubric/' },
             { label: 'Assessment Rubric', link: '/for-educators/assessment-rubric/' },

@@ -757,3 +757,15 @@
 - Adapting notes: younger students (8-10), single shared kit, prior Scratch experience, condensed library/workshop format
 - Also: for-educators/index.md link + astro.config.mjs sidebar entry
 - Committed 69a5557 and pushed to main
+
+## 2026-05-31 15:58 UTC
+
+**Repos synced:** open-forge ✓, the-little-creator ✓ (both already up-to-date)
+**open-forge issues:** 0 open
+**the-little-creator issues:** 0 open
+**Roadmap task (Wave 18):** `for-educators/vex-v5-curriculum-starter.md`
+- 8-week VEX V5/VRC onboarding curriculum for classroom/club (ages 13-18)
+- Week-by-week: hardware tour → VEXcode Pro V5 Blocks-to-C++ → C++ fundamentals → TeleOp arcade drive → sensors (encoders/Inertial/Distance) → Autonomous mission design → PROS intro (optional) → practice match
+- Adapting notes: 60-min sessions, prior coding experience, single shared robot, mixed skill levels, VEX IQ alumni fast-track
+- Also: for-educators/index.md link + astro.config.mjs sidebar entry
+- Committed 1a8302b and pushed to main

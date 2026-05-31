@@ -180,6 +180,6 @@
 
 ## Wave 18 backlog (next tasks — derive from gaps)
 
-- [ ] `for-educators/vex-v5-curriculum-starter.md` — 8-week VEX V5/VRC onboarding curriculum (complements vex-iq-curriculum-starter; covers V5 Brain + Smart Motor, VEXcode Pro V5 C++/Python, Competition template, encoder + gyro, Autonomous strategy)
+- [x] `for-educators/vex-v5-curriculum-starter.md` — 8-week VEX V5/VRC onboarding curriculum (complements vex-iq-curriculum-starter; covers V5 Brain + Smart Motor, VEXcode Pro V5 C++/Python, Competition template, encoder + gyro, Autonomous strategy)
 - [ ] `guides/vex-iq-tournament.md` — more detailed VEX IQ tournament-day guide (complement to the general first-vex-tournament; covers VIQRC-specific match structure, Driving Skills vs Autonomous Coding Skills, pit setup for IQ teams, judging categories)
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)

@@ -143,6 +143,7 @@ export default defineConfig({
             { label: 'Lesson Plan Template', link: '/for-educators/lesson-plan-template/' },
             { label: 'Core Values Rubric', link: '/for-educators/core-values-rubric/' },
             { label: 'Assessment Rubric', link: '/for-educators/assessment-rubric/' },
+            { label: 'Assessment Guide (All Programs)', link: '/for-educators/assessment-guide/' },
             { label: 'Differentiation Guide', link: '/for-educators/differentiation-guide/' },
             { label: 'Parent Communication', link: '/for-educators/parent-communication/' },
           ],

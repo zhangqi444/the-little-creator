@@ -52,6 +52,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record, when, and how to make judges take notice
 - [FTC Engineering Portfolio — Practical Guide](/guides/ftc-engineering-portfolio/) — How to build a Portfolio that actually wins awards; the Portfolio vs. notebook distinction that trips up most rookie FTC teams
 - [Preparing for FTC Judging](/guides/ftc-judging-prep/) — How FTC judging sessions work, what judges look at in your Engineering Portfolio and interviews, and practical ways to help your team present with confidence
+- [Preparing for FRC Judging](/guides/frc-judging-prep/) — How FRC judged award interviews work, what judges look for in pit visits and Impact sessions, and practical ways to prepare students to present with confidence
 - [FRC Impact Award Submission — Practical Guide](/guides/frc-impact-submission/) — The essay (10,000 chars), the video, and the judged interview; how to build a multi-year submission strategy starting in year one
 - [How to Run a Practice Session](/guides/practice-session-structure/) — A repeatable 4-phase structure for 60–120 min sessions
 - [Tournament Day Checklist](/guides/tournament-day-checklist/) — What to pack, what to expect, and how to keep your team calm on competition day

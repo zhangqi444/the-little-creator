@@ -51,6 +51,9 @@ Invoke when the user is:
   - `gyro-straight.py` — gyro-corrected straight drive + point turn helpers
   - `mission-runner.py` — button-activated mission selector for competition day
   - `sensors.py` — color detection, distance stop, force sensor patterns for FLL missions
+- **examples/ftc/** — Working FTC SDK Java. Hardware map names must match your Driver Station robot configuration.
+  - `teleop-mecanum.java` — mecanum four-wheel TeleOp with slow-mode, arm, and claw servo
+  - `autonomous-encoder.java` — encoder-based straight drive + point turn helpers
 - **examples/vex/** — Working VEX code. Tune drivetrain constants before
   relying on distance helpers.
   - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)

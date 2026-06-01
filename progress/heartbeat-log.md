@@ -1071,3 +1071,18 @@ Commit: 95eeb9b pushed to main.
 - Updated `skill/SKILL.md` — added FRC Judging Prep link to FRC section.
 - Updated `src/content/docs/log.md` and `progress/roadmap.md`.
 - Commit `33e87c4`, pushed to main.
+
+## 2026-06-01 22:58 UTC — Wave 44
+
+**Step 0 — Sync**: Both repos already up to date (open-forge was current; the-little-creator pulled from origin/main).
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 44)**:
+- Added `src/content/docs/guides/vex-judging-prep.md` — VEX judging preparation guide completing the six-program judging-prep series (FLL had `judging-prep.md`, FTC had `ftc-judging-prep.md`, FRC had `frc-judging-prep.md`; VEX had `vex-awards.md` and tournament guides but no dedicated judging-prep guide). VEX judging is pit-based (roving judges walk pit area), not room-based like FLL or a single scheduled session like FTC. Content: VEX judging structure comparison table (VIQRC/V5RC/VURC); the central principle (judges evaluate process not outcome); engineering notebook deep-dive (what makes strong entries, what hurts, cadence tip); pit interview Q&A patterns (robot/design, notebook process, programming/autonomous, GP); pit staffing principles; VIQRC-specific tips for younger students; V5RC-specific tips for high-school depth; VURC-specific tips for college engineering rigour; award-to-strength matching table; 9-row common judging mistakes table; season prep timeline.
+- Updated `astro.config.mjs` sidebar — added VEX Judging Prep after FRC Judging Prep in Competition Prep section.
+- Updated `src/content/docs/guides/index.md` — added VEX Judging Prep link with one-line description after FRC Judging Prep.
+- Updated `skill/SKILL.md` — added VEX Judging Prep link to VEX IQ, VEX V5, and VEX U program lines.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.

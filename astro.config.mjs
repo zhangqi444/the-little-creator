@@ -112,6 +112,7 @@ export default defineConfig({
                 { label: 'FTC Engineering Portfolio', link: '/guides/ftc-engineering-portfolio/' },
                 { label: 'FTC Judging Prep', link: '/guides/ftc-judging-prep/' },
                 { label: 'FRC Judging Prep', link: '/guides/frc-judging-prep/' },
+                { label: 'VEX Judging Prep', link: '/guides/vex-judging-prep/' },
                 { label: 'FRC Impact Submission', link: '/guides/frc-impact-submission/' },
                 { label: 'Practice Session Structure', link: '/guides/practice-session-structure/' },
                 { label: 'FLL Tournament Day Checklist', link: '/guides/tournament-day-checklist/' },

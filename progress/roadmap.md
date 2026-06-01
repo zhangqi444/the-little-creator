@@ -272,3 +272,7 @@
 ## Wave 39 backlog
 
 - [x] `guides/vex-u-robot-design.md` — VEX U / VURC robot design guide completing the six-program robot-design series (FTC Wave 33, FRC Wave 34, VEX V5 Wave 35, VEX IQ Wave 36, now VEX U). Covers two-robot sizing strategy (15-inch agility vs 24-inch power), drivetrain selection per robot, mechanism design principles, two-robot autonomous coordination, TeleOp role assignment (Driver 1/Driver 2 specialisation), endgame synchronisation, three-tier autonomous discipline, cycle-time measurement, alliance selection strategy, and common rookie mistakes table. Added to sidebar + guides/index.md. Commit 95eeb9b (2026-06-01 heartbeat 17:58)
+
+## Wave 40 backlog
+
+- [x] `skill/SKILL.md` — expand "Wiki guides by program" section to reflect all guides added in Waves 10–39. Previous state: listed only FLL (4 guides), FTC (4), FRC (4), VEX combined (4), cross-program (3) — missing robot design guides, programming basics for FTC/FRC/VEX, VEX IQ/V5 tournament guides, VEX U section entirely, and ~20 cross-program guides. Changes: split VEX into VEX IQ / VEX V5 / VEX U (3 lines); FLL now has 14 guide links; FTC adds programming basics + robot design; FRC adds programming basics + robot design; VEX IQ adds robot design + tournament; VEX V5 adds programming basics + robot design + tournament; VEX U newly added (3 links); cross-program expanded from 3 to 14 links. (2026-06-01 heartbeat 18:58)

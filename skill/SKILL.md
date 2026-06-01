@@ -63,6 +63,7 @@ Invoke when the user is:
   - `teleop-driver.cpp` — VEX V5 TeleOp with tank drive, arm, claw, slow-mode, and rumble feedback (PROS framework)
   - `vexiq-drivetrain.py` — VEX IQ Python drivetrain helpers (VEXcode IQ API)
   - `vexiq-sensors.py` — VEX IQ Python sensor patterns: distance stop, optical hue/brightness detection, bumper press, gyro-corrected straight drive (VEXcode IQ API)
+  - `vexiq-mission-runner.py` — VEX IQ Brain button-activated Autonomous Coding Skills run selector; mirrors the FLL mission-runner pattern for VIQRC competition day
 - **examples/vex-u/** — Working VEX U code (PROS framework, VEX V5 hardware). VEX U uses the same
   PROS/V5 stack as VEX V5 but with no size/weight limits, two robots per alliance, and
   a partner controller for independent subsystem operation.

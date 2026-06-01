@@ -240,3 +240,7 @@
 ## Wave 31 backlog
 
 - [x] `skill/examples/vex-u/autonomous-base.cpp` + `teleop-driver.cpp` — VEX U PROS C++ code examples for skill bundle, completing six-program skill bundle coverage. `autonomous-base.cpp` covers a 6-motor tank drive with IMU gyro-corrected straight drive and absolute-heading point-turn (mirrors VEX V5 pattern but VEX U-specific: no size/weight limits, 15-second Autonomous Period, two-robot-per-alliance context notes). `teleop-driver.cpp` covers 6-motor TeleOp with intake, lift on partner controller (VEX U independent subsystem operator pattern), slow-mode, and rumble feedback. Updated skill/SKILL.md to document new examples/vex-u/ section. (2026-06-01)
+
+## Wave 32 backlog
+
+- [x] `skill/examples/vex/vexiq-mission-runner.py` — VEX IQ Brain button-activated Autonomous Coding Skills run selector for VIQRC competition day. Mirrors the FLL `mission-runner.py` pattern (CHECK/CANCEL buttons, Brain screen display, armed state before execution). Includes SmartDrive drivetrain helpers, claw attachment example, 3 registered run functions, and clear customisation comments. Fills the P4 skill bundle gap: FLL had a mission runner; VEX IQ did not. Also updated `skill/SKILL.md` to document the new example. (2026-06-01)

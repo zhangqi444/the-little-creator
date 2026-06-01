@@ -432,3 +432,8 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 - Added `skill/examples/vex-u/autonomous-base.cpp` — VEX U 6-motor tank drive skeleton with IMU gyro-corrected straight drive and point-turn helpers (PROS framework, VEX V5 hardware). VEX U context notes on two-robot-per-alliance format, 15-second autonomous period, and no size/weight limits. Wave 31 task.
 - Added `skill/examples/vex-u/teleop-driver.cpp` — VEX U TeleOp skeleton with 6-motor tank drive, intake, lift (partner controller for independent subsystem operation), slow-mode, and rumble feedback. Wave 31 task.
 - Updated `skill/SKILL.md` — documented new examples/vex-u/ section, completing six-program skill bundle coverage. Wave 31 task.
+
+## 2026-06-01 (heartbeat 09:58 UTC)
+
+- Added `skill/examples/vex/vexiq-mission-runner.py` — VEX IQ Brain button-activated Autonomous Coding Skills run selector. Mirrors the FLL `mission-runner.py` pattern for VIQRC competition day: CANCEL button cycles through registered run functions (shown on Brain screen), CHECK button arms then starts the selected run. Includes SmartDrive drivetrain helpers (fwd/rev/turn), a claw attachment motor example, two sample run functions with movement sequences, and a 3-function registry. Designed for teams preparing 2–3 distinct ACS routes for different field states. Wave 32 task.
+- Updated `skill/SKILL.md` — documented new `vexiq-mission-runner.py` in the examples/vex/ section.

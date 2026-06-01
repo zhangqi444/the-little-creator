@@ -426,3 +426,9 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 ## 2026-06-01
 
 - `index.mdx` — Wave 30 update. Updated home page to reflect all-six-program scope. Previous state: FLL/VEX-only framing throughout (description, hero tagline, hero button text, card grid, "Our story" section). Changes: updated frontmatter description to name all six programs; updated hero tagline and button label from "FLL Helper" to "Robotics Helper"; added new "Six programs, one community" CardGrid section with individual cards for FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U linking to respective getting-started pages; updated "Practical guides" section to reference FTC SDK Java and WPILib alongside SPIKE Prime; updated "Resources & educator content" section to reference all-program resource maps and educator content; updated "Two ways to use this" opening card to mention FTC/FRC/VEX; updated "Our story" section to mention all six programs. Wave 30 task.
+
+## 2026-06-01
+
+- Added `skill/examples/vex-u/autonomous-base.cpp` — VEX U 6-motor tank drive skeleton with IMU gyro-corrected straight drive and point-turn helpers (PROS framework, VEX V5 hardware). VEX U context notes on two-robot-per-alliance format, 15-second autonomous period, and no size/weight limits. Wave 31 task.
+- Added `skill/examples/vex-u/teleop-driver.cpp` — VEX U TeleOp skeleton with 6-motor tank drive, intake, lift (partner controller for independent subsystem operation), slow-mode, and rumble feedback. Wave 31 task.
+- Updated `skill/SKILL.md` — documented new examples/vex-u/ section, completing six-program skill bundle coverage. Wave 31 task.

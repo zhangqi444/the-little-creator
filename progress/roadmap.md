@@ -236,3 +236,7 @@
 ## Wave 30 backlog
 
 - [x] `index.mdx` — update home page to reflect all-six-program scope. Previous state: FLL/VEX-only framing throughout — description, tagline, button text, card grids, "Our story" section. Updated: frontmatter description names all six programs; hero tagline + button label changed to "Robotics Helper"; new "Six programs, one community" CardGrid with individual cards for FLL, FTC, FRC, VEX IQ, VEX V5, VEX U each linking to their getting-started page; "Practical guides" section updated to reference FTC/FRC/VEX toolchains; "Resources & educator content" references all-program resource maps; "Two ways to use this" card mentions all programs; "Our story" section now acknowledges all six programs. (2026-06-01)
+
+## Wave 31 backlog
+
+- [x] `skill/examples/vex-u/autonomous-base.cpp` + `teleop-driver.cpp` — VEX U PROS C++ code examples for skill bundle, completing six-program skill bundle coverage. `autonomous-base.cpp` covers a 6-motor tank drive with IMU gyro-corrected straight drive and absolute-heading point-turn (mirrors VEX V5 pattern but VEX U-specific: no size/weight limits, 15-second Autonomous Period, two-robot-per-alliance context notes). `teleop-driver.cpp` covers 6-motor TeleOp with intake, lift on partner controller (VEX U independent subsystem operator pattern), slow-mode, and rumble feedback. Updated skill/SKILL.md to document new examples/vex-u/ section. (2026-06-01)

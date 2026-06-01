@@ -57,12 +57,17 @@ Invoke when the user is:
 - **examples/frc/** — Working WPILib Java. CAN IDs and gear ratios must match your robot's wiring and gearbox.
   - `teleop-tank.java` — TimedRobot tank drive with two CANSparkMax leaders + followers, Shuffleboard telemetry
   - `autonomous-command.java` — Command-based SequentialCommandGroup: DriveSubsystem, DriveDistance command, and a sample routine (drive forward, pause, drive forward)
-- **examples/vex/** — Working VEX code. Tune drivetrain constants before
+- **examples/vex/** — Working VEX V5 and VEX IQ code. Tune drivetrain constants before
   relying on distance helpers.
   - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)
   - `teleop-driver.cpp` — VEX V5 TeleOp with tank drive, arm, claw, slow-mode, and rumble feedback (PROS framework)
   - `vexiq-drivetrain.py` — VEX IQ Python drivetrain helpers (VEXcode IQ API)
   - `vexiq-sensors.py` — VEX IQ Python sensor patterns: distance stop, optical hue/brightness detection, bumper press, gyro-corrected straight drive (VEXcode IQ API)
+- **examples/vex-u/** — Working VEX U code (PROS framework, VEX V5 hardware). VEX U uses the same
+  PROS/V5 stack as VEX V5 but with no size/weight limits, two robots per alliance, and
+  a partner controller for independent subsystem operation.
+  - `autonomous-base.cpp` — 6-motor tank drive with IMU gyro-corrected straight drive and point-turn helpers
+  - `teleop-driver.cpp` — 6-motor TeleOp with tank drive, intake, lift (partner controller), slow-mode, and rumble feedback
 
 ## Wiki guides by program
 

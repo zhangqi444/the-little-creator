@@ -276,3 +276,7 @@
 ## Wave 40 backlog
 
 - [x] `skill/SKILL.md` — expand "Wiki guides by program" section to reflect all guides added in Waves 10–39. Previous state: listed only FLL (4 guides), FTC (4), FRC (4), VEX combined (4), cross-program (3) — missing robot design guides, programming basics for FTC/FRC/VEX, VEX IQ/V5 tournament guides, VEX U section entirely, and ~20 cross-program guides. Changes: split VEX into VEX IQ / VEX V5 / VEX U (3 lines); FLL now has 14 guide links; FTC adds programming basics + robot design; FRC adds programming basics + robot design; VEX IQ adds robot design + tournament; VEX V5 adds programming basics + robot design + tournament; VEX U newly added (3 links); cross-program expanded from 3 to 14 links. (2026-06-01 heartbeat 18:58)
+
+## Wave 41 backlog
+
+- [x] `guides/vex-u-programming-basics.md` — VEX U / VURC programming basics guide completing the six-program programming guide series. PROS C++, OkapiLib/LemLib, device setup, TeleOp skeleton with partner controller, autonomous IMU helpers (driveStraight + turnToHeading), two-robot coordination strategies (Options A/B/C), OkapiLib chassis builder, LemLib intro, sensor table, PROS multi-tasking, autonomous strategy tips, common mistakes table. Added to sidebar (after VEX V5 Programming Basics), guides/index.md, and skill/SKILL.md. Commit TBD (2026-06-01 heartbeat 19:58)

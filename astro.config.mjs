@@ -93,6 +93,7 @@ export default defineConfig({
                 { label: 'FRC Programming Basics', link: '/guides/frc-programming-basics/' },
                 { label: 'VEX IQ Programming', link: '/guides/vex-iq-programming/' },
                 { label: 'VEX V5 Programming Basics', link: '/guides/vex-v5-programming-basics/' },
+                { label: 'VEX U Programming Basics', link: '/guides/vex-u-programming-basics/' },
               ],
             },
             {

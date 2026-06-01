@@ -1005,3 +1005,38 @@ Completed the six-program robot design guide series by adding the missing VEX U 
 New file: `src/content/docs/guides/vex-u-robot-design.md` (276 lines)
 Modified: `astro.config.mjs` (sidebar), `src/content/docs/guides/index.md`
 Commit: 95eeb9b pushed to main.
+
+## 2026-06-01 18:58 UTC — Wave 40
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 40)**:
+- Updated `skill/SKILL.md` — expanded "Wiki guides by program" section to reflect all 30+ guides added in Waves 10–39 that were never linked from the skill bundle entry point.
+  - VEX line split into VEX IQ / VEX V5 / VEX U (three separate lines; VEX U section is new)
+  - FLL: 4 → 14 guide links (added robot-programming-basics, python-intermediate, drivetrain-basics, attachment-design, fll-awards, tournament-day-checklist, first-tournament-expectations, equipment-guide, future-edition-transition)
+  - FTC: added ftc-programming-basics, ftc-robot-design
+  - FRC: added frc-programming-basics, frc-robot-design
+  - VEX IQ: added vex-iq-robot-design, vex-iq-tournament
+  - VEX V5: added vex-v5-programming-basics, vex-v5-robot-design, vex-v5-tournament
+  - Cross-program: 3 → 14 links (added glossary, division-eligibility, finding-mentors, team-funding, notebook-guide, practice-session-structure, robot-maintenance, robot-troubleshooting, after-advancing, registration-guide)
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`
+- Commit `8412cd9`, pushed to main.
+
+## 2026-06-01 19:58 UTC — Wave 41
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 41)**:
+- Added `src/content/docs/guides/vex-u-programming-basics.md` — VEX U / VURC programming basics guide, completing the six-program programming guide series. The five other programs all had programming basics guides; VEX U had code examples in the skill bundle but no user-facing guide. Content: PROS ecosystem overview (kernel, OkapiLib, LemLib, pros-cli); VS Code + PROS Extension setup; 6-motor device declarations with partner controller; TeleOp skeleton with deadband, partner-controller subsystem operator pattern, and slow-mode; autonomous helpers (IMU-corrected driveStraight, turnToHeading); two-robot autonomous coordination (Options A/B/C — independent scripts, controller radio sync, PROS task messaging); OkapiLib chassis builder example; LemLib introduction and pointer; VEX U sensor table (IMU, Rotation, Distance, Optical, Vision); PROS RTOS multi-tasking basics; autonomous strategy tips (Win Point first, physical alignment aids, fallback routine); common mistakes table.
+- Updated `astro.config.mjs` sidebar — added VEX U Programming Basics after VEX V5 Programming Basics in Building and programming section.
+- Updated `src/content/docs/guides/index.md` — added VEX U Programming Basics link with one-line description.
+- Updated `skill/SKILL.md` — added VEX U Programming Basics link to VEX U section.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.

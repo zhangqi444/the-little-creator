@@ -84,6 +84,7 @@ export default defineConfig({
                 { label: 'FRC Robot Design Guide', link: '/guides/frc-robot-design/' },
                 { label: 'VEX V5 Robot Design Guide', link: '/guides/vex-v5-robot-design/' },
                 { label: 'VEX IQ Robot Design Guide', link: '/guides/vex-iq-robot-design/' },
+                { label: 'VEX U Robot Design Guide', link: '/guides/vex-u-robot-design/' },
                 { label: 'Robot Maintenance', link: '/guides/robot-maintenance/' },
                 { label: 'Robot Troubleshooting', link: '/guides/robot-troubleshooting/' },
                 { label: 'FLL Robot Programming Basics (SPIKE)', link: '/guides/robot-programming-basics/' },

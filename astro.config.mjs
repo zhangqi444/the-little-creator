@@ -110,6 +110,7 @@ export default defineConfig({
                 { label: 'VEX Awards', link: '/guides/vex-awards/' },
                 { label: 'FLL Engineering Notebook', link: '/guides/notebook-guide/' },
                 { label: 'FTC Engineering Portfolio', link: '/guides/ftc-engineering-portfolio/' },
+                { label: 'FTC Judging Prep', link: '/guides/ftc-judging-prep/' },
                 { label: 'FRC Impact Submission', link: '/guides/frc-impact-submission/' },
                 { label: 'Practice Session Structure', link: '/guides/practice-session-structure/' },
                 { label: 'FLL Tournament Day Checklist', link: '/guides/tournament-day-checklist/' },

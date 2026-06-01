@@ -280,3 +280,7 @@
 ## Wave 41 backlog
 
 - [x] `guides/vex-u-programming-basics.md` — VEX U / VURC programming basics guide completing the six-program programming guide series. PROS C++, OkapiLib/LemLib, device setup, TeleOp skeleton with partner controller, autonomous IMU helpers (driveStraight + turnToHeading), two-robot coordination strategies (Options A/B/C), OkapiLib chassis builder, LemLib intro, sensor table, PROS multi-tasking, autonomous strategy tips, common mistakes table. Added to sidebar (after VEX V5 Programming Basics), guides/index.md, and skill/SKILL.md. Commit TBD (2026-06-01 heartbeat 19:58)
+
+## Wave 42 backlog
+
+- [x] `guides/ftc-judging-prep.md` — FTC judging preparation guide: how FTC judging sessions work (single portfolio-based interview vs FLL's three separate rooms), what judges evaluate (engineering process evidence, programming maturity, outreach + sustainability, GP), how to prepare teams (conversational practice, genuine speaking roles, preparing for hard questions), day-of logistics, matching awards to team strengths (Inspire/Think/Innovate/Design/Connect/Motivate/Control/Promote), and a common-mistakes table. Fills the content gap that FLL had (judging-prep.md) but FTC lacked entirely despite having ftc-engineering-portfolio.md and ftc-awards.md. Added to sidebar (after FTC Engineering Portfolio), guides/index.md, and skill/SKILL.md. (2026-06-01 heartbeat 20:58)

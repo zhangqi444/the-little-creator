@@ -1040,3 +1040,18 @@ Commit: 95eeb9b pushed to main.
 - Updated `src/content/docs/guides/index.md` — added VEX U Programming Basics link with one-line description.
 - Updated `skill/SKILL.md` — added VEX U Programming Basics link to VEX U section.
 - Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+
+## 2026-06-01 20:58 UTC — Wave 42
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 42)**:
+- Added `src/content/docs/guides/ftc-judging-prep.md` — FTC judging preparation guide filling the content gap between FLL's `judging-prep.md` and FTC. FTC judging differs substantially from FLL: single portfolio-based interview (no separate Core Values / Innovation Project / Robot Design rooms), Engineering Portfolio is the primary pre-read, and advancement is tied to combined engineering + outreach + GP assessment. Content: how FTC judging works (single 5–7 min interview with portfolio in hand); what the judging session looks like (before/during/after); what judges evaluate (engineering depth with iteration evidence, programming maturity, outreach + sustainability, GP throughout the day); how to prepare teams (conversational practice not scripts, genuine speaking role distribution, preparing for hard questions); day-of logistics; matching awards to team strengths (Inspire/Think/Innovate/Design/Connect/Motivate/Control/Promote table); common judging mistakes table.
+- Updated `astro.config.mjs` sidebar — added FTC Judging Prep after FTC Engineering Portfolio in Competition Prep section.
+- Updated `src/content/docs/guides/index.md` — added FTC Judging Prep link with one-line description.
+- Updated `skill/SKILL.md` — added FTC Judging Prep link to FTC section.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.

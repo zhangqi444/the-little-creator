@@ -256,3 +256,11 @@
 ## Wave 35 backlog
 
 - [x] `guides/vex-v5-robot-design.md` — VEX V5/VRC robot design guide: drivetrain selection (tank vs X-drive vs mecanum with decision matrix), motor budget allocation (8-motor limit and typical allocation patterns), mechanism design principles (failure modes, degrees of freedom, compliant rollers, counterbalancing, hard stops + soft limits), Autonomous Win Point strategy (15-second period, fallback auto, encoder + IMU paths, alliance pre-match coordination), TeleOp cycle strategy (measuring real cycle time, drive team communication protocols), alliance selection strategy, the VRC iteration loop, and a common rookie mistakes table. Fills the VEX V5 design guide gap — FLL had drivetrain-basics.md/attachment-design.md; FTC had ftc-robot-design.md; FRC had frc-robot-design.md; VEX V5/VRC had none. Added to sidebar + guides/index.md. (2026-06-01 heartbeat 12:58)
+
+## Wave 36 backlog
+
+- [x] `guides/vex-iq-robot-design.md` — VEX IQ (VIQRC) robot design guide completing the six-program robot-design series: drivetrain selection (tank vs X-drive holonomic), mechanism design for snap-together plastic parts (failure modes, hard stops, intake and arm principles), motor and port budgeting, gearing, Autonomous Coding Skills strategy with SmartDrive + built-in inertial sensor, Teamwork Challenge field-zone coordination, and the iteration loop. Audience: kids and coaches ages 8–14 (beginner). Added to sidebar + guides/index.md. Commit ead2264 (2026-06-01 heartbeat 13:58)
+
+## Wave 37 backlog
+
+- [x] `for-educators/index.md` — update to reflect all-six-program scope: fix frontmatter description (was "FLL or VEX programs" only), add program tags (fll, ftc, frc, vex-iq, vex-v5, vex-u), add audience/level/season fields, reorganise "What's here" into sub-sections (Curriculum starters / Templates and tools / Assessment / Team and classroom management), update "What this section is not" to link all six resource maps instead of just FLL, update "Who this section is for" and "Tone & assumptions" to acknowledge all programs. Mirrors Wave 22 (getting-started/index.md) and Wave 12 (resources/index.md) pattern. (2026-06-01 heartbeat 14:58)

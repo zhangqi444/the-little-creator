@@ -914,3 +914,48 @@
   - Updated frontmatter: description, tags, audience, added season: evergreen
   - Added program jump-links at top of page for easier navigation
   - Updated log.md and roadmap.md
+
+## 2026-06-01 06:58 UTC
+
+- **Repos:** Both repos already up to date.
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator.
+- **Roadmap task:** Wave 29 — expanded `resources/learning-materials.md` to all six programs.
+  - Previous state: FLL-primary with VEX secondary; FTC and FRC learning resources entirely absent
+  - Added FTC section: FTC SDK Docs, FTC SDK on GitHub, Game Manual 0 (gm0.org), REV Hardware Client
+  - Added FRC section: WPILib Docs, FRC Zero to Robot, Chief Delphi, PathPlanner, RobotPy
+  - Added VEX section: VEX IQ KB, VEX V5/VRC KB, PROS Docs, VEX Forum
+  - Added Java textbook entry for FTC/FRC students
+  - Added FTC, FRC, and WPILib YouTube channels
+  - Added program jump-links at top of page
+  - Updated frontmatter: description, tags (ftc, frc added), audience, level, season fields
+  - Mirrors the Wave 28 pattern (software-tools.md expansion)
+  - Commit 97e9879, pushed to main
+
+## 2026-06-01 07:58 UTC
+
+- **Repos:** open-forge already up-to-date; the-little-creator pulled (97e9879 → updated, prior heartbeat commits fetched)
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator
+- **Roadmap task:** Wave 30 — updated `src/content/docs/index.mdx` for all-six-program scope
+  - Previous state: FLL/VEX-only framing throughout (description, hero tagline, button label, card grids, "Our story" section)
+  - Updated frontmatter description to name all six programs (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U)
+  - Renamed hero button from "Chat with the FLL Helper" to "Chat with the Robotics Helper"
+  - Updated hero tagline from FLL/VEX-only to all-programs framing
+  - Added new "Six programs, one community" CardGrid with one card per program, each linking to its getting-started page
+  - Updated "Two ways to use this" card to mention FTC/FRC/VEX alongside FLL
+  - Updated "Practical guides" cards: Building & Programming references FTC SDK Java and WPILib; Competition Prep references FTC portfolio and FRC Impact
+  - Updated "Resources & educator content": Resource Maps card points to /resources/ with all-program description; For Educators card references all programs FLL–VEX U
+  - Updated "Our story" section to acknowledge all six programs
+  - Updated roadmap.md and log.md
+  - Commit a3631e8, pushed to main
+
+## 2026-06-01 08:58 UTC
+
+- **Repos:** Both repos already up to date (open-forge and the-little-creator).
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator.
+- **Roadmap task:** Wave 31 — added VEX U PROS C++ skill examples to complete six-program skill bundle coverage.
+  - Created `skill/examples/vex-u/autonomous-base.cpp`: 6-motor tank drive with IMU gyro-corrected straight drive and point-turn helpers. VEX U notes: no size/weight limits, 15-second Autonomous Period, two-robot-per-alliance coordination.
+  - Created `skill/examples/vex-u/teleop-driver.cpp`: 6-motor TeleOp with intake, lift on partner controller (VEX U independent subsystem operator pattern), slow-mode (40% power), rumble feedback.
+  - Both files mirror VEX V5 examples pattern but target VEX U college-audience (BRD §2).
+  - Updated `skill/SKILL.md` to document new examples/vex-u/ section.
+  - Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+  - Commit 92b0ad6, pushed to main.

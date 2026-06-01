@@ -1055,3 +1055,19 @@ Commit: 95eeb9b pushed to main.
 - Updated `src/content/docs/guides/index.md` — added FTC Judging Prep link with one-line description.
 - Updated `skill/SKILL.md` — added FTC Judging Prep link to FTC section.
 - Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+
+## 2026-06-01 21:58 UTC — Wave 43
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 43)**:
+- Added `src/content/docs/guides/frc-judging-prep.md` — FRC judging preparation guide completing the judging-prep series for FIRST programs. FLL already had `judging-prep.md` (Wave 7); FTC got `ftc-judging-prep.md` (Wave 42); FRC had `frc-awards.md` and `frc-impact-submission.md` but no guide on the judging process itself. FRC judging is structurally different from both FLL and FTC — multiple simultaneous tracks run across the event rather than a single scheduled session. Content covers the full judging landscape (pit interviews for all teams, scheduled Impact session, Engineering Inspiration by invitation, Rookie All Star pit assessment, GP observation all day, submission-based award pit follow-up), pit staffing and the 2-minute robot overview drill, Impact session format with what judges probe (measurable outcomes, systems vs one-off events, multi-year narrative arc, authentic student ownership, specific probing question examples), Engineering Inspiration and Rookie All Star specifics, GP as a continuous all-day interview, preparing all team members not just the Impact team, common mistakes table, and a two-week prep checklist.
+- Updated `astro.config.mjs` sidebar — added FRC Judging Prep after FTC Judging Prep in Competition Prep section.
+- Updated `src/content/docs/guides/index.md` — added FRC Judging Prep link with one-line description.
+- Updated `skill/SKILL.md` — added FRC Judging Prep link to FRC section.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+- Commit `33e87c4`, pushed to main.

@@ -54,6 +54,9 @@ Invoke when the user is:
 - **examples/ftc/** — Working FTC SDK Java. Hardware map names must match your Driver Station robot configuration.
   - `teleop-mecanum.java` — mecanum four-wheel TeleOp with slow-mode, arm, and claw servo
   - `autonomous-encoder.java` — encoder-based straight drive + point turn helpers
+- **examples/frc/** — Working WPILib Java. CAN IDs and gear ratios must match your robot's wiring and gearbox.
+  - `teleop-tank.java` — TimedRobot tank drive with two CANSparkMax leaders + followers, Shuffleboard telemetry
+  - `autonomous-command.java` — Command-based SequentialCommandGroup: DriveSubsystem, DriveDistance command, and a sample routine (drive forward, pause, drive forward)
 - **examples/vex/** — Working VEX code. Tune drivetrain constants before
   relying on distance helpers.
   - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)

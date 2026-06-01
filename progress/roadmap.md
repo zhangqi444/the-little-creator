@@ -248,3 +248,7 @@
 ## Wave 33 backlog
 
 - [x] `guides/ftc-robot-design.md` — FTC robot design guide: drivetrain selection (tank vs mecanum vs X-drive), mechanism design principles (failure modes, motor selection, hard limits, degrees of freedom), subsystem planning, TeleOp cycle time strategy, Autonomous priorities, alliance selection strategy, the iteration loop, and common rookie mistakes. Fills the content gap that FLL had (drivetrain-basics.md, attachment-design.md) but FTC lacked entirely. Added to sidebar and guides/index.md. (2026-06-01)
+
+## Wave 34 backlog
+
+- [x] `guides/frc-robot-design.md` — FRC robot design guide: drivetrain selection (West Coast tank vs swerve vs mecanum), weight budgeting (120 lb limit), mechanism design principles (failure modes, degrees of freedom, hard/soft limits, current limits), power distribution and CAN bus discipline, Autonomous priority ladder with PathPlanner/Choreo note, TeleOp cycle strategy, alliance selection strategy, and a rookie mistakes table. Parallel to Wave 33 ftc-robot-design.md — fills FRC design guide gap. Added to sidebar and guides/index.md. (2026-06-01 heartbeat 11:58)

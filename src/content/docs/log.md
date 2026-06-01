@@ -443,3 +443,9 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 - Added `guides/ftc-robot-design.md` — FTC robot design guide covering drivetrain selection (tank vs mecanum vs X-drive), mechanism design principles (failure modes, degrees of freedom, motor selection, hard limits), subsystem planning with ownership model, TeleOp/Autonomous match strategy (cycle timing, expected value, alliance selection), the build-test-iterate loop, and a common rookie mistakes table. Serves P2 (coaches) and P4 (teen builders). Fills content gap: FLL had drivetrain-basics.md and attachment-design.md; FTC had none. Wave 33 task.
 - Updated `astro.config.mjs` sidebar — added FTC Robot Design Guide to Building section.
 - Updated `guides/index.md` — linked new guide in Building and programming section.
+
+## 2026-06-01 (heartbeat 11:58 UTC)
+
+- Added `guides/frc-robot-design.md` — FRC robot design guide covering drivetrain selection (West Coast tank vs swerve vs mecanum), weight budgeting (120 lb limit, reservation strategy), mechanism design principles (failure modes, degrees of freedom, current limits, hard/soft limits), electronics and power distribution (PDH, CAN bus discipline), Autonomous priority ladder (PathPlanner/Choreo), TeleOp cycle strategy, alliance selection strategy, and a common rookie mistakes table. Serves P2 (coaches) and P4 (teen builders). Parallel to the just-added ftc-robot-design.md — fills the FRC design guide gap. Wave 34 task.
+- Updated `astro.config.mjs` sidebar — added FRC Robot Design Guide to Building section (after FTC Robot Design Guide).
+- Updated `guides/index.md` — linked new guide in Building and programming section.

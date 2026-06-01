@@ -959,3 +959,13 @@
   - Updated `skill/SKILL.md` to document new examples/vex-u/ section.
   - Updated `src/content/docs/log.md` and `progress/roadmap.md`.
   - Commit 92b0ad6, pushed to main.
+
+## 2026-06-01 10:58 UTC
+
+- **Repos:** Both repos already up to date (open-forge and the-little-creator).
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator.
+- **Roadmap task:** Wave 33 — created `guides/ftc-robot-design.md`
+  - FTC robot design guide covering drivetrain selection (tank vs mecanum vs X-drive), mechanism design principles (failure modes, DOF, motor selection, hard limits, cable tension), subsystem planning with ownership model, TeleOp cycle time strategy, Autonomous priorities (crash avoidance > Autonomous bonus > pre-load > park), alliance selection strategy, the build-test-iterate loop, and a common rookie mistakes table.
+  - Fills the FTC content gap: FLL had drivetrain-basics.md and attachment-design.md; FTC had none.
+  - Added to astro.config.mjs sidebar (Building section) and guides/index.md.
+  - Commit 781ca0c, pushed to main.

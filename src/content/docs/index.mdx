@@ -1,11 +1,11 @@
 ---
 title: The Little Creator
-description: A community knowledge base for kids, parents, and teachers in FIRST LEGO League and VEX Robotics — chat with our AI helper or browse curated resources, guides, and educator content.
+description: A community knowledge base for youth competitive robotics — FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. Chat with our AI helper or browse curated guides, resource maps, and educator content.
 template: splash
 hero:
-  tagline: A community for kids, parents, and teachers learning FIRST LEGO League and VEX Robotics together. Ask our AI helper for instant answers, or browse curated guides and resources — all backed by what families actually use.
+  tagline: A community for kids, parents, coaches, and teachers across all six youth competitive robotics programs. Ask our AI helper for instant answers, or browse curated guides and resources — all backed by what families actually use.
   actions:
-    - text: Chat with the FLL Helper
+    - text: Chat with the Robotics Helper
       link: https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper
       icon: external
       variant: primary
@@ -23,51 +23,80 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 ## Two ways to use this
 
 <CardGrid>
-  <Card title="Ask the FLL Helper (chat)" icon="comment-alt">
-    Our public Custom GPT on ChatGPT, backed by everything in this wiki. Ask anything — getting started, planning a season, designing a lesson, debugging a SPIKE Prime program. Free; works on any ChatGPT account.
-    [Open the FLL Helper →](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper)
+  <Card title="Ask the Robotics Helper (chat)" icon="comment-alt">
+    Our public Custom GPT on ChatGPT, backed by everything in this wiki. Ask anything — getting started with FLL, FTC, FRC, or VEX; planning a season; designing a lesson; or debugging robot code. Free; works on any ChatGPT account.
+    [Open the Robotics Helper →](https://chatgpt.com/g/g-69f7807cd8788191a863848d9ad9ea7b-the-little-creator-fll-helper)
   </Card>
   <Card title="Browse the wiki" icon="open-book">
-    Read curated content directly. Best for finding a specific guide, skimming resource maps, or copying lesson templates.
-    [Start with "What is FLL?" →](/getting-started/what-is-fll/)
+    Read curated content directly. Best for finding a specific guide, skimming resource maps, or copying lesson templates and code examples.
+    [Start with Getting Started →](/getting-started/)
+  </Card>
+</CardGrid>
+
+## Six programs, one community
+
+<CardGrid stagger>
+  <Card title="FIRST LEGO League (FLL)" icon="rocket">
+    Three divisions for ages 4–16: Discover, Explore, and Challenge. SPIKE Prime robots, Innovation Project, Core Values — and the most family-friendly entry point into competitive robotics.
+    [What is FLL? →](/getting-started/what-is-fll/)
+  </Card>
+  <Card title="FIRST Tech Challenge (FTC)" icon="puzzle">
+    Grades 7–12. REV Robotics hardware, FTC SDK (Java/Kotlin), alliance play, and hands-on engineering portfolio judging. The natural next step from FLL Challenge.
+    [What is FTC? →](/getting-started/what-is-ftc/)
+  </Card>
+  <Card title="FIRST Robotics Competition (FRC)" icon="star">
+    Grades 9–12. The flagship FIRST program — full-scale robots, 25+ student teams, WPILib (Java/C++), and a game field that changes every season.
+    [What is FRC? →](/getting-started/what-is-frc/)
+  </Card>
+  <Card title="VEX IQ" icon="heart">
+    Ages 8–14. Plastic snap-together kit, VEXcode IQ Python, collaborative match format. Great for the middle-school bridge between FLL and VRC.
+    [What is VEX IQ? →](/getting-started/what-is-vex-iq/)
+  </Card>
+  <Card title="VEX V5 / VRC" icon="document">
+    Grades 8–12. Metal construction, V5 Brain, PROS C++ or VEXcode, solo competitive matches. VRC is the VEX flagship for high school.
+    [What is VEX V5? →](/getting-started/what-is-vex-v5/)
+  </Card>
+  <Card title="VEX U" icon="open-book">
+    College. No size or weight limits, PROS C++, two robots per team — the most open-ended VEX format.
+    [What is VEX U? →](/getting-started/what-is-vex-u/)
   </Card>
 </CardGrid>
 
 ## Practical guides
 
 <CardGrid stagger>
-  <Card title="New to FLL?" icon="rocket">
-    What it is, what gear you need, how to form a team, and what your first season will look like.
-    [Getting Started guides →](/guides/#getting-started)
+  <Card title="Getting Started" icon="rocket">
+    What each program is, what gear you need, how to form a team, and what your first season will look like — for every program.
+    [Getting Started guides →](/getting-started/)
   </Card>
   <Card title="Building & Programming" icon="puzzle">
-    Drivetrain basics, SPIKE Prime Python, VEX IQ programming, gyro-corrected driving — from first program to competitive code.
+    Drivetrain basics, SPIKE Prime Python, FTC SDK Java, WPILib, VEX IQ and V5 — from first program to competition-ready code.
     [Building & Programming guides →](/guides/#building-and-programming)
   </Card>
   <Card title="Competition Prep" icon="document">
-    Innovation Project, judging prep, tournament day checklist, and first-tournament expectations — what to do and what to expect.
+    Tournament-day checklists, judging prep, innovation projects, FTC portfolio, FRC Impact — what to do and what to expect at every level.
     [Competition guides →](/guides/#competition-prep)
   </Card>
-  <Card title="Team Culture" icon="heart">
-    Core Values activities, forming a team, handling competition-day emotions — the non-robot half of FLL.
-    [Team Culture guides →](/guides/#team-culture)
+  <Card title="Team Culture & Coaching" icon="heart">
+    Core Values activities, coaching without doing, handling burnout, and the non-robot half of any program.
+    [Coaching & culture guides →](/guides/#coaching-and-team-culture)
   </Card>
 </CardGrid>
 
 ## Resources & educator content
 
 <CardGrid>
-  <Card title="FLL Resource Map" icon="open-book">
-    Curated map of official and trusted FLL resources — annotated with who they're for and when to use them.
-    [FLL Resource Map →](/resources/fll-resource-map/)
-  </Card>
-  <Card title="VEX Resource Map" icon="open-book">
-    Official and community resources for VEX IQ and VEX V5 — programming docs, event finder, community forums.
-    [VEX Resource Map →](/resources/vex-resource-map/)
+  <Card title="Resource Maps" icon="open-book">
+    Curated resource maps for all six programs — official docs, community forums, event finders, and learning links, annotated for who they're for.
+    [All resource maps →](/resources/)
   </Card>
   <Card title="For Educators" icon="pencil">
-    8-week curriculum starter, lesson plan template, and Core Values observation rubric for classroom and club programs.
+    8-week curriculum starters, lesson plan templates, assessment rubrics, and parent communication guides — for every program from FLL to VEX U.
     [Educator content →](/for-educators/)
+  </Card>
+  <Card title="Code Examples" icon="seti:code">
+    Ready-to-run code for SPIKE Prime Python, FTC SDK Java, WPILib Java, and VEX PROS C++ — tuned for real competition robots.
+    [Browse guides →](/guides/)
   </Card>
   <Card title="Showcase" icon="star">
     See what kids in our community have built. Submit your team's project too.
@@ -87,7 +116,7 @@ This wiki is community-built. Five ways to help — from opening an issue to wri
 
 The Little Creator started as one family's journey into FIRST LEGO League. We quickly realized the hardest part isn't the robots — it's finding good information, supportive teammates, and a community that gets it. So we built one.
 
-We focus on FLL first because that's where most families start. VEX content is here too for teams that progress — and growing.
+We've grown to cover all six major youth competitive robotics programs: FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. Whether you're a first-year FLL parent-coach, a teacher running a robotics club, a teen writing FTC Java, or a college team competing in VEX U — there's something here for you.
 
 ---
 

@@ -232,3 +232,7 @@
 ## Wave 29 backlog
 
 - [x] `resources/learning-materials.md` — expand to cover all six programs. Previous state: FLL-primary with VEX secondary; FTC and FRC learning resources absent entirely. Added FTC section (FTC SDK Docs, FTC SDK on GitHub, Game Manual 0, REV Hardware Client), FRC section (WPILib Docs, FRC Zero to Robot, Chief Delphi, PathPlanner, RobotPy), VEX section (VEX IQ KB, VEX V5 KB, PROS Docs, VEX Forum), Java textbook for FTC/FRC, FTC/FRC/WPILib official YouTube channels. Updated frontmatter description, tags, and audience to reflect all-program scope. Added jump-links at top. Mirrors the Wave 28 software-tools.md expansion pattern. (2026-06-01)
+
+## Wave 30 backlog
+
+- [x] `index.mdx` — update home page to reflect all-six-program scope. Previous state: FLL/VEX-only framing throughout — description, tagline, button text, card grids, "Our story" section. Updated: frontmatter description names all six programs; hero tagline + button label changed to "Robotics Helper"; new "Six programs, one community" CardGrid with individual cards for FLL, FTC, FRC, VEX IQ, VEX V5, VEX U each linking to their getting-started page; "Practical guides" section updated to reference FTC/FRC/VEX toolchains; "Resources & educator content" references all-program resource maps; "Two ways to use this" card mentions all programs; "Our story" section now acknowledges all six programs. (2026-06-01)

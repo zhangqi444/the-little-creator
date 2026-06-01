@@ -200,3 +200,11 @@
 ## Wave 21 backlog
 
 - [x] `resources/vex-u-resource-map.md` — dedicated VEX U/VURC resource map to complete six-program resource coverage (parallel to fll-resource-map, ftc-resource-map, frc-resource-map, vex-iq-resource-map, vex-v5-resource-map). Covers RECF VURC program page, VURC KB, RobotEvents, PROS, OkapiLib, LemLib, RECF scholarships, community forums (VEX Forum VEX U section, r/vexu), RECF Signature Events. Added to sidebar + resources/index.md. (2026-05-31 heartbeat 22:58)
+
+## Wave 22 backlog
+
+- [x] `getting-started/index.md` — update to properly list all six programs: fix frontmatter description (was FLL-only), update intro to list each VEX program with individual links (VEX IQ, VEX V5, VEX U separately rather than grouped), add `What is VEX U?` to Start here section (missing since VEX U page existed but wasn't linked from index), add VEX V5 → VEX U progression step. (2026-05-31 heartbeat 23:58)
+
+## Wave 23 backlog
+
+- [x] `for-educators/vex-u-curriculum-starter.md` — 8-week VEX U / VURC onboarding curriculum for collegiate educators, completing six-program for-educators coverage (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U). Covers VURC format, V5 hardware, PROS C++ driver-control with deadband, encoder autonomous, IMU gyro correction, engineering notebook depth, and a scrimmage/iteration session. Wired into sidebar and for-educators/index.md. Commit 8b30db2 (2026-06-01)

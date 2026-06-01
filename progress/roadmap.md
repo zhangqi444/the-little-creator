@@ -216,3 +216,7 @@
 ## Wave 25 backlog
 
 - [x] `skill/examples/frc/teleop-tank.java` + `autonomous-command.java` — FRC WPILib Java code examples for skill bundle, completing FRC coding coverage for P4 (AI coding tool users). Fills the gap between frc-programming-basics.md guide (Wave 14) and the skill bundle which had no FRC examples. `teleop-tank.java` covers TimedRobot tank drive with CANSparkMax leaders/followers and Shuffleboard telemetry; `autonomous-command.java` covers Command-based DriveSubsystem, DriveDistance command, and a sample SequentialCommandGroup. Also updated skill/SKILL.md to document the new examples/frc/ section. Commit 7e4fee1 (2026-06-01)
+
+## Wave 26 backlog
+
+- [x] `skill/examples/vex/teleop-driver.cpp` — VEX V5 PROS TeleOp driver-control skeleton, completing VEX V5 skill bundle coverage (pairs with autonomous-base.cpp). Covers 4-motor tank drive with deadband, arm + claw button control, slow-mode (hold A), and rumble feedback. Updated skill/SKILL.md to document new example. Commit b9d4f47 (2026-06-01)

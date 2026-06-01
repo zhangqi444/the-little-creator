@@ -890,3 +890,13 @@
   - `skill/examples/frc/autonomous-command.java` (Command-based DriveSubsystem + DriveDistance + SequentialCommandGroup)
   - Updated `skill/SKILL.md` to document new examples/frc/ section.
   - Commit 7e4fee1 pushed to main.
+
+## 2026-06-01 03:58 UTC
+- **Repos:** open-forge already up-to-date; the-little-creator already up-to-date
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator
+- **Roadmap task:** Wave 26 — added VEX V5 PROS TeleOp example to skill bundle
+  - Created `skill/examples/vex/teleop-driver.cpp` — driver-control skeleton for PROS framework
+  - 4-motor tank drive with deadband filtering, arm + claw button control (L1/L2, R1/R2), slow-mode (hold A), rumble feedback (B button rising-edge)
+  - Completes VEX V5 skill bundle: now has both autonomous-base.cpp and teleop-driver.cpp (mirrors FTC/FRC pattern from Waves 24-25)
+  - Updated skill/SKILL.md to document the new file
+  - Commit b9d4f47, pushed to main

@@ -228,3 +228,7 @@
 ## Wave 28 backlog
 
 - [x] `resources/software-tools.md` — expand to cover all six programs. Added FTC programming section (FTC Blocks, OnBot Java, Android Studio, FTC SDK on GitHub), FRC programming section (WPILib Suite, WPILib Docs, FRC Driver Station, PathPlanner), dedicated VEX IQ section, VEX U section (VEX Python API), additional design tools (Autodesk Fusion 360, Shuffleboard/Glass). Updated frontmatter description/tags/audience and added program jump-links at page top. Previously the page said "FLL-primary, VEX secondary" and had no FTC or FRC entries. (2026-06-01)
+
+## Wave 29 backlog
+
+- [x] `resources/learning-materials.md` — expand to cover all six programs. Previous state: FLL-primary with VEX secondary; FTC and FRC learning resources absent entirely. Added FTC section (FTC SDK Docs, FTC SDK on GitHub, Game Manual 0, REV Hardware Client), FRC section (WPILib Docs, FRC Zero to Robot, Chief Delphi, PathPlanner, RobotPy), VEX section (VEX IQ KB, VEX V5 KB, PROS Docs, VEX Forum), Java textbook for FTC/FRC, FTC/FRC/WPILib official YouTube channels. Updated frontmatter description, tags, and audience to reflect all-program scope. Added jump-links at top. Mirrors the Wave 28 software-tools.md expansion pattern. (2026-06-01)

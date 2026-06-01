@@ -418,3 +418,7 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 ## 2026-06-01
 
 - `resources/software-tools.md` — Wave 28 expansion. Updated page to cover all six programs (was FLL-primary with VEX secondary; FTC and FRC toolchains were missing entirely). Added: FTC section (FTC Blocks, OnBot Java, Android Studio, FTC SDK on GitHub), FRC section (WPILib Suite, WPILib Docs, FRC Driver Station, PathPlanner), dedicated VEX IQ and VEX U sections, VEX Python API entry, Autodesk Fusion 360, Shuffleboard/Glass FRC dashboards. Updated frontmatter description, tags, and audience to reflect all-program scope. Added program jump-links at top of page. Wave 28 task.
+
+## 2026-06-01
+
+- `resources/learning-materials.md` — Wave 29 expansion. Updated page to cover all six programs (was FLL/VEX-focused; FTC and FRC learning resources were entirely absent). Added: FTC section (FTC SDK Docs, FTC SDK on GitHub, Game Manual 0, REV Hardware Client), FRC section (WPILib Docs, FRC Zero to Robot, Chief Delphi, PathPlanner, RobotPy), VEX section (VEX IQ KB, VEX V5 KB, PROS Docs, VEX Forum), new Java textbook entry, FTC/FRC official YouTube channels (FTC, FRC, WPILib), program jump-links at top. Updated frontmatter description, tags, and audience to reflect all-program scope. Wave 29 task.

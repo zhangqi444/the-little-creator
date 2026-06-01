@@ -208,3 +208,7 @@
 ## Wave 23 backlog
 
 - [x] `for-educators/vex-u-curriculum-starter.md` — 8-week VEX U / VURC onboarding curriculum for collegiate educators, completing six-program for-educators coverage (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U). Covers VURC format, V5 hardware, PROS C++ driver-control with deadband, encoder autonomous, IMU gyro correction, engineering notebook depth, and a scrimmage/iteration session. Wired into sidebar and for-educators/index.md. Commit 8b30db2 (2026-06-01)
+
+## Wave 24 backlog
+
+- [x] `skill/examples/ftc/teleop-mecanum.java` + `autonomous-encoder.java` — FTC Java code examples for skill bundle, serving P4 (AI coding tool users). Fills gap between ftc-programming-basics.md guide (Wave 14) and skill bundle which had no FTC examples. Also updated skill/SKILL.md to reference new examples/ftc/ section. Commit 674e22d (2026-06-01)

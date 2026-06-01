@@ -869,3 +869,13 @@
   - 8-week onboarding for collegiate VEX U / VURC teams; PROS C++ examples, encoder + gyro autonomous, engineering notebook judging depth
   - Updated `astro.config.mjs` sidebar and `for-educators/index.md`
   - Commit 8b30db2, pushed to main
+
+## 2026-06-01 01:58 UTC
+- **Repos:** open-forge already up-to-date; the-little-creator already up-to-date
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator
+- **Roadmap task:** Wave 24 — added FTC Java code examples to skill bundle
+  - Created `skill/examples/ftc/teleop-mecanum.java` — four-wheel mecanum TeleOp with slow-mode, arm motor, claw servo, normalised mixing formula
+  - Created `skill/examples/ftc/autonomous-encoder.java` — encoder-based driveInches() + turnDegrees() helpers with calibration guide comments
+  - Updated `skill/SKILL.md` to document new examples/ftc/ section
+  - Fills skill bundle gap: ftc-programming-basics.md guide existed (Wave 14) but no FTC code examples were in skill/examples/
+  - Commit 674e22d, pushed to main

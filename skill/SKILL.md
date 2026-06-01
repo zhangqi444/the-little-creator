@@ -62,6 +62,7 @@ Invoke when the user is:
   - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)
   - `teleop-driver.cpp` — VEX V5 TeleOp with tank drive, arm, claw, slow-mode, and rumble feedback (PROS framework)
   - `vexiq-drivetrain.py` — VEX IQ Python drivetrain helpers (VEXcode IQ API)
+  - `vexiq-sensors.py` — VEX IQ Python sensor patterns: distance stop, optical hue/brightness detection, bumper press, gyro-corrected straight drive (VEXcode IQ API)
 
 ## Wiki guides by program
 

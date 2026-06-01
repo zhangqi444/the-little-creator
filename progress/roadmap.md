@@ -220,3 +220,7 @@
 ## Wave 26 backlog
 
 - [x] `skill/examples/vex/teleop-driver.cpp` — VEX V5 PROS TeleOp driver-control skeleton, completing VEX V5 skill bundle coverage (pairs with autonomous-base.cpp). Covers 4-motor tank drive with deadband, arm + claw button control, slow-mode (hold A), and rumble feedback. Updated skill/SKILL.md to document new example. Commit b9d4f47 (2026-06-01)
+
+## Wave 27 backlog
+
+- [x] `skill/examples/vex/vexiq-sensors.py` — VEX IQ sensor patterns for skill bundle (distance stop, optical hue/brightness, bumper press, gyro-corrected straight drive). Mirrors the FLL `sensors.py` example pattern. Completes VEX IQ skill bundle coverage (now has drivetrain + sensors). Updated skill/SKILL.md to document new example. Commit TBD (2026-06-01)

@@ -403,3 +403,8 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 - Added `resources/vex-u-resource-map.md` — dedicated VEX U/VURC resource map completing six-program resource coverage. Covers: RECF VURC program page, VURC knowledge base, V5RC current game page (shared game + addendum), RobotEvents (VURC filter), VEX V5 hardware platform, RECF program operator, RECF scholarships (>$110M), RECF trainings for faculty advisors, VEX Robotics World Championship VEX U division, VEXcode Pro V5, PROS (open-source C++ RTOS), OkapiLib, LemLib, VEX Python API, VEX Forum VEX U section, r/vexu subreddit, VEX Forum PROS section, RECF Signature Events, RECF Event Partners. Wave 21 task.
 - Updated `astro.config.mjs` sidebar to add VEX U Resource Map entry between VEX V5/VRC and VEX Resource Map.
 - Updated `resources/index.md` to list VEX U Resource Map alongside other per-program resource maps.
+
+
+## 2026-05-31 (heartbeat 23:58 UTC)
+
+- `getting-started/index.md` — Wave 22 update. Updated frontmatter description to reflect all six programs (was FLL-only). Updated intro paragraph to list each VEX program individually with dedicated links (was a single grouped link). Added `What is VEX U?` as a separate entry in the "Start here" section (was missing; VEX IQ and VEX V5 were added in Waves 20 but VEX U was not added). Added VEX V5 → VEX U progression step in the "Looking beyond" section. Updated frontmatter tags and audience to reflect all-program scope.

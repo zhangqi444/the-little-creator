@@ -80,6 +80,7 @@ export default defineConfig({
               items: [
                 { label: 'Drivetrain Basics', link: '/guides/drivetrain-basics/' },
                 { label: 'Attachment Design', link: '/guides/attachment-design/' },
+                { label: 'FTC Robot Design Guide', link: '/guides/ftc-robot-design/' },
                 { label: 'Robot Maintenance', link: '/guides/robot-maintenance/' },
                 { label: 'Robot Troubleshooting', link: '/guides/robot-troubleshooting/' },
                 { label: 'FLL Robot Programming Basics (SPIKE)', link: '/guides/robot-programming-basics/' },

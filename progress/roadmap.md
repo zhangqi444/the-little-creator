@@ -244,3 +244,7 @@
 ## Wave 32 backlog
 
 - [x] `skill/examples/vex/vexiq-mission-runner.py` — VEX IQ Brain button-activated Autonomous Coding Skills run selector for VIQRC competition day. Mirrors the FLL `mission-runner.py` pattern (CHECK/CANCEL buttons, Brain screen display, armed state before execution). Includes SmartDrive drivetrain helpers, claw attachment example, 3 registered run functions, and clear customisation comments. Fills the P4 skill bundle gap: FLL had a mission runner; VEX IQ did not. Also updated `skill/SKILL.md` to document the new example. (2026-06-01)
+
+## Wave 33 backlog
+
+- [x] `guides/ftc-robot-design.md` — FTC robot design guide: drivetrain selection (tank vs mecanum vs X-drive), mechanism design principles (failure modes, motor selection, hard limits, degrees of freedom), subsystem planning, TeleOp cycle time strategy, Autonomous priorities, alliance selection strategy, the iteration loop, and common rookie mistakes. Fills the content gap that FLL had (drivetrain-basics.md, attachment-design.md) but FTC lacked entirely. Added to sidebar and guides/index.md. (2026-06-01)

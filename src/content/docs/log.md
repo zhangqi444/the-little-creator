@@ -437,3 +437,9 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 
 - Added `skill/examples/vex/vexiq-mission-runner.py` — VEX IQ Brain button-activated Autonomous Coding Skills run selector. Mirrors the FLL `mission-runner.py` pattern for VIQRC competition day: CANCEL button cycles through registered run functions (shown on Brain screen), CHECK button arms then starts the selected run. Includes SmartDrive drivetrain helpers (fwd/rev/turn), a claw attachment motor example, two sample run functions with movement sequences, and a 3-function registry. Designed for teams preparing 2–3 distinct ACS routes for different field states. Wave 32 task.
 - Updated `skill/SKILL.md` — documented new `vexiq-mission-runner.py` in the examples/vex/ section.
+
+## 2026-06-01 (heartbeat 10:58 UTC)
+
+- Added `guides/ftc-robot-design.md` — FTC robot design guide covering drivetrain selection (tank vs mecanum vs X-drive), mechanism design principles (failure modes, degrees of freedom, motor selection, hard limits), subsystem planning with ownership model, TeleOp/Autonomous match strategy (cycle timing, expected value, alliance selection), the build-test-iterate loop, and a common rookie mistakes table. Serves P2 (coaches) and P4 (teen builders). Fills content gap: FLL had drivetrain-basics.md and attachment-design.md; FTC had none. Wave 33 task.
+- Updated `astro.config.mjs` sidebar — added FTC Robot Design Guide to Building section.
+- Updated `guides/index.md` — linked new guide in Building and programming section.

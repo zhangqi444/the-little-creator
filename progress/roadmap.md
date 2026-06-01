@@ -268,3 +268,7 @@
 ## Wave 38 backlog
 
 - [x] `community/index.md` — update to reflect all-six-program scope. Previous state: frontmatter description said "FLL/VEX"; intro said "connect with other families"; Option C listed only FLL Resource Map and VEX Resource Map; "Community values" said "parents and kids" only. Changes: updated frontmatter description + added program tags (fll, ftc, frc, vex-iq, vex-v5, vex-u), audience, level, season; updated intro to welcome parents, coaches, students, and educators; updated Option C to list all eight resource pages (FLL, FTC, FRC, VEX IQ, VEX V5/VRC, VEX U Resource Maps + Learning Materials + Software & Tools) with one-line descriptions; updated "Community values" to include coaches/educators/students. Mirrors Wave 37 (for-educators/index.md), Wave 22 (getting-started/index.md), Wave 12 (resources/index.md) pattern. (2026-06-01 heartbeat 15:58)
+
+## Wave 39 backlog
+
+- [x] `guides/vex-u-robot-design.md` — VEX U / VURC robot design guide completing the six-program robot-design series (FTC Wave 33, FRC Wave 34, VEX V5 Wave 35, VEX IQ Wave 36, now VEX U). Covers two-robot sizing strategy (15-inch agility vs 24-inch power), drivetrain selection per robot, mechanism design principles, two-robot autonomous coordination, TeleOp role assignment (Driver 1/Driver 2 specialisation), endgame synchronisation, three-tier autonomous discipline, cycle-time measurement, alliance selection strategy, and common rookie mistakes table. Added to sidebar + guides/index.md. Commit 95eeb9b (2026-06-01 heartbeat 17:58)

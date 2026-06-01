@@ -995,3 +995,13 @@
 - Updated `guides/index.md` — linked new guide.
 - Updated `log.md` — appended audit entry.
 - Commit `ead2264`, pushed to main.
+
+## 2026-06-01 17:58 UTC — Wave 39
+
+**Task:** `guides/vex-u-robot-design.md`
+
+Completed the six-program robot design guide series by adding the missing VEX U guide. All issues queues (open-forge and the-little-creator) were empty. Both repos were already up to date.
+
+New file: `src/content/docs/guides/vex-u-robot-design.md` (276 lines)
+Modified: `astro.config.mjs` (sidebar), `src/content/docs/guides/index.md`
+Commit: 95eeb9b pushed to main.

@@ -60,6 +60,7 @@ Invoke when the user is:
 - **examples/vex/** — Working VEX code. Tune drivetrain constants before
   relying on distance helpers.
   - `autonomous-base.cpp` — VEX V5 tank drive skeleton (PROS framework)
+  - `teleop-driver.cpp` — VEX V5 TeleOp with tank drive, arm, claw, slow-mode, and rumble feedback (PROS framework)
   - `vexiq-drivetrain.py` — VEX IQ Python drivetrain helpers (VEXcode IQ API)
 
 ## Wiki guides by program

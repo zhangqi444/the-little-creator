@@ -27,6 +27,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [FLL Robot Attachment Design](/guides/attachment-design/) — How to design, build, and test effective attachments; connection methods, leverage, gear reduction, iteration, and notebook documentation
 - [FTC Robot Design Guide](/guides/ftc-robot-design/) — Drivetrain selection (tank vs mecanum), mechanism design principles, subsystem planning, match strategy, and the iteration loop for FTC teams
 - [FRC Robot Design Guide](/guides/frc-robot-design/) — Drivetrain selection (West Coast tank vs swerve vs mecanum), weight budgeting, mechanism design principles, electronics, and match strategy for rookie and returning FRC teams
+- [VEX V5 Robot Design Guide](/guides/vex-v5-robot-design/) — Drivetrain selection (tank vs X-drive vs mecanum), motor budget, mechanism design principles, Autonomous Win Point strategy, and the iteration loop for VRC teams
 - [Robot Maintenance Guide](/guides/robot-maintenance/) — Keeping SPIKE Prime and VEX IQ hardware in good shape through a full season
 - [Robot Troubleshooting — Common Problems and Fixes](/guides/robot-troubleshooting/) — Drift, missed missions, attachment failures, tournament-day breakdowns, and quick fixes
 - [Robot Programming Basics](/guides/robot-programming-basics/) — Getting started with SPIKE App block-based programming and Python for FLL robots

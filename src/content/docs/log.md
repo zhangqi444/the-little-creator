@@ -449,3 +449,9 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 - Added `guides/frc-robot-design.md` — FRC robot design guide covering drivetrain selection (West Coast tank vs swerve vs mecanum), weight budgeting (120 lb limit, reservation strategy), mechanism design principles (failure modes, degrees of freedom, current limits, hard/soft limits), electronics and power distribution (PDH, CAN bus discipline), Autonomous priority ladder (PathPlanner/Choreo), TeleOp cycle strategy, alliance selection strategy, and a common rookie mistakes table. Serves P2 (coaches) and P4 (teen builders). Parallel to the just-added ftc-robot-design.md — fills the FRC design guide gap. Wave 34 task.
 - Updated `astro.config.mjs` sidebar — added FRC Robot Design Guide to Building section (after FTC Robot Design Guide).
 - Updated `guides/index.md` — linked new guide in Building and programming section.
+
+## 2026-06-01 (heartbeat 12:58 UTC)
+
+- Added `guides/vex-v5-robot-design.md` — VEX V5/VRC robot design guide covering drivetrain selection (tank vs X-drive vs mecanum with decision matrix), motor budget allocation (8-motor limit, typical allocation patterns), mechanism design principles (failure modes, degrees of freedom, compliant rollers, counterbalancing, hard stops + soft limits), Autonomous Win Point strategy (15-second period, fallback auto, encoder + IMU paths, alliance coordination), TeleOp cycle strategy, alliance selection strategy, and the VRC iteration loop. Fills the VEX V5 content gap — FLL had drivetrain-basics.md and attachment-design.md; FTC had ftc-robot-design.md; FRC had frc-robot-design.md; VEX V5/VRC had none. Serves P2 (teen coaches) and P3 (returning teams). Wave 35 task.
+- Updated `astro.config.mjs` sidebar — added VEX V5 Robot Design Guide to Building section (after FRC Robot Design Guide).
+- Updated `guides/index.md` — linked new guide in Building and programming section.

@@ -252,3 +252,7 @@
 ## Wave 34 backlog
 
 - [x] `guides/frc-robot-design.md` — FRC robot design guide: drivetrain selection (West Coast tank vs swerve vs mecanum), weight budgeting (120 lb limit), mechanism design principles (failure modes, degrees of freedom, hard/soft limits, current limits), power distribution and CAN bus discipline, Autonomous priority ladder with PathPlanner/Choreo note, TeleOp cycle strategy, alliance selection strategy, and a rookie mistakes table. Parallel to Wave 33 ftc-robot-design.md — fills FRC design guide gap. Added to sidebar and guides/index.md. (2026-06-01 heartbeat 11:58)
+
+## Wave 35 backlog
+
+- [x] `guides/vex-v5-robot-design.md` — VEX V5/VRC robot design guide: drivetrain selection (tank vs X-drive vs mecanum with decision matrix), motor budget allocation (8-motor limit and typical allocation patterns), mechanism design principles (failure modes, degrees of freedom, compliant rollers, counterbalancing, hard stops + soft limits), Autonomous Win Point strategy (15-second period, fallback auto, encoder + IMU paths, alliance pre-match coordination), TeleOp cycle strategy (measuring real cycle time, drive team communication protocols), alliance selection strategy, the VRC iteration loop, and a common rookie mistakes table. Fills the VEX V5 design guide gap — FLL had drivetrain-basics.md/attachment-design.md; FTC had ftc-robot-design.md; FRC had frc-robot-design.md; VEX V5/VRC had none. Added to sidebar + guides/index.md. (2026-06-01 heartbeat 12:58)

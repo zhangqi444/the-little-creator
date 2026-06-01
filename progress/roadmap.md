@@ -224,3 +224,7 @@
 ## Wave 27 backlog
 
 - [x] `skill/examples/vex/vexiq-sensors.py` — VEX IQ sensor patterns for skill bundle (distance stop, optical hue/brightness, bumper press, gyro-corrected straight drive). Mirrors the FLL `sensors.py` example pattern. Completes VEX IQ skill bundle coverage (now has drivetrain + sensors). Updated skill/SKILL.md to document new example. Commit TBD (2026-06-01)
+
+## Wave 28 backlog
+
+- [x] `resources/software-tools.md` — expand to cover all six programs. Added FTC programming section (FTC Blocks, OnBot Java, Android Studio, FTC SDK on GitHub), FRC programming section (WPILib Suite, WPILib Docs, FRC Driver Station, PathPlanner), dedicated VEX IQ section, VEX U section (VEX Python API), additional design tools (Autodesk Fusion 360, Shuffleboard/Glass). Updated frontmatter description/tags/audience and added program jump-links at page top. Previously the page said "FLL-primary, VEX secondary" and had no FTC or FRC entries. (2026-06-01)

@@ -900,3 +900,17 @@
   - Completes VEX V5 skill bundle: now has both autonomous-base.cpp and teleop-driver.cpp (mirrors FTC/FRC pattern from Waves 24-25)
   - Updated skill/SKILL.md to document the new file
   - Commit b9d4f47, pushed to main
+
+## 2026-06-01 05:58 UTC
+- **Repos:** open-forge already up-to-date; the-little-creator already up-to-date
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator
+- **Roadmap task:** Wave 28 — expanded `resources/software-tools.md` to cover all six programs
+  - Previous state: FLL-primary with VEX listed as "secondary"; FTC and FRC toolchains entirely absent
+  - Added FTC section: FTC Blocks, OnBot Java, Android Studio, FTC SDK on GitHub
+  - Added FRC section: WPILib Suite, WPILib Docs, FRC Driver Station, PathPlanner
+  - Added dedicated VEX IQ section (VEXcode IQ entry)
+  - Added VEX U section (VEX Python API)
+  - Added Autodesk Fusion 360 and Shuffleboard/Glass to design tools
+  - Updated frontmatter: description, tags, audience, added season: evergreen
+  - Added program jump-links at top of page for easier navigation
+  - Updated log.md and roadmap.md

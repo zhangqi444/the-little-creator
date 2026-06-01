@@ -414,3 +414,7 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 - Added `skill/examples/frc/teleop-tank.java` — TimedRobot tank drive example for FRC WPILib skill bundle
 - Added `skill/examples/frc/autonomous-command.java` — Command-based SequentialCommandGroup example for FRC WPILib skill bundle
 - Updated `skill/SKILL.md` — documented new examples/frc/ section (Wave 25)
+
+## 2026-06-01
+
+- `resources/software-tools.md` — Wave 28 expansion. Updated page to cover all six programs (was FLL-primary with VEX secondary; FTC and FRC toolchains were missing entirely). Added: FTC section (FTC Blocks, OnBot Java, Android Studio, FTC SDK on GitHub), FRC section (WPILib Suite, WPILib Docs, FRC Driver Station, PathPlanner), dedicated VEX IQ and VEX U sections, VEX Python API entry, Autodesk Fusion 360, Shuffleboard/Glass FRC dashboards. Updated frontmatter description, tags, and audience to reflect all-program scope. Added program jump-links at top of page. Wave 28 task.

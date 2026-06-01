@@ -879,3 +879,14 @@
   - Updated `skill/SKILL.md` to document new examples/ftc/ section
   - Fills skill bundle gap: ftc-programming-basics.md guide existed (Wave 14) but no FTC code examples were in skill/examples/
   - Commit 674e22d, pushed to main
+
+## 2026-06-01 02:58 UTC
+
+- Step 0: Both repos already up to date (no new commits to pull).
+- Step 1: open-forge — 0 open issues. Nothing to process.
+- Step 2: the-little-creator — 0 open issues. Nothing to process.
+- Step 3: Roadmap — Wave 25 complete. Added FRC WPILib Java examples to skill bundle:
+  - `skill/examples/frc/teleop-tank.java` (TimedRobot tank drive, CANSparkMax, Shuffleboard)
+  - `skill/examples/frc/autonomous-command.java` (Command-based DriveSubsystem + DriveDistance + SequentialCommandGroup)
+  - Updated `skill/SKILL.md` to document new examples/frc/ section.
+  - Commit 7e4fee1 pushed to main.

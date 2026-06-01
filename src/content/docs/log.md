@@ -408,3 +408,9 @@ Kept untouched: quoted-user-question examples in Patterns-by-type section ("my k
 ## 2026-05-31 (heartbeat 23:58 UTC)
 
 - `getting-started/index.md` — Wave 22 update. Updated frontmatter description to reflect all six programs (was FLL-only). Updated intro paragraph to list each VEX program individually with dedicated links (was a single grouped link). Added `What is VEX U?` as a separate entry in the "Start here" section (was missing; VEX IQ and VEX V5 were added in Waves 20 but VEX U was not added). Added VEX V5 → VEX U progression step in the "Looking beyond" section. Updated frontmatter tags and audience to reflect all-program scope.
+
+## 2026-06-01
+
+- Added `skill/examples/frc/teleop-tank.java` — TimedRobot tank drive example for FRC WPILib skill bundle
+- Added `skill/examples/frc/autonomous-command.java` — Command-based SequentialCommandGroup example for FRC WPILib skill bundle
+- Updated `skill/SKILL.md` — documented new examples/frc/ section (Wave 25)

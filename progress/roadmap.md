@@ -212,3 +212,7 @@
 ## Wave 24 backlog
 
 - [x] `skill/examples/ftc/teleop-mecanum.java` + `autonomous-encoder.java` — FTC Java code examples for skill bundle, serving P4 (AI coding tool users). Fills gap between ftc-programming-basics.md guide (Wave 14) and skill bundle which had no FTC examples. Also updated skill/SKILL.md to reference new examples/ftc/ section. Commit 674e22d (2026-06-01)
+
+## Wave 25 backlog
+
+- [x] `skill/examples/frc/teleop-tank.java` + `autonomous-command.java` — FRC WPILib Java code examples for skill bundle, completing FRC coding coverage for P4 (AI coding tool users). Fills the gap between frc-programming-basics.md guide (Wave 14) and the skill bundle which had no FRC examples. `teleop-tank.java` covers TimedRobot tank drive with CANSparkMax leaders/followers and Shuffleboard telemetry; `autonomous-command.java` covers Command-based DriveSubsystem, DriveDistance command, and a sample SequentialCommandGroup. Also updated skill/SKILL.md to document the new examples/frc/ section. Commit 7e4fee1 (2026-06-01)

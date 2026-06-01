@@ -1,9 +1,15 @@
 ---
 title: Community
-description: Connect with other families on the same FLL/VEX robotics journey — and contribute to the knowledge base.
+description: Connect with other parents, coaches, students, and educators across all six youth competitive robotics programs — FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U — and contribute to the knowledge base.
+tags: [fll, ftc, frc, vex-iq, vex-v5, vex-u]
+audience: [families, coaches, teachers, students]
+level: all
+season: evergreen
 ---
 
-The Little Creator is more than a knowledge base — it's a place to connect with other families on the same journey, and to contribute what you've learned so others don't start from scratch.
+The Little Creator is more than a knowledge base — it's a place to connect with other parents, coaches, students, and educators across all six youth competitive robotics programs, and to contribute what you've learned so others don't start from scratch.
+
+Whether you're a first-year FLL parent-coach, a high school FTC or FRC mentor, a VEX IQ club leader, or a college VEX U team captain, this community is for you.
 
 ## Find or Form a Team
 
@@ -49,7 +55,18 @@ That's it. A maintainer will review and merge it.
 
 ### Option C — Add a resource entry
 
-Resource pages ([FLL Resource Map](/resources/fll-resource-map/), [VEX Resource Map](/resources/vex-resource-map/), [Learning Materials](/resources/learning-materials/), [Software & Tools](/resources/software-tools/)) follow a structured format. To add an entry:
+Resource pages follow a structured format. To add an entry to any of these:
+
+- [FLL Resource Map](/resources/fll-resource-map/) — FLL-specific links and tools
+- [FTC Resource Map](/resources/ftc-resource-map/) — FTC SDK, hardware, community
+- [FRC Resource Map](/resources/frc-resource-map/) — WPILib, Chief Delphi, FRC tools
+- [VEX IQ Resource Map](/resources/vex-iq-resource-map/) — VEXcode IQ, RobotEvents, community
+- [VEX V5/VRC Resource Map](/resources/vex-v5-resource-map/) — PROS, VEX Forum, VRC tools
+- [VEX U Resource Map](/resources/vex-u-resource-map/) — VURC program page, PROS, OkapiLib, RECF
+- [Learning Materials](/resources/learning-materials/) — tutorials, courses, books across all programs
+- [Software & Tools](/resources/software-tools/) — IDEs, simulators, design tools
+
+All follow this same metadata pattern:
 
 1. Fork the repository
 2. Open the relevant resource file in `src/content/docs/resources/`
@@ -113,12 +130,12 @@ Full guidelines are in [CLAUDE.md](https://github.com/zhangqi444/the-little-crea
 
 ## Community values
 
-We're a community of parents and kids. That means:
+We're a community of parents, students, coaches, and educators. That means:
 
 - **Be kind** — We're all learning. Respect beginners — they're why this exists.
 - **Share freely** — Don't gatekeep knowledge. Lift others up.
 - **Credit your sources** — If you build on someone else's work, say so.
-- **Keep it appropriate** — This is a space for families.
+- **Keep it appropriate** — This is a space for families and kids.
 
 ## Staying connected
 

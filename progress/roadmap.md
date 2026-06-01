@@ -264,3 +264,7 @@
 ## Wave 37 backlog
 
 - [x] `for-educators/index.md` — update to reflect all-six-program scope: fix frontmatter description (was "FLL or VEX programs" only), add program tags (fll, ftc, frc, vex-iq, vex-v5, vex-u), add audience/level/season fields, reorganise "What's here" into sub-sections (Curriculum starters / Templates and tools / Assessment / Team and classroom management), update "What this section is not" to link all six resource maps instead of just FLL, update "Who this section is for" and "Tone & assumptions" to acknowledge all programs. Mirrors Wave 22 (getting-started/index.md) and Wave 12 (resources/index.md) pattern. (2026-06-01 heartbeat 14:58)
+
+## Wave 38 backlog
+
+- [x] `community/index.md` — update to reflect all-six-program scope. Previous state: frontmatter description said "FLL/VEX"; intro said "connect with other families"; Option C listed only FLL Resource Map and VEX Resource Map; "Community values" said "parents and kids" only. Changes: updated frontmatter description + added program tags (fll, ftc, frc, vex-iq, vex-v5, vex-u), audience, level, season; updated intro to welcome parents, coaches, students, and educators; updated Option C to list all eight resource pages (FLL, FTC, FRC, VEX IQ, VEX V5/VRC, VEX U Resource Maps + Learning Materials + Software & Tools) with one-line descriptions; updated "Community values" to include coaches/educators/students. Mirrors Wave 37 (for-educators/index.md), Wave 22 (getting-started/index.md), Wave 12 (resources/index.md) pattern. (2026-06-01 heartbeat 15:58)

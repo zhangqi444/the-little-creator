@@ -969,3 +969,29 @@
   - Fills the FTC content gap: FLL had drivetrain-basics.md and attachment-design.md; FTC had none.
   - Added to astro.config.mjs sidebar (Building section) and guides/index.md.
   - Commit 781ca0c, pushed to main.
+
+## 2026-06-01 12:58 UTC
+
+- **Repos:** Both repos already up to date (open-forge and the-little-creator).
+- **Issues:** 0 open issues in open-forge; 0 open issues in the-little-creator.
+- **Roadmap task:** Wave 35 — created `guides/vex-v5-robot-design.md`
+  - VEX V5/VRC robot design guide filling the design-guide gap (FLL/FTC/FRC each had one; VEX V5 did not).
+  - Content: drivetrain selection (tank vs X-drive vs mecanum with decision matrix), motor budget (8-motor limit, typical allocation patterns per strategy), mechanism design principles (failure modes first, degrees of freedom, hard stops + software limits, compliant rollers, counterbalancing), Autonomous Win Point strategy (15-second auto, encoder + IMU paths, fallback auto, alliance coordination), TeleOp cycle strategy, alliance selection, the VRC iteration loop, and a common rookie mistakes table.
+  - Updated astro.config.mjs sidebar and guides/index.md.
+  - Updated src/content/docs/log.md and progress/roadmap.md.
+  - Commit a0f47e0, pushed to main.
+
+## 2026-06-01 13:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array returned by API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array returned by API).
+
+**Step 3 — Roadmap iteration (Wave 36)**:
+- Created `src/content/docs/guides/vex-iq-robot-design.md` (220 lines) — VEX IQ robot design guide completing the robot-design series across all six programs (FLL had drivetrain-basics + attachment-design; FTC, FRC, VEX V5 had individual design guides; VEX IQ had none). Covers drivetrain selection, mechanism design for snap-together plastic, motor/port budgeting, Autonomous Coding Skills strategy, Teamwork Challenge field coordination, and the iteration loop. Audience: kids/coaches ages 8–14.
+- Updated `astro.config.mjs` — added sidebar entry for VEX IQ Robot Design Guide.
+- Updated `guides/index.md` — linked new guide.
+- Updated `log.md` — appended audit entry.
+- Commit `ead2264`, pushed to main.

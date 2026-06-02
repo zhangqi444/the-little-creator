@@ -457,3 +457,23 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/mental-models-for-competition.md` — deeper cognitive tools (growth mindset, process vs outcome focus) that extend first-competition-nerves.md for older/returning teams
 - [ ] Consider a `guides/scouting-guide.md` — how to run alliance scouting at FTC/FRC/VRC events (currently mentioned in robot design guides but no dedicated scouting guide exists)
+
+## Wave 65 completed
+
+- [x] `guides/scouting-guide.md` — "Alliance Scouting Guide": practical scouting guide for FTC, FRC, and VEX V5/VRC teams. Covers program-specific alliance formats (FTC/VRC 2-team, FRC 3-team), setting up a scouting system (solo/small team vs FRC-scale squad), watching matches with purpose (autonomous/TeleOp/endgame), organising aggregated data, pit scouting questions, alliance selection strategy (tiered pick list, complementary roles, the selection conversation, being picked), common mistakes table, and quick-reference tracking table by program. Wired into sidebar (Competition section after VEX V5 Tournament Guide), guides/index.md, skill/SKILL.md. Commit 0322287 (2026-06-02 heartbeat 18:58)
+
+## Wave 66 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/mental-models-for-competition.md` — deeper cognitive tools (growth mindset, process vs outcome focus) for older/returning teams (extends first-competition-nerves.md)
+- [ ] Consider a cross-program `guides/drive-team-training.md` — how to train your drive team effectively: driver practice regimes, match communication, drive team roles across all six programs
+
+## Wave 66 completed
+
+- [x] `guides/drive-team-training.md` — Drive team selection and training guide for FTC, FRC, VEX IQ, VEX V5/VRC, and VEX U: drive team roles by program, driver selection criteria, isolation drills, combined run practice, pressure simulation, match communication protocols (call vocabulary, alliance briefing), program-specific tips, freeze rules, common mistakes table, 10-week season training plan. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 459def8 (2026-06-02 heartbeat 19:58)
+
+## Wave 67 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/mental-models-for-competition.md` — deeper cognitive tools (growth mindset, process vs outcome focus) that extend first-competition-nerves.md for older/returning teams
+- [ ] Consider a `guides/alliance-strategy.md` — deeper guide on match strategy during alliance play (auto coordination, TeleOp zone division, endgame sequencing) across FTC/FRC/VRC

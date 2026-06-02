@@ -1303,3 +1303,31 @@ Commit: 95eeb9b pushed to main.
 - open-forge: 0 open issues
 - the-little-creator: 0 open issues
 - Wave 64: created `guides/choosing-equipment-used-vs-new.md` — cross-program used vs. new hardware guide covering all six programs; wired into sidebar, guides/index.md, skill/SKILL.md; committed cb0c253
+
+## 2026-06-02 18:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 65)**:
+- Created `src/content/docs/guides/scouting-guide.md` (~240 lines) — "Alliance Scouting Guide": practical scouting guide covering FTC, FRC, and VEX V5/VRC. Includes scouting system setup (solo/small team vs FRC-scale), match observation framework (autonomous/TeleOp/endgame), data organisation/aggregates, pit scouting questions, alliance selection strategy (tiered pick lists, complementary roles, the selection conversation, being-picked positioning), 7-row common mistakes table, and quick-reference tracking table.
+- Updated `astro.config.mjs` — added Alliance Scouting Guide to sidebar (Competition section, after VEX V5 Tournament Guide).
+- Updated `guides/index.md` — added entry after VEX V5 Tournament Guide.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Commit `0322287`, pushed to main.
+
+## 2026-06-02 19:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: No open issues on open-forge or the-little-creator.
+
+**Step 2 — Issues queues empty → Step 3 roadmap iteration**:
+- Wave 66: Created `src/content/docs/guides/drive-team-training.md` — cross-program drive team selection and training guide for FTC, FRC, VEX IQ, VEX V5/VRC, and VEX U. Covers drive team roles by program, driver selection, isolation drills, combined run practice, pressure simulation, match communication protocols, program-specific tips, freeze rules, common mistakes table (8 rows), and 10-week season training plan.
+- Updated `astro.config.mjs` — added Drive Team Training to sidebar (Competition section, after Alliance Scouting Guide).
+- Updated `guides/index.md` — added Drive Team Training to Competition prep section.
+- Updated `skill/SKILL.md` — added Drive Team Training to cross-program links.
+- Commit `459def8`, pushed to main.

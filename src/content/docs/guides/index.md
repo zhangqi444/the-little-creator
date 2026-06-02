@@ -15,6 +15,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Your First Four Weeks as an FRC Mentor](/guides/frc-first-four-weeks/) — Week-by-week action plan for brand-new FRC mentors: team culture, building a practice drive base, first TeleOp drive, dividing into sub-teams
 - [Your First Four Weeks as a VEX IQ Coach](/guides/vex-iq-first-four-weeks/) — Week-by-week action plan for brand-new VIQRC coaches: first meeting, building a drive base, exploring the season game, dividing robot and notebook work
 - [Your First Four Weeks as a VEX V5 Coach](/guides/vex-v5-first-four-weeks/) — Week-by-week action plan for brand-new VRC coaches: first meeting, building a tank drive base, exploring the season game, dividing robot, notebook, and strategy work
+- [Your First Four Weeks as a VEX U Team Leader](/guides/vex-u-first-four-weeks/) — Week-by-week action plan for students forming a new VURC team: registering, assigning robot roles, building drive bases, dividing tracks with notebook from day one
 - [Forming a Team](/guides/forming-a-team/) — How to find members, set expectations, and structure your team
 - [FLL Equipment Guide](/guides/equipment-guide/) — What gear you need, what it costs, and how to get it without overspending
 - [Planning Your Season](/guides/season-planning/) — A timeline and checklist for surviving (and enjoying) a competition season

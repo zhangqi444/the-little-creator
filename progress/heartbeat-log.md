@@ -1231,3 +1231,17 @@ Commit: 95eeb9b pushed to main.
 **Completes**: Wave 54 FRC first-four-weeks guide
 
 **Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026
+
+## 2026-06-02 09:58 UTC
+
+- **Issues:** Both open-forge and the-little-creator had zero open issues (queues empty).
+- **Roadmap (Wave 55):** Created `guides/vex-iq-first-four-weeks.md` — VIQRC week-by-week new coach guide completing the first-four-weeks series for VEX IQ. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit de5d76b pushed to main.
+
+## 2026-06-02 11:58 UTC
+
+- **Issues:** Both open-forge and the-little-creator had zero open issues (queues empty).
+- **Roadmap (Wave 57):** Created `guides/vex-u-first-four-weeks.md` — VEX U / VURC week-by-week first-four-weeks guide completing all-six-program first-four-weeks coverage. Week-by-week action plan: Week 1 register + recruit + read manual, Week 2 assign robot roles + order hardware, Week 3 build drive bases + first TeleOp, Week 4 divide tracks with notebook from day one. Includes VEX U vs V5RC comparison table, common-problems tables, worry-vs-reality table. Wired into sidebar (after First Four Weeks VEX V5), guides/index.md, skill/SKILL.md VEX U links. Commit TBD pushed to main.
+
+**Completes**: Wave 57 vex-u-first-four-weeks.md
+
+**Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026

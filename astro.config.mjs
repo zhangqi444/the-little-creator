@@ -71,6 +71,7 @@ export default defineConfig({
                 { label: 'First Four Weeks (FRC)', link: '/guides/frc-first-four-weeks/' },
                 { label: 'First Four Weeks (VEX IQ)', link: '/guides/vex-iq-first-four-weeks/' },
                 { label: 'First Four Weeks (VEX V5)', link: '/guides/vex-v5-first-four-weeks/' },
+                { label: 'First Four Weeks (VEX U)', link: '/guides/vex-u-first-four-weeks/' },
                 { label: 'Starting a VEX U Team', link: '/guides/vex-u-first-team/' },
                 { label: 'Equipment Guide', link: '/guides/equipment-guide/' },
                 { label: 'Team Funding', link: '/guides/team-funding/' },

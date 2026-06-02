@@ -388,3 +388,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider `guides/vex-u-first-four-weeks.md` — VEX U / VURC equivalent of the first-four-weeks series to complete all-six-program coverage (currently FLL, FTC, FRC, VEX IQ, VEX V5 have guides; VEX U does not)
 - [ ] Consider a cross-program `guides/managing-your-season.md` — season calendar management, registration deadlines, qualifier logistics across all six programs
+
+## Wave 57 completed
+
+- [x] `guides/vex-u-first-four-weeks.md` — "Your First Four Weeks as a VEX U Team Leader": VURC equivalent of the first-four-weeks series, completing all-six-program coverage. Week-by-week action plan: Week 1 register + recruit + read VURC game manual, Week 2 assign 15-inch / 24-inch robot roles + order hardware, Week 3 build drive bases + first TeleOp PROS skeleton (every member drives both robots), Week 4 divide into four tracks (mechanical/software/notebook/strategy) with notebook started on day one. Includes VEX U vs V5RC comparison table, common-problems tables, worry-vs-reality table. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit a5724e4 (2026-06-02 heartbeat 11:58)
+
+## Wave 58 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a cross-program `guides/managing-your-season.md` — season calendar management, registration deadlines, qualifier logistics across all six programs
+- [ ] Consider a `guides/off-season-activities.md` — what teams can do between competition seasons to stay sharp (scrimmages, workshops, summer builds)

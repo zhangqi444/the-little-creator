@@ -142,6 +142,7 @@ export default defineConfig({
               items: [
                 { label: 'Second Season Guide', link: '/guides/second-season/' },
                 { label: 'FTC Second Season Guide', link: '/guides/ftc-second-season/' },
+                { label: 'FRC Second Season Guide', link: '/guides/frc-second-season/' },
               ],
             },
           ],

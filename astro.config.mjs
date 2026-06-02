@@ -144,6 +144,7 @@ export default defineConfig({
                 { label: 'Gracious Professionalism', link: '/guides/gracious-professionalism/' },
                 { label: 'Coaching Without Doing', link: '/guides/coaching-without-doing/' },
                 { label: 'When a Kid Wants to Quit', link: '/guides/when-a-kid-wants-to-quit/' },
+                { label: 'Parent Volunteer Guide', link: '/guides/parent-volunteer-guide/' },
               ],
             },
             {

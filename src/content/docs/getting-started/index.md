@@ -13,7 +13,7 @@ This wiki covers the major youth competitive robotics programs in two families:
 - **FIRST family** — [FLL](/getting-started/what-is-fll/) (ages 4–16), [FTC](/getting-started/what-is-ftc/) (grades 7–12), [FRC](/getting-started/what-is-frc/) (grades 9–12)
 - **VEX family** — [VEX IQ](/getting-started/what-is-vex-iq/) (ages 8–14), [VEX V5 / VRC](/getting-started/what-is-vex-v5/) (grades 7–12), [VEX U](/getting-started/what-is-vex-u/) (college); see also the [VEX overview](/getting-started/what-is-vex/) for a side-by-side comparison of all three
 
-Most families start with FLL Discover/Explore/Challenge in elementary or middle school. From there, students typically progress to FTC and then FRC (the FIRST pipeline), or to VEX IQ → VEX V5 → VEX U (the VEX pipeline). The [Progression Guide](/getting-started/progression-guide/) covers when and how to move between programs. FLL has the most-developed coverage on this wiki today; FTC, FRC, and VEX coverage is growing.
+Not sure which program fits your kid? The [Choosing a Program guide](/getting-started/choosing-a-program/) compares all six programs by age, budget, and goals to help you decide. Most families start with FLL Discover/Explore/Challenge in elementary or middle school. From there, students typically progress to FTC and then FRC (the FIRST pipeline), or to VEX IQ → VEX V5 → VEX U (the VEX pipeline). The [Progression Guide](/getting-started/progression-guide/) covers when and how to move between programs. FLL has the most-developed coverage on this wiki today; FTC, FRC, and VEX coverage is growing.
 
 Whichever program you're in, expect it to feel overwhelming at first — there's hardware, software, teamwork, and (for some programs) a research project all happening at once. The learning curve is part of the fun, and you don't need to figure it out alone.
 
@@ -29,6 +29,7 @@ Whichever program you're in, expect it to feel overwhelming at first — there's
 
 ## Cross-program references
 
+- [**Choosing a Program**](/getting-started/choosing-a-program/) — Side-by-side comparison of all six programs by age, cost, time, and goals.
 - [**Glossary**](/getting-started/glossary/) — Plain-language definitions for acronyms and jargon (PDO, YPP, GP, SPIKE Prime, KitBot, and more).
 - [**Division Eligibility**](/guides/division-eligibility/) — Which FLL division is right for your child? (FLL-specific.)
 - [**Progression Guide**](/getting-started/progression-guide/) — How to think about moving from FLL up through FTC/FRC or across to VEX.

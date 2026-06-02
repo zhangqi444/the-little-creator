@@ -1147,3 +1147,23 @@ Commit: 95eeb9b pushed to main.
 **Completes:** five-program second-season series (FLL, FTC, FRC, VEX IQ, VEX V5)
 
 **Blockers:** none
+
+## 2026-06-02 03:58 UTC — Wave 49
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 49)**:
+- Created `src/content/docs/guides/vex-u-second-season.md` — "Your Second VEX U Season — What to Do Differently": VURC returning team guide completing the six-program second-season series (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U). 10 sections: (1) engineering notebook on day one with two-robot context; (2) define each robot's role before designing either; (3) write Autonomous coordination plan in week two; (4) schedule two-robot driver practice from October; (5) assign explicit team roles; (6) tell a two-robot process story in judging; (7) Skills Challenge as data collection; (8) four-robot alliance scouting; (9) off-season events; (10) succession and persistent club structure.
+- Updated `astro.config.mjs` sidebar — added VEX U Second Season Guide to Returning Coaches section.
+- Updated `src/content/docs/guides/index.md` — added VEX U Second Season Guide link to Returning coaches section.
+- Updated `skill/SKILL.md` — added VEX U Second Season Guide to VEX U program line.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+- Commit `419d6f5`, pushed to main.
+
+**Completes**: six-program second-season series (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U)
+
+**Blockers**: none

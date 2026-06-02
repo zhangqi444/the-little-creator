@@ -322,3 +322,12 @@
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
 - [ ] New content gap: with six-program second-season series complete, consider a cross-program comparison guide or a "Which program is right for us?" decision guide
+
+## Wave 50 completed
+
+- [x] `getting-started/choosing-a-program.md` — "Choosing the Right Robotics Program": cross-program decision guide for families and educators comparing all six programs by age, weekly time, budget, and goals. Includes quick-comparison table, FLL Challenge vs VEX IQ head-to-head, FTC vs VEX V5 head-to-head, FRC deep-dive, time/budget tables, goal-to-program matching, FIRST vs VEX family overview, and practical "still unsure?" next steps. Wired into sidebar, getting-started/index.md, and skill/SKILL.md. (2026-06-02 heartbeat 04:58)
+
+## Wave 51 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+- [ ] Consider a "How to find and join a team near me" guide — common question for families who don't want to start their own team

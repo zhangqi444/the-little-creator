@@ -26,6 +26,7 @@ export default defineConfig({
           label: 'Getting Started',
           items: [
             { label: 'Overview', link: '/getting-started/' },
+            { label: 'Choosing a Program', link: '/getting-started/choosing-a-program/' },
             { label: 'What is FLL?', link: '/getting-started/what-is-fll/' },
             { label: 'What is FTC?', link: '/getting-started/what-is-ftc/' },
             { label: 'What is FRC?', link: '/getting-started/what-is-frc/' },

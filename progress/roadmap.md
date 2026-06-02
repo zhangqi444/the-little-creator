@@ -369,3 +369,22 @@
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
 - [ ] Consider `guides/vex-iq-first-four-weeks.md` — VEX IQ equivalent of first-four-weeks.md: week-by-week new VIQRC coach guide (currently VEX IQ teams have vex-iq-tournament.md and vex-iq-curriculum-starter.md but no structured weekly plan)
+
+## Wave 55 completed
+
+- [x] `guides/vex-iq-first-four-weeks.md` — "Your First Four Weeks as a VEX IQ Coach": VIQRC equivalent of first-four-weeks.md (FLL), ftc-first-four-weeks.md (FTC), and frc-first-four-weeks.md (FRC). Four-week action plan: Week 1 hardware intro + season reveal video, Week 2 drive base build + first Controller drive, Week 3 season game exploration + Teamwork/Autonomous event types, Week 4 robot-game vs engineering-notebook track split with notebook started on day one. Covers VEX IQ's unique collaborative format, GP culture, and the notebook-as-award-artifact emphasis. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit de5d76b (2026-06-02 heartbeat 09:58)
+
+## Wave 56 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+- [ ] Consider `guides/vex-v5-first-four-weeks.md` — VEX V5/VRC equivalent of the first-four-weeks series (currently FLL, FTC, FRC, VEX IQ have guides; VEX V5 and VEX U do not)
+
+## Wave 56 completed
+
+- [x] `guides/vex-v5-first-four-weeks.md` — "Your First Four Weeks as a VEX V5 Coach": VRC equivalent of first-four-weeks.md (FLL), ftc-first-four-weeks.md (FTC), frc-first-four-weeks.md (FRC), vex-iq-first-four-weeks.md (VEX IQ). Completing the five-program first-four-weeks series. Four-week action plan: Week 1 team orientation + hardware intro, Week 2 building a 4-motor tank drive base and first TeleOp drive, Week 3 season game exploration + three event types, Week 4 dividing into robot/notebook/strategy tracks with Engineering Notebook started on day one. Wired into sidebar, guides/index.md, skill/SKILL.md. (2026-06-02 heartbeat 10:58)
+
+## Wave 57 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider `guides/vex-u-first-four-weeks.md` — VEX U / VURC equivalent of the first-four-weeks series to complete all-six-program coverage (currently FLL, FTC, FRC, VEX IQ, VEX V5 have guides; VEX U does not)
+- [ ] Consider a cross-program `guides/managing-your-season.md` — season calendar management, registration deadlines, qualifier logistics across all six programs

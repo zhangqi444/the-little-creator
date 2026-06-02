@@ -447,3 +447,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/choosing-equipment-used-vs-new.md` — detailed "used vs. new hardware" guide (expand the money-saving section of budget-template.md)
 - [ ] Consider a cross-program `guides/mental-models-for-competition.md` — deeper cognitive tools (growth mindset, process vs outcome focus) that extend first-competition-nerves.md for older/returning teams
+
+## Wave 64 completed
+
+- [x] `guides/choosing-equipment-used-vs-new.md` — "Used vs. New Hardware — How to Choose": cross-program guide for families and coaches deciding whether to buy new or used robotics equipment. Covers all six programs with per-program sections, a 17-row quick-reference decision table, seasonal items that lose value, and 5 practical rules for protecting yourself when buying used. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit cb0c253 (2026-06-02 heartbeat 17:58)
+
+## Wave 65 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/mental-models-for-competition.md` — deeper cognitive tools (growth mindset, process vs outcome focus) that extend first-competition-nerves.md for older/returning teams
+- [ ] Consider a `guides/scouting-guide.md` — how to run alliance scouting at FTC/FRC/VRC events (currently mentioned in robot design guides but no dedicated scouting guide exists)

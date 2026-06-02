@@ -1296,3 +1296,10 @@ Commit: 95eeb9b pushed to main.
 - Updated `guides/index.md` — added entry after Parent Volunteer Guide.
 - Updated `skill/SKILL.md` — added to cross-program links.
 - Commit `54fc82b`, pushed to main.
+
+## 2026-06-02 17:58 UTC
+
+- Both repos synced (already up to date)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Wave 64: created `guides/choosing-equipment-used-vs-new.md` — cross-program used vs. new hardware guide covering all six programs; wired into sidebar, guides/index.md, skill/SKILL.md; committed cb0c253

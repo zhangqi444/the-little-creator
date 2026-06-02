@@ -487,3 +487,23 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/alliance-strategy.md` — deeper guide on match strategy during alliance play (auto coordination, TeleOp zone division, endgame sequencing) across FTC/FRC/VRC
 - [ ] Consider a `guides/event-volunteering-guide.md` — how parents and adult mentors can volunteer as referees, field resetters, or judges at robotics events (complements parent-volunteer-guide.md)
+
+## Wave 68 completed
+
+- [x] `guides/alliance-strategy.md` — Alliance match strategy guide covering pre-match alliance meetings (5-question checklist), autonomous zone division with program-specific notes (FTC/FRC/VRC), TeleOp zone ownership patterns (left-right, near-far, scorer-feeder, scorer-defender), endgame sequencing with clock triggers, in-match cue vocabulary, opponent awareness and defensive play, post-match debrief, 8-row common mistakes table. FTC, FRC, VEX V5/VRC only (programs with competitive alliance selection). Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 14ff4d6 (2026-06-02 heartbeat 21:58)
+
+## Wave 69 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/event-volunteering-guide.md` — how parents and adult mentors can volunteer as referees, field resetters, or judges at robotics events (complements parent-volunteer-guide.md)
+- [ ] Consider a cross-program `guides/pit-design-guide.md` — how to set up and organise your pit area effectively for all six programs
+
+## Wave 69 completed
+
+- [x] `guides/event-volunteering-guide.md` — cross-program guide for parents and adult mentors on volunteering at FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U events. Covers how to find opportunities (firstinspires.org for FIRST, RobotEvents.com for VEX), all major volunteer roles (referee, field resetter, judge, robot inspector, scorekeeper/AV, queue manager, pit admin), program-specific notes for all six programs, "what NOT to do" table, guidance on volunteering when your own team is competing, and getting-started steps. Wired into sidebar (Team Culture), guides/index.md, skill/SKILL.md. Commit 0f79c44 (2026-06-02 heartbeat 22:58)
+
+## Wave 70 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/pit-design-guide.md` — how to set up and organise your pit area effectively for all six programs
+- [ ] Consider a cross-program `guides/grants-and-sponsorship-guide.md` — deeper guide on finding grants and sponsors (extends team-funding.md)

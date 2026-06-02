@@ -1331,3 +1331,37 @@ Commit: 95eeb9b pushed to main.
 - Updated `guides/index.md` — added Drive Team Training to Competition prep section.
 - Updated `skill/SKILL.md` — added Drive Team Training to cross-program links.
 - Commit `459def8`, pushed to main.
+
+## 2026-06-02 20:58 UTC — Wave 67
+- Issues: open-forge: 0 open issues. the-little-creator: 0 open issues.
+- Roadmap: Added `guides/mental-models-for-competition.md` — six competition psychology frameworks (growth mindset, process/outcome focus, locus of control, performance cycle, pressure reframe, attribution patterns) for FTC/FRC/VEX V5/VEX U teams. Wired into sidebar, guides/index.md, skill/SKILL.md. Committed and pushed (daf2e0d).
+
+## 2026-06-02 21:58 UTC — Wave 68
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 68)**:
+- Created `src/content/docs/guides/alliance-strategy.md` (~310 lines) — "Alliance Match Strategy": cross-program guide for FTC, FRC, and VEX V5/VRC teams on coordinating with alliance partners. Covers: pre-match meeting structure (5-question checklist), autonomous zone division (left-near-far strategies + program-specific notes for FTC/FRC/VRC AWP), TeleOp zone ownership patterns (left-right, near-far, scorer-feeder, scorer-defender splits), endgame sequencing with clock triggers and communication signals, in-match communication cue vocabulary table, opponent awareness and defensive play, post-match debrief protocol, 8-row common mistakes table.
+- Updated `astro.config.mjs` — added Alliance Match Strategy to sidebar (Competition section, after Drive Team Training).
+- Updated `guides/index.md` — added entry after Drive Team Training in Competition prep section.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Commit `14ff4d6`, pushed to main.
+
+## 2026-06-02 22:58 UTC — Wave 69
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 69)**:
+- Created `src/content/docs/guides/event-volunteering-guide.md` (~228 lines) — "Event Volunteering Guide": cross-program guide for parents and adult mentors on volunteering at FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U events. Sections: why volunteer, finding opportunities (firstinspires.org/RobotEvents), roles at a glance table (9 roles), major roles in detail (referee, resetter, judge, inspector, scorekeeper), program-specific notes for all six programs, "what NOT to do" table (6 rows), volunteering when your team is competing, step-by-step getting started, related guides section.
+- Updated `astro.config.mjs` — added Event Volunteering Guide to sidebar (Team Culture section, after Parent Volunteer Guide).
+- Updated `guides/index.md` — added entry after Parent Volunteer Guide in Team culture section.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Commit `0f79c44`, pushed to main.

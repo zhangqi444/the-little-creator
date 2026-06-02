@@ -1117,3 +1117,33 @@ Commit: 95eeb9b pushed to main.
 - Updated `src/content/docs/guides/index.md` — added FRC Second Season Guide link to Returning coaches section.
 - Updated `skill/SKILL.md` — added FRC Second Season Guide to FRC program line.
 - Commit `564656b`, pushed to main.
+
+## 2026-06-02 01:58 UTC — Wave 47
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 47)**:
+- Added `src/content/docs/guides/vex-iq-second-season.md` — "Your Second VEX IQ Season — What to Do Differently": VIQRC equivalent of the returning-coach series (FLL Wave 7, FTC Wave 45, FRC Wave 46). 10 changes returning VIQRC coaches and students make: notebook from day one, narrow Teamwork strategy (freeze 3 weeks out), parallel ACS planning from session 1, robot designed for both Teamwork and ACS simultaneously, early alliance partner practice, student-led pit with explicit role assignments (Pit Captain/Driver/Operator), authentic judging prep over scripted presentations, cross-training all team members, early RobotEvents registration, and embracing VIQRC's collaborative/gracious-professionalism spirit to pursue the Excellence Award.
+- Updated `astro.config.mjs` sidebar — added VEX IQ Second Season Guide to Returning Coaches section (after FRC Second Season Guide).
+- Updated `src/content/docs/guides/index.md` — added VEX IQ Second Season Guide link to Returning coaches section.
+- Updated `skill/SKILL.md` — added VEX IQ Second Season Guide to VEX IQ program line.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+- Commit `ee8e3d2`, pushed to main.
+
+## 2026-06-02 02:58 UTC — Wave 48
+
+**Task:** `guides/vex-v5-second-season.md` — VRC returning coach/team guide
+
+**Done:**
+- Created `src/content/docs/guides/vex-v5-second-season.md` — "Your Second VEX V5 Season — What to Do Differently"
+- 10 sections: notebook from day one, scoping by expected value, autonomous planning, structured driver practice, student roles, judging process story, Skills Challenge as dev tool, alliance selection strategy, off-season events, succession planning
+- Wired into sidebar (astro.config.mjs), guides/index.md, skill/SKILL.md, log.md
+- Commit 8f6f3b4 pushed to main
+
+**Completes:** five-program second-season series (FLL, FTC, FRC, VEX IQ, VEX V5)
+
+**Blockers:** none

@@ -304,3 +304,12 @@
 ## Wave 47 backlog
 
 - [x] `guides/vex-iq-second-season.md` — "Your Second VEX IQ Season — What to Do Differently": VIQRC equivalent of the returning-coach series (FLL second-season.md Wave 7, FTC ftc-second-season.md Wave 45, FRC frc-second-season.md Wave 46). 10 changes returning VIQRC coaches and students make: notebook from day one, narrow Teamwork strategy, parallel ACS planning, robot designed for both events, early alliance partner practice, student-led pit, authentic judging prep, cross-training, early registration, and embracing VIQRC's collaborative spirit. Added to sidebar + guides/index.md + skill/SKILL.md. (2026-06-02 heartbeat 01:58)
+
+## Wave 48 backlog
+
+- [x] `guides/vex-v5-second-season.md` — VRC returning coach/team guide completing the five-program second-season series (FLL, FTC, FRC, VEX IQ, VEX V5). 10 changes in year two: notebook from day one, scoping by expected value, autonomous planning, structured driver practice, student roles, judging process story, Skills Challenge strategy, alliance selection, off-season events, succession planning. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 8f6f3b4 (2026-06-02 heartbeat 02:58)
+
+## Wave 49 backlog (next tasks — derive from gaps)
+
+- [ ] `guides/vex-u-second-season.md` — VEX U / VURC returning team guide completing the six-program second-season series
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)

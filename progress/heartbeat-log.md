@@ -1167,3 +1167,23 @@ Commit: 95eeb9b pushed to main.
 **Completes**: six-program second-season series (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U)
 
 **Blockers**: none
+
+## 2026-06-02 04:58 UTC — Wave 50
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 50)**:
+- Created `src/content/docs/getting-started/choosing-a-program.md` — "Choosing the Right Robotics Program": cross-program decision guide for families and educators comparing all six programs by age, weekly time, budget, and goals. Includes quick-reference comparison table, FLL Challenge vs VEX IQ head-to-head, FTC vs VEX V5 head-to-head, FRC deep-dive, time commitment table, budget estimates table, goal-to-program matching, FIRST vs VEX family overview, and "still unsure?" practical next steps.
+- Updated `astro.config.mjs` sidebar — added Choosing a Program link in Getting Started section.
+- Updated `src/content/docs/getting-started/index.md` — intro paragraph + Cross-program references section.
+- Updated `skill/SKILL.md` — Cross-program line.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+- Commit `737cf1f`, pushed to main.
+
+**Completes**: Wave 50 cross-program decision guide
+
+**Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026

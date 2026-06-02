@@ -331,3 +331,13 @@
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
 - [ ] Consider a "How to find and join a team near me" guide — common question for families who don't want to start their own team
+
+## Wave 51 completed
+
+- [x] `getting-started/finding-a-team.md` — "How to Find and Join a Team Near You": six-program guide for families who want to join an existing team. Covers FIRST Team Search + RobotEvents search, how to contact teams, what questions to ask before joining, attending a practice first, and what to do if no local team exists. Program-specific tips with timing guidance for all six programs. Wired into sidebar, getting-started/index.md, skill/SKILL.md. (2026-06-02 heartbeat 05:58)
+
+## Wave 52 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+- [ ] Consider expanding `guides/forming-a-team.md` with FTC/FRC/VEX equivalents or adding program-specific "forming a team" sub-guides (currently FLL-focused)
+- [ ] Consider `getting-started/first-steps.md` — aggregated "your very first week" guide for each program (or expand existing first-four-weeks.md to cover all six programs)

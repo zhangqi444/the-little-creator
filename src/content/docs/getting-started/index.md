@@ -30,6 +30,7 @@ Whichever program you're in, expect it to feel overwhelming at first — there's
 ## Cross-program references
 
 - [**Choosing a Program**](/getting-started/choosing-a-program/) — Side-by-side comparison of all six programs by age, cost, time, and goals.
+- [**Finding and Joining a Team**](/getting-started/finding-a-team/) — Step-by-step guide for families who want to join an existing team rather than start their own.
 - [**Glossary**](/getting-started/glossary/) — Plain-language definitions for acronyms and jargon (PDO, YPP, GP, SPIKE Prime, KitBot, and more).
 - [**Division Eligibility**](/guides/division-eligibility/) — Which FLL division is right for your child? (FLL-specific.)
 - [**Progression Guide**](/getting-started/progression-guide/) — How to think about moving from FLL up through FTC/FRC or across to VEX.

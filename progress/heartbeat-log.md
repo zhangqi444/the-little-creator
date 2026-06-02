@@ -1254,3 +1254,15 @@ Commit: 95eeb9b pushed to main.
 **Completes**: Wave 58 managing-your-season.md
 
 **Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026
+
+## 2026-06-02 14:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues**: No open issues on open-forge or the-little-creator.
+
+**Step 2 — Issues queues empty → Step 3 roadmap iteration**:
+- Created `src/content/docs/guides/parent-volunteer-guide.md` (163 lines) — how parents can contribute to team success without overstepping. Covers logistics, fundraising, event volunteering, skill contributions with guardrails, sideline behaviour, what NOT to do table, and per-program adaptation (FLL/VEX IQ vs FTC/VEX V5 vs FRC/VEX U).
+- Wired into sidebar (Team Culture section), guides/index.md, skill/SKILL.md.
+- Updated progress/roadmap.md with Wave 60 completion + Wave 61 backlog.
+- Commit 3d5cd65, pushed to main.

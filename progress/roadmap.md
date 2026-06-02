@@ -417,3 +417,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider a `guides/parent-volunteer-guide.md` — how parents can contribute to team success without overstepping; volunteering at events, transporting, helping with outreach
 - [ ] Consider a `guides/budget-template.md` — downloadable season budget template covering all six programs (equipment, registration, travel, safety gear)
+
+## Wave 60 completed
+
+- [x] `guides/parent-volunteer-guide.md` — "Parent Volunteer Guide": how parents can contribute to team success without overstepping. Covers high-value contributions (logistics, fundraising, event volunteering, skill contributions with guardrails), what to expect at events, managing sideline instincts, a "what NOT to do" table, and per-program adaptation (FLL/VEX IQ vs FTC/VEX V5 vs FRC/VEX U). Fills the gap between coaching guides (coaching-without-doing.md) and the family-facing support content. Wired into sidebar (Team Culture), guides/index.md, skill/SKILL.md. Commit 3d5cd65 (2026-06-02 heartbeat 14:58)
+
+## Wave 61 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/budget-template.md` — downloadable season budget template covering all six programs (equipment, registration, travel, safety gear)
+- [ ] Consider `guides/first-competition-nerves.md` — a parent/coach guide to helping kids manage competition anxiety across all six programs

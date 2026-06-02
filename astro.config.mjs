@@ -145,6 +145,7 @@ export default defineConfig({
                 { label: 'FRC Second Season Guide', link: '/guides/frc-second-season/' },
                 { label: 'VEX IQ Second Season Guide', link: '/guides/vex-iq-second-season/' },
                 { label: 'VEX V5 Second Season Guide', link: '/guides/vex-v5-second-season/' },
+                { label: 'VEX U Second Season Guide', link: '/guides/vex-u-second-season/' },
               ],
             },
           ],

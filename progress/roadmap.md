@@ -313,3 +313,12 @@
 
 - [ ] `guides/vex-u-second-season.md` — VEX U / VURC returning team guide completing the six-program second-season series
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+
+## Wave 49 completed
+
+- [x] `guides/vex-u-second-season.md` — VEX U / VURC returning team guide completing the six-program second-season series. 10 changes: two-robot notebook from day one, role assignment before design, Autonomous coordination from week two, structured driver practice with full two-robot sessions, explicit team roles, two-robot process story in judging, Skills as data collection, four-robot alliance scouting, off-season events, and succession planning. Wired into sidebar, guides/index.md, skill/SKILL.md. (2026-06-02 heartbeat 03:58)
+
+## Wave 50 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+- [ ] New content gap: with six-program second-season series complete, consider a cross-program comparison guide or a "Which program is right for us?" decision guide

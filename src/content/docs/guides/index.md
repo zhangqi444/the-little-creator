@@ -79,6 +79,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Your Second FRC Season — What to Do Differently](/guides/frc-second-season/) — 10 changes returning FRC mentors and student leaders make in season two: Impact outreach habits, robot scoping, driver practice, pit crew, scouting, and staying student-led
 - [Your Second VEX IQ Season — What to Do Differently](/guides/vex-iq-second-season/) — 10 changes returning VIQRC coaches and students make in season two: notebook habits, Teamwork strategy, Autonomous Coding Skills, robot design for both events, alliance partner practice, and letting students lead
 - [Your Second VEX V5 Season — What to Do Differently](/guides/vex-v5-second-season/) — 10 changes returning VRC coaches and student leaders make in season two: notebook from day one, scoping by expected value, autonomous planning, structured driver practice, student roles, judging process story, Skills Challenge strategy, alliance selection, off-season events, and succession planning
+- [Your Second VEX U Season — What to Do Differently](/guides/vex-u-second-season/) — 10 changes returning VURC teams make in season two: two-robot notebook from day one, role assignment before design, Autonomous coordination from week two, structured driver practice, explicit team roles, judging process story, Skills as data collection, four-robot alliance scouting, off-season events, and succession planning
 
 :::tip
 Have experience to share? We'd love your contribution. See the [Community](/community/) page for how to contribute.

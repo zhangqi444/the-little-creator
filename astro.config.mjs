@@ -146,6 +146,7 @@ export default defineConfig({
                 { label: 'Coaching Without Doing', link: '/guides/coaching-without-doing/' },
                 { label: 'When a Kid Wants to Quit', link: '/guides/when-a-kid-wants-to-quit/' },
                 { label: 'Parent Volunteer Guide', link: '/guides/parent-volunteer-guide/' },
+                { label: 'Managing First-Competition Nerves', link: '/guides/first-competition-nerves/' },
               ],
             },
             {

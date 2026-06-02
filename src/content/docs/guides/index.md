@@ -81,6 +81,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Coaching Without Doing It For Them](/guides/coaching-without-doing/) — How to guide kids toward solutions without solving problems for them; handling dominant kids, disengaged kids, and your own coaching instincts
 - [When a Kid Wants to Quit Mid-Season](/guides/when-a-kid-wants-to-quit/) — How to listen, diagnose the real cause, when to push vs. let go, and how to handle an exit gracefully
 - [Parent Volunteer Guide](/guides/parent-volunteer-guide/) — How parents can contribute to team success without overstepping — event volunteering, sideline behaviour, skill contributions, and adapting by program
+- [Managing First-Competition Nerves](/guides/first-competition-nerves/) — A parent and coach guide to helping kids manage competition anxiety across all six programs — before the event, during it, and after
 
 ### Returning coaches
 - [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management

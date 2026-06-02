@@ -21,6 +21,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Planning Your Season](/guides/season-planning/) — A timeline and checklist for surviving (and enjoying) a competition season
 - [Division Eligibility — Which Program is Right for Your Child?](/guides/division-eligibility/) — Age ranges for Discover, Explore, and Challenge; how to handle the 9–10 overlap zone
 - [Managing Your Season — Registration, Deadlines, and Qualifier Logistics](/guides/managing-your-season/) — Season calendar across all six programs: when to register, key deadlines, qualifier logistics, and cross-program checklists to avoid the mistakes that catch teams off guard
+- [Off-Season Activities — Staying Sharp Between Competition Seasons](/guides/off-season-activities/) — What teams can do between competition seasons: off-season events, driver practice, skill-building, documentation, outreach, and program-specific tips for all six programs
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step: national FIRST registration plus your regional partner sign-up
 - [Funding Your FLL Team — Grants, Sponsors, and Fundraising](/guides/team-funding/) — How to cover registration, equipment, and travel costs; known grant programs and a sponsor pitch template
 - [FLL Future Edition Transition — What It Means for Your Team](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained practically

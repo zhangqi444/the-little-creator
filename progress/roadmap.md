@@ -407,3 +407,13 @@
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/off-season-activities.md` — what teams can do between competition seasons to stay sharp (scrimmages, workshops, summer builds, off-season events)
+
+## Wave 59 completed
+
+- [x] `guides/off-season-activities.md` — cross-program off-season guide covering all six programs: off-season events, driver practice, notebook catch-up, skill-building, outreach, documentation/knowledge transfer, program-specific suggestions, traps to avoid, minimal three-item checklist. Wired into sidebar, guides/index.md, skill/SKILL.md. (2026-06-02 heartbeat 13:58)
+
+## Wave 60 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a `guides/parent-volunteer-guide.md` — how parents can contribute to team success without overstepping; volunteering at events, transporting, helping with outreach
+- [ ] Consider a `guides/budget-template.md` — downloadable season budget template covering all six programs (equipment, registration, travel, safety gear)

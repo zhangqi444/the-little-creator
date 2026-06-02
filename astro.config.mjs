@@ -77,6 +77,7 @@ export default defineConfig({
                 { label: 'Team Funding', link: '/guides/team-funding/' },
                 { label: 'Division Eligibility', link: '/guides/division-eligibility/' },
                 { label: 'Managing Your Season', link: '/guides/managing-your-season/' },
+                { label: 'Off-Season Activities', link: '/guides/off-season-activities/' },
                 { label: 'Registration Guide', link: '/guides/registration-guide/' },
                 { label: 'Registration Reference', link: '/guides/registration-reference/' },
                 { label: 'Finding Mentors', link: '/guides/finding-mentors/' },

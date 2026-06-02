@@ -341,3 +341,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
 - [ ] Consider expanding `guides/forming-a-team.md` with FTC/FRC/VEX equivalents or adding program-specific "forming a team" sub-guides (currently FLL-focused)
 - [ ] Consider `getting-started/first-steps.md` — aggregated "your very first week" guide for each program (or expand existing first-four-weeks.md to cover all six programs)
+
+## Wave 52 completed
+
+- [x] `getting-started/first-steps.md` — "Your First Week — Getting Started in Any Program": cross-program "week zero" guide for new families and coaches in all six programs. Five steps: register, get hardware, download season materials, install software, plan your first meeting. Includes common mistakes table, "what can wait" section, and where-to-go-next reference. Fills the gap between FLL-specific first-four-weeks.md (Wave 7) and the cross-program need. Wired into sidebar, getting-started/index.md, skill/SKILL.md. (2026-06-02 heartbeat 06:58)
+
+## Wave 53 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+- [ ] Consider expanding the `guides/first-four-weeks.md` pattern to cover FTC, FRC, or VEX IQ as program-specific variants of the week-by-week coach guide
+- [ ] `guides/ftc-first-four-weeks.md` — FTC equivalent of first-four-weeks.md: week-by-week new FTC coach guide (currently FTC teams have first-ftc-tournament.md for the event but no structured weekly plan)

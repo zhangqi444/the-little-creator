@@ -1187,3 +1187,22 @@ Commit: 95eeb9b pushed to main.
 **Completes**: Wave 50 cross-program decision guide
 
 **Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026
+
+## 2026-06-02 06:58 UTC — Wave 52
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 52)**:
+- Created `src/content/docs/getting-started/first-steps.md` — "Your First Week — Getting Started in Any Program": cross-program week-zero guide for new families and coaches. Five-step structure: register before anything else, get the hardware, download season materials, install software, plan your first meeting. Includes quick-start table by program, hardware recommendations, software install table, common mistakes table, "what can wait" section, and where-to-go-next reference table. Covers all six programs (FLL Discover/Explore/Challenge, FTC, FRC, VEX IQ, VEX V5, VEX U). Fills the gap: first-four-weeks.md (Wave 7) is FLL-specific; this new guide is the cross-program entry point for the absolute first week.
+- Updated `astro.config.mjs` sidebar — added "Your First Week (all programs)" after Finding and Joining a Team in Getting Started section.
+- Updated `src/content/docs/getting-started/index.md` — added "Your First Week" to Cross-program references section.
+- Updated `skill/SKILL.md` — added "Your First Week" to Cross-program line.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+
+**Completes**: Wave 52 cross-program first-week guide
+
+**Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026

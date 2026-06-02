@@ -75,6 +75,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [VEX IQ Tournament Guide — VIQRC In Depth](/guides/vex-iq-tournament/) — Detailed VIQRC-specific guide: collaborative match format, Driving Skills vs Autonomous Coding Skills, pit setup for younger students, judging categories
 - [VEX V5 Tournament Guide — V5RC In Depth](/guides/vex-v5-tournament/) — Competitive alliance matches, Skills Challenge, scouting for alliance selection, pit strategy for teen teams, engineering notebook in pit interview
 - [Alliance Scouting Guide](/guides/scouting-guide/) — Data collection, match observation, pit scouting, alliance selection strategy, and common mistakes for FTC, FRC, and VEX V5/VRC teams
+- [Drive Team Training](/guides/drive-team-training/) — How to select, train, and develop your drive team for FTC, FRC, VEX IQ, VEX V5, and VEX U — driver practice regimes, match communication, role definitions, and common mistakes
 - [After Advancing — Preparing for Regionals or State Championship](/guides/after-advancing/) — What changes at the next level, 3-week prep plan, managing expectations with kids and parents
 
 ### Team culture

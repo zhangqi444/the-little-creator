@@ -136,6 +136,7 @@ export default defineConfig({
                 { label: 'VEX IQ Tournament Guide (VIQRC In Depth)', link: '/guides/vex-iq-tournament/' },
                 { label: 'VEX V5 Tournament Guide (V5RC In Depth)', link: '/guides/vex-v5-tournament/' },
                 { label: 'Alliance Scouting Guide', link: '/guides/scouting-guide/' },
+                { label: 'Drive Team Training', link: '/guides/drive-team-training/' },
                 { label: 'After Advancing', link: '/guides/after-advancing/' },
               ],
             },

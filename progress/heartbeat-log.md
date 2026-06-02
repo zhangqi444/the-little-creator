@@ -1245,3 +1245,12 @@ Commit: 95eeb9b pushed to main.
 **Completes**: Wave 57 vex-u-first-four-weeks.md
 
 **Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026
+
+## 2026-06-02 12:58 UTC
+
+- **Issues:** Both open-forge and the-little-creator had zero open issues (queues empty).
+- **Roadmap (Wave 58):** Created `guides/managing-your-season.md` — cross-program season calendar and registration logistics guide for all six programs. Quick-reference season structure table, per-program calendar sections with key dates and registration steps, FTC League vs standalone qualifier, FRC district vs regional model, VEX IQ/V5/U RobotEvents flow, Skills-only Worlds path, VURC travel/two-robot logistics, cross-program four-phase logistics checklist, registration platform table. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 25bd9fe pushed to main.
+
+**Completes**: Wave 58 managing-your-season.md
+
+**Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026

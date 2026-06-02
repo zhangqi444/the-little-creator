@@ -398,3 +398,12 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider a cross-program `guides/managing-your-season.md` — season calendar management, registration deadlines, qualifier logistics across all six programs
 - [ ] Consider a `guides/off-season-activities.md` — what teams can do between competition seasons to stay sharp (scrimmages, workshops, summer builds)
+
+## Wave 58 completed
+
+- [x] `guides/managing-your-season.md` — cross-program season calendar management guide covering all six programs. Registration platforms, key date timelines, FTC League model, FRC district vs regional, VEX Skills-only Worlds path, VURC travel logistics, cross-program checklists. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 25bd9fe (2026-06-02 heartbeat 12:58)
+
+## Wave 59 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/off-season-activities.md` — what teams can do between competition seasons to stay sharp (scrimmages, workshops, summer builds, off-season events)

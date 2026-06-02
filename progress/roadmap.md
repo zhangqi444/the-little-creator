@@ -477,3 +477,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/mental-models-for-competition.md` — deeper cognitive tools (growth mindset, process vs outcome focus) that extend first-competition-nerves.md for older/returning teams
 - [ ] Consider a `guides/alliance-strategy.md` — deeper guide on match strategy during alliance play (auto coordination, TeleOp zone division, endgame sequencing) across FTC/FRC/VRC
+
+## Wave 67 completed
+
+- [x] `guides/mental-models-for-competition.md` — "Mental Models for Competition — Thinking Tools for Older and Returning Teams": six frameworks for FTC, FRC, VEX V5, and VEX U. Growth vs. fixed mindset (Dweck), process vs. outcome focus (controllable-only pre-match checklist), locus of control calibration, prepare/perform/recover cycle, reframing pressure as excitement (Brooks), and attribution patterns (Weiner/Heider). Layered competition-day framework, program-specific notes, common-mistakes table, quick-reference table. Wired into sidebar, guides/index.md, skill/SKILL.md. (2026-06-02 heartbeat 20:58)
+
+## Wave 68 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/alliance-strategy.md` — deeper guide on match strategy during alliance play (auto coordination, TeleOp zone division, endgame sequencing) across FTC/FRC/VRC
+- [ ] Consider a `guides/event-volunteering-guide.md` — how parents and adult mentors can volunteer as referees, field resetters, or judges at robotics events (complements parent-volunteer-guide.md)

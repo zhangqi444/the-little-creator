@@ -143,6 +143,7 @@ export default defineConfig({
                 { label: 'Second Season Guide', link: '/guides/second-season/' },
                 { label: 'FTC Second Season Guide', link: '/guides/ftc-second-season/' },
                 { label: 'FRC Second Season Guide', link: '/guides/frc-second-season/' },
+                { label: 'VEX IQ Second Season Guide', link: '/guides/vex-iq-second-season/' },
               ],
             },
           ],

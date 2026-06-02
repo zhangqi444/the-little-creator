@@ -300,3 +300,7 @@
 ## Wave 46 backlog
 
 - [x] `guides/frc-second-season.md` — "Your Second FRC Season — What to Do Differently": FRC equivalent of second-season.md (FLL) and ftc-second-season.md (FTC). 10 changes returning FRC mentors and student leaders make in season two: Impact sub-team before Kickoff, robot scoping on day one, driver practice from week 3, structured pit crew, data-driven scouting + alliance selection, engineering process story in pit interview, real-time notebook, alliance coordination before every match, advance event scheduling, staying student-led. Added to sidebar + guides/index.md + skill/SKILL.md. Commit 564656b (2026-06-02 heartbeat 00:58)
+
+## Wave 47 backlog
+
+- [x] `guides/vex-iq-second-season.md` — "Your Second VEX IQ Season — What to Do Differently": VIQRC equivalent of the returning-coach series (FLL second-season.md Wave 7, FTC ftc-second-season.md Wave 45, FRC frc-second-season.md Wave 46). 10 changes returning VIQRC coaches and students make: notebook from day one, narrow Teamwork strategy, parallel ACS planning, robot designed for both events, early alliance partner practice, student-led pit, authentic judging prep, cross-training, early registration, and embracing VIQRC's collaborative spirit. Added to sidebar + guides/index.md + skill/SKILL.md. (2026-06-02 heartbeat 01:58)

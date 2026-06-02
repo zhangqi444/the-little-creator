@@ -76,6 +76,7 @@ export default defineConfig({
                 { label: 'Equipment Guide', link: '/guides/equipment-guide/' },
                 { label: 'Team Funding', link: '/guides/team-funding/' },
                 { label: 'Season Budget Template', link: '/guides/budget-template/' },
+                { label: 'Used vs. New Hardware', link: '/guides/choosing-equipment-used-vs-new/' },
                 { label: 'Division Eligibility', link: '/guides/division-eligibility/' },
                 { label: 'Managing Your Season', link: '/guides/managing-your-season/' },
                 { label: 'Off-Season Activities', link: '/guides/off-season-activities/' },

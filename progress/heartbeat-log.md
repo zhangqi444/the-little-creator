@@ -1206,3 +1206,28 @@ Commit: 95eeb9b pushed to main.
 **Completes**: Wave 52 cross-program first-week guide
 
 **Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026
+
+## 2026-06-02 07:58 UTC
+
+- open-forge: 0 open issues, no action needed
+- the-little-creator: 0 open issues, no action needed
+- Roadmap (Wave 53): added `guides/ftc-first-four-weeks.md` — FTC equivalent of first-four-weeks.md. Week-by-week new coach guide covering team alignment, mecanum drive base build, first TeleOp drive, and splitting into robot/Portfolio/Connect tracks. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 74958bd.
+
+## 2026-06-02 08:58 UTC — Wave 54
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 54)**:
+- Created `src/content/docs/guides/frc-first-four-weeks.md` — "Your First Four Weeks as an FRC Mentor": FRC equivalent of first-four-weeks.md (FLL) and ftc-first-four-weeks.md (FTC). Week-by-week action plan for brand-new FRC mentors. Week 1: team culture, season calendar orientation (Kickoff in January, 6-week build, fixed deadline), sub-team overview. Week 2: building a practice drive base in three parallel tracks (mechanical/electrical/programming) with safety enable/disable protocol and common wiring/CAN problems table. Week 3: first TeleOp deploy and driving the robot + Impact Award awareness note. Week 4: dividing into four sub-teams (mechanical, electrical, programming, strategy+outreach) and opening the Impact Award document on day one. Also covers between-Kickoff practice tasks, what changes after Kickoff, a worry-vs-reality table, and the "one thing most first-year FRC mentors miss" closing note.
+- Updated `astro.config.mjs` sidebar — added "First Four Weeks (FRC)" after "First Four Weeks (FTC)" in Getting Started section.
+- Updated `src/content/docs/guides/index.md` — added FRC First Four Weeks entry after FTC First Four Weeks in Getting started section.
+- Updated `skill/SKILL.md` — added FRC First Four Weeks to FRC line.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+
+**Completes**: Wave 54 FRC first-four-weeks guide
+
+**Blockers**: ftc-resource-map.md BIOBUZZ check blocked until Sept 2026

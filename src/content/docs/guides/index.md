@@ -12,6 +12,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 ### Getting started
 - [Your First Four Weeks as an FLL Coach](/guides/first-four-weeks/) — Week-by-week action plan for brand-new FLL coaches: first meeting, hardware, exploring missions, dividing the work
 - [Your First Four Weeks as an FTC Coach](/guides/ftc-first-four-weeks/) — Week-by-week action plan for brand-new FTC coaches: team alignment, building a drive base, first TeleOp drive, dividing the work
+- [Your First Four Weeks as an FRC Mentor](/guides/frc-first-four-weeks/) — Week-by-week action plan for brand-new FRC mentors: team culture, building a practice drive base, first TeleOp drive, dividing into sub-teams
 - [Forming a Team](/guides/forming-a-team/) — How to find members, set expectations, and structure your team
 - [FLL Equipment Guide](/guides/equipment-guide/) — What gear you need, what it costs, and how to get it without overspending
 - [Planning Your Season](/guides/season-planning/) — A timeline and checklist for surviving (and enjoying) a competition season

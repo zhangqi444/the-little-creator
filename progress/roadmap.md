@@ -351,3 +351,21 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
 - [ ] Consider expanding the `guides/first-four-weeks.md` pattern to cover FTC, FRC, or VEX IQ as program-specific variants of the week-by-week coach guide
 - [ ] `guides/ftc-first-four-weeks.md` — FTC equivalent of first-four-weeks.md: week-by-week new FTC coach guide (currently FTC teams have first-ftc-tournament.md for the event but no structured weekly plan)
+
+## Wave 53 completed
+
+- [x] `guides/ftc-first-four-weeks.md` — "Your First Four Weeks as an FTC Coach": FTC equivalent of first-four-weeks.md (FLL). Four-week action plan for brand-new FTC coaches: Week 1 team alignment + game reveal, Week 2 mecanum drive base build, Week 3 first TeleOp drive + debugging loop, Week 4 splitting into robot/Portfolio/Connect sub-teams with emphasis on starting the Engineering Portfolio on day one. Common problems table, worry-vs-reality table, and Related crosslinks. Wired into sidebar (Getting Started), guides/index.md, skill/SKILL.md. Commit 74958bd (2026-06-02 heartbeat 07:58)
+
+## Wave 54 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+- [ ] Consider `guides/frc-first-four-weeks.md` — FRC equivalent of first-four-weeks.md: week-by-week new FRC mentor guide (currently FRC teams have first-frc-tournament.md for the event but no structured weekly plan)
+
+## Wave 54 completed
+
+- [x] `guides/frc-first-four-weeks.md` — "Your First Four Weeks as an FRC Mentor": FRC equivalent of first-four-weeks.md (FLL) and ftc-first-four-weeks.md (FTC). Four-week action plan covering team culture and season calendar orientation (Kickoff in January, 6-week build, fixed deadline), building a practice drive base across three parallel tracks (mechanical/electrical/programming) with safety protocol and CAN bus troubleshooting, first TeleOp deploy and drive session, and dividing into four sub-teams with Impact Award story started on day one. Wired into sidebar, guides/index.md, skill/SKILL.md. (2026-06-02 heartbeat 08:58)
+
+## Wave 55 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json)
+- [ ] Consider `guides/vex-iq-first-four-weeks.md` — VEX IQ equivalent of first-four-weeks.md: week-by-week new VIQRC coach guide (currently VEX IQ teams have vex-iq-tournament.md and vex-iq-curriculum-starter.md but no structured weekly plan)

@@ -1086,3 +1086,34 @@ Commit: 95eeb9b pushed to main.
 - Updated `src/content/docs/guides/index.md` — added VEX Judging Prep link with one-line description after FRC Judging Prep.
 - Updated `skill/SKILL.md` — added VEX Judging Prep link to VEX IQ, VEX V5, and VEX U program lines.
 - Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+
+## 2026-06-01 23:58 UTC — Wave 45
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 45)**:
+- Added `src/content/docs/guides/ftc-second-season.md` — "Your Second FTC Season — What to Do Differently": FTC equivalent of the FLL `second-season.md` returning-coach guide, which has been missing despite FTC having many dedicated guides across programming, robot design, judging, awards, and tournament day. Content: 10 changes experienced FTC coaches and teams make in season two: (1) Engineering Portfolio from day one with rotating documentation and failed-prototype emphasis; (2) narrow robot scope earlier using expected-value scoring; (3) plan autonomous from season start (sensor/hardware choices baked in from day one, not retrofitted); (4) 50/50 build/drive ratio by October; (5) judging as a process story (not show-and-tell of robot features); (6) Connect Award strategy — multi-touchpoint recurring partnerships, not one-off events; (7) alliance selection as a proactive game; (8) structured team roles (Robot Lead, Software Lead, Portfolio Lead, Drive Team); (9) attend the scrimmage regardless of robot readiness; (10) stay student-led via questions not answers.
+- Updated `astro.config.mjs` sidebar — added FTC Second Season Guide to Returning Coaches section.
+- Updated `src/content/docs/guides/index.md` — added FTC Second Season Guide link to Returning coaches section.
+- Updated `skill/SKILL.md` — added FTC Second Season Guide to FTC program line.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+- Commit `3647e56`, pushed to main.
+
+## 2026-06-02 00:58 UTC — Wave 46
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 46)**:
+- Added `src/content/docs/guides/frc-second-season.md` — "Your Second FRC Season — What to Do Differently": FRC equivalent of the FLL `second-season.md` and FTC `ftc-second-season.md` returning-coach/mentor guides. Content: 10 changes experienced FRC teams make in season two: (1) Start Impact sub-team before Kickoff in September, build outreach evidence log all year; (2) scope robot with expected-value scoring on Kickoff day, hold the line through week 3; (3) real driver practice from week 3 with 10+ full-match sessions before regionals; (4) dedicated pit crew with clear roles, spares kit, pre-match checklist, and post-match debrief; (5) dedicated scouting sub-team, data-driven alliance selection (consistent output over peak output); (6) engineering process story in pit interview (not mechanism walkthrough) — student-led, failures included; (7) real-time engineering notebook habits; (8) 3-minute alliance coordination before every qualification match; (9) advance event scheduling with named roles; (10) stay genuinely student-led.
+- Updated `astro.config.mjs` sidebar — added FRC Second Season Guide to Returning Coaches section (after FTC Second Season Guide).
+- Updated `src/content/docs/guides/index.md` — added FRC Second Season Guide link to Returning coaches section.
+- Updated `skill/SKILL.md` — added FRC Second Season Guide to FRC program line.
+- Commit `564656b`, pushed to main.

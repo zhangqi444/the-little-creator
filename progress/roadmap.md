@@ -296,3 +296,7 @@
 ## Wave 45 backlog
 
 - [x] `guides/ftc-second-season.md` — "Your Second FTC Season — What to Do Differently": FTC equivalent of `second-season.md` (FLL returning coach guide). 10 changes returning FTC coaches and teams make in season two: Engineering Portfolio from day one, narrowing robot scope by expected value, planning autonomous from season start, driver practice 50/50 by October, telling a process story in judging (not show-and-tell), Connect Award multi-touchpoint strategy, alliance selection as a proactive game, structured team roles, attending the scrimmage regardless of readiness, keeping it student-led. Added to sidebar (Returning Coaches section), guides/index.md, skill/SKILL.md. (2026-06-01 heartbeat 23:58)
+
+## Wave 46 backlog
+
+- [x] `guides/frc-second-season.md` — "Your Second FRC Season — What to Do Differently": FRC equivalent of second-season.md (FLL) and ftc-second-season.md (FTC). 10 changes returning FRC mentors and student leaders make in season two: Impact sub-team before Kickoff, robot scoping on day one, driver practice from week 3, structured pit crew, data-driven scouting + alliance selection, engineering process story in pit interview, real-time notebook, alliance coordination before every match, advance event scheduling, staying student-led. Added to sidebar + guides/index.md + skill/SKILL.md. Commit 564656b (2026-06-02 heartbeat 00:58)

@@ -1266,3 +1266,33 @@ Commit: 95eeb9b pushed to main.
 - Wired into sidebar (Team Culture section), guides/index.md, skill/SKILL.md.
 - Updated progress/roadmap.md with Wave 60 completion + Wave 61 backlog.
 - Commit 3d5cd65, pushed to main.
+
+## 2026-06-02 15:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 62)**:
+- Created `src/content/docs/guides/budget-template.md` (348 lines) — season budget template for all six programs. Covers quick cost comparison table, per-program line-by-line breakdowns (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U), copy-paste spreadsheet template, overspend/underspend patterns, and money-saving strategies.
+- Updated `astro.config.mjs` — added Season Budget Template to sidebar (Getting started section, after Team Funding).
+- Updated `guides/index.md` — added Budget Template link after Team Funding entry.
+- Updated `skill/SKILL.md` — added Season Budget Template to cross-program links.
+- Commit `e94f945`, pushed to main.
+
+## 2026-06-02 16:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 63)**:
+- Created `src/content/docs/guides/first-competition-nerves.md` (~290 lines) — "Managing First-Competition Nerves": parent/coach guide for all six programs covering why nerves happen, pre-event prep, morning-of routines, during-event techniques (regulate adult anxiety first, short check-ins, separate robot from kid, celebrate small wins), handling genuine distress, post-event debrief, program-specific notes, and a quick-reference table.
+- Updated `astro.config.mjs` — added to Team Culture section of sidebar.
+- Updated `guides/index.md` — added entry after Parent Volunteer Guide.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Commit `54fc82b`, pushed to main.

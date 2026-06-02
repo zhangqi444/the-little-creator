@@ -427,3 +427,23 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/budget-template.md` — downloadable season budget template covering all six programs (equipment, registration, travel, safety gear)
 - [ ] Consider `guides/first-competition-nerves.md` — a parent/coach guide to helping kids manage competition anxiety across all six programs
+
+## Wave 62 backlog
+
+- [x] `guides/budget-template.md` — season budget template covering all six programs (FLL, FTC, FRC, VEX IQ, VEX V5, VEX U); line-by-line cost tables, copy-paste spreadsheet template, overspend/underspend patterns, money-saving strategies. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit e94f945 (2026-06-02 heartbeat 15:58)
+
+## Wave 63 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider `guides/first-competition-nerves.md` — a parent/coach guide to helping kids manage competition anxiety across all six programs
+- [ ] Consider `guides/choosing-equipment-used-vs-new.md` — detailed "used vs. new hardware" guide (expand the money-saving section of budget-template.md)
+
+## Wave 63 completed
+
+- [x] `guides/first-competition-nerves.md` — "Managing First-Competition Nerves": parent and coach guide to helping kids manage competition anxiety across all six programs. Covers why nerves happen, pre-event preparation (simulate the event, logistics walkthrough, expectation setting), morning-of routines, during-event techniques (regulate adult anxiety first, short check-ins, separating robot from kid, celebrating small wins), handling genuine distress, post-event debrief pattern (experience before outcome), program-specific notes for FLL/VEX IQ/FTC/FRC/VEX V5/VEX U, a note for parents, and quick-reference table. Wired into sidebar (Team Culture), guides/index.md, skill/SKILL.md. Commit 54fc82b (2026-06-02 heartbeat 16:58)
+
+## Wave 64 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/choosing-equipment-used-vs-new.md` — detailed "used vs. new hardware" guide (expand the money-saving section of budget-template.md)
+- [ ] Consider a cross-program `guides/mental-models-for-competition.md` — deeper cognitive tools (growth mindset, process vs outcome focus) that extend first-competition-nerves.md for older/returning teams

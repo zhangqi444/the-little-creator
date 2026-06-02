@@ -292,3 +292,7 @@
 ## Wave 44 backlog
 
 - [x] `guides/vex-judging-prep.md` — VEX judging preparation guide completing the judging-prep series for all six programs. VEX judging is pit-based (roving judges walk pit area throughout the event), with engineering notebook as the primary judged evidence, unlike FLL's three separate rooms or FTC's single sit-down session. Covers VIQRC/V5RC/VURC differences, what makes strong vs. weak notebook entries, pit interview Q&A patterns, how to staff the pit, program-specific tips (VIQRC for younger students, V5RC for high-school technical depth, VURC for college engineering rigour), award-to-strength matching table, 9-row common mistakes table, and a full season prep timeline. Added to sidebar (after FRC Judging Prep), guides/index.md, and skill/SKILL.md (VEX IQ + VEX V5 + VEX U lines). (2026-06-01 heartbeat 22:58)
+
+## Wave 45 backlog
+
+- [x] `guides/ftc-second-season.md` — "Your Second FTC Season — What to Do Differently": FTC equivalent of `second-season.md` (FLL returning coach guide). 10 changes returning FTC coaches and teams make in season two: Engineering Portfolio from day one, narrowing robot scope by expected value, planning autonomous from season start, driver practice 50/50 by October, telling a process story in judging (not show-and-tell), Connect Award multi-touchpoint strategy, alliance selection as a proactive game, structured team roles, attending the scrimmage regardless of readiness, keeping it student-led. Added to sidebar (Returning Coaches section), guides/index.md, skill/SKILL.md. (2026-06-01 heartbeat 23:58)

@@ -75,6 +75,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 
 ### Returning coaches
 - [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management
+- [Your Second FTC Season — What to Do Differently](/guides/ftc-second-season/) — 10 changes returning FTC coaches and teams make in season two: portfolio habits, robot scope, autonomous strategy, driver practice, and staying student-led
 
 :::tip
 Have experience to share? We'd love your contribution. See the [Community](/community/) page for how to contribute.

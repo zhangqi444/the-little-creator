@@ -200,6 +200,7 @@ export default defineConfig({
             { label: 'Workshop Formats', link: '/for-educators/workshop-formats/' },
             { label: 'Camp Curriculum', link: '/for-educators/camp-curriculum/' },
             { label: 'Camp Operations Guide', link: '/for-educators/camp-operations/' },
+            { label: 'Inclusive Team Culture', link: '/for-educators/inclusive-team-culture/' },
           ],
         },
         {

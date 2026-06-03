@@ -56,6 +56,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges
 - [Innovation Project Deep Dive](/guides/innovation-project-deep-dive/) — Deeper guide: problem vs. solution distinction, running a real research phase, 5 Whys, research plan document, presentation structure
 - [Innovation Project Checklist](/guides/innovation-project-checklist/) — Printable week-by-week checklist from problem discovery through tournament day
+- [IP Research Log Template](/guides/ip-research-log-template/) — Printable research log for tracking sources, expert interviews, synthesis, and solution development in one place
 - [How to Interview an Expert for Your Innovation Project](/guides/ip-expert-interview/) — Question preparation, roles during the call, using what you learn, and what judges look for in expert evidence
 - [Preparing for FLL Judging](/guides/judging-prep/) — What judges look for across all three sessions, and how to help your team present with confidence
 - [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth

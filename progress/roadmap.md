@@ -650,3 +650,23 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider a cross-program `for-educators/inclusive-team-culture.md` — guide for coaches and educators on building an inclusive, psychologically safe team culture (complements accessibility-in-robotics.md and coaching-communication.md)
 - [ ] Consider expanding the lesson plan library with additional programs (FTC Autonomous, VEX V5 IMU Autonomous, FRC PathPlanner intro, VEX IQ game strategy session)
+
+## Wave 87 completed
+
+- [x] `for-educators/inclusive-team-culture.md` — "Building an Inclusive Team Culture": guide for coaches and educators on psychological safety, belonging, and inclusive practices across all six programs. Covers Amy Edmondson's psychological safety research and its robotics implications, three signals students watch (first-mistake response, idea ownership, who gets talked over), five building blocks (co-created norms, structured turn-taking, critique/person separation, rotating roles, process celebration), identity and belonging (who represents the team, cultural/linguistic diversity, gender dynamics), conflict navigation (disagreement vs. exclusion, prompt intervention, student disengagement), program-specific notes table for all six programs, coach self-check questions, quick-reference checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 9846896 (2026-06-03 heartbeat 15:58)
+
+## Wave 88 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, VEX IQ game strategy
+- [ ] Consider a cross-program `for-educators/program-selection-for-schools.md` — guide for school administrators and district coordinators deciding which program(s) to offer (budget, space, grade levels, existing STEM capacity)
+
+## Wave 88 completed
+
+- [x] `for-educators/program-selection-for-schools.md` — "Choosing a Robotics Program for Your School": guide for school administrators and district coordinators deciding which of the six programs to offer. Five-decision framework (grade band, budget, space, staffing, existing STEM capacity); quick-reference comparison table; program-specific considerations for FLL/VEX IQ/FTC/FRC/VEX V5; multi-program pipeline strategy; six-row common-mistakes table; getting-started checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. (2026-06-03 heartbeat 16:58)
+
+## Wave 89 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a cross-program `guides/outreach-guide.md` — structured guide for how teams plan and execute community outreach/impact for awards like Connect (FTC), Impact (FRC), and Excellence (VEX)

@@ -1546,3 +1546,34 @@ Commit: 95eeb9b pushed to main.
   - Covers: model decision table, per-camp budget template (6 programs x 8 line items), registration platform options, waiver requirements, hardware inventory and kit numbering system, pre-camp device/software setup table (all programs), consumables checklist, staffing ratios and roles, volunteer management, program-specific safety hazards table, day-of session flow rhythm, check-in/check-out protocols, behaviour management guidelines, daily family communication template, post-camp hardware debrief, financial close-out, and a full quick-reference checklist (4 weeks out → end of camp)
 - Wired into: `astro.config.mjs` sidebar (after Camp Curriculum), `for-educators/index.md`, `skill/SKILL.md`
 - Committed and pushed: c9bf558
+
+## 2026-06-03T15:58Z
+
+**Wave 87 — Inclusive Team Culture Guide**
+
+- Both repos already up to date (git pull --rebase --autostash).
+- open-forge: 1 open issue (#55 [software-nomination] OpenCode) — already processed in prior heartbeat (logged in issues-log.json as "implemented").
+- the-little-creator: 0 open issues.
+- Implemented Wave 87 backlog task: `for-educators/inclusive-team-culture.md`
+  - Guide for coaches and educators on building psychologically safe, inclusive team cultures across all six programs
+  - Psychological safety foundations (Edmondson research), three student-watch signals, five building blocks, identity/belonging section (diversity, gender dynamics), conflict navigation, program-specific notes, coach self-check, quick-reference checklist
+- Wired into: `astro.config.mjs` sidebar (after Camp Operations), `for-educators/index.md`, `skill/SKILL.md`
+- Committed and pushed: 9846896
+
+## 2026-06-03T16:58Z
+
+**Wave 88 — Program Selection for Schools Guide**
+
+- Both repos already up to date (git pull --rebase --autostash).
+- open-forge: 1 open issue (#55 [software-nomination] OpenCode) — already processed in prior heartbeat (logged in issues-log.json as "implemented").
+- the-little-creator: 0 open issues.
+- Implemented Wave 88 backlog task: `for-educators/program-selection-for-schools.md`
+  - Guide for school administrators and district coordinators on choosing which of the six programs to offer
+  - Five-decision framework: grade band (elementary/middle/high/college tiers), budget (total cost of ownership table, funding paths), space (classroom vs workshop-light vs workshop-required), staffing (coach profiles, succession planning), existing STEM capacity
+  - Quick-reference comparison table (6 programs × 7 attributes)
+  - Program-specific considerations for FLL, VEX IQ, FTC, FRC, VEX V5, VEX U
+  - Multi-program pipeline strategy (VEX IQ → VEX V5, FLL → FTC → FRC)
+  - Six-row common mistakes table
+  - Getting-started checklist (attend event before committing, apply for grants before registration, etc.)
+- Wired into: `astro.config.mjs` sidebar (after Inclusive Team Culture), `for-educators/index.md` (Team and classroom management section), `skill/SKILL.md` (Cross-program links)
+- Committed and pushed: TBD

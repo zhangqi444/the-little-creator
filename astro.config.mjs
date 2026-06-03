@@ -199,6 +199,7 @@ export default defineConfig({
             { label: 'Team Documentation System', link: '/for-educators/team-documentation-system/' },
             { label: 'Workshop Formats', link: '/for-educators/workshop-formats/' },
             { label: 'Camp Curriculum', link: '/for-educators/camp-curriculum/' },
+            { label: 'Camp Operations Guide', link: '/for-educators/camp-operations/' },
           ],
         },
         {

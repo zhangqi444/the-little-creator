@@ -1646,3 +1646,10 @@ Commit: 95eeb9b pushed to main.
 - **Issues:** open-forge #55 already processed (logged). No new open issues in either repo.
 - **Roadmap task (Wave 93):** Created `for-educators/peer-learning-guide.md` — peer learning structures for coaches across all six programs (pair programming, rotating leads, teach-backs, peer review). Wired into sidebar, for-educators/index.md, skill/SKILL.md.
 - **Commit:** 4dbdf7d pushed to the-little-creator main.
+
+## 2026-06-03 22:58 UTC
+
+- Both repos synced (already up to date)
+- open-forge: 1 open issue (#55 OpenCode nomination) — already processed in previous heartbeat, skipped
+- the-little-creator: 0 open issues
+- Roadmap task (Wave 94): added `for-educators/questioning-techniques.md` — Socratic questioning guide for robotics coaches. Five questioning levels, diagnostic sequence, question patterns, think-aloud technique, student dynamic playbooks, program-specific notes, mistakes table. Wired into sidebar + for-educators/index.md + skill/SKILL.md. Pushed commit e14c2c7.

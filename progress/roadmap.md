@@ -716,3 +716,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
 - [ ] Consider a `for-educators/questioning-techniques.md` — Socratic questioning and questioning strategies for coaches (complements coaching-communication.md and peer-learning-guide.md)
+
+## Wave 95 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a cross-program `for-educators/facilitating-reflection.md` — guide for coaches on running structured reflection sessions after practice and competition (complements questioning-techniques.md and season-retrospective.md)
+
+## Wave 94 completed
+
+- [x] `for-educators/questioning-techniques.md` — Socratic questioning and coaching questioning strategies guide. Five questioning levels (observation, expectation, hypothesis, testing, synthesis), the diagnostic sequence, question patterns for stuck/premature-solution/teaching-check scenarios, when NOT to use Socratic questioning, coaching think-aloud technique, question strategies for four student dynamics (waits-for-coach, fast-answerer, "I don't know", emotionally activated), program-specific notes table for all six programs, 7-row common-mistakes table, quick-start checklist. Complements coaching-communication.md and peer-learning-guide.md. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit e14c2c7 (2026-06-03 heartbeat 22:58)

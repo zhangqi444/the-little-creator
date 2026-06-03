@@ -1438,3 +1438,14 @@ Commit: 95eeb9b pushed to main.
 - Updated `src/content/docs/for-educators/index.md` — added new page to Team and classroom management section.
 - Updated `skill/SKILL.md` — added cross-program link.
 - Commit `cdd12bc`, pushed to main.
+
+## 2026-06-03 heartbeat 05:58
+
+- No open issues found in either repo (open-forge or the-little-creator)
+- Both repos already up to date
+- Roadmap task: `for-educators/coaching-communication.md` — Wave 76
+  - New guide: feedback frameworks for coaches talking to students about mistakes and setbacks
+  - Four feedback modes, 3-step in-the-moment response pattern, post-event debrief format
+  - Program-specific notes for all six programs, hard-situation playbooks
+  - Wired into sidebar, for-educators/index.md, skill/SKILL.md
+  - Commit: 934bc1b

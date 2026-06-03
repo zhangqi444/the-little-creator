@@ -563,5 +563,15 @@
 ## Wave 76 backlog (next tasks — derive from gaps)
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
-- [ ] Consider a `for-educators/coaching-communication.md` — communicating effectively with students about mistakes, failure, and setbacks; feedback frameworks for coaches (complements parent-communication.md which is family-facing)
+- [x] `for-educators/coaching-communication.md` — communicating effectively with students about mistakes, failure, and setbacks; feedback frameworks for coaches (complements parent-communication.md which is family-facing)
 - [ ] Consider a `guides/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
+
+## Wave 76 completed
+
+- [x] `for-educators/coaching-communication.md` — feedback frameworks for coaches talking to students about mistakes and setbacks. Four feedback modes (descriptive, process-focused, questioning, encouragement), 3-step in-the-moment response pattern, structured post-event debrief format, program-specific notes for FLL/VEX IQ/FTC/VEX V5/FRC/VEX U, hard-situation playbooks (student shuts down, blame-shifting, coach made the bad call), common-mistakes table. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 934bc1b (2026-06-03 heartbeat 05:58)
+
+## Wave 77 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a `for-educators/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
+- [ ] Consider a cross-program `guides/student-leadership.md` — how to identify, develop, and support student team leaders across all six programs

@@ -680,3 +680,19 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
 - [ ] Consider a `guides/innovation-project-deep-dive.md` — deeper FLL Innovation Project guide extending innovation-project-guide.md: how to run the research phase, identify real problems vs. solutions, and structure the research plan document for judges
+
+## Wave 91 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `guides/innovation-project-checklist.md` — printable week-by-week IP checklist (companion to innovation-project-deep-dive.md)
+
+## Wave 91 completed
+
+- [x] `guides/innovation-project-checklist.md` — printable week-by-week IP checklist companion to innovation-project-guide.md and innovation-project-deep-dive.md. Coach prep section, 9-week process checklist (Problem Discovery through Final Polish), Tournament Day sections (Before Judging, During Judging, Debrief), Quick Reference judge table (5 categories, strong vs. weak signals). Each week has a clear goal statement and ✅ checkpoint. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 026227e (2026-06-03 heartbeat 19:58)
+
+## Wave 92 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `guides/ip-research-log-template.md` — downloadable/printable research log template for teams (extends the checklist by providing the actual logging artifact)

@@ -1586,3 +1586,39 @@ Commit: 95eeb9b pushed to main.
 - the-little-creator issues: none open
 - Roadmap task: implemented `guides/outreach-guide.md` (Wave 89)
 - Commit: 2fb8af3 — feat: add community outreach guide for FTC Connect, FRC Impact, and VEX Excellence
+
+## 2026-06-03 18:58 UTC
+
+**Heartbeat run** — Wave 90
+
+- open-forge issues: Issue #55 already processed (logged); no new issues
+- the-little-creator issues: none open
+- Roadmap task: implemented `guides/innovation-project-deep-dive.md` (Wave 90)
+  - Deeper FLL Innovation Project guide extending innovation-project-guide.md
+  - Core problem: problem vs. solution distinction with worked examples
+  - Four-component problem statement framework (Who / What / Why it matters / Why it's unsolved)
+  - Research phase breakdown: background vs. primary, expert-finding table (5 types), outreach tips, interview structure
+  - Survey methodology rules, research log template
+  - 5 Whys root-cause analysis with worked example (school food waste, 5 levels)
+  - Solution evaluation grid (6 questions judges probe)
+  - Research plan document one-page template (printable structure)
+  - Narrative arc pattern that differentiates strong presentations, Q&A preparation table
+  - Post-tournament debrief pattern
+  - Wired into: astro.config.mjs sidebar, guides/index.md, skill/SKILL.md
+- Commit: c115923 — feat: add Innovation Project Deep Dive guide (Wave 90)
+
+## 2026-06-03 19:58 UTC
+
+**Heartbeat run** — Wave 91
+
+- open-forge issues: Issue #55 already processed (logged); no new issues
+- the-little-creator issues: none open
+- Roadmap task: implemented `guides/innovation-project-checklist.md` (Wave 91)
+  - Printable week-by-week IP checklist from problem discovery (week 1) through tournament day
+  - Coach prep section before season starts
+  - 9 weekly sections with goal, action checklist, and ✅ checkpoint
+  - Tournament Day: Before Judging, During Judging, and Post-Tournament Debrief sections
+  - Quick Reference table: 5 judge categories (Problem, Research, Solution, Presentation, Innovation) with strong vs. weak signals
+  - Companion piece to innovation-project-guide.md and innovation-project-deep-dive.md
+  - Wired into: astro.config.mjs sidebar, guides/index.md, skill/SKILL.md
+- Commit: 026227e — feat: add Innovation Project Checklist (Wave 91)

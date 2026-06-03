@@ -159,6 +159,7 @@ export default defineConfig({
                 { label: 'Accessibility in Robotics', link: '/guides/accessibility-in-robotics/' },
                 { label: 'Student Leadership', link: '/guides/student-leadership/' },
                 { label: 'Team Roles Reference', link: '/guides/team-roles-reference/' },
+                { label: 'Season Retrospective', link: '/guides/season-retrospective/' },
               ],
             },
             {

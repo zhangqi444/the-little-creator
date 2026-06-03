@@ -1464,3 +1464,20 @@ Commit: 95eeb9b pushed to main.
 - the-little-creator: 0 open issues
 - Roadmap task (Wave 79): created `for-educators/team-documentation-system.md` — five-document-type season documentation guide covering all six programs; wired into sidebar, for-educators/index.md, skill/SKILL.md
 - Commit: dcf3cc8
+
+## 2026-06-03 08:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date (open-forge and the-little-creator).
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 80)**:
+- Created `src/content/docs/guides/team-roles-reference.md` (200 lines) — "Team Roles Quick Reference": per-program role tables for FLL, FTC, FRC, VEX IQ, VEX V5/VRC, and VEX U. Each table covers role names, what the role owns, and minimum team size to split (for FLL/FTC/VEX IQ/VEX V5). FRC uses a sub-team model with Student Lead + Mentor Advisor columns (Mechanical, Electrical, Programming, Strategy & Scouting, Impact, Drive Team, Pit Crew, Media, Leadership Council). VEX U section reflects two-robot structure with Robot A Lead / Robot B Lead split, plus Pit Manager ×2 and Outreach/Club Admin for university club structure. Cross-program tips section: name names not groups, every role needs a backup, rotate roles year to year, roles are responsibilities not hierarchy, check coverage quarterly.
+- Fills the gap from Wave 77 (student-leadership.md covers how to develop leaders; this is the quick-ref lookup for what every role is).
+- Wired into `astro.config.mjs` sidebar (Team Culture section, after Student Leadership).
+- Wired into `guides/index.md` — added to Team culture section after Developing Student Leaders.
+- Wired into `skill/SKILL.md` — added Team Roles Reference to Cross-program links.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+- Commit `012b258`, pushed to main.

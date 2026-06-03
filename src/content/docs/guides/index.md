@@ -24,8 +24,10 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Off-Season Activities — Staying Sharp Between Competition Seasons](/guides/off-season-activities/) — What teams can do between competition seasons: off-season events, driver practice, skill-building, documentation, outreach, and program-specific tips for all six programs
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step: national FIRST registration plus your regional partner sign-up
 - [Funding Your FLL Team — Grants, Sponsors, and Fundraising](/guides/team-funding/) — How to cover registration, equipment, and travel costs; known grant programs and a sponsor pitch template
+- [Grants and Sponsorship — A Cross-Program Guide](/guides/grants-and-sponsorship-guide/) — Full funding landscape for all six programs: FIRST and RECF grants, PDO grants, corporate sponsors, employer matching, foundation grants, and a multi-year sponsorship strategy
 - [Season Budget Template — All Six Programs](/guides/budget-template/) — Line-by-line cost estimates and a copy-paste budget spreadsheet template for FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U teams
 - [Used vs. New Hardware — How to Choose](/guides/choosing-equipment-used-vs-new/) — What is safe to buy secondhand, what to avoid, and where to find good deals across all six programs
+- [School Club vs. Community Team](/guides/school-club-vs-community-team/) — Comparing school-based clubs and independent community teams: legal structure, funding access, liability, scheduling, and which model fits each program
 - [FLL Future Edition Transition — What It Means for Your Team](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained practically
 - [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners
 - [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep the relationship healthy
@@ -52,6 +54,9 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 ### Competition prep
 - [FLL Robot Strategy Guide](/guides/robot-strategy/) — How to analyse missions, prioritise by expected value, and build a run strategy
 - [Innovation Project Guide](/guides/innovation-project-guide/) — How to research a real-world problem, design a solution, and present it to judges
+- [Innovation Project Deep Dive](/guides/innovation-project-deep-dive/) — Deeper guide: problem vs. solution distinction, running a real research phase, 5 Whys, research plan document, presentation structure
+- [Innovation Project Checklist](/guides/innovation-project-checklist/) — Printable week-by-week checklist from problem discovery through tournament day
+- [IP Research Log Template](/guides/ip-research-log-template/) — Printable research log for tracking sources, expert interviews, synthesis, and solution development in one place
 - [How to Interview an Expert for Your Innovation Project](/guides/ip-expert-interview/) — Question preparation, roles during the call, using what you learn, and what judges look for in expert evidence
 - [Preparing for FLL Judging](/guides/judging-prep/) — What judges look for across all three sessions, and how to help your team present with confidence
 - [FLL Challenge Awards and Advancement](/guides/fll-awards/) — What each award means, how teams advance to regionals and worlds, and the Champion's Award vs. robot score myth
@@ -77,6 +82,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Alliance Scouting Guide](/guides/scouting-guide/) — Data collection, match observation, pit scouting, alliance selection strategy, and common mistakes for FTC, FRC, and VEX V5/VRC teams
 - [Drive Team Training](/guides/drive-team-training/) — How to select, train, and develop your drive team for FTC, FRC, VEX IQ, VEX V5, and VEX U — driver practice regimes, match communication, role definitions, and common mistakes
 - [Alliance Match Strategy](/guides/alliance-strategy/) — How to coordinate autonomous, TeleOp zone division, endgame sequencing, and in-match communication with your alliance partner across FTC, FRC, and VEX V5/VRC
+- [Community Outreach Guide](/guides/outreach-guide/) — How to plan and execute meaningful community outreach for FTC Connect, FRC Impact, and VEX Excellence awards; four outreach models, program-specific guidance, and a six-week ramp for new programs
 - [After Advancing — Preparing for Regionals or State Championship](/guides/after-advancing/) — What changes at the next level, 3-week prep plan, managing expectations with kids and parents
 
 ### Team culture
@@ -89,6 +95,10 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Pit Design Guide](/guides/pit-design-guide/) — How to set up and organise your pit area at FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U events — layout, equipment lists, battery rotation, roles, and common mistakes
 - [Managing First-Competition Nerves](/guides/first-competition-nerves/) — A parent and coach guide to helping kids manage competition anxiety across all six programs — before the event, during it, and after
 - [Mental Models for Competition](/guides/mental-models-for-competition/) — Growth mindset, process vs. outcome focus, locus of control, and other frameworks for older and returning teams performing under pressure
+- [Accessibility in Robotics](/guides/accessibility-in-robotics/) — Practical accommodations and inclusive team practices for coaches adapting FLL, FTC, FRC, and VEX programs for students with disabilities or learning differences
+- [Developing Student Leaders](/guides/student-leadership/) — How to identify, develop, and support student team leaders across all six programs — role rotation, succession planning, and program-specific approaches
+- [Team Roles Quick Reference](/guides/team-roles-reference/) — One-page lookup of every team role across FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U with ownership, backup, and minimum-viable-team guidance
+- [End-of-Season Retrospective](/guides/season-retrospective/) — Structured four-question retrospective format for teams and coaches across all six programs — what to ask, how to document it, and how to seed next season
 
 ### Returning coaches
 - [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management

@@ -1365,3 +1365,260 @@ Commit: 95eeb9b pushed to main.
 - Updated `guides/index.md` — added entry after Parent Volunteer Guide in Team culture section.
 - Updated `skill/SKILL.md` — added to cross-program links.
 - Commit `0f79c44`, pushed to main.
+
+## 2026-06-02 23:58 UTC — Wave 70
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 70)**:
+- Created `src/content/docs/guides/pit-design-guide.md` (~230 lines) — "Pit Design Guide": cross-program pit setup guide for FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. Sections: what every pit needs (universal table), general layout principles (three-zone table, floor clear, role assignment, label everything), per-program sections (FLL folding table, FTC 6x8 bay with robot-at-eye-level tip, FRC 10x10 with pit board + battery rotation priority + inspection note, VEX IQ shared table with spare-parts container, VEX V5 robot-at-a-glance card + lift stand + firmware tip, VEX U two-robot pit with Robot A/B leads + notebook keeper), 7-row common mistakes table, quick-reference pit load-in checklist, related guides section.
+- Updated `astro.config.mjs` — added Pit Design Guide to sidebar (Team Culture section, after Event Volunteering Guide).
+- Updated `guides/index.md` — added entry after Event Volunteering Guide in Team culture section.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Commit `968e96a`, pushed to main.
+
+## 2026-06-03 00:58 UTC — Wave 71
+
+**Step 0 — Sync**: open-forge: already up to date. the-little-creator: pulled 2 new commits (ARCHITECTURE.md + log.md).
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 71)**:
+- Created `src/content/docs/guides/grants-and-sponsorship-guide.md` (~230 lines) — "Grants and Sponsorship — A Cross-Program Guide": cross-program funding guide extending team-funding.md (FLL-only) to cover all six programs. Four-tier structure: (1) official FIRST/RECF grant programmes (Grants Database, RECF grants, FRC district grants, VEX U scholarships), (2) regional PDO grants with finder links and examples (FIRST Washington, FIRST in Texas, IET UK, VEX event partner waivers), (3) corporate sponsors (who-to-target table, employer matching programmes, tiered sponsorship levels, 150-word outreach email template, follow-up/stewardship guidance), (4) STEM foundation and government grants (STEMfunders.org, Toshiba, Siemens, Verizon, Title I, USDA, 21st Century). Includes multi-year strategy (Year 1 cover → Year 2 stabilize → Year 3+ build), programme-specific notes for all six programs, 7-row common mistakes table, and a quick-start checklist.
+- Updated `astro.config.mjs` — added Grants & Sponsorship to sidebar (after Team Funding, before Season Budget Template).
+- Updated `guides/index.md` — added entry after Team Funding in Getting started section.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Updated `src/content/docs/log.md` with audit entry.
+- Commit `1adda2e`, pushed to main.
+
+## 2026-06-03 01:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 72)**:
+- Created `src/content/docs/guides/school-club-vs-community-team.md` (198 lines) — cross-program guide comparing school-based clubs and independent community teams for all six programs. Covers two-models comparison table, school/club model in depth, community team model (legal structures), hybrid models, per-program guidance, 5-question decision framework, and common-mistakes table.
+- Updated `astro.config.mjs` — added School Club vs. Community Team to sidebar (Getting Started section).
+- Updated `src/content/docs/guides/index.md` — added new guide to Getting Started section.
+- Updated `skill/SKILL.md` — added new guide to cross-program links.
+- Commit `88408fb`, pushed to main.
+
+## 2026-06-03 02:58 UTC
+
+- Both repos already up to date (open-forge, the-little-creator)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap (Wave 73): Created `for-educators/stem-integration.md` — NGSS/CSTA/CCSS standards alignment guide for all six robotics programs. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8108349.
+
+## 2026-06-03 heartbeat 03:58
+
+- **Issues**: open-forge 0 open issues; the-little-creator 0 open issues
+- **Roadmap (Wave 74)**: Created `guides/accessibility-in-robotics.md` — cross-program guide for coaches adapting robotics programs for students with disabilities or learning differences (physical, sensory, cognitive, communication, inclusive team structure, tournament/event accommodations). Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 4b396b0.
+
+## 2026-06-03 04:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 75)**:
+- Created `src/content/docs/for-educators/differentiated-instruction.md` (245 lines) — deeper DI strategies guide covering tiered tasks, scaffolding techniques, extension prompts, mixed-age team adaptations, formative assessment methods, session planning, and all-six-program notes.
+- Wired into `astro.config.mjs` sidebar (after Differentiation Guide).
+- Updated `src/content/docs/for-educators/index.md` — added new page to Team and classroom management section.
+- Updated `skill/SKILL.md` — added cross-program link.
+- Commit `cdd12bc`, pushed to main.
+
+## 2026-06-03 heartbeat 05:58
+
+- No open issues found in either repo (open-forge or the-little-creator)
+- Both repos already up to date
+- Roadmap task: `for-educators/coaching-communication.md` — Wave 76
+  - New guide: feedback frameworks for coaches talking to students about mistakes and setbacks
+  - Four feedback modes, 3-step in-the-moment response pattern, post-event debrief format
+  - Program-specific notes for all six programs, hard-situation playbooks
+  - Wired into sidebar, for-educators/index.md, skill/SKILL.md
+  - Commit: 934bc1b
+
+## 2026-06-03 06:58 UTC
+
+- Repos synced (both already up to date)
+- open-forge: 0 open issues — no action
+- the-little-creator: 0 open issues — no action
+- Roadmap task (Wave 77): Created `guides/student-leadership.md` — cross-program student leadership development guide for all six programs. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit b17bf92.
+
+## 2026-06-03 07:58 UTC
+
+- Both repos synced (already up to date)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap task (Wave 79): created `for-educators/team-documentation-system.md` — five-document-type season documentation guide covering all six programs; wired into sidebar, for-educators/index.md, skill/SKILL.md
+- Commit: dcf3cc8
+
+## 2026-06-03 08:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date (open-forge and the-little-creator).
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 80)**:
+- Created `src/content/docs/guides/team-roles-reference.md` (200 lines) — "Team Roles Quick Reference": per-program role tables for FLL, FTC, FRC, VEX IQ, VEX V5/VRC, and VEX U. Each table covers role names, what the role owns, and minimum team size to split (for FLL/FTC/VEX IQ/VEX V5). FRC uses a sub-team model with Student Lead + Mentor Advisor columns (Mechanical, Electrical, Programming, Strategy & Scouting, Impact, Drive Team, Pit Crew, Media, Leadership Council). VEX U section reflects two-robot structure with Robot A Lead / Robot B Lead split, plus Pit Manager ×2 and Outreach/Club Admin for university club structure. Cross-program tips section: name names not groups, every role needs a backup, rotate roles year to year, roles are responsibilities not hierarchy, check coverage quarterly.
+- Fills the gap from Wave 77 (student-leadership.md covers how to develop leaders; this is the quick-ref lookup for what every role is).
+- Wired into `astro.config.mjs` sidebar (Team Culture section, after Student Leadership).
+- Wired into `guides/index.md` — added to Team culture section after Developing Student Leaders.
+- Wired into `skill/SKILL.md` — added Team Roles Reference to Cross-program links.
+- Updated `src/content/docs/log.md` and `progress/roadmap.md`.
+- Commit `012b258`, pushed to main.
+
+## 2026-06-03 09:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date (open-forge and the-little-creator).
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 81)**:
+- Created `src/content/docs/guides/season-retrospective.md` (261 lines) — "End-of-Season Retrospective Guide": structured four-question retrospective format for all six programs. Covers: why retrospectives matter (three outputs: keep/change/action items/onboarding brief), when to run by program (within 1-2 weeks of final event), who to include, four-question format (what went well / what to change / what to do differently / what new members should know), coach/mentor retrospective section, documentation format (seven-field output structure) + where to store it, seeding next season's plan (copy to calendar, flag resource needs, prepare onboarding brief), program-specific notes for all six programs, 7-row common mistakes table, quick-start checklist, and related-guides section linking all six second-season guides and team-documentation-system.md.
+- Wired into `astro.config.mjs` sidebar (Team Culture section, after Team Roles Reference).
+- Wired into `guides/index.md` — added to Team culture section after Team Roles Quick Reference.
+- Wired into `skill/SKILL.md` — appended Season Retrospective to Cross-program line.
+- Updated `src/content/docs/log.md` with Wave 81 entry.
+- Updated `progress/roadmap.md` (marked Wave 81 done, added Wave 82 backlog).
+- Commit `2a30e90`, pushed to main.
+
+## 2026-06-03 10:58 UTC — Heartbeat
+
+- Synced both repos (open-forge, the-little-creator) — both already up to date
+- No open issues in open-forge or the-little-creator
+- Ran Wave 82 roadmap task: added `for-educators/lesson-plan-library.md`
+- Commit a1b48d8 pushed to main
+
+## 2026-06-03 ~12:00 UTC
+
+- Step 0: Both repos synced (already up to date).
+- Step 1: open-forge — 1 new issue #55 "[software-nomination] OpenCode". Implemented: created `references/projects/opencode.md` (Tier 1 recipe covering all 11 upstream-blessed install methods), ran `build-dist.sh all`, committed (467a6eb) and pushed. Issues-log.json updated (b56a1dc).
+- Step 2: the-little-creator — 0 open issues, no action.
+- Step 3: Skipped (open-forge had a pending issue addressed this heartbeat).
+
+## 2026-06-03 12:58 UTC — Heartbeat
+
+- Synced both repos (open-forge, the-little-creator) — both already up to date
+- open-forge: 1 open issue (#55 OpenCode nomination) — already processed in previous heartbeat, skipped
+- the-little-creator: 0 open issues
+- Ran Wave 83 roadmap task: added `for-educators/workshop-formats.md` — six short-format workshop outlines for one-day events and summer camps
+- Commit b27ef09 pushed to main
+
+## 2026-06-03T13:58Z
+
+**Wave 85 — Camp Curriculum**
+
+- Checked open issues: the-little-creator had 0, open-forge had 1 (#55 already processed in prior heartbeat).
+- Both repos up to date via git pull.
+- Implemented Wave 84 backlog task: `for-educators/camp-curriculum.md`
+  - Multi-day (3–5 day) summer camp curriculum outlines for all six programs
+  - FLL 3-Day SPIKE Prime Challenge Camp, FLL 5-Day Full Challenge Camp, FTC 4-Day Rookie Build Camp, FRC 5-Day Kickoff Simulation Camp, VEX IQ 3-Day VIQRC Intro Camp, VEX V5 4-Day VRC Strategy Camp
+  - Each outline includes timed day-by-day agendas, kit requirements, win conditions, facilitator notes
+  - Shared principles section: win-condition rule, iteration-over-completion, notebook habit, mixed-age pairing, 70% facilitator rule, scaling table
+- Wired into: `astro.config.mjs` sidebar, `for-educators/index.md`, `skill/SKILL.md`
+- Committed and pushed: a26b0ae
+
+## 2026-06-03T14:58Z
+
+**Wave 86 — Camp Operations Guide**
+
+- Checked open issues: the-little-creator had 0 open issues; open-forge had 1 (#55, already processed in prior heartbeat).
+- Both repos synced (already up to date).
+- Implemented Wave 85 backlog task: `for-educators/camp-operations.md`
+  - Full logistics guide for running a multi-day robotics camp across all six programs
+  - Covers: model decision table, per-camp budget template (6 programs x 8 line items), registration platform options, waiver requirements, hardware inventory and kit numbering system, pre-camp device/software setup table (all programs), consumables checklist, staffing ratios and roles, volunteer management, program-specific safety hazards table, day-of session flow rhythm, check-in/check-out protocols, behaviour management guidelines, daily family communication template, post-camp hardware debrief, financial close-out, and a full quick-reference checklist (4 weeks out → end of camp)
+- Wired into: `astro.config.mjs` sidebar (after Camp Curriculum), `for-educators/index.md`, `skill/SKILL.md`
+- Committed and pushed: c9bf558
+
+## 2026-06-03T15:58Z
+
+**Wave 87 — Inclusive Team Culture Guide**
+
+- Both repos already up to date (git pull --rebase --autostash).
+- open-forge: 1 open issue (#55 [software-nomination] OpenCode) — already processed in prior heartbeat (logged in issues-log.json as "implemented").
+- the-little-creator: 0 open issues.
+- Implemented Wave 87 backlog task: `for-educators/inclusive-team-culture.md`
+  - Guide for coaches and educators on building psychologically safe, inclusive team cultures across all six programs
+  - Psychological safety foundations (Edmondson research), three student-watch signals, five building blocks, identity/belonging section (diversity, gender dynamics), conflict navigation, program-specific notes, coach self-check, quick-reference checklist
+- Wired into: `astro.config.mjs` sidebar (after Camp Operations), `for-educators/index.md`, `skill/SKILL.md`
+- Committed and pushed: 9846896
+
+## 2026-06-03T16:58Z
+
+**Wave 88 — Program Selection for Schools Guide**
+
+- Both repos already up to date (git pull --rebase --autostash).
+- open-forge: 1 open issue (#55 [software-nomination] OpenCode) — already processed in prior heartbeat (logged in issues-log.json as "implemented").
+- the-little-creator: 0 open issues.
+- Implemented Wave 88 backlog task: `for-educators/program-selection-for-schools.md`
+  - Guide for school administrators and district coordinators on choosing which of the six programs to offer
+  - Five-decision framework: grade band (elementary/middle/high/college tiers), budget (total cost of ownership table, funding paths), space (classroom vs workshop-light vs workshop-required), staffing (coach profiles, succession planning), existing STEM capacity
+  - Quick-reference comparison table (6 programs × 7 attributes)
+  - Program-specific considerations for FLL, VEX IQ, FTC, FRC, VEX V5, VEX U
+  - Multi-program pipeline strategy (VEX IQ → VEX V5, FLL → FTC → FRC)
+  - Six-row common mistakes table
+  - Getting-started checklist (attend event before committing, apply for grants before registration, etc.)
+- Wired into: `astro.config.mjs` sidebar (after Inclusive Team Culture), `for-educators/index.md` (Team and classroom management section), `skill/SKILL.md` (Cross-program links)
+- Committed and pushed: TBD
+
+## 2026-06-03 17:58 UTC
+
+**Heartbeat run** — Wave 89
+
+- open-forge issues: Issue #55 already processed (logged from prior session); no new issues
+- the-little-creator issues: none open
+- Roadmap task: implemented `guides/outreach-guide.md` (Wave 89)
+- Commit: 2fb8af3 — feat: add community outreach guide for FTC Connect, FRC Impact, and VEX Excellence
+
+## 2026-06-03 18:58 UTC
+
+**Heartbeat run** — Wave 90
+
+- open-forge issues: Issue #55 already processed (logged); no new issues
+- the-little-creator issues: none open
+- Roadmap task: implemented `guides/innovation-project-deep-dive.md` (Wave 90)
+  - Deeper FLL Innovation Project guide extending innovation-project-guide.md
+  - Core problem: problem vs. solution distinction with worked examples
+  - Four-component problem statement framework (Who / What / Why it matters / Why it's unsolved)
+  - Research phase breakdown: background vs. primary, expert-finding table (5 types), outreach tips, interview structure
+  - Survey methodology rules, research log template
+  - 5 Whys root-cause analysis with worked example (school food waste, 5 levels)
+  - Solution evaluation grid (6 questions judges probe)
+  - Research plan document one-page template (printable structure)
+  - Narrative arc pattern that differentiates strong presentations, Q&A preparation table
+  - Post-tournament debrief pattern
+  - Wired into: astro.config.mjs sidebar, guides/index.md, skill/SKILL.md
+- Commit: c115923 — feat: add Innovation Project Deep Dive guide (Wave 90)
+
+## 2026-06-03 19:58 UTC
+
+**Heartbeat run** — Wave 91
+
+- open-forge issues: Issue #55 already processed (logged); no new issues
+- the-little-creator issues: none open
+- Roadmap task: implemented `guides/innovation-project-checklist.md` (Wave 91)
+  - Printable week-by-week IP checklist from problem discovery (week 1) through tournament day
+  - Coach prep section before season starts
+  - 9 weekly sections with goal, action checklist, and ✅ checkpoint
+  - Tournament Day: Before Judging, During Judging, and Post-Tournament Debrief sections
+  - Quick Reference table: 5 judge categories (Problem, Research, Solution, Presentation, Innovation) with strong vs. weak signals
+  - Companion piece to innovation-project-guide.md and innovation-project-deep-dive.md
+  - Wired into: astro.config.mjs sidebar, guides/index.md, skill/SKILL.md
+- Commit: 026227e — feat: add Innovation Project Checklist (Wave 91)

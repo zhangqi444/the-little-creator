@@ -507,3 +507,192 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/pit-design-guide.md` — how to set up and organise your pit area effectively for all six programs
 - [ ] Consider a cross-program `guides/grants-and-sponsorship-guide.md` — deeper guide on finding grants and sponsors (extends team-funding.md)
+
+## Wave 70 completed
+
+- [x] `guides/pit-design-guide.md` — six-program pit setup guide: universal table-zoning layout principles (active/staging/documentation zones), battery rotation, role assignment, per-program sections (FLL folding table, FTC 6x8 bay + judging-walk tips, FRC 10x10 with pit board + battery rotation priority, VEX IQ shared table with spare-parts management, VEX V5 robot-at-a-glance card + lift stand tips, VEX U two-robot pit management with Robot A/B leads), 7-row common mistakes table, and a quick-reference load-in checklist. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 968e96a (2026-06-02 heartbeat 23:58)
+
+## Wave 71 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/grants-and-sponsorship-guide.md` — deeper guide on finding grants and sponsors (extends team-funding.md with concrete grant programs, corporate outreach templates, and multi-year strategy)
+
+## Wave 71 completed
+
+- [x] `guides/grants-and-sponsorship-guide.md` — cross-program grants and sponsorship guide extending team-funding.md (FLL-only) to cover all six programs. Four-tier funding structure: official grants (FIRST/RECF), regional PDO grants, corporate sponsors (with email template and employer matching guidance), and foundation/government grants. Includes multi-year funding strategy, six programme-specific notes, 7-row mistakes table, and quick-start checklist. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 1adda2e (2026-06-03 heartbeat 00:58)
+
+## Wave 72 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a cross-program `guides/school-club-vs-community-team.md` — comparing running a robotics team as a school club vs. an independent community team (legal structure, funding access, liability, flexibility)
+- [ ] Consider `guides/vex-u-robot-design.md` — already exists from Wave 39; check if any gap remains
+
+## Wave 72 completed
+
+- [x] `guides/school-club-vs-community-team.md` — cross-program guide comparing school-based clubs and independent community teams. Side-by-side comparison table, school/club model in depth (strengths, weaknesses, best-fit), community team model in depth (legal structures: informal/501(c)(3)/LLC/umbrella org; strengths, weaknesses, best-fit), hybrid models, per-program notes (FLL/VEX IQ default school club; FTC both; FRC community/hybrid; VEX U university org), 5-question decision framework, 6-row common-mistakes table. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 88408fb (2026-06-03 heartbeat 01:58)
+
+## Wave 73 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider `guides/accessibility-in-robotics.md` — adapting FLL/VEX IQ/FTC for students with disabilities; inclusive team practices
+- [ ] Consider `for-educators/stem-integration.md` — how to align robotics programs with school curriculum standards (NGSS, CSTA)
+
+## Wave 73 completed
+
+- [x] `for-educators/stem-integration.md` — STEM curriculum standards alignment guide: how to map FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U activities to NGSS (ETS1 engineering design), CSTA K-12 CS standards, and Common Core Math/ELA. Per-program standards tables, three curriculum integration patterns (stand-alone elective, embedded STEM class, after-school club), practical advice for lesson plan documentation, grant writing, and student notebook entries. Wired into sidebar, for-educators/index.md, and skill/SKILL.md. Commit 8108349 (2026-06-03 heartbeat 02:58)
+
+## Wave 74 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/accessibility-in-robotics.md` — adapting FLL/VEX IQ/FTC for students with disabilities; inclusive team practices
+
+## Wave 74 completed
+
+- [x] `guides/accessibility-in-robotics.md` — cross-program accessibility guide for coaches and educators adapting FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U for students with disabilities or learning differences. Covers UDL principle, physical adaptations (build table ergonomics, programming stations, fatigue/pain management), sensory accessibility (deaf/HoH, visual, sensory processing/noise), cognitive and learning differences (ADHD, dyslexia, processing, autism spectrum), communication differences (AAC users, speech/language), inclusive role design, team preparation, tournament/event accommodations, program-specific notes table, and further-reading crosslinks. Wired into sidebar (Team Culture), guides/index.md, skill/SKILL.md. Commit 4b396b0 (2026-06-03 heartbeat 03:58)
+
+## Wave 75 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a `for-educators/differentiated-instruction.md` — deeper teaching strategies for mixed-ability and mixed-age robotics teams (extends the accessibility guide and assessment-rubric.md)
+- [ ] Consider a `guides/team-documentation-system.md` — how to set up a season-long documentation system that supports both engineering notebook requirements and knowledge transfer
+
+## Wave 75 completed
+
+- [x] `for-educators/differentiated-instruction.md` — deeper differentiated instruction guide extending differentiation-guide.md and assessment-rubric.md. Covers tiered tasks (FLL/FTC examples), scaffolding techniques (worked examples, partial code, think-alouds, reference cards, intentional peer pairing), extension techniques by domain, mixed-age developmental differences table, formative assessment at team speed (exit slips, targeted questions, demonstration gates), differentiated session planning, and program-specific notes for all six programs. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit cdd12bc (2026-06-03 heartbeat 04:58)
+
+## Wave 76 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [x] `for-educators/coaching-communication.md` — communicating effectively with students about mistakes, failure, and setbacks; feedback frameworks for coaches (complements parent-communication.md which is family-facing)
+- [ ] Consider a `guides/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
+
+## Wave 76 completed
+
+- [x] `for-educators/coaching-communication.md` — feedback frameworks for coaches talking to students about mistakes and setbacks. Four feedback modes (descriptive, process-focused, questioning, encouragement), 3-step in-the-moment response pattern, structured post-event debrief format, program-specific notes for FLL/VEX IQ/FTC/VEX V5/FRC/VEX U, hard-situation playbooks (student shuts down, blame-shifting, coach made the bad call), common-mistakes table. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 934bc1b (2026-06-03 heartbeat 05:58)
+
+## Wave 77 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a `for-educators/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
+- [ ] Consider a cross-program `guides/student-leadership.md` — how to identify, develop, and support student team leaders across all six programs
+
+## Wave 77 completed
+
+- [x] `guides/student-leadership.md` — "Developing Student Leaders on Your Robotics Team": cross-program guide for coaches and educators on identifying, developing, and supporting student leaders across FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. What leadership looks like beyond "running the meeting" (5 distinct lead types), spotting leadership potential in quiet/reliable students not just confident ones, 4 practical techniques (role rotation, real stakes, leadership-focused debrief, succession mindset), program-specific notes for all six programs, a "when a student lead struggles" playbook, 6-row common-mistakes table. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit b17bf92 (2026-06-03 heartbeat 06:58)
+
+## Wave 78 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `for-educators/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
+- [ ] Consider a cross-program `guides/team-roles-reference.md` — one-page reference of all team roles by program (extend the student-leadership roles section into a standalone quick-ref)
+
+## Wave 79 completed
+
+- [x] `for-educators/team-documentation-system.md` — season-long documentation system guide: five document types (engineering notebook, session log, decision log, technical reference, season handoff), first-week setup steps, two-pass workflow aligning informal notes with the judged notebook, program-specific notes for all six programs, traps to avoid, quick-start checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit dcf3cc8 (2026-06-03 heartbeat 07:58)
+
+## Wave 80 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/team-roles-reference.md` — one-page reference of all team roles by program (extend the student-leadership roles section into a standalone quick-ref)
+- [ ] Consider a cross-program `guides/season-retrospective.md` — structured end-of-season retrospective format for teams and coaches (complements the handoff document idea from team-documentation-system.md)
+
+## Wave 80 completed
+
+- [x] `guides/team-roles-reference.md` — one-page reference of all team roles across FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. Per-program tables with role names, ownership descriptions, and minimum-viable-team notes; FRC sub-team model with Student Lead + Mentor Advisor split; VEX U two-robot role doubling; cross-program role assignment tips. Fills the gap from student-leadership.md by providing a quick-ref lookup rather than a development guide. Wired into sidebar, guides/index.md, skill/SKILL.md. (2026-06-03 heartbeat 08:58)
+
+## Wave 81 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/season-retrospective.md` — structured end-of-season retrospective format for teams and coaches across all six programs (complements team-documentation-system.md; focuses on running the retrospective meeting itself — what to ask, how to document insights, how to seed next season's plan)
+- [ ] Consider `for-educators/lesson-plan-library.md` — a library of ready-to-run lesson plans across all six programs (extends lesson-plan-template.md with specific examples)
+
+## Wave 81 completed
+
+- [x] `guides/season-retrospective.md` — structured end-of-season retrospective guide completing the team-management documentation triad (team-documentation-system.md for during-season, second-season guides for what to change, and now season-retrospective.md for structured year-end review). Four-question format (what went well / what to change / action items / onboarding brief), when to run by program, who attends, coach retrospective section, documentation format, seeding next season, program-specific notes for all six programs, 7-row common mistakes table, quick-start checklist. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 2a30e90 (2026-06-03 heartbeat 09:58)
+
+## Wave 82 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `for-educators/lesson-plan-library.md` — a library of ready-to-run lesson plans across all six programs (extends lesson-plan-template.md with specific examples for FLL, FTC, FRC, VEX IQ, VEX V5, VEX U)
+
+## Wave 82 completed
+
+- [x] `for-educators/lesson-plan-library.md` — library of 10 ready-to-run session plans across all six programs (FLL-1 Hello SPIKE Prime, FLL-2 Color Sensor Basics, FLL-3 Mission Strategy, FTC-1 First TeleOp Drive, FTC-2 Engineering Portfolio Workshop, FRC-1 Command-Based Framework, VEXIQ-1 Drive Base Build, VEXIQ-2 Autonomous Coding Skills, V5-1 Encoder Autonomous Drive, VEXU-1 Two-Robot Coordination). Each plan: learning objective, materials, pre-session prep, timeline table, discussion prompts, differentiation, after-session notes. Wired into sidebar, for-educators/index.md, skill/SKILL.md. (2026-06-03 heartbeat 10:58)
+
+## Wave 83 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library further — FTC Autonomous, VEX V5 IMU Autonomous, FRC auto path (PathPlanner), or a VEX IQ game strategy session
+- [ ] Consider a `for-educators/workshop-formats.md` — short-format (2–4 hour) workshop outlines for one-day events and summer camps
+
+## Wave 83 completed
+
+- [x] `for-educators/workshop-formats.md` — short-format (2–4 hour) workshop outlines for one-day events, summer camps, and intro sessions. Six formats covering all six programs: FLL SPIKE Prime Discovery (2 h), FLL Innovation Project Sprint (3 h), FTC First Drive Workshop (3 h), FRC Kickoff Experience (4 h), VEX IQ Build and Drive (2 h), VEX V5 Strategy and Drive Workshop (3 h), VEX U College Team Intro Session (4 h). Each format: kit requirements, group size, win condition, full agenda, facilitator notes, adapting guidance. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit b27ef09 (2026-06-03 heartbeat 12:58)
+
+## Wave 84 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library or workshop formats with additional programs (FTC Autonomous workshop, VEX IQ game strategy session)
+- [ ] Consider a `for-educators/camp-curriculum.md` — multi-day (3–5 day) summer camp curriculum outline stacking the single-day workshop formats into a cohesive week
+
+## Wave 85 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the camp curriculum further — VEX U camp outline (collegiate, longer session), or a "mixed-program" camp day that introduces all six in one day
+- [ ] Consider a `for-educators/camp-operations.md` — logistics guide for running a multi-day robotics camp (registration, waivers, hardware insurance, staffing ratios, budget template for camp operators)
+
+## Wave 86 completed
+
+- [x] `for-educators/camp-operations.md` — logistics guide for running a multi-day robotics camp. Covers registration model decision, per-camp budget template (all six programs), registration platforms, waiver requirements, hardware inventory and kit numbering, pre-camp device/software setup table, consumables checklist, staffing ratios, volunteer management, program-specific safety hazards, day-of session flow, check-in/check-out protocols, behaviour management, family communication templates, post-camp hardware debrief and financial close-out, and a full quick-reference checklist (4 weeks out through post-camp). Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit c9bf558 (2026-06-03 heartbeat 14:58)
+
+## Wave 87 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a cross-program `for-educators/inclusive-team-culture.md` — guide for coaches and educators on building an inclusive, psychologically safe team culture (complements accessibility-in-robotics.md and coaching-communication.md)
+- [ ] Consider expanding the lesson plan library with additional programs (FTC Autonomous, VEX V5 IMU Autonomous, FRC PathPlanner intro, VEX IQ game strategy session)
+
+## Wave 87 completed
+
+- [x] `for-educators/inclusive-team-culture.md` — "Building an Inclusive Team Culture": guide for coaches and educators on psychological safety, belonging, and inclusive practices across all six programs. Covers Amy Edmondson's psychological safety research and its robotics implications, three signals students watch (first-mistake response, idea ownership, who gets talked over), five building blocks (co-created norms, structured turn-taking, critique/person separation, rotating roles, process celebration), identity and belonging (who represents the team, cultural/linguistic diversity, gender dynamics), conflict navigation (disagreement vs. exclusion, prompt intervention, student disengagement), program-specific notes table for all six programs, coach self-check questions, quick-reference checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 9846896 (2026-06-03 heartbeat 15:58)
+
+## Wave 88 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, VEX IQ game strategy
+- [ ] Consider a cross-program `for-educators/program-selection-for-schools.md` — guide for school administrators and district coordinators deciding which program(s) to offer (budget, space, grade levels, existing STEM capacity)
+
+## Wave 88 completed
+
+- [x] `for-educators/program-selection-for-schools.md` — "Choosing a Robotics Program for Your School": guide for school administrators and district coordinators deciding which of the six programs to offer. Five-decision framework (grade band, budget, space, staffing, existing STEM capacity); quick-reference comparison table; program-specific considerations for FLL/VEX IQ/FTC/FRC/VEX V5; multi-program pipeline strategy; six-row common-mistakes table; getting-started checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. (2026-06-03 heartbeat 16:58)
+
+## Wave 89 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a cross-program `guides/outreach-guide.md` — structured guide for how teams plan and execute community outreach/impact for awards like Connect (FTC), Impact (FRC), and Excellence (VEX)
+
+## Wave 89 completed
+
+- [x] `guides/outreach-guide.md` — "Community Outreach Guide — FTC Connect, FRC Impact, and VEX Excellence": structured guide for planning and executing meaningful community outreach across all six programs. Covers what FTC Connect / FRC Impact / VEX Excellence judges look for; four outreach models (demo/recruit, workshop/camp, team mentoring, systemic partnership); FTC year-one goals and Engineering Portfolio narrative requirements; FRC three-year arc strategy, measurable outcomes table, student ownership requirements; VEX less-is-more framing and notebook connection pattern; common traps table; six cross-program activity ideas; six-week ramp for new programs. Wired into sidebar (Competition Prep), guides/index.md, skill/SKILL.md. Commit 2fb8af3 (2026-06-03 heartbeat 17:58)
+
+## Wave 90 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `guides/innovation-project-deep-dive.md` — deeper FLL Innovation Project guide extending innovation-project-guide.md: how to run the research phase, identify real problems vs. solutions, and structure the research plan document for judges
+
+## Wave 91 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `guides/innovation-project-checklist.md` — printable week-by-week IP checklist (companion to innovation-project-deep-dive.md)
+
+## Wave 91 completed
+
+- [x] `guides/innovation-project-checklist.md` — printable week-by-week IP checklist companion to innovation-project-guide.md and innovation-project-deep-dive.md. Coach prep section, 9-week process checklist (Problem Discovery through Final Polish), Tournament Day sections (Before Judging, During Judging, Debrief), Quick Reference judge table (5 categories, strong vs. weak signals). Each week has a clear goal statement and ✅ checkpoint. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 026227e (2026-06-03 heartbeat 19:58)
+
+## Wave 92 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `guides/ip-research-log-template.md` — downloadable/printable research log template for teams (extends the checklist by providing the actual logging artifact)

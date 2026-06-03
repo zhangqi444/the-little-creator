@@ -25,6 +25,11 @@ Eight-week onboarding outlines — one per program. Start with the one that matc
 ## Templates and tools
 
 - **[Lesson Plan Template](/for-educators/lesson-plan-template/)** — A reusable single-session plan format with timing, materials, and learning objectives. Copy and customize per session.
+- **[Lesson Plan Library](/for-educators/lesson-plan-library/)** — Ready-to-run lesson plans for all six programs (FLL, FTC, FRC, VEX IQ, VEX V5/VRC, VEX U). Specific examples with pre-session prep, timelines, differentiation, and after-session notes.
+- **[Workshop Formats](/for-educators/workshop-formats/)** — Short-format (2–4 hour) workshop outlines for one-day school events, summer camps, and intro sessions across all six programs. Six ready-to-run formats: FLL SPIKE Prime Discovery (2 h), FLL Innovation Project Sprint (3 h), FTC First Drive Workshop (3 h), FRC Kickoff Experience (4 h), VEX IQ Build and Drive (2 h), VEX V5 Strategy and Drive Workshop (3 h), VEX U College Team Intro Session (4 h).
+- **[Camp Curriculum](/for-educators/camp-curriculum/)** — Multi-day (3–5 day) summer camp outlines for all six programs: FLL 3-Day SPIKE Prime Challenge Camp, FLL 5-Day Full Challenge Camp, FTC 4-Day Rookie Build Camp, FRC 5-Day Kickoff Simulation Camp, VEX IQ 3-Day VIQRC Intro Camp, and VEX V5 4-Day VRC Strategy Camp. Stacks day-by-day with iteration time and a final showcase.
+- **[Camp Operations Guide](/for-educators/camp-operations/)** — Logistics guide for running a multi-day robotics camp: registration, waivers, hardware inventory, staffing ratios, safety protocols, day-of check-in/check-out, family communication, and post-camp wrap-up. Covers all six programs with a quick-reference checklist.
+- **[Inclusive Team Culture](/for-educators/inclusive-team-culture/)** — How to build a psychologically safe, inclusive team culture across all six programs. Covers psychological safety foundations, structured turn-taking, critique vs. person separation, identity and belonging, conflict intervention, and the coach's own role. Quick-reference checklist for season start.
 - **[FLL Core Values Rubric](/for-educators/core-values-rubric/)** — A practical 1–4 observation rubric for the six FLL Core Values, designed for use throughout the season (not the tournament rubric).
 
 ## Assessment
@@ -35,7 +40,12 @@ Eight-week onboarding outlines — one per program. Start with the one that matc
 ## Team and classroom management
 
 - **[Differentiation Guide](/for-educators/differentiation-guide/)** — How to adapt activities for mixed skill levels — giving every student meaningful, challenging work regardless of experience.
+- **[Differentiated Instruction (Deep Dive)](/for-educators/differentiated-instruction/)** — Tiered tasks, scaffolding, extension, and formative assessment strategies for mixed-ability and mixed-age teams across all six programs.
 - **[Parent Communication Guide](/for-educators/parent-communication/)** — Templates and tips for keeping parents informed and engaged throughout the season without getting overwhelmed.
+- **[Coaching Communication](/for-educators/coaching-communication/)** — Feedback frameworks for coaches talking to students about mistakes, failure, and setbacks across all six programs.
+- **[Program Selection for Schools](/for-educators/program-selection-for-schools/)** — Guide for school administrators and district coordinators on which of the six programs to offer: grade band, budget, space, staffing, and STEM capacity decision framework.
+- **[STEM Standards Alignment](/for-educators/stem-integration/)** — How to map robotics activities to NGSS, CSTA, and Common Core standards for administrators, grant applications, and lesson documentation. Covers all six programs.
+- **[Team Documentation System](/for-educators/team-documentation-system/)** — How to set up a season-long documentation system covering engineering notebooks, session logs, decision logs, technical reference, and season handoff for all six programs.
 
 ## Who this section is for
 

@@ -2,7 +2,7 @@
 title: Innovation Project Research Log Template
 description: A printable research log template for FLL teams — record every source, expert interview, and finding in one place so judges can see your full research process.
 tags: [fll, innovation-project, research, template, judging, documentation, coaches]
-audience: [coaches, teachers, kids, teens, parents]
+audience: [coaches, teachers, students, teens, parents]
 level: beginner
 season: evergreen
 ---

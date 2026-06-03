@@ -1,7 +1,7 @@
 ---
 title: Developing Student Leaders on Your Robotics Team
 description: How to identify, develop, and support student team leaders across FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U — building leadership capacity that outlasts any single season.
-tags: [fll, ftc, frc, vex-iq, vex-v5, vex-u, team-dynamics, coaching, leadership, kids, teens]
+tags: [fll, ftc, frc, vex-iq, vex-v5, vex-u, team-dynamics, coaching, leadership, students, teens]
 audience: [coaches, parents, teachers]
 level: intermediate
 season: evergreen

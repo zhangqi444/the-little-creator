@@ -2,7 +2,7 @@
 title: Innovation Project Deep Dive
 description: A detailed FLL Innovation Project guide — how to run the research phase, identify real problems vs. solutions, and structure a research plan and presentation that impresses judges.
 tags: [fll, innovation-project, research, judging, presentation, coaches, problem-solving]
-audience: [coaches, teachers, teens, kids]
+audience: [coaches, teachers, teens, students]
 level: intermediate
 season: evergreen
 ---

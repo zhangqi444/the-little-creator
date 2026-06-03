@@ -2,7 +2,7 @@
 title: Innovation Project Checklist
 description: A printable week-by-week checklist for FLL teams working through the Innovation Project — from picking a problem in week 1 to final presentation day.
 tags: [fll, innovation-project, checklist, judging, research, presentation, coaches]
-audience: [coaches, teachers, kids, teens, parents]
+audience: [coaches, teachers, students, teens, parents]
 level: beginner
 season: evergreen
 ---

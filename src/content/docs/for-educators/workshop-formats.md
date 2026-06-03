@@ -93,7 +93,7 @@ All formats assume one lead facilitator. Add a co-facilitator for groups over 16
 
 **Facilitator notes:**
 
-- The "interview a real person" rule is the hardest concept for kids to internalise. Name it explicitly in the framing, again when they write interview questions, and again during the debrief.
+- The "interview a real person" rule is the hardest concept for students to internalise. Name it explicitly in the framing, again when they write interview questions, and again during the debrief.
 - Fast teams will want to make their prototype elaborate. Redirect: "the pitch matters more than the model at this stage."
 
 ---

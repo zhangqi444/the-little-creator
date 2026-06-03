@@ -79,6 +79,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Alliance Scouting Guide](/guides/scouting-guide/) — Data collection, match observation, pit scouting, alliance selection strategy, and common mistakes for FTC, FRC, and VEX V5/VRC teams
 - [Drive Team Training](/guides/drive-team-training/) — How to select, train, and develop your drive team for FTC, FRC, VEX IQ, VEX V5, and VEX U — driver practice regimes, match communication, role definitions, and common mistakes
 - [Alliance Match Strategy](/guides/alliance-strategy/) — How to coordinate autonomous, TeleOp zone division, endgame sequencing, and in-match communication with your alliance partner across FTC, FRC, and VEX V5/VRC
+- [Community Outreach Guide](/guides/outreach-guide/) — How to plan and execute meaningful community outreach for FTC Connect, FRC Impact, and VEX Excellence awards; four outreach models, program-specific guidance, and a six-week ramp for new programs
 - [After Advancing — Preparing for Regionals or State Championship](/guides/after-advancing/) — What changes at the next level, 3-week prep plan, managing expectations with kids and parents
 
 ### Team culture

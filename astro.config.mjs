@@ -140,6 +140,7 @@ export default defineConfig({
                 { label: 'Alliance Scouting Guide', link: '/guides/scouting-guide/' },
                 { label: 'Drive Team Training', link: '/guides/drive-team-training/' },
                 { label: 'Alliance Match Strategy', link: '/guides/alliance-strategy/' },
+                { label: 'Community Outreach Guide', link: '/guides/outreach-guide/' },
                 { label: 'After Advancing', link: '/guides/after-advancing/' },
               ],
             },

@@ -198,6 +198,7 @@ export default defineConfig({
             { label: 'STEM Standards Alignment', link: '/for-educators/stem-integration/' },
             { label: 'Team Documentation System', link: '/for-educators/team-documentation-system/' },
             { label: 'Workshop Formats', link: '/for-educators/workshop-formats/' },
+            { label: 'Camp Curriculum', link: '/for-educators/camp-curriculum/' },
           ],
         },
         {

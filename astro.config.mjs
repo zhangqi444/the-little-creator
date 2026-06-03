@@ -197,6 +197,7 @@ export default defineConfig({
             { label: 'Coaching Communication', link: '/for-educators/coaching-communication/' },
             { label: 'STEM Standards Alignment', link: '/for-educators/stem-integration/' },
             { label: 'Team Documentation System', link: '/for-educators/team-documentation-system/' },
+            { label: 'Workshop Formats', link: '/for-educators/workshop-formats/' },
           ],
         },
         {

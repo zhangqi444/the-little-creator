@@ -634,3 +634,9 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library or workshop formats with additional programs (FTC Autonomous workshop, VEX IQ game strategy session)
 - [ ] Consider a `for-educators/camp-curriculum.md` — multi-day (3–5 day) summer camp curriculum outline stacking the single-day workshop formats into a cohesive week
+
+## Wave 85 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the camp curriculum further — VEX U camp outline (collegiate, longer session), or a "mixed-program" camp day that introduces all six in one day
+- [ ] Consider a `for-educators/camp-operations.md` — logistics guide for running a multi-day robotics camp (registration, waivers, hardware insurance, staffing ratios, budget template for camp operators)

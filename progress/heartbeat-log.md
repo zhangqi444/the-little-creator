@@ -1520,3 +1520,17 @@ Commit: 95eeb9b pushed to main.
 - the-little-creator: 0 open issues
 - Ran Wave 83 roadmap task: added `for-educators/workshop-formats.md` — six short-format workshop outlines for one-day events and summer camps
 - Commit b27ef09 pushed to main
+
+## 2026-06-03T13:58Z
+
+**Wave 85 — Camp Curriculum**
+
+- Checked open issues: the-little-creator had 0, open-forge had 1 (#55 already processed in prior heartbeat).
+- Both repos up to date via git pull.
+- Implemented Wave 84 backlog task: `for-educators/camp-curriculum.md`
+  - Multi-day (3–5 day) summer camp curriculum outlines for all six programs
+  - FLL 3-Day SPIKE Prime Challenge Camp, FLL 5-Day Full Challenge Camp, FTC 4-Day Rookie Build Camp, FRC 5-Day Kickoff Simulation Camp, VEX IQ 3-Day VIQRC Intro Camp, VEX V5 4-Day VRC Strategy Camp
+  - Each outline includes timed day-by-day agendas, kit requirements, win conditions, facilitator notes
+  - Shared principles section: win-condition rule, iteration-over-completion, notebook habit, mixed-age pairing, 70% facilitator rule, scaling table
+- Wired into: `astro.config.mjs` sidebar, `for-educators/index.md`, `skill/SKILL.md`
+- Committed and pushed: a26b0ae

@@ -1498,3 +1498,25 @@ Commit: 95eeb9b pushed to main.
 - Updated `src/content/docs/log.md` with Wave 81 entry.
 - Updated `progress/roadmap.md` (marked Wave 81 done, added Wave 82 backlog).
 - Commit `2a30e90`, pushed to main.
+
+## 2026-06-03 10:58 UTC — Heartbeat
+
+- Synced both repos (open-forge, the-little-creator) — both already up to date
+- No open issues in open-forge or the-little-creator
+- Ran Wave 82 roadmap task: added `for-educators/lesson-plan-library.md`
+- Commit a1b48d8 pushed to main
+
+## 2026-06-03 ~12:00 UTC
+
+- Step 0: Both repos synced (already up to date).
+- Step 1: open-forge — 1 new issue #55 "[software-nomination] OpenCode". Implemented: created `references/projects/opencode.md` (Tier 1 recipe covering all 11 upstream-blessed install methods), ran `build-dist.sh all`, committed (467a6eb) and pushed. Issues-log.json updated (b56a1dc).
+- Step 2: the-little-creator — 0 open issues, no action.
+- Step 3: Skipped (open-forge had a pending issue addressed this heartbeat).
+
+## 2026-06-03 12:58 UTC — Heartbeat
+
+- Synced both repos (open-forge, the-little-creator) — both already up to date
+- open-forge: 1 open issue (#55 OpenCode nomination) — already processed in previous heartbeat, skipped
+- the-little-creator: 0 open issues
+- Ran Wave 83 roadmap task: added `for-educators/workshop-formats.md` — six short-format workshop outlines for one-day events and summer camps
+- Commit b27ef09 pushed to main

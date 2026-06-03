@@ -624,3 +624,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library further — FTC Autonomous, VEX V5 IMU Autonomous, FRC auto path (PathPlanner), or a VEX IQ game strategy session
 - [ ] Consider a `for-educators/workshop-formats.md` — short-format (2–4 hour) workshop outlines for one-day events and summer camps
+
+## Wave 83 completed
+
+- [x] `for-educators/workshop-formats.md` — short-format (2–4 hour) workshop outlines for one-day events, summer camps, and intro sessions. Six formats covering all six programs: FLL SPIKE Prime Discovery (2 h), FLL Innovation Project Sprint (3 h), FTC First Drive Workshop (3 h), FRC Kickoff Experience (4 h), VEX IQ Build and Drive (2 h), VEX V5 Strategy and Drive Workshop (3 h), VEX U College Team Intro Session (4 h). Each format: kit requirements, group size, win condition, full agenda, facilitator notes, adapting guidance. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit b27ef09 (2026-06-03 heartbeat 12:58)
+
+## Wave 84 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library or workshop formats with additional programs (FTC Autonomous workshop, VEX IQ game strategy session)
+- [ ] Consider a `for-educators/camp-curriculum.md` — multi-day (3–5 day) summer camp curriculum outline stacking the single-day workshop formats into a cohesive week

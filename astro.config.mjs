@@ -190,6 +190,7 @@ export default defineConfig({
             { label: 'Differentiation Guide', link: '/for-educators/differentiation-guide/' },
             { label: 'Differentiated Instruction (Deep Dive)', link: '/for-educators/differentiated-instruction/' },
             { label: 'Parent Communication', link: '/for-educators/parent-communication/' },
+            { label: 'Coaching Communication', link: '/for-educators/coaching-communication/' },
             { label: 'STEM Standards Alignment', link: '/for-educators/stem-integration/' },
           ],
         },

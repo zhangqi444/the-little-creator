@@ -555,3 +555,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider a `for-educators/differentiated-instruction.md` — deeper teaching strategies for mixed-ability and mixed-age robotics teams (extends the accessibility guide and assessment-rubric.md)
 - [ ] Consider a `guides/team-documentation-system.md` — how to set up a season-long documentation system that supports both engineering notebook requirements and knowledge transfer
+
+## Wave 75 completed
+
+- [x] `for-educators/differentiated-instruction.md` — deeper differentiated instruction guide extending differentiation-guide.md and assessment-rubric.md. Covers tiered tasks (FLL/FTC examples), scaffolding techniques (worked examples, partial code, think-alouds, reference cards, intentional peer pairing), extension techniques by domain, mixed-age developmental differences table, formative assessment at team speed (exit slips, targeted questions, demonstration gates), differentiated session planning, and program-specific notes for all six programs. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit cdd12bc (2026-06-03 heartbeat 04:58)
+
+## Wave 76 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a `for-educators/coaching-communication.md` — communicating effectively with students about mistakes, failure, and setbacks; feedback frameworks for coaches (complements parent-communication.md which is family-facing)
+- [ ] Consider a `guides/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer

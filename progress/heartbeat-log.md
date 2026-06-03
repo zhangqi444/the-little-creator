@@ -1423,3 +1423,18 @@ Commit: 95eeb9b pushed to main.
 
 - **Issues**: open-forge 0 open issues; the-little-creator 0 open issues
 - **Roadmap (Wave 74)**: Created `guides/accessibility-in-robotics.md` — cross-program guide for coaches adapting robotics programs for students with disabilities or learning differences (physical, sensory, cognitive, communication, inclusive team structure, tournament/event accommodations). Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 4b396b0.
+
+## 2026-06-03 04:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 75)**:
+- Created `src/content/docs/for-educators/differentiated-instruction.md` (245 lines) — deeper DI strategies guide covering tiered tasks, scaffolding techniques, extension prompts, mixed-age team adaptations, formative assessment methods, session planning, and all-six-program notes.
+- Wired into `astro.config.mjs` sidebar (after Differentiation Guide).
+- Updated `src/content/docs/for-educators/index.md` — added new page to Team and classroom management section.
+- Updated `skill/SKILL.md` — added cross-program link.
+- Commit `cdd12bc`, pushed to main.

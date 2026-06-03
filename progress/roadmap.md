@@ -696,3 +696,23 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
 - [ ] Consider a `guides/ip-research-log-template.md` — downloadable/printable research log template for teams (extends the checklist by providing the actual logging artifact)
+
+## Wave 92 completed
+
+- [x] `guides/ip-research-log-template.md` — Printable research log template for FLL teams. Six parts: Team/Project Overview (team name, season, problem statement, proposed solution); Source Log (10-row table tracking date, title, type, URL, key finding, usefulness, finder); Expert Interview Log (three full sections each with contact details, questions asked, key learnings, and "how this changed our thinking"); Research Synthesis (what we know for certain / think is true / still unsure about / what surprised us / how thinking evolved); Solution Development Log (idea iteration table + final solution rationale); Presentation Prep Notes (key fact, expert insight, narrative moment, expected judge Q&A table). Tournament-day guidance and crosslinks to all four IP companion guides. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 4941d15 (2026-06-03 heartbeat 20:58)
+
+## Wave 93 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `for-educators/peer-learning-guide.md` — how to structure team sessions so students teach each other (peer instruction, pair programming, rotating leads)
+
+## Wave 93 completed
+
+- [x] `for-educators/peer-learning-guide.md` — "Peer Learning Guide — Students Teaching Each Other": how to structure team sessions so students teach each other across all six programs. Four structures: pair programming (driver/navigator pattern with program-specific notes), rotating technical leads (every session, 90-second status summaries), teach-back sessions (5–10 min at session start after a student solves something hard), and peer review of documentation (understanding gaps, not copy-editing). Includes 90-minute sample session plan, 6-row common mistakes table, program-specific notes table, and quick-start checklist. Wired into sidebar (after Program Selection for Schools), for-educators/index.md, skill/SKILL.md. Commit 4dbdf7d (2026-06-03 heartbeat 21:58)
+
+## Wave 94 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `for-educators/questioning-techniques.md` — Socratic questioning and questioning strategies for coaches (complements coaching-communication.md and peer-learning-guide.md)

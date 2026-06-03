@@ -1622,3 +1622,27 @@ Commit: 95eeb9b pushed to main.
   - Companion piece to innovation-project-guide.md and innovation-project-deep-dive.md
   - Wired into: astro.config.mjs sidebar, guides/index.md, skill/SKILL.md
 - Commit: 026227e — feat: add Innovation Project Checklist (Wave 91)
+
+## 2026-06-03 20:58 UTC
+
+**Heartbeat run** — Wave 92
+
+- open-forge issues: Issue #55 already processed (logged); no new issues
+- the-little-creator issues: none open
+- Roadmap task: implemented `guides/ip-research-log-template.md` (Wave 92)
+  - Printable research log template for FLL teams working on the Innovation Project
+  - Part 1: Team/Project Overview (team name, season, problem statement, proposed solution, coach)
+  - Part 2: Source Log (10-row table: date, title, type, URL, key finding, usefulness, finder)
+  - Part 3: Expert Interview Log (3 full sections: contact details, questions, learnings, thinking impact)
+  - Part 4: Research Synthesis (what we know / think / unsure / surprised by / how thinking changed)
+  - Part 5: Solution Development Log (idea iteration table + final solution framing)
+  - Part 6: Presentation Prep Notes (key fact, expert insight, narrative moment, judge Q&A table)
+  - Companion piece to innovation-project-guide.md, innovation-project-deep-dive.md, innovation-project-checklist.md, ip-expert-interview.md
+  - Wired into: astro.config.mjs sidebar, guides/index.md, skill/SKILL.md
+- Commit: 4941d15 — feat: add IP Research Log Template (Wave 92)
+
+## 2026-06-03 21:58 UTC
+
+- **Issues:** open-forge #55 already processed (logged). No new open issues in either repo.
+- **Roadmap task (Wave 93):** Created `for-educators/peer-learning-guide.md` — peer learning structures for coaches across all six programs (pair programming, rotating leads, teach-backs, peer review). Wired into sidebar, for-educators/index.md, skill/SKILL.md.
+- **Commit:** 4dbdf7d pushed to the-little-creator main.

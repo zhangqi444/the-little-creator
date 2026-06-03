@@ -304,10 +304,12 @@ If something's off, edit the system prompt and re-test. The system prompt is the
 Click **Save** (top right), then choose visibility:
 
 - **Only me** — for testing
-- **Anyone with the link** — easiest for sharing in newsletters, school groups, Discord
-- **Public (in GPT Store)** — listed for everyone; good for community discoverability
+- **Anyone with the link** — **recommended for production.** Used for sharing in newsletters, school groups, Discord, the wiki's README.
+- **Public (in GPT Store)** — **not available for this GPT.** OpenAI's "GPT Content" policy blocks public listing of any GPT whose content covers programs for children under 13. Because the wiki describes FLL Discover (ages 4–6), FLL Explore (ages 6–10), FLL Challenge (9–16), and VEX IQ (8–14) in substantive depth, the classifier flags the GPT with: *"May contain content targeting users under 13 years of age."* This is the policy boundary, not a tunable parameter — no amount of name / description / system-prompt scrubbing changes that the knowledge files describe under-13 programs. The classifier reads the knowledge files.
 
-For most cases, start with **Anyone with the link**. Promote to **Public** once you're confident in the answers.
+**Stick with "Anyone with the link."** Functionally identical for users who arrive via your wiki, README, school newsletters, or FLL Facebook groups — the only thing you lose is appearing in the GPT Store's public search. For this wiki's distribution model (parents and coaches finding the GPT through the wiki itself), the Store was never the primary channel anyway.
+
+If you genuinely need the public listing, OpenAI has an appeal process (link in the rejection email). The argument would be: this GPT serves adults in a professional capacity (parents/coaches/teachers) the same way a "Pediatric Nursing Helper" GPT would serve nurses, not patients. Outcome not guaranteed.
 
 ## Step 10 — Share
 

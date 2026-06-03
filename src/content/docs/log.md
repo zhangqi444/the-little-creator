@@ -557,3 +557,16 @@ The recovered orphan entries were committed manually in db807a5.
 ## 2026-06-02 20:58 UTC — Wave 67
 
 - Added `guides/mental-models-for-competition.md` — "Mental Models for Competition — Thinking Tools for Older and Returning Teams": deeper cognitive frameworks for FTC, FRC, VEX V5, and VEX U teams. Covers six models: (1) growth vs. fixed mindset (Dweck), with robotics-specific examples and debrief questions; (2) process vs. outcome focus, including a controllable-only pre-match checklist and retrospective discipline; (3) locus of control calibration — distinguishing controllable from uncontrollable factors in a bad-match debrief; (4) the prepare/perform/recover performance cycle with mode-switching guidance and pit schedule rhythm; (5) reframing pressure as excitement (Brooks, Harvard), with pre-match verbal cues; (6) attribution patterns and feedback loops (Weiner, Heider) with shaping questions for coaches. Includes a layered competition-day mental framework, program-specific notes for FTC/FRC/VRC/VEX U, a 6-row common-mistakes table, and a quick-reference table. Wired into astro.config.mjs sidebar (Team Culture section, after Managing First-Competition Nerves), guides/index.md (Team Culture section), skill/SKILL.md (Cross-program line).
+
+### 2026-06-02 — GPT public listing blocked by OpenAI policy; documenting reality
+
+After the round of adult-facing scrubbing in d8d8c39, OpenAI's classifier still flagged the GPT with "May contain content targeting users under 13 years of age." The blocker isn't the framing — it's that the knowledge files describe FLL Discover (4-6), Explore (6-10), Challenge (9-16), and VEX IQ (8-14) in substantive depth. The classifier reads the .txt files, not just the name and description.
+
+This is the policy boundary, not a tunable parameter. Reframing the name/description as adult-targeted gets the GPT past *positioning* checks but cannot get past *content* checks when the content's subject matter is under-13 children.
+
+Updated CUSTOM-GPT-SETUP.md Step 9 to document this honestly:
+- "Anyone with the link" is now the recommended production setting
+- "Public (in GPT Store)" listed as unavailable for this GPT with the reason explained
+- Noted the appeal route exists but with no guarantee
+
+Functional impact: zero. The GPT works identically when shared via link — the only loss is appearing in the GPT Store's public search, which was never our primary distribution channel anyway (wiki, README, FLL Facebook groups, school newsletters all use direct links).

@@ -1396,3 +1396,18 @@ Commit: 95eeb9b pushed to main.
 - Updated `skill/SKILL.md` — added to cross-program links.
 - Updated `src/content/docs/log.md` with audit entry.
 - Commit `1adda2e`, pushed to main.
+
+## 2026-06-03 01:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — open-forge issues**: No open issues.
+
+**Step 2 — the-little-creator issues**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 72)**:
+- Created `src/content/docs/guides/school-club-vs-community-team.md` (198 lines) — cross-program guide comparing school-based clubs and independent community teams for all six programs. Covers two-models comparison table, school/club model in depth, community team model (legal structures), hybrid models, per-program guidance, 5-question decision framework, and common-mistakes table.
+- Updated `astro.config.mjs` — added School Club vs. Community Team to sidebar (Getting Started section).
+- Updated `src/content/docs/guides/index.md` — added new guide to Getting Started section.
+- Updated `skill/SKILL.md` — added new guide to cross-program links.
+- Commit `88408fb`, pushed to main.

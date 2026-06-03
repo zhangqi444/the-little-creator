@@ -526,3 +526,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider a cross-program `guides/school-club-vs-community-team.md` — comparing running a robotics team as a school club vs. an independent community team (legal structure, funding access, liability, flexibility)
 - [ ] Consider `guides/vex-u-robot-design.md` — already exists from Wave 39; check if any gap remains
+
+## Wave 72 completed
+
+- [x] `guides/school-club-vs-community-team.md` — cross-program guide comparing school-based clubs and independent community teams. Side-by-side comparison table, school/club model in depth (strengths, weaknesses, best-fit), community team model in depth (legal structures: informal/501(c)(3)/LLC/umbrella org; strengths, weaknesses, best-fit), hybrid models, per-program notes (FLL/VEX IQ default school club; FTC both; FRC community/hybrid; VEX U university org), 5-question decision framework, 6-row common-mistakes table. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 88408fb (2026-06-03 heartbeat 01:58)
+
+## Wave 73 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider `guides/accessibility-in-robotics.md` — adapting FLL/VEX IQ/FTC for students with disabilities; inclusive team practices
+- [ ] Consider `for-educators/stem-integration.md` — how to align robotics programs with school curriculum standards (NGSS, CSTA)

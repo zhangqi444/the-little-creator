@@ -39,6 +39,7 @@ Eight-week onboarding outlines — one per program. Start with the one that matc
 - **[Parent Communication Guide](/for-educators/parent-communication/)** — Templates and tips for keeping parents informed and engaged throughout the season without getting overwhelmed.
 - **[Coaching Communication](/for-educators/coaching-communication/)** — Feedback frameworks for coaches talking to students about mistakes, failure, and setbacks across all six programs.
 - **[STEM Standards Alignment](/for-educators/stem-integration/)** — How to map robotics activities to NGSS, CSTA, and Common Core standards for administrators, grant applications, and lesson documentation. Covers all six programs.
+- **[Team Documentation System](/for-educators/team-documentation-system/)** — How to set up a season-long documentation system covering engineering notebooks, session logs, decision logs, technical reference, and season handoff for all six programs.
 
 ## Who this section is for
 

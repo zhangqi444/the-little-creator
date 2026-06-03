@@ -78,6 +78,7 @@ export default defineConfig({
                 { label: 'Grants & Sponsorship', link: '/guides/grants-and-sponsorship-guide/' },
                 { label: 'Season Budget Template', link: '/guides/budget-template/' },
                 { label: 'Used vs. New Hardware', link: '/guides/choosing-equipment-used-vs-new/' },
+                { label: 'School Club vs. Community Team', link: '/guides/school-club-vs-community-team/' },
                 { label: 'Division Eligibility', link: '/guides/division-eligibility/' },
                 { label: 'Managing Your Season', link: '/guides/managing-your-season/' },
                 { label: 'Off-Season Activities', link: '/guides/off-season-activities/' },

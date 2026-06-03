@@ -27,6 +27,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Grants and Sponsorship — A Cross-Program Guide](/guides/grants-and-sponsorship-guide/) — Full funding landscape for all six programs: FIRST and RECF grants, PDO grants, corporate sponsors, employer matching, foundation grants, and a multi-year sponsorship strategy
 - [Season Budget Template — All Six Programs](/guides/budget-template/) — Line-by-line cost estimates and a copy-paste budget spreadsheet template for FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U teams
 - [Used vs. New Hardware — How to Choose](/guides/choosing-equipment-used-vs-new/) — What is safe to buy secondhand, what to avoid, and where to find good deals across all six programs
+- [School Club vs. Community Team](/guides/school-club-vs-community-team/) — Comparing school-based clubs and independent community teams: legal structure, funding access, liability, scheduling, and which model fits each program
 - [FLL Future Edition Transition — What It Means for Your Team](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained practically
 - [Registration Reference — Region by Region](/guides/registration-reference/) — Verified registration pages for Washington, Oregon, Texas, California, Florida, Michigan, Mid-Atlantic, and international partners
 - [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep the relationship healthy

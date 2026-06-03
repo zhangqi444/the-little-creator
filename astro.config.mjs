@@ -75,6 +75,7 @@ export default defineConfig({
                 { label: 'Starting a VEX U Team', link: '/guides/vex-u-first-team/' },
                 { label: 'Equipment Guide', link: '/guides/equipment-guide/' },
                 { label: 'Team Funding', link: '/guides/team-funding/' },
+                { label: 'Grants & Sponsorship', link: '/guides/grants-and-sponsorship-guide/' },
                 { label: 'Season Budget Template', link: '/guides/budget-template/' },
                 { label: 'Used vs. New Hardware', link: '/guides/choosing-equipment-used-vs-new/' },
                 { label: 'Division Eligibility', link: '/guides/division-eligibility/' },

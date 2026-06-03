@@ -24,6 +24,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Off-Season Activities — Staying Sharp Between Competition Seasons](/guides/off-season-activities/) — What teams can do between competition seasons: off-season events, driver practice, skill-building, documentation, outreach, and program-specific tips for all six programs
 - [How to Register for FLL Challenge](/guides/registration-guide/) — Step-by-step: national FIRST registration plus your regional partner sign-up
 - [Funding Your FLL Team — Grants, Sponsors, and Fundraising](/guides/team-funding/) — How to cover registration, equipment, and travel costs; known grant programs and a sponsor pitch template
+- [Grants and Sponsorship — A Cross-Program Guide](/guides/grants-and-sponsorship-guide/) — Full funding landscape for all six programs: FIRST and RECF grants, PDO grants, corporate sponsors, employer matching, foundation grants, and a multi-year sponsorship strategy
 - [Season Budget Template — All Six Programs](/guides/budget-template/) — Line-by-line cost estimates and a copy-paste budget spreadsheet template for FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U teams
 - [Used vs. New Hardware — How to Choose](/guides/choosing-equipment-used-vs-new/) — What is safe to buy secondhand, what to avoid, and where to find good deals across all six programs
 - [FLL Future Edition Transition — What It Means for Your Team](/guides/future-edition-transition/) — Should you buy SPIKE Prime? What changes in 2026/27? Two-track transition explained practically

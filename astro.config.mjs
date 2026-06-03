@@ -157,6 +157,7 @@ export default defineConfig({
                 { label: 'Managing First-Competition Nerves', link: '/guides/first-competition-nerves/' },
                 { label: 'Mental Models for Competition', link: '/guides/mental-models-for-competition/' },
                 { label: 'Accessibility in Robotics', link: '/guides/accessibility-in-robotics/' },
+                { label: 'Student Leadership', link: '/guides/student-leadership/' },
               ],
             },
             {

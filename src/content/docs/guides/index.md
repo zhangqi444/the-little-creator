@@ -92,6 +92,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Managing First-Competition Nerves](/guides/first-competition-nerves/) — A parent and coach guide to helping kids manage competition anxiety across all six programs — before the event, during it, and after
 - [Mental Models for Competition](/guides/mental-models-for-competition/) — Growth mindset, process vs. outcome focus, locus of control, and other frameworks for older and returning teams performing under pressure
 - [Accessibility in Robotics](/guides/accessibility-in-robotics/) — Practical accommodations and inclusive team practices for coaches adapting FLL, FTC, FRC, and VEX programs for students with disabilities or learning differences
+- [Developing Student Leaders](/guides/student-leadership/) — How to identify, develop, and support student team leaders across all six programs — role rotation, succession planning, and program-specific approaches
 
 ### Returning coaches
 - [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management

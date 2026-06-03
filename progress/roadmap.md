@@ -585,3 +585,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `for-educators/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
 - [ ] Consider a cross-program `guides/team-roles-reference.md` — one-page reference of all team roles by program (extend the student-leadership roles section into a standalone quick-ref)
+
+## Wave 79 completed
+
+- [x] `for-educators/team-documentation-system.md` — season-long documentation system guide: five document types (engineering notebook, session log, decision log, technical reference, season handoff), first-week setup steps, two-pass workflow aligning informal notes with the judged notebook, program-specific notes for all six programs, traps to avoid, quick-start checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit dcf3cc8 (2026-06-03 heartbeat 07:58)
+
+## Wave 80 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/team-roles-reference.md` — one-page reference of all team roles by program (extend the student-leadership roles section into a standalone quick-ref)
+- [ ] Consider a cross-program `guides/season-retrospective.md` — structured end-of-season retrospective format for teams and coaches (complements the handoff document idea from team-documentation-system.md)

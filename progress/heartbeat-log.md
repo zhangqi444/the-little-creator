@@ -1365,3 +1365,34 @@ Commit: 95eeb9b pushed to main.
 - Updated `guides/index.md` — added entry after Parent Volunteer Guide in Team culture section.
 - Updated `skill/SKILL.md` — added to cross-program links.
 - Commit `0f79c44`, pushed to main.
+
+## 2026-06-02 23:58 UTC — Wave 70
+
+**Step 0 — Sync**: Both repos already up to date.
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 70)**:
+- Created `src/content/docs/guides/pit-design-guide.md` (~230 lines) — "Pit Design Guide": cross-program pit setup guide for FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. Sections: what every pit needs (universal table), general layout principles (three-zone table, floor clear, role assignment, label everything), per-program sections (FLL folding table, FTC 6x8 bay with robot-at-eye-level tip, FRC 10x10 with pit board + battery rotation priority + inspection note, VEX IQ shared table with spare-parts container, VEX V5 robot-at-a-glance card + lift stand + firmware tip, VEX U two-robot pit with Robot A/B leads + notebook keeper), 7-row common mistakes table, quick-reference pit load-in checklist, related guides section.
+- Updated `astro.config.mjs` — added Pit Design Guide to sidebar (Team Culture section, after Event Volunteering Guide).
+- Updated `guides/index.md` — added entry after Event Volunteering Guide in Team culture section.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Commit `968e96a`, pushed to main.
+
+## 2026-06-03 00:58 UTC — Wave 71
+
+**Step 0 — Sync**: open-forge: already up to date. the-little-creator: pulled 2 new commits (ARCHITECTURE.md + log.md).
+
+**Step 1 — Issues (open-forge)**: No open issues.
+
+**Step 2 — Issues (the-little-creator)**: No open issues.
+
+**Step 3 — Roadmap iteration (Wave 71)**:
+- Created `src/content/docs/guides/grants-and-sponsorship-guide.md` (~230 lines) — "Grants and Sponsorship — A Cross-Program Guide": cross-program funding guide extending team-funding.md (FLL-only) to cover all six programs. Four-tier structure: (1) official FIRST/RECF grant programmes (Grants Database, RECF grants, FRC district grants, VEX U scholarships), (2) regional PDO grants with finder links and examples (FIRST Washington, FIRST in Texas, IET UK, VEX event partner waivers), (3) corporate sponsors (who-to-target table, employer matching programmes, tiered sponsorship levels, 150-word outreach email template, follow-up/stewardship guidance), (4) STEM foundation and government grants (STEMfunders.org, Toshiba, Siemens, Verizon, Title I, USDA, 21st Century). Includes multi-year strategy (Year 1 cover → Year 2 stabilize → Year 3+ build), programme-specific notes for all six programs, 7-row common mistakes table, and a quick-start checklist.
+- Updated `astro.config.mjs` — added Grants & Sponsorship to sidebar (after Team Funding, before Season Budget Template).
+- Updated `guides/index.md` — added entry after Team Funding in Getting started section.
+- Updated `skill/SKILL.md` — added to cross-program links.
+- Updated `src/content/docs/log.md` with audit entry.
+- Commit `1adda2e`, pushed to main.

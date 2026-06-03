@@ -507,3 +507,22 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/pit-design-guide.md` — how to set up and organise your pit area effectively for all six programs
 - [ ] Consider a cross-program `guides/grants-and-sponsorship-guide.md` — deeper guide on finding grants and sponsors (extends team-funding.md)
+
+## Wave 70 completed
+
+- [x] `guides/pit-design-guide.md` — six-program pit setup guide: universal table-zoning layout principles (active/staging/documentation zones), battery rotation, role assignment, per-program sections (FLL folding table, FTC 6x8 bay + judging-walk tips, FRC 10x10 with pit board + battery rotation priority, VEX IQ shared table with spare-parts management, VEX V5 robot-at-a-glance card + lift stand tips, VEX U two-robot pit management with Robot A/B leads), 7-row common mistakes table, and a quick-reference load-in checklist. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 968e96a (2026-06-02 heartbeat 23:58)
+
+## Wave 71 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/grants-and-sponsorship-guide.md` — deeper guide on finding grants and sponsors (extends team-funding.md with concrete grant programs, corporate outreach templates, and multi-year strategy)
+
+## Wave 71 completed
+
+- [x] `guides/grants-and-sponsorship-guide.md` — cross-program grants and sponsorship guide extending team-funding.md (FLL-only) to cover all six programs. Four-tier funding structure: official grants (FIRST/RECF), regional PDO grants, corporate sponsors (with email template and employer matching guidance), and foundation/government grants. Includes multi-year funding strategy, six programme-specific notes, 7-row mistakes table, and quick-start checklist. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 1adda2e (2026-06-03 heartbeat 00:58)
+
+## Wave 72 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a cross-program `guides/school-club-vs-community-team.md` — comparing running a robotics team as a school club vs. an independent community team (legal structure, funding access, liability, flexibility)
+- [ ] Consider `guides/vex-u-robot-design.md` — already exists from Wave 39; check if any gap remains

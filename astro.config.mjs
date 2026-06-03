@@ -188,6 +188,7 @@ export default defineConfig({
             { label: 'Assessment Guide (All Programs)', link: '/for-educators/assessment-guide/' },
             { label: 'Differentiation Guide', link: '/for-educators/differentiation-guide/' },
             { label: 'Parent Communication', link: '/for-educators/parent-communication/' },
+            { label: 'STEM Standards Alignment', link: '/for-educators/stem-integration/' },
           ],
         },
         {

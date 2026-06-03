@@ -36,6 +36,7 @@ Eight-week onboarding outlines — one per program. Start with the one that matc
 
 - **[Differentiation Guide](/for-educators/differentiation-guide/)** — How to adapt activities for mixed skill levels — giving every student meaningful, challenging work regardless of experience.
 - **[Parent Communication Guide](/for-educators/parent-communication/)** — Templates and tips for keeping parents informed and engaged throughout the season without getting overwhelmed.
+- **[STEM Standards Alignment](/for-educators/stem-integration/)** — How to map robotics activities to NGSS, CSTA, and Common Core standards for administrators, grant applications, and lesson documentation. Covers all six programs.
 
 ## Who this section is for
 

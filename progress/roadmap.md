@@ -536,3 +536,12 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider `guides/accessibility-in-robotics.md` — adapting FLL/VEX IQ/FTC for students with disabilities; inclusive team practices
 - [ ] Consider `for-educators/stem-integration.md` — how to align robotics programs with school curriculum standards (NGSS, CSTA)
+
+## Wave 73 completed
+
+- [x] `for-educators/stem-integration.md` — STEM curriculum standards alignment guide: how to map FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U activities to NGSS (ETS1 engineering design), CSTA K-12 CS standards, and Common Core Math/ELA. Per-program standards tables, three curriculum integration patterns (stand-alone elective, embedded STEM class, after-school club), practical advice for lesson plan documentation, grant writing, and student notebook entries. Wired into sidebar, for-educators/index.md, and skill/SKILL.md. Commit 8108349 (2026-06-03 heartbeat 02:58)
+
+## Wave 74 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/accessibility-in-robotics.md` — adapting FLL/VEX IQ/FTC for students with disabilities; inclusive team practices

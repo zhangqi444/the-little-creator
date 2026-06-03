@@ -1411,3 +1411,10 @@ Commit: 95eeb9b pushed to main.
 - Updated `src/content/docs/guides/index.md` — added new guide to Getting Started section.
 - Updated `skill/SKILL.md` — added new guide to cross-program links.
 - Commit `88408fb`, pushed to main.
+
+## 2026-06-03 02:58 UTC
+
+- Both repos already up to date (open-forge, the-little-creator)
+- open-forge: 0 open issues
+- the-little-creator: 0 open issues
+- Roadmap (Wave 73): Created `for-educators/stem-integration.md` — NGSS/CSTA/CCSS standards alignment guide for all six robotics programs. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8108349.

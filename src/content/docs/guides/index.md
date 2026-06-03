@@ -81,7 +81,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 
 ### Team culture
 - [Core Values Team Activities](/guides/core-values-activities/) — Practical team-building activities that help your team genuinely live FLL Core Values
-- [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like — concrete examples for kids, coaches, and parents
+- [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like — concrete examples for participants, coaches, and parents
 - [Coaching Without Doing It For Them](/guides/coaching-without-doing/) — How to guide kids toward solutions without solving problems for them; handling dominant kids, disengaged kids, and your own coaching instincts
 - [When a Kid Wants to Quit Mid-Season](/guides/when-a-kid-wants-to-quit/) — How to listen, diagnose the real cause, when to push vs. let go, and how to handle an exit gracefully
 - [Parent Volunteer Guide](/guides/parent-volunteer-guide/) — How parents can contribute to team success without overstepping — event volunteering, sideline behaviour, skill contributions, and adapting by program

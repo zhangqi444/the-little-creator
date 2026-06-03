@@ -146,7 +146,7 @@ Scorekeepers enter match results into the event management software; AV operator
 
 ### FLL (FIRST LEGO League)
 
-FLL events are often the most family-friendly. Typical event size is 10–24 teams; some regional invitationals are larger. Volunteer roles at FLL include referee, judge (three separate panels), scorekeeper, field resetter, and general helpers (check-in, lunch, photos).
+FLL events are often the most newcomer-friendly. Typical event size is 10–24 teams; some regional invitationals are larger. Volunteer roles at FLL include referee, judge (three separate panels), scorekeeper, field resetter, and general helpers (check-in, lunch, photos).
 
 **Key tip:** FLL judging is built around how kids communicate, not just what they built. Good FLL judges use short, encouraging questions and leave the kids feeling heard.
 

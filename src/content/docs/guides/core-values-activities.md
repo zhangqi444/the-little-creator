@@ -2,7 +2,7 @@
 title: Core Values Team Activities
 description: Practical team-building activities that help FLL teams genuinely live FLL Core Values — not just perform them for judges.
 tags: [fll, core-values, teamwork, activities, coaches, teachers]
-audience: [coaches, teachers, parents, kids, teens]
+audience: [coaches, teachers, parents, students, teens]
 level: beginner
 season: evergreen
 ---

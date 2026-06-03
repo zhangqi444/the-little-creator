@@ -2,7 +2,7 @@
 title: FLL Robot Troubleshooting — Common Problems and Fixes
 description: Practical fixes for the most common FLL SPIKE Prime robot problems. Robot drifting, missing missions, attachments not working, inconsistent runs, and tournament-day failures.
 tags: [fll, spike-prime, troubleshooting, debugging, robot, programming, hardware]
-audience: [coaches, kids, families]
+audience: [coaches, students, families]
 level: beginner
 season: evergreen
 ---

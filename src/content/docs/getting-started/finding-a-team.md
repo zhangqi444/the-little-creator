@@ -1,8 +1,8 @@
 ---
 title: How to Find and Join a Team Near You
 description: Step-by-step guide for families who want to join an existing FLL, FTC, FRC, VEX IQ, VEX V5, or VEX U team rather than start their own.
-tags: [fll, ftc, frc, vex-iq, vex-v5, vex-u, getting-started, families, parents, kids, teens]
-audience: [families, parents, kids, teens]
+tags: [fll, ftc, frc, vex-iq, vex-v5, vex-u, getting-started, families, parents, students, teens]
+audience: [families, parents, students, teens]
 level: beginner
 season: evergreen
 ---

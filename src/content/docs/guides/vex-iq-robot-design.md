@@ -1,8 +1,8 @@
 ---
 title: VEX IQ Robot Design Guide
 description: How to design and build a competitive VEX IQ (VIQRC) robot — drivetrain options, mechanism design for snap-together plastic parts, motor budgeting, Autonomous Coding Skills, and Teamwork Challenge strategy for ages 8–14.
-tags: [vex-iq, viqrc, robot, drivetrain, design, build, engineering, strategy, kids, coaches]
-audience: [kids, teens, coaches, parents]
+tags: [vex-iq, viqrc, robot, drivetrain, design, build, engineering, strategy, students, coaches]
+audience: [students, teens, coaches, parents]
 level: beginner
 season: evergreen
 ---

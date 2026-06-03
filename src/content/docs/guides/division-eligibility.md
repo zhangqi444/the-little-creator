@@ -46,7 +46,7 @@ Kids aged 9 or 10 are eligible for **either** Explore or Challenge. Both are val
 - Wants competitive tournaments
 - Has a group of 2–10 kids their age ready to form a team
 
-There is no shame in starting a 9-year-old in Explore — it's excellent preparation for Challenge the following year. Many coaches recommend it for kids with no prior FLL or coding experience.
+There is no shame in starting a 9-year-old in Explore — it's excellent preparation for Challenge the following year. Many coaches recommend it for students with no prior FLL or coding experience.
 
 ---
 

@@ -308,7 +308,7 @@ Community-maintained C++ library for PROS providing Odometry, PID, and Pure Purs
 - **Tags:** vex-iq, youtube, tutorials, programming, building
 - **Use when:** Looking for practical VEX IQ build and programming tutorials in video format.
 
-Independent YouTube channel focused on VEX IQ tutorials — building techniques, VEXcode Python programming, and competition tips. Family-friendly. Good starting point for visual learners.
+Independent YouTube channel focused on VEX IQ tutorials — building techniques, VEXcode Python programming, and competition tips. Newcomer-friendly. Good starting point for visual learners.
 
 ### 1010W Robotics
 

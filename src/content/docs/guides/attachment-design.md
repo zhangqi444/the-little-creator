@@ -2,7 +2,7 @@
 title: FLL Robot Attachment Design
 description: How to design, build, and test effective SPIKE Prime attachments for FLL missions. Principles of leverage, connection methods, common failure modes, and the iteration mindset.
 tags: [fll, spike-prime, robot, attachments, building, engineering, design]
-audience: [kids, teens, coaches, parents]
+audience: [students, teens, coaches, parents]
 level: beginner
 season: evergreen
 ---

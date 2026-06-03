@@ -102,14 +102,14 @@ Have hard-won experience to share? A guide you wish had existed when you started
 title: Your Guide Title
 description: One to two sentences describing what this guide covers.
 tags: [fll, relevant-tags]
-audience: [families, coaches, kids]
+audience: [families, coaches, students]
 level: beginner
 season: evergreen
 ---
 ```
 
 4. Write in plain language — this audience is mostly parents and kids, not engineers
-5. Follow the non-negotiables in [CLAUDE.md](https://github.com/zhangqi444/the-little-creator/blob/main/CLAUDE.md): family-friendly, describe-and-link (don't republish others' content), cite sources
+5. Follow the non-negotiables in [CLAUDE.md](https://github.com/zhangqi444/the-little-creator/blob/main/CLAUDE.md): newcomer-friendly, describe-and-link (don't republish others' content), cite sources
 6. Submit a pull request
 
 Not sure if your guide idea fits? Open a Discussion first — we're happy to give feedback before you write.
@@ -120,7 +120,7 @@ Submit your team's season to the [Showcase](/showcase/) — robot builds, compet
 
 ## Contribution guidelines (short version)
 
-- **Family-friendly always** — kids may read every page
+- **Newcomer-friendly always** — kids may read every page
 - **Describe and link, never copy** — summarise in your own words and link; don't paste content from FIRST, LEGO, VEX, or others
 - **Cite your sources** — every factual claim gets a link
 - **Be honest about uncertainty** — especially around current-season specifics

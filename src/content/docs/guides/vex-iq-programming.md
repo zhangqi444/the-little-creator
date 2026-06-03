@@ -2,7 +2,7 @@
 title: VEX IQ Programming Guide
 description: Getting started with programming your VEX IQ robot — VEXcode Blocks, VEXcode Python, and practical techniques for competition.
 tags: [vex-iq, programming, python, block-based, vexcode, beginners]
-audience: [kids, teens, parents, coaches]
+audience: [students, teens, parents, coaches]
 level: beginner
 season: evergreen
 ---

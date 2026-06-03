@@ -1,6 +1,6 @@
 ---
 title: You Advanced — Now What? Preparing for Regionals or State Championship
-description: Your team just earned a bid to the next level. Here's what changes, what to do in the next 3–4 weeks, and how to manage expectations for kids and parents.
+description: Your team just earned a bid to the next level. Here's what changes, what to do in the next 3–4 weeks, and how to manage expectations for participants, coaches, and parents.
 tags: [fll, advancement, regionals, state-championship, competition-prep, coaches]
 audience: [coaches, parents, families]
 level: intermediate

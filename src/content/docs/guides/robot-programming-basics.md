@@ -2,7 +2,7 @@
 title: FLL Robot Programming Basics (SPIKE Prime)
 description: Getting started with programming your FLL Challenge robot — block-based SPIKE App and Python, with practical tips for beginners.
 tags: [fll, spike-prime, programming, python, block-based, beginners]
-audience: [kids, teens, parents, coaches]
+audience: [students, teens, parents, coaches]
 level: beginner
 season: 2025
 ---

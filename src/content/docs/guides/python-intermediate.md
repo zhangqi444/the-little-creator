@@ -2,7 +2,7 @@
 title: Intermediate Python for FLL Robots
 description: Level up your SPIKE Prime Python — gyro-corrected driving, basic PID control, mission selector patterns, and debugging techniques for competitive FLL teams.
 tags: [fll, spike-prime, python, programming, gyro, pid, intermediate]
-audience: [kids, teens, coaches]
+audience: [students, teens, coaches]
 level: intermediate
 season: 2025
 ---

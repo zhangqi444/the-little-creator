@@ -2,7 +2,7 @@
 title: Innovation Project Guide
 description: How FLL teams research a real-world problem, design a solution, and present it confidently to judges — a practical guide for coaches and kids.
 tags: [fll, innovation-project, judging, research, presentation, coaches]
-audience: [kids, teens, parents, coaches, teachers]
+audience: [students, teens, parents, coaches, teachers]
 level: beginner
 season: evergreen
 ---

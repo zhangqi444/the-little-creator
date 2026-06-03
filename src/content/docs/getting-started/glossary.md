@@ -17,7 +17,7 @@ FLL comes with a wall of acronyms and insider terms. Here's what they all mean.
 The non-profit organization that runs FLL, FTC, FRC, and other robotics programs. Stands for *For Inspiration and Recognition of Science and Technology*. The umbrella org — everything in the FLL world traces back to FIRST.
 
 **FLL / FIRST LEGO League**
-The family of robotics programs for kids aged 4–16, run by FIRST in partnership with LEGO Education. Has three divisions: Discover, Explore, and Challenge. When people say "FLL" without specifying, they almost always mean FLL Challenge.
+The family of robotics programs serving students aged 4–16, run by FIRST in partnership with LEGO Education. Has three divisions: Discover, Explore, and Challenge. When people say "FLL" without specifying, they almost always mean FLL Challenge.
 
 **FLL Challenge**
 The competitive division of FLL for ages 9–14 (US/Canada) or 9–15 (elsewhere). Teams build and program an autonomous robot and complete an Innovation Project. What most of this wiki is about.

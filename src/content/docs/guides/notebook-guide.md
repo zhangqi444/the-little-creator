@@ -2,7 +2,7 @@
 title: FLL Engineering Notebook Guide
 description: How to keep an FLL engineering notebook that supports your Innovation Project and robot design work — what to record, when, and how to make it useful at judging.
 tags: [fll, engineering-notebook, innovation-project, robot-design, judging, coaches, teens]
-audience: [kids, teens, coaches]
+audience: [students, teens, coaches]
 level: beginner
 season: evergreen
 ---

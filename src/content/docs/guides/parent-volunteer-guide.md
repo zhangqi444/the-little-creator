@@ -15,7 +15,7 @@ Parent volunteers are often the difference between a team that thrives and a tea
 
 ## The parent's role in one sentence
 
-Your job is to create the conditions for kids to do their own work — not to do the work yourself.
+Your job is to create the conditions for students to do their own work — not to do the work yourself.
 
 That sounds simple. It's not. Especially when you can see the solution, the robot is frustrating your kid, and the qualifier is two weeks away. But the reason your kid signed up for robotics is to learn how to build, problem-solve, and compete. Every time a parent solves a problem for them, that learning disappears.
 

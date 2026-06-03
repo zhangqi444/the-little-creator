@@ -1,7 +1,7 @@
 ---
 title: Coaching Without Doing It For Them
 description: The hardest part of FLL coaching is stepping back. How to guide kids toward solutions without solving problems for them — practical techniques for parent-coaches.
-tags: [fll, coaching, team-dynamics, core-values, kids, parents, first-year]
+tags: [fll, coaching, team-dynamics, core-values, students, parents, first-year]
 audience: [coaches, parents]
 level: beginner
 season: evergreen
@@ -113,7 +113,7 @@ Write down what comes up. The best coaches keep a simple coach's log — one par
 
 Most FLL coaches feel like imposters at some point. "I don't know enough to be doing this." "What am I doing here?"
 
-Here's the thing: you don't need to know the answers. You need to know how to ask good questions and create a safe space for kids to figure things out. That's a people skill, not a technical skill.
+Here's the thing: you don't need to know the answers. You need to know how to ask good questions and create a safe space for students to figure things out. That's a people skill, not a technical skill.
 
 The best FLL coaches aren't always the most technical. They're the ones who ask good questions, stay calm when things break, and genuinely enjoy watching kids figure stuff out.
 

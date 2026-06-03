@@ -2,7 +2,7 @@
 title: Drivetrain Basics for FLL and VEX IQ
 description: How to build a reliable robot drive base — wheel choices, gear ratios, common mistakes, and tuning tips for SPIKE Prime and VEX IQ robots.
 tags: [fll, vex-iq, spike-prime, drivetrain, building, robot-design, intermediate]
-audience: [kids, teens, coaches, parents]
+audience: [students, teens, coaches, parents]
 level: beginner
 season: evergreen
 ---

@@ -50,7 +50,7 @@ Each August FIRST releases the season's Challenge guide and the Robot Game Rule 
 - **Tags:** fll, official, getting-started, registration
 - **Use when:** You are new to FLL and want the canonical FIRST onboarding flow — choose a division (Discover, Explore, Challenge), see registration options (small team vs class pack), and route to sign-up.
 
-The FLL-specific getting-started flow on FIRST. Walks through the three divisions with grade-banded explanations (Discover K-1, Explore 2-4, Challenge typically grades 4–8) and routes you to the right registration option. Complements our own getting-started page — that's our family-friendly narrative; this is FIRST's structured signup path.
+The FLL-specific getting-started flow on FIRST. Walks through the three divisions with grade-banded explanations (Discover K-1, Explore 2-4, Challenge typically grades 4–8) and routes you to the right registration option. Complements our own getting-started page — that's our newcomer-friendly narrative; this is FIRST's structured signup path.
 
 ### UNEARTHED — current FLL season (2025/26)
 

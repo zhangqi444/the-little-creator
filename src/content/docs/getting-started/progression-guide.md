@@ -7,7 +7,7 @@ level: beginner
 season: evergreen
 ---
 
-Robotics programs for kids have a natural progression — each level adds complexity and prepares students for the next. This guide helps families think about when to move on, what they're moving toward, and how to make the transition without losing the things that made the previous program valuable.
+Youth robotics programs have a natural progression — each level adds complexity and prepares students for the next. This guide helps families think about when to move on, what they're moving toward, and how to make the transition without losing the things that made the previous program valuable.
 
 ## The progression at a glance
 
@@ -41,7 +41,7 @@ FLL Challenge and VEX IQ overlap in age range (9–14) and are often run at the 
 **What stays the same:**
 - LEGO bricks and the LEGO building system
 - Team-based (2–10 members)
-- Family-friendly culture; Core Values emphasis
+- Newcomer-friendly culture; Core Values emphasis
 - No prior programming experience required to start
 
 **Good signs a team is ready for Challenge:**
@@ -64,7 +64,7 @@ FLL Challenge and VEX IQ overlap in age range (9–14) and are often run at the 
 - **Season length:** VEX IQ tournaments run most of the school year (fall through spring), with more events available than FLL.
 
 **What stays the same:**
-- Team-based, family-friendly culture
+- Team-based, newcomer-friendly culture
 - Autonomous programming as the core skill
 - Similar age range (8–14 for IQ)
 - Similar time commitment per week
@@ -115,7 +115,7 @@ If your family is committed to the FIRST ecosystem rather than VEX, there's a pa
 
 FTC is the most natural next step from FLL Challenge within the FIRST ecosystem. It uses Java for programming, introduces a more complex control system, and runs head-to-head alliance matches. Many FLL coaches find FTC more challenging to support without an engineering mentor.
 
-FRC is the top level — 120-lb robots, major time commitment, typically supported by industry sponsors and engineer mentors. Not for every family, but transformative for kids who go deep.
+FRC is the top level — 120-lb robots, major time commitment, typically supported by industry sponsors and engineer mentors. Not for every family, but transformative for students who go deep.
 
 ---
 
@@ -126,7 +126,7 @@ Some clubs and teams run FLL Challenge and VEX IQ in parallel — different kids
 - You have enough coaches/mentors for each team
 - Kids genuinely want both, not because they're being pushed
 
-It's more common for kids to do one program per year and switch after a season or two when they're ready for more.
+It's more common for students to do one program per year and switch after a season or two when they're ready for more.
 
 ---
 

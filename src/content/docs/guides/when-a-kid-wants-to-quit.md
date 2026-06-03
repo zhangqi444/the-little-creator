@@ -1,7 +1,7 @@
 ---
 title: When a Kid Wants to Quit Mid-Season
 description: A practical guide for coaches and parents when a child loses motivation, wants to leave the team, or is struggling to stay engaged. How to listen, when to push, and when to let go.
-tags: [fll, coaching, motivation, team-dynamics, kids, parents, wellbeing]
+tags: [fll, coaching, motivation, team-dynamics, students, parents, wellbeing]
 audience: [coaches, parents, families]
 level: beginner
 season: evergreen

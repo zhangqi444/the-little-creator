@@ -159,7 +159,7 @@ RECF's Girl Powered initiative (presented by Google) funds workshops, awards, an
 - **Tags:** vex-iq, worlds, championship, qualification
 - **Use when:** Your team is approaching regional qualification, or you want to understand what the top of VEX IQ looks like.
 
-The annual culmination of all VEX programs, held in late April (2026 edition: St. Louis, April 21–30). VEX IQ teams qualify through regional and state events — check the [VIQRC KB](https://viqrc-kb.recf.org/hc/en-us) for your program's specific qualification pathway. Even if your team isn't competing, watching the live stream is motivating for kids.
+The annual culmination of all VEX programs, held in late April (2026 edition: St. Louis, April 21–30). VEX IQ teams qualify through regional and state events — check the [VIQRC KB](https://viqrc-kb.recf.org/hc/en-us) for your program's specific qualification pathway. Even if your team isn't competing, watching the live stream is motivating for the whole team.
 
 ### RECF Signature Events
 
@@ -211,7 +211,7 @@ Casual community for VEX IQ teams and families. More relaxed than the VEX Forum.
 - **Tags:** vex-iq, youtube, tutorials, programming, building
 - **Use when:** Looking for practical VEX IQ build and programming tutorials in video format.
 
-Independent channel focused on VEX IQ — building techniques, VEXcode Python programming, and competition tips. Family-friendly and well-paced. Excellent starting point for visual learners and families watching together.
+Independent channel focused on VEX IQ — building techniques, VEXcode Python programming, and competition tips. Newcomer-friendly and well-paced. Excellent starting point for visual learners and families watching together.
 
 ### RECF YouTube — official video content
 

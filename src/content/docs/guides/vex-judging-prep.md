@@ -1,8 +1,8 @@
 ---
 title: Preparing for VEX Judging
 description: How VEX judging pit interviews work across VIQRC, V5RC, and VURC — what judges evaluate, how to prepare your engineering notebook, and practical ways to help your team present with confidence.
-tags: [vex, vex-iq, vex-v5, vex-u, judging, excellence-award, design-award, engineering-notebook, pit-interview, coaches, teens, kids]
-audience: [coaches, teens, parents, kids]
+tags: [vex, vex-iq, vex-v5, vex-u, judging, excellence-award, design-award, engineering-notebook, pit-interview, coaches, teens, students]
+audience: [coaches, teens, parents, students]
 level: intermediate
 season: evergreen
 ---

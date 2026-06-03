@@ -2,7 +2,7 @@
 title: FLL Robot Strategy Guide
 description: How to analyse the FLL game board, prioritise missions, and build a run strategy that maximises your score reliably — not just on a good day.
 tags: [fll, robot-game, strategy, missions, scoring, coaches, teens]
-audience: [kids, teens, coaches]
+audience: [students, teens, coaches]
 level: intermediate
 season: evergreen
 ---

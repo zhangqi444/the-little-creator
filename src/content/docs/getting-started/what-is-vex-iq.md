@@ -2,7 +2,7 @@
 title: What is VEX IQ?
 description: Plain-language overview of VEX IQ — a middle-school robotics program for ages 8–14 where teams build snap-together robots and compete in alliance-based matches and skills challenges.
 tags: [vex-iq, viqrc, getting-started, recf, override-2026-27]
-audience: [families, parents, teachers, kids, coaches]
+audience: [families, parents, teachers, students, coaches]
 level: beginner
 season: evergreen
 ---
@@ -15,7 +15,7 @@ The 2025-26 VEX IQ season is **Push Back** (VIQRC). The 2026-27 season, **Overri
 
 ## Who is VEX IQ for?
 
-VEX IQ is designed for students roughly in the 3rd–8th grade range. It's a natural step up from LEGO-based programs (like [FLL](/getting-started/what-is-fll/)) for kids who want more mechanical depth and a longer competitive season. It's also a popular on-ramp for students who haven't done competitive robotics before and want to enter the VEX ecosystem.
+VEX IQ is designed for students roughly in the 3rd–8th grade range. It's a natural step up from LEGO-based programs (like [FLL](/getting-started/what-is-fll/)) for students who want more mechanical depth and a longer competitive season. It's also a popular on-ramp for students who haven't done competitive robotics before and want to enter the VEX ecosystem.
 
 Because VEX IQ uses a snap-together plastic system similar in spirit to LEGO, younger students can participate meaningfully — a motivated 9-year-old can build and program a competitive robot. By middle school, teams are typically writing Python programs, designing custom drive bases, and strategising around match play.
 

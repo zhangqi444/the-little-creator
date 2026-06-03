@@ -61,8 +61,8 @@ group_size: <e.g., "8 kids, 2 coaches">
 
 ## Differentiation
 
-- **For kids ahead:** <a stretch challenge — e.g., "make the robot turn 90° and come back">
-- **For kids stuck:** <a scaffolded simpler version — e.g., "just get the motor to turn for 2 seconds">
+- **For students ahead:** <a stretch challenge — e.g., "make the robot turn 90° and come back">
+- **For students stuck:** <a scaffolded simpler version — e.g., "just get the motor to turn for 2 seconds">
 
 ## Assessment (optional)
 

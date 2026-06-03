@@ -2,7 +2,7 @@
 title: Preparing for FLL Judging
 description: What FLL judges look for, how the three judging sessions work, and practical ways to help your team present with confidence.
 tags: [fll, judging, core-values, innovation-project, robot-design, presentation, coaches]
-audience: [kids, teens, parents, coaches, teachers]
+audience: [students, teens, parents, coaches, teachers]
 level: beginner
 season: evergreen
 ---
@@ -97,14 +97,14 @@ After the activity, judges may ask questions like:
 
 - **Don't coach kids to perform.** Kids who've been told "say teamwork things to the judges" come across as rehearsed. Instead, actually *practice* the values during build season — that's what shows up genuine on tournament day.
 - **Talk about real things.** In mock sessions, practice answering honestly: a real disagreement you had, a real mistake you made as a team, something you genuinely learned.
-- **Include everyone in the activity.** Judges specifically watch for kids who get left out. If your team has a tendency for one or two kids to dominate, name that explicitly in practice: "everyone needs to have a voice in this activity."
+- **Include everyone in the activity.** Judges specifically watch for students who get left out. If your team has a tendency for one or two kids to dominate, name that explicitly in practice: "everyone needs to have a voice in this activity."
 - **Debrief after practice sessions.** Ask the team: "Did everyone get to contribute? Did we listen to each other?" Make it a habit.
 
 ### Gracious Professionalism
 
 This is one of the most-cited FLL values. It means competing with integrity — celebrating your own wins without diminishing others, helping other teams even when it's not required, treating judges and volunteers with respect. It's judged not just in the room but in the pit and at the competition tables.
 
-Simple version for kids: *"We want to win, and we also want everyone to have a great experience, including our competitors."*
+Simple version to share with students: *"We want to win, and we also want everyone to have a great experience, including our competitors."*
 
 ## Before the judging rooms: logistics
 

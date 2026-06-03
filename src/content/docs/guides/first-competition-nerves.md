@@ -2,12 +2,12 @@
 title: Managing First-Competition Nerves
 description: A parent and coach guide to helping kids manage competition anxiety across all six programs — before, during, and after the event.
 tags: [fll, ftc, frc, vex-iq, vex-v5, vex-u, coaching, parents, families, team-dynamics, tournament]
-audience: [parents, coaches, families, kids, teens]
+audience: [parents, coaches, families, students, teens]
 level: beginner
 season: evergreen
 ---
 
-Competition day is exciting. It's also stressful — for kids, for coaches, and honestly for parents too. Some nerves are good; they sharpen focus. But too much anxiety can shut kids down, make matches worse, and turn a great day into a miserable one.
+Competition day is exciting. It's also stressful — for students, for coaches, and honestly for parents too. Some nerves are good; they sharpen focus. But too much anxiety can shut kids down, make matches worse, and turn a great day into a miserable one.
 
 This guide is about helping the kids on your team manage that anxiety well — before the event, during it, and after.
 
@@ -21,7 +21,7 @@ That's the whole point. If you already knew you were going to win, it wouldn't f
 
 Understanding why nerves happen helps you respond constructively rather than dismissively:
 
-- **Fear of failure in public** — especially for kids who've never competed before.
+- **Fear of failure in public** — especially for students who've never competed before.
 - **Attachment to outcomes** — wanting to win (or qualify, or advance) strongly enough that the possibility of not winning feels catastrophic.
 - **Uncertainty about the unfamiliar** — the event venue, the format, the schedule, unfamiliar teams, unfamiliar faces.
 - **Accumulated pressure** — from parents' expectations, coaches' investment, or internal perfectionism.
@@ -190,7 +190,7 @@ Leading with outcome ("We didn't advance — what happened?") triggers defensive
 Kids who are disappointed, frustrated, or sad after a competition that didn't go as hoped are having completely valid responses. Don't rush them past these emotions:
 - "Of course you're disappointed. You worked really hard and you wanted to advance. That makes total sense."
 
-And for kids who are unexpectedly happy despite a poor score:
+And for students who are unexpectedly happy despite a poor score:
 - "You had fun and that's real. That matters."
 
 Competitive outcomes and emotional wellbeing are separate. Don't conflate them.

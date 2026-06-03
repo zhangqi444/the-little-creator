@@ -1,8 +1,8 @@
 ---
 title: How to Interview an Expert for Your Innovation Project
 description: A practical guide for FLL teams preparing to talk with a subject-matter expert. How to prepare questions, run the interview, use what you learn, and document it for judges.
-tags: [fll, innovation-project, research, expert-interview, presentation, coaching, kids]
-audience: [kids, teens, coaches, parents, teachers]
+tags: [fll, innovation-project, research, expert-interview, presentation, coaching, students]
+audience: [students, teens, coaches, parents, teachers]
 level: beginner
 season: evergreen
 ---

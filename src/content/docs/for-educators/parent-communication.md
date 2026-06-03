@@ -66,7 +66,7 @@ A **debrief message**: results (briefly), what went well, thanks to volunteers, 
 > Welcome to the [Team Name] robotics team! I'm [your name], and I'll be coaching your kids through the [Season Name] FIRST LEGO League season.
 >
 > **What is FLL?**
-> FIRST LEGO League Challenge is a robotics competition for kids aged 9–16. Teams build and program a LEGO robot to complete missions on a themed game board, research a real-world problem for an Innovation Project, and present their work to judges. It's part engineering, part science fair, and a lot of teamwork.
+> FIRST LEGO League Challenge is a robotics competition covering ages 9–16. Teams build and program a LEGO robot to complete missions on a themed game board, research a real-world problem for an Innovation Project, and present their work to judges. It's part engineering, part science fair, and a lot of teamwork.
 >
 > **Time commitment**
 > Practices: [Day], [Time], [Location] — starting [date]
@@ -131,7 +131,7 @@ A **debrief message**: results (briefly), what went well, thanks to volunteers, 
 > - Wear the team shirt (or [colour] if we don't have shirts)
 > - Comfortable shoes — you'll be on your feet all day
 > - Water bottle and snacks for the morning; [lunch plan — provided/bring your own/food available]
-> - Notebook and pencil (useful for kids tracking scores)
+> - Notebook and pencil (useful for students tracking scores)
 >
 > **Robot transport**
 > I'll bring the robot and equipment. If you're driving separately and can take [specific items], let me know.

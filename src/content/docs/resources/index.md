@@ -74,7 +74,7 @@ Not sure how to apply what you find? These guides walk you through the doing:
 
 ### Team culture
 - [Core Values Team Activities](/guides/core-values-activities/) — Team-building activities for coaches
-- [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like for kids, coaches, and parents
+- [Gracious Professionalism in Practice](/guides/gracious-professionalism/) — What GP actually looks like for participants, coaches, and parents
 - [FLL Engineering Notebook Guide](/guides/notebook-guide/) — What to record and how to make judges take notice
 - [Finding Mentors and Technical Experts](/guides/finding-mentors/) — Where to find engineers and subject-matter experts, what to ask for, and how to keep it healthy
 - [When a Kid Wants to Quit Mid-Season](/guides/when-a-kid-wants-to-quit/) — How to listen, diagnose the cause, when to push vs. let go, and how to handle an exit gracefully

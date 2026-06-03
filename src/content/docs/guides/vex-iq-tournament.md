@@ -1,8 +1,8 @@
 ---
 title: VEX IQ Tournament Guide — VIQRC In Depth
 description: A detailed guide to competing in a VEX IQ Robotics Competition (VIQRC) event — match structure, Driving Skills vs Autonomous Coding Skills, pit setup, judging categories, and how to help younger students thrive on tournament day.
-tags: [vex-iq, viqrc, tournament, competition, skills-challenge, judging, coaches, parents, kids]
-audience: [families, parents, coaches, kids]
+tags: [vex-iq, viqrc, tournament, competition, skills-challenge, judging, coaches, parents, students]
+audience: [families, parents, coaches, students]
 level: beginner
 season: evergreen
 ---

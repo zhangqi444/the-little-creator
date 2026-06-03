@@ -2,12 +2,12 @@
 title: What is FLL?
 description: Plain-language overview of FIRST LEGO League — its three age divisions, what a Challenge season looks like, and how the program is changing in 2026/27 with BIOGLOW and the Future Edition.
 tags: [fll, getting-started, future-edition, bioglow, canopy, season-2026-27]
-audience: [families, parents, teachers, kids]
+audience: [families, parents, teachers, students]
 level: beginner
 season: evergreen
 ---
 
-FIRST LEGO League (FLL) is a family of educational robotics programs for kids aged **4 to 16**, run globally by FIRST and LEGO Education. It's organized as three age divisions that build on each other — newcomers start in whichever one matches their kid's age and progress as they grow.
+FIRST LEGO League (FLL) is a family of educational robotics programs serving students aged **4 to 16**, run globally by FIRST and LEGO Education. It's organized as three age divisions that build on each other — newcomers start in whichever one matches the student's age and progress as they grow.
 
 Our wiki focuses primarily on the **Challenge** division (ages 9–16), which is where most teams in our community are. The other two divisions are described briefly below so you can find your starting point.
 

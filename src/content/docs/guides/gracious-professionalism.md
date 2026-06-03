@@ -1,8 +1,8 @@
 ---
 title: Gracious Professionalism in Practice
-description: What Gracious Professionalism actually looks like at FLL practices and tournaments — concrete examples for kids, coaches, and parents.
-tags: [fll, core-values, gracious-professionalism, coaches, kids, parents, tournaments]
-audience: [kids, teens, coaches, parents]
+description: What Gracious Professionalism actually looks like at FLL practices and tournaments — concrete examples for participants, coaches, and parents.
+tags: [fll, core-values, gracious-professionalism, coaches, students, parents, tournaments]
+audience: [students, teens, coaches, parents]
 level: beginner
 season: evergreen
 ---

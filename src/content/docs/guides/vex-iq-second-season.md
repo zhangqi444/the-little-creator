@@ -2,7 +2,7 @@
 title: Your Second VEX IQ Season — What to Do Differently
 description: Practical changes returning VIQRC coaches and students make in season two. Based on what rookie VEX IQ teams consistently get wrong in year one and right in year two.
 tags: [vex-iq, coaches, returning, season-planning, robot-strategy, viqrc]
-audience: [coaches, kids, parents, teachers]
+audience: [coaches, students, parents, teachers]
 level: intermediate
 season: evergreen
 ---
@@ -158,4 +158,4 @@ The Excellence Award — the top VIQRC award — goes to teams that demonstrate 
 - [VEX IQ Programming Guide](/guides/vex-iq-programming/) — sensor-based autonomous with VEXcode IQ Blocks
 - [VEX IQ Tournament Guide](/guides/vex-iq-tournament/) — VIQRC match format, Driving Skills vs Autonomous Coding Skills, pit setup
 - [Engineering Notebook Guide](/guides/notebook-guide/) — FLL-focused but the core principles (dates, decisions, failures) apply across all programs
-- [Gracious Professionalism](/guides/gracious-professionalism/) — what GP actually looks like in practice; concrete examples for kids and coaches
+- [Gracious Professionalism](/guides/gracious-professionalism/) — what GP actually looks like in practice; concrete examples for participants and coaches

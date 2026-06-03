@@ -1,8 +1,8 @@
 ---
 title: Learning Materials
-description: Curated books, courses, videos, and online resources for kids and teens learning robotics and programming across all six programs — FLL, FTC, FRC, VEX IQ, VEX V5/VRC, and VEX U.
+description: Curated books, courses, videos, and online resources for students and teens learning robotics and programming across all six programs — FLL, FTC, FRC, VEX IQ, VEX V5/VRC, and VEX U.
 tags: [fll, ftc, frc, vex, learning, programming]
-audience: [families, coaches, teachers, kids, teens]
+audience: [families, coaches, teachers, students, teens]
 level: all
 season: evergreen
 ---
@@ -57,7 +57,7 @@ Official LEGO Education lesson plans bundled with SPIKE Prime kits. Hands-on, cl
 - **Tags:** programming, computer-science, free, university
 - **Use when:** A teen is past block-based coding and ready for real computer science fundamentals.
 
-Harvard's free intro to computer science. Covers C, Python, SQL, web. Demanding but legendarily well-taught. A strong post-FLL next step for kids hooked on programming; also relevant for FRC students wanting a CS foundation before tackling Java.
+Harvard's free intro to computer science. Covers C, Python, SQL, web. Demanding but legendarily well-taught. A strong post-FLL next step for students hooked on programming; also relevant for FRC students wanting a CS foundation before tackling Java.
 
 ### Python.org Beginner's Guide
 

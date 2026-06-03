@@ -117,6 +117,7 @@ export default defineConfig({
                 { label: 'Robot Strategy', link: '/guides/robot-strategy/' },
                 { label: 'Innovation Project Guide', link: '/guides/innovation-project-guide/' },
                 { label: 'Innovation Project Deep Dive', link: '/guides/innovation-project-deep-dive/' },
+                { label: 'Innovation Project Checklist', link: '/guides/innovation-project-checklist/' },
                 { label: 'IP Expert Interview', link: '/guides/ip-expert-interview/' },
                 { label: 'Judging Prep', link: '/guides/judging-prep/' },
                 { label: 'FLL Awards', link: '/guides/fll-awards/' },

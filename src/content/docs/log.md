@@ -322,6 +322,22 @@ The CUSTOM-GPT-SETUP.md warning callout at the top of Step 3 already documented 
 
 Kept untouched: quoted-user-question examples in Patterns-by-type section ("my kid wants to quit", "my child is nervous about the tournament"). Those are authentic phrases adults actually type when asking the GPT for help, and the GPT needs to recognize them. They're internal to the system prompt (not surfaced to the classifier) and describe the adult user's situation, not the GPT's audience.
 
+### 2026-05-26 — Fix: discovery-scan agent orphans changes on .git/index.lock conflict
+
+The autonomous discovery agent edited fll-resource-map.md on 2026-05-25 16:14 (added two new entries: the FIRST community blog 'A New Era for FLL' announcement + the BIOGLOW season landing) but never committed. Found the changes sitting in the working tree three days later when the interactive session ran `git status`.
+
+Root cause: the discovery agent's SKILL prompt runs `git add` + `git commit` directly with no retry logic. When the maintainer is in an interactive cowork session simultaneously, both processes contend for `.git/index.lock`. Git's index lock can only be held by one process at a time — the loser fails with `fatal: Unable to create '.git/index.lock'`. Without a retry, the agent's work gets orphaned.
+
+Fix (in `/Users/zhangqi/Documents/Claude/Scheduled/tlc-weekly-discovery-scan/SKILL.md`):
+- Step 4g now wraps the commit + push in a 3-attempt retry loop with 30s / 60s / 120s backoff. Covers the common case where another git process holds the lock briefly.
+- New Step 4i: if all retries fail, the agent leaves edits in place (no stash/checkout) and appends a loud `## ORPHAN:` entry to `progress/heartbeat-log.md` so the next interactive session sees the orphan immediately.
+- Step 6 (report-back) now surfaces orphan count alongside committed and deferred.
+- Step 1 (pre-flight) now describes the dirty-tree case as "most likely an orphaned prior-run edit" and explicitly tells the agent NOT to attempt to commit prior-run orphans automatically — surface them and abort.
+
+Architecture documented: ARCHITECTURE.md §5 now has a "Concurrency seam (added 2026-05-26)" paragraph explaining that the direct-to-main autonomy model assumes exclusive .git/index access which isn't true under concurrent cowork sessions. Notes a future improvement (agent runs in `git worktree`) but ships the retry+heartbeat pattern as the cheap interim fix.
+
+The recovered orphan entries were committed manually in db807a5.
+
 ## 2026-05-31
 
 - `resources/frc-resource-map.md` — link audit (Wave 11 task). Fixed 5 broken/redirected URLs:

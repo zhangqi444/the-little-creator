@@ -1481,3 +1481,20 @@ Commit: 95eeb9b pushed to main.
 - Wired into `skill/SKILL.md` — added Team Roles Reference to Cross-program links.
 - Updated `src/content/docs/log.md` and `progress/roadmap.md`.
 - Commit `012b258`, pushed to main.
+
+## 2026-06-03 09:58 UTC
+
+**Step 0 — Sync**: Both repos already up to date (open-forge and the-little-creator).
+
+**Step 1 — open-forge issues**: No open issues (empty array from API).
+
+**Step 2 — the-little-creator issues**: No open issues (empty array from API).
+
+**Step 3 — Roadmap iteration (Wave 81)**:
+- Created `src/content/docs/guides/season-retrospective.md` (261 lines) — "End-of-Season Retrospective Guide": structured four-question retrospective format for all six programs. Covers: why retrospectives matter (three outputs: keep/change/action items/onboarding brief), when to run by program (within 1-2 weeks of final event), who to include, four-question format (what went well / what to change / what to do differently / what new members should know), coach/mentor retrospective section, documentation format (seven-field output structure) + where to store it, seeding next season's plan (copy to calendar, flag resource needs, prepare onboarding brief), program-specific notes for all six programs, 7-row common mistakes table, quick-start checklist, and related-guides section linking all six second-season guides and team-documentation-system.md.
+- Wired into `astro.config.mjs` sidebar (Team Culture section, after Team Roles Reference).
+- Wired into `guides/index.md` — added to Team culture section after Team Roles Quick Reference.
+- Wired into `skill/SKILL.md` — appended Season Retrospective to Cross-program line.
+- Updated `src/content/docs/log.md` with Wave 81 entry.
+- Updated `progress/roadmap.md` (marked Wave 81 done, added Wave 82 backlog).
+- Commit `2a30e90`, pushed to main.

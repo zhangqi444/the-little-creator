@@ -605,3 +605,12 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/season-retrospective.md` — structured end-of-season retrospective format for teams and coaches across all six programs (complements team-documentation-system.md; focuses on running the retrospective meeting itself — what to ask, how to document insights, how to seed next season's plan)
 - [ ] Consider `for-educators/lesson-plan-library.md` — a library of ready-to-run lesson plans across all six programs (extends lesson-plan-template.md with specific examples)
+
+## Wave 81 completed
+
+- [x] `guides/season-retrospective.md` — structured end-of-season retrospective guide completing the team-management documentation triad (team-documentation-system.md for during-season, second-season guides for what to change, and now season-retrospective.md for structured year-end review). Four-question format (what went well / what to change / action items / onboarding brief), when to run by program, who attends, coach retrospective section, documentation format, seeding next season, program-specific notes for all six programs, 7-row common mistakes table, quick-start checklist. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 2a30e90 (2026-06-03 heartbeat 09:58)
+
+## Wave 82 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `for-educators/lesson-plan-library.md` — a library of ready-to-run lesson plans across all six programs (extends lesson-plan-template.md with specific examples for FLL, FTC, FRC, VEX IQ, VEX V5, VEX U)

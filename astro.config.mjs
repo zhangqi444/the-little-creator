@@ -187,6 +187,7 @@ export default defineConfig({
             {{ label: 'VEX V5/VRC Curriculum Starter', link: '/for-educators/vex-v5-curriculum-starter/' },}
             { label: 'VEX U / VURC Curriculum Starter', link: '/for-educators/vex-u-curriculum-starter/' },
             { label: 'Lesson Plan Template', link: '/for-educators/lesson-plan-template/' },
+            { label: 'Lesson Plan Library', link: '/for-educators/lesson-plan-library/' },
             { label: 'Core Values Rubric', link: '/for-educators/core-values-rubric/' },
             { label: 'Assessment Rubric', link: '/for-educators/assessment-rubric/' },
             { label: 'Assessment Guide (All Programs)', link: '/for-educators/assessment-guide/' },

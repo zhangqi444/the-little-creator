@@ -614,3 +614,13 @@
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `for-educators/lesson-plan-library.md` — a library of ready-to-run lesson plans across all six programs (extends lesson-plan-template.md with specific examples for FLL, FTC, FRC, VEX IQ, VEX V5, VEX U)
+
+## Wave 82 completed
+
+- [x] `for-educators/lesson-plan-library.md` — library of 10 ready-to-run session plans across all six programs (FLL-1 Hello SPIKE Prime, FLL-2 Color Sensor Basics, FLL-3 Mission Strategy, FTC-1 First TeleOp Drive, FTC-2 Engineering Portfolio Workshop, FRC-1 Command-Based Framework, VEXIQ-1 Drive Base Build, VEXIQ-2 Autonomous Coding Skills, V5-1 Encoder Autonomous Drive, VEXU-1 Two-Robot Coordination). Each plan: learning objective, materials, pre-session prep, timeline table, discussion prompts, differentiation, after-session notes. Wired into sidebar, for-educators/index.md, skill/SKILL.md. (2026-06-03 heartbeat 10:58)
+
+## Wave 83 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library further — FTC Autonomous, VEX V5 IMU Autonomous, FRC auto path (PathPlanner), or a VEX IQ game strategy session
+- [ ] Consider a `for-educators/workshop-formats.md` — short-format (2–4 hour) workshop outlines for one-day events and summer camps

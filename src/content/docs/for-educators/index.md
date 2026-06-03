@@ -25,6 +25,7 @@ Eight-week onboarding outlines — one per program. Start with the one that matc
 ## Templates and tools
 
 - **[Lesson Plan Template](/for-educators/lesson-plan-template/)** — A reusable single-session plan format with timing, materials, and learning objectives. Copy and customize per session.
+- **[Lesson Plan Library](/for-educators/lesson-plan-library/)** — Ready-to-run lesson plans for all six programs (FLL, FTC, FRC, VEX IQ, VEX V5/VRC, VEX U). Specific examples with pre-session prep, timelines, differentiation, and after-session notes.
 - **[FLL Core Values Rubric](/for-educators/core-values-rubric/)** — A practical 1–4 observation rubric for the six FLL Core Values, designed for use throughout the season (not the tournament rubric).
 
 ## Assessment

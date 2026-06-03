@@ -1534,3 +1534,15 @@ Commit: 95eeb9b pushed to main.
   - Shared principles section: win-condition rule, iteration-over-completion, notebook habit, mixed-age pairing, 70% facilitator rule, scaling table
 - Wired into: `astro.config.mjs` sidebar, `for-educators/index.md`, `skill/SKILL.md`
 - Committed and pushed: a26b0ae
+
+## 2026-06-03T14:58Z
+
+**Wave 86 — Camp Operations Guide**
+
+- Checked open issues: the-little-creator had 0 open issues; open-forge had 1 (#55, already processed in prior heartbeat).
+- Both repos synced (already up to date).
+- Implemented Wave 85 backlog task: `for-educators/camp-operations.md`
+  - Full logistics guide for running a multi-day robotics camp across all six programs
+  - Covers: model decision table, per-camp budget template (6 programs x 8 line items), registration platform options, waiver requirements, hardware inventory and kit numbering system, pre-camp device/software setup table (all programs), consumables checklist, staffing ratios and roles, volunteer management, program-specific safety hazards table, day-of session flow rhythm, check-in/check-out protocols, behaviour management guidelines, daily family communication template, post-camp hardware debrief, financial close-out, and a full quick-reference checklist (4 weeks out → end of camp)
+- Wired into: `astro.config.mjs` sidebar (after Camp Curriculum), `for-educators/index.md`, `skill/SKILL.md`
+- Committed and pushed: c9bf558

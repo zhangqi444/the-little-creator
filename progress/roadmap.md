@@ -640,3 +640,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the camp curriculum further — VEX U camp outline (collegiate, longer session), or a "mixed-program" camp day that introduces all six in one day
 - [ ] Consider a `for-educators/camp-operations.md` — logistics guide for running a multi-day robotics camp (registration, waivers, hardware insurance, staffing ratios, budget template for camp operators)
+
+## Wave 86 completed
+
+- [x] `for-educators/camp-operations.md` — logistics guide for running a multi-day robotics camp. Covers registration model decision, per-camp budget template (all six programs), registration platforms, waiver requirements, hardware inventory and kit numbering, pre-camp device/software setup table, consumables checklist, staffing ratios, volunteer management, program-specific safety hazards, day-of session flow, check-in/check-out protocols, behaviour management, family communication templates, post-camp hardware debrief and financial close-out, and a full quick-reference checklist (4 weeks out through post-camp). Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit c9bf558 (2026-06-03 heartbeat 14:58)
+
+## Wave 87 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a cross-program `for-educators/inclusive-team-culture.md` — guide for coaches and educators on building an inclusive, psychologically safe team culture (complements accessibility-in-robotics.md and coaching-communication.md)
+- [ ] Consider expanding the lesson plan library with additional programs (FTC Autonomous, VEX V5 IMU Autonomous, FRC PathPlanner intro, VEX IQ game strategy session)

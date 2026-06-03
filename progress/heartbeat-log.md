@@ -1418,3 +1418,8 @@ Commit: 95eeb9b pushed to main.
 - open-forge: 0 open issues
 - the-little-creator: 0 open issues
 - Roadmap (Wave 73): Created `for-educators/stem-integration.md` — NGSS/CSTA/CCSS standards alignment guide for all six robotics programs. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8108349.
+
+## 2026-06-03 heartbeat 03:58
+
+- **Issues**: open-forge 0 open issues; the-little-creator 0 open issues
+- **Roadmap (Wave 74)**: Created `guides/accessibility-in-robotics.md` — cross-program guide for coaches adapting robotics programs for students with disabilities or learning differences (physical, sensory, cognitive, communication, inclusive team structure, tournament/event accommodations). Wired into sidebar, guides/index.md, skill/SKILL.md. Commit 4b396b0.

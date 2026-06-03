@@ -545,3 +545,13 @@
 
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/accessibility-in-robotics.md` — adapting FLL/VEX IQ/FTC for students with disabilities; inclusive team practices
+
+## Wave 74 completed
+
+- [x] `guides/accessibility-in-robotics.md` — cross-program accessibility guide for coaches and educators adapting FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U for students with disabilities or learning differences. Covers UDL principle, physical adaptations (build table ergonomics, programming stations, fatigue/pain management), sensory accessibility (deaf/HoH, visual, sensory processing/noise), cognitive and learning differences (ADHD, dyslexia, processing, autism spectrum), communication differences (AAC users, speech/language), inclusive role design, team preparation, tournament/event accommodations, program-specific notes table, and further-reading crosslinks. Wired into sidebar (Team Culture), guides/index.md, skill/SKILL.md. Commit 4b396b0 (2026-06-03 heartbeat 03:58)
+
+## Wave 75 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider a `for-educators/differentiated-instruction.md` — deeper teaching strategies for mixed-ability and mixed-age robotics teams (extends the accessibility guide and assessment-rubric.md)
+- [ ] Consider a `guides/team-documentation-system.md` — how to set up a season-long documentation system that supports both engineering notebook requirements and knowledge transfer

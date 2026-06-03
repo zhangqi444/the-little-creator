@@ -91,6 +91,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Pit Design Guide](/guides/pit-design-guide/) — How to set up and organise your pit area at FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U events — layout, equipment lists, battery rotation, roles, and common mistakes
 - [Managing First-Competition Nerves](/guides/first-competition-nerves/) — A parent and coach guide to helping kids manage competition anxiety across all six programs — before the event, during it, and after
 - [Mental Models for Competition](/guides/mental-models-for-competition/) — Growth mindset, process vs. outcome focus, locus of control, and other frameworks for older and returning teams performing under pressure
+- [Accessibility in Robotics](/guides/accessibility-in-robotics/) — Practical accommodations and inclusive team practices for coaches adapting FLL, FTC, FRC, and VEX programs for students with disabilities or learning differences
 
 ### Returning coaches
 - [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management

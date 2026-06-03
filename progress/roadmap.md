@@ -670,3 +670,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
 - [ ] Consider a cross-program `guides/outreach-guide.md` — structured guide for how teams plan and execute community outreach/impact for awards like Connect (FTC), Impact (FRC), and Excellence (VEX)
+
+## Wave 89 completed
+
+- [x] `guides/outreach-guide.md` — "Community Outreach Guide — FTC Connect, FRC Impact, and VEX Excellence": structured guide for planning and executing meaningful community outreach across all six programs. Covers what FTC Connect / FRC Impact / VEX Excellence judges look for; four outreach models (demo/recruit, workshop/camp, team mentoring, systemic partnership); FTC year-one goals and Engineering Portfolio narrative requirements; FRC three-year arc strategy, measurable outcomes table, student ownership requirements; VEX less-is-more framing and notebook connection pattern; common traps table; six cross-program activity ideas; six-week ramp for new programs. Wired into sidebar (Competition Prep), guides/index.md, skill/SKILL.md. Commit 2fb8af3 (2026-06-03 heartbeat 17:58)
+
+## Wave 90 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding lesson plan library further — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `guides/innovation-project-deep-dive.md` — deeper FLL Innovation Project guide extending innovation-project-guide.md: how to run the research phase, identify real problems vs. solutions, and structure the research plan document for judges

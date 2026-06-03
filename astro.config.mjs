@@ -188,6 +188,7 @@ export default defineConfig({
             { label: 'Assessment Rubric', link: '/for-educators/assessment-rubric/' },
             { label: 'Assessment Guide (All Programs)', link: '/for-educators/assessment-guide/' },
             { label: 'Differentiation Guide', link: '/for-educators/differentiation-guide/' },
+            { label: 'Differentiated Instruction (Deep Dive)', link: '/for-educators/differentiated-instruction/' },
             { label: 'Parent Communication', link: '/for-educators/parent-communication/' },
             { label: 'STEM Standards Alignment', link: '/for-educators/stem-integration/' },
           ],

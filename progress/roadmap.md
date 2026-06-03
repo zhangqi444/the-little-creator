@@ -575,3 +575,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider a `for-educators/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
 - [ ] Consider a cross-program `guides/student-leadership.md` — how to identify, develop, and support student team leaders across all six programs
+
+## Wave 77 completed
+
+- [x] `guides/student-leadership.md` — "Developing Student Leaders on Your Robotics Team": cross-program guide for coaches and educators on identifying, developing, and supporting student leaders across FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. What leadership looks like beyond "running the meeting" (5 distinct lead types), spotting leadership potential in quiet/reliable students not just confident ones, 4 practical techniques (role rotation, real stakes, leadership-focused debrief, succession mindset), program-specific notes for all six programs, a "when a student lead struggles" playbook, 6-row common-mistakes table. Wired into sidebar, guides/index.md, skill/SKILL.md. Commit b17bf92 (2026-06-03 heartbeat 06:58)
+
+## Wave 78 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `for-educators/team-documentation-system.md` — how to set up a season-long documentation system that supports engineering notebook requirements and knowledge transfer
+- [ ] Consider a cross-program `guides/team-roles-reference.md` — one-page reference of all team roles by program (extend the student-leadership roles section into a standalone quick-ref)

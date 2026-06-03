@@ -93,6 +93,7 @@ Covers all six programs: FLL (Discover / Explore / Challenge), FTC, FRC, VEX IQ,
 - [Mental Models for Competition](/guides/mental-models-for-competition/) — Growth mindset, process vs. outcome focus, locus of control, and other frameworks for older and returning teams performing under pressure
 - [Accessibility in Robotics](/guides/accessibility-in-robotics/) — Practical accommodations and inclusive team practices for coaches adapting FLL, FTC, FRC, and VEX programs for students with disabilities or learning differences
 - [Developing Student Leaders](/guides/student-leadership/) — How to identify, develop, and support student team leaders across all six programs — role rotation, succession planning, and program-specific approaches
+- [Team Roles Quick Reference](/guides/team-roles-reference/) — One-page lookup of every team role across FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U with ownership, backup, and minimum-viable-team guidance
 
 ### Returning coaches
 - [Your Second FLL Season — What to Do Differently](/guides/second-season/) — The 10 changes returning coaches make in year two: robot strategy, IP depth, Core Values judging, and team management

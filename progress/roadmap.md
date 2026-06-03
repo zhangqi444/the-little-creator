@@ -595,3 +595,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] `guides/team-roles-reference.md` — one-page reference of all team roles by program (extend the student-leadership roles section into a standalone quick-ref)
 - [ ] Consider a cross-program `guides/season-retrospective.md` — structured end-of-season retrospective format for teams and coaches (complements the handoff document idea from team-documentation-system.md)
+
+## Wave 80 completed
+
+- [x] `guides/team-roles-reference.md` — one-page reference of all team roles across FLL, FTC, FRC, VEX IQ, VEX V5, and VEX U. Per-program tables with role names, ownership descriptions, and minimum-viable-team notes; FRC sub-team model with Student Lead + Mentor Advisor split; VEX U two-robot role doubling; cross-program role assignment tips. Fills the gap from student-leadership.md by providing a quick-ref lookup rather than a development guide. Wired into sidebar, guides/index.md, skill/SKILL.md. (2026-06-03 heartbeat 08:58)
+
+## Wave 81 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] `guides/season-retrospective.md` — structured end-of-season retrospective format for teams and coaches across all six programs (complements team-documentation-system.md; focuses on running the retrospective meeting itself — what to ask, how to document insights, how to seed next season's plan)
+- [ ] Consider `for-educators/lesson-plan-library.md` — a library of ready-to-run lesson plans across all six programs (extends lesson-plan-template.md with specific examples)

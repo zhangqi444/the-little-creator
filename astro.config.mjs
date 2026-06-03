@@ -207,6 +207,7 @@ export default defineConfig({
             { label: 'Inclusive Team Culture', link: '/for-educators/inclusive-team-culture/' },
             { label: 'Program Selection for Schools', link: '/for-educators/program-selection-for-schools/' },
             { label: 'Peer Learning Guide', link: '/for-educators/peer-learning-guide/' },
+            { label: 'Questioning Techniques', link: '/for-educators/questioning-techniques/' },
           ],
         },
         {

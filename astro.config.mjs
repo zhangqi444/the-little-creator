@@ -210,6 +210,7 @@ export default defineConfig({
             { label: 'Questioning Techniques', link: '/for-educators/questioning-techniques/' },
             { label: 'Facilitating Reflection', link: '/for-educators/facilitating-reflection/' },
             { label: 'Coaching Philosophy', link: '/for-educators/coaching-philosophy/' },
+            { label: 'Mentoring New Coaches', link: '/for-educators/mentoring-new-coaches/' },
           ],
         },
         {

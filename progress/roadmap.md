@@ -726,3 +726,23 @@
 ## Wave 94 completed
 
 - [x] `for-educators/questioning-techniques.md` — Socratic questioning and coaching questioning strategies guide. Five questioning levels (observation, expectation, hypothesis, testing, synthesis), the diagnostic sequence, question patterns for stuck/premature-solution/teaching-check scenarios, when NOT to use Socratic questioning, coaching think-aloud technique, question strategies for four student dynamics (waits-for-coach, fast-answerer, "I don't know", emotionally activated), program-specific notes table for all six programs, 7-row common-mistakes table, quick-start checklist. Complements coaching-communication.md and peer-learning-guide.md. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit e14c2c7 (2026-06-03 heartbeat 22:58)
+
+## Wave 95 completed
+
+- [x] `for-educators/facilitating-reflection.md` — "Facilitating Reflection — Structured Reflection Sessions for Robotics Teams": guide for coaches and educators on running structured post-practice and post-competition reflection sessions. Four-question core format (what did we set out to do / what happened / what made the difference / what will we change), post-practice 10-min format with check-in round and action close, post-competition 30-min format with decompress round, three-event focus, and one-word close. Age-group adaptations (FLL/VEX IQ beginners through VEX U collegiate). Reflection output mapped to engineering notebooks, FTC Engineering Portfolio, FRC Impact Award, and VEX judging. Resistance patterns table, signs-of-health checklist, quick-start checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8acebc6 (2026-06-03 heartbeat 23:58)
+
+## Wave 96 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `for-educators/coaching-philosophy.md` — a reflective guide for coaches developing their own coaching philosophy across skill levels and programs (complements the pedagogical arc of coaching-communication, questioning-techniques, and facilitating-reflection)
+
+## Wave 97 completed
+
+- [x] `for-educators/coaching-philosophy.md` — "Coaching Philosophy — Developing Your Own Approach": reflective guide for coaches developing their personal coaching philosophy across all six programs. Four core questions (why coach, job boundary, learning beliefs, success metrics), four coaching stances (Expert/Facilitating/Relationship/Systems) with tradeoffs and self-identification prompts, philosophy statement template, decision-point testing scenarios, program-specific notes table for all six programs, revision triggers, and quick-start checklist. Completes the pedagogical arc of Coaching Communication, Questioning Techniques, and Facilitating Reflection. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 7024f72 (2026-06-04 heartbeat 00:58)
+
+## Wave 98 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `for-educators/mentoring-new-coaches.md` — guide for experienced coaches who are now mentoring first-year coaches (meta-coaching; what to teach, what not to do for them, how to hand off)

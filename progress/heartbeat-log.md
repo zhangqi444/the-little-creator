@@ -1653,3 +1653,29 @@ Commit: 95eeb9b pushed to main.
 - open-forge: 1 open issue (#55 OpenCode nomination) — already processed in previous heartbeat, skipped
 - the-little-creator: 0 open issues
 - Roadmap task (Wave 94): added `for-educators/questioning-techniques.md` — Socratic questioning guide for robotics coaches. Five questioning levels, diagnostic sequence, question patterns, think-aloud technique, student dynamic playbooks, program-specific notes, mistakes table. Wired into sidebar + for-educators/index.md + skill/SKILL.md. Pushed commit e14c2c7.
+
+## 2026-06-03 23:58 UTC
+
+- Both repos synced (open-forge already up to date; the-little-creator pulled 46 file changes from origin)
+- open-forge: 1 open issue (#55 OpenCode nomination) — already processed (logged in issues-log.json), skipped
+- the-little-creator: 0 open issues
+- Roadmap task (Wave 95): added `for-educators/facilitating-reflection.md` — structured reflection guide for robotics coaches across all six programs
+  - Four-question core format: intention / observation / causal analysis / forward action
+  - Post-practice format (10–15 min): check-in round, four questions, action close
+  - Post-competition format (20–30 min): decompress, factual summary, three-event deep-dive, three action items, one-word close
+  - Timing-by-program table for competitions; age-group adaptations (8–11, 12–14, 15–18, collegiate)
+  - Reflection output mapped to engineering notebook, FTC Engineering Portfolio, FRC Impact Award, VEX judging
+  - Resistance patterns table; signs-of-health list; quick-start checklist
+  - Complements coaching-communication.md, questioning-techniques.md, season-retrospective.md
+  - Wired into: astro.config.mjs sidebar, for-educators/index.md, skill/SKILL.md
+- Commit: 8acebc6 — feat: add Facilitating Reflection guide (Wave 95)
+
+## 2026-06-04 heartbeat 00:58
+
+- Repos synced: both already up to date
+- open-forge issues: #55 already processed (no new issues)
+- the-little-creator issues: none open
+- Roadmap task (Wave 97): created `for-educators/coaching-philosophy.md`
+  - Four core questions, four coaching stances, philosophy template, decision-point tests, program-specific notes, quick-start checklist
+  - Wired into sidebar, for-educators/index.md, skill/SKILL.md
+  - Commit 7024f72, pushed to main

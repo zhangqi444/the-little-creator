@@ -211,6 +211,7 @@ export default defineConfig({
             { label: 'Facilitating Reflection', link: '/for-educators/facilitating-reflection/' },
             { label: 'Coaching Philosophy', link: '/for-educators/coaching-philosophy/' },
             { label: 'Mentoring New Coaches', link: '/for-educators/mentoring-new-coaches/' },
+            { label: 'Co-Coaching Guide', link: '/for-educators/co-coaching-guide/' },
           ],
         },
         {

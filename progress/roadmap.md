@@ -746,3 +746,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
 - [ ] Consider a `for-educators/mentoring-new-coaches.md` — guide for experienced coaches who are now mentoring first-year coaches (meta-coaching; what to teach, what not to do for them, how to hand off)
+
+## Wave 98 completed
+
+- [x] `for-educators/mentoring-new-coaches.md` — meta-coaching guide for experienced coaches mentoring first-year coaches: what to teach (session quality signals, productive vs. unproductive struggle, not touching the robot, last-10-min rule, season arc), mentor traps table, season-long relationship structure (kickoff, weekly check-ins, mock tournament walkthrough, post-tournament debrief), program-specific first-year pitfalls for all six programs, handoff criteria, hard-situation playbooks (burnout, struggling team, disagreement), quick-start checklist. Completes the pedagogical arc beyond coaching-philosophy.md. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8070d1e (2026-06-04 heartbeat 01:58)
+
+## Wave 99 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `for-educators/co-coaching-guide.md` — guide for two coaches sharing one team (role division, communication, avoiding conflicting signals to students)

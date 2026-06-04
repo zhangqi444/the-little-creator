@@ -1679,3 +1679,9 @@ Commit: 95eeb9b pushed to main.
   - Four core questions, four coaching stances, philosophy template, decision-point tests, program-specific notes, quick-start checklist
   - Wired into sidebar, for-educators/index.md, skill/SKILL.md
   - Commit 7024f72, pushed to main
+
+## 2026-06-04 01:58 UTC
+
+- **open-forge issues**: Issue #55 ([software-nomination] OpenCode) already processed in prior heartbeat. No new issues.
+- **the-little-creator issues**: No open issues.
+- **Roadmap task (Wave 98)**: Implemented `for-educators/mentoring-new-coaches.md` — meta-coaching guide for experienced coaches mentoring first-year coaches across all six programs. 212 lines covering: what to teach, mentor traps, mentoring relationship structure, program-specific pitfalls, handoff criteria, hard-situation playbooks, quick-start checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8070d1e pushed to main.

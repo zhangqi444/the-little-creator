@@ -776,3 +776,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
 - [ ] Consider `for-educators/emergency-protocols.md` — what to do in actual emergencies during robotics sessions (injury, equipment failure, severe weather); complements the substitute-coach-guide safety-non-negotiable section
+
+## Wave 101 completed
+
+- [x] `for-educators/lesson-plan-library.md` — added FTC-3 Encoder-Based Autonomous OpMode session plan: 90-min intermediate session for ages 13–17. Covers the ticks-per-inch formula derivation, writing a LinearOpMode with `RUN_USING_ENCODER` mode, deploying and measuring accuracy vs target distance, adding a 90-degree turn for a two-step path. Includes pre-session prep (encoder cable check, battery note, formula on whiteboard), a 6-row timeline, discussion prompts, differentiation for ahead/stuck students, and 5 after-session notes covering the most common failure modes (unseated encoder connectors, mecanum 4-encoder requirement, tile vs carpet difference). Updated Related section to link FTC Programming Basics and updated FTC Curriculum Starter note to reference FTC-3. Commit a774090 (2026-06-04 heartbeat 04:58)
+
+## Wave 102 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider `for-educators/emergency-protocols.md` — what to do in actual emergencies during robotics sessions (injury, equipment failure, severe weather); complements the substitute-coach-guide safety-non-negotiable section
+- [ ] Consider expanding the lesson plan library further — VEX V5 IMU autonomous session, FRC PathPlanner intro, or VEX IQ game strategy session

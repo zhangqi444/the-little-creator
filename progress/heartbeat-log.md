@@ -1700,3 +1700,9 @@ Commit: 95eeb9b pushed to main.
 - No open issues in the-little-creator
 - Wave 100 roadmap task completed: `for-educators/substitute-coach-guide.md` — session coverage guide for when coaches can't attend
 - Wired into sidebar, for-educators/index.md, skill/SKILL.md; commit f8a1f01 pushed to main
+
+## 2026-06-04 04:58 UTC — Wave 101
+
+- Both repos synced; no new issues in open-forge or the-little-creator
+- Lesson plan library expanded with FTC-3: encoder-based Autonomous OpMode session (90 min, intermediate, ages 13–17)
+- Roadmap updated; commit a774090 pushed to main

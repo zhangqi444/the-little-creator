@@ -756,3 +756,23 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
 - [ ] Consider a `for-educators/co-coaching-guide.md` — guide for two coaches sharing one team (role division, communication, avoiding conflicting signals to students)
+
+## Wave 99 completed
+
+- [x] `for-educators/co-coaching-guide.md` — "Co-Coaching Guide — Two Coaches, One Team": guide for co-coaching pairs across all six programs. Four role-division options (domain split, session lead rotation, primary+specialist, age/group split), the public-back/private-discuss rule for conflicting signals to students, pre-session sync and post-session debrief patterns, handling in-session and recurring disagreements, what students should experience, program-specific notes table, spotting and addressing imbalanced load, ending a co-coaching relationship, and a quick-start checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 1f4f1ad (2026-06-04 heartbeat 02:58)
+
+## Wave 100 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `for-educators/substitute-coach-guide.md` — what to do when neither regular coach can make a session; leaving instructions, what students can do independently, parent/helper coverage
+
+## Wave 100 completed
+
+- [x] `for-educators/substitute-coach-guide.md` — "Substitute Coach Guide — When You Can't Make a Session": what to do when neither regular coach can attend. Covers three absence scenarios (planned/last-minute/no-adult), what to build before the season (self-start doc, student lead, parent helper rotation), writing a session plan a substitute can follow, briefing the substitute, what students can work on independently by domain (build, programming, documentation, strategy) and by program (FLL/VEX IQ/FTC/FRC/VEX V5/VEX U), async check-in pattern, when to cancel instead of cover, and a quick-start checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit f8a1f01 (2026-06-04 heartbeat 03:58)
+
+## Wave 101 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — FTC Autonomous session, VEX V5 IMU autonomous, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider `for-educators/emergency-protocols.md` — what to do in actual emergencies during robotics sessions (injury, equipment failure, severe weather); complements the substitute-coach-guide safety-non-negotiable section

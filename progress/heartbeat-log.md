@@ -1685,3 +1685,18 @@ Commit: 95eeb9b pushed to main.
 - **open-forge issues**: Issue #55 ([software-nomination] OpenCode) already processed in prior heartbeat. No new issues.
 - **the-little-creator issues**: No open issues.
 - **Roadmap task (Wave 98)**: Implemented `for-educators/mentoring-new-coaches.md` — meta-coaching guide for experienced coaches mentoring first-year coaches across all six programs. 212 lines covering: what to teach, mentor traps, mentoring relationship structure, program-specific pitfalls, handoff criteria, hard-situation playbooks, quick-start checklist. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8070d1e pushed to main.
+
+## 2026-06-04 ~02:58 UTC
+
+- Repos synced (both already up to date)
+- open-forge issues: Issue #55 (OpenCode software nomination) already processed — no new issues
+- the-little-creator issues: none open
+- Roadmap task (Wave 99): created `for-educators/co-coaching-guide.md` — two-coach coordination guide for all six programs
+- Commit: 1f4f1ad pushed to main
+
+## 2026-06-04 heartbeat 03:58
+
+- No open issues in open-forge (issue #55 already processed in prior heartbeat)
+- No open issues in the-little-creator
+- Wave 100 roadmap task completed: `for-educators/substitute-coach-guide.md` — session coverage guide for when coaches can't attend
+- Wired into sidebar, for-educators/index.md, skill/SKILL.md; commit f8a1f01 pushed to main

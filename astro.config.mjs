@@ -212,6 +212,7 @@ export default defineConfig({
             { label: 'Coaching Philosophy', link: '/for-educators/coaching-philosophy/' },
             { label: 'Mentoring New Coaches', link: '/for-educators/mentoring-new-coaches/' },
             { label: 'Co-Coaching Guide', link: '/for-educators/co-coaching-guide/' },
+            { label: 'Substitute Coach Guide', link: '/for-educators/substitute-coach-guide/' },
           ],
         },
         {

@@ -3,6 +3,7 @@ title: Lesson Plan Template
 description: A reusable single-session lesson plan template for FLL or VEX classrooms, clubs, or workshops.
 tags: [educators, lesson-plan, template, classroom]
 audience: [teachers, coaches]
+exclude_from_gpt: true
 ---
 
 A single-session lesson plan template. Copy the structure, fill in the placeholders, customize for your group. Designed for sessions of 60–120 minutes — adjust timing for shorter or longer.

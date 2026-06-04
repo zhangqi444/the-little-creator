@@ -5,6 +5,7 @@ tags: [educators, coaches, peer-learning, pair-programming, student-led, team-cu
 audience: [coaches, teachers]
 level: intermediate
 season: evergreen
+exclude_from_gpt: true
 ---
 
 The most durable skill any student leaves robotics with is not knowing how to code or build — it's knowing how to explain what they know and learn from someone who knows something they don't. Peer learning accelerates both.

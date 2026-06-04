@@ -5,6 +5,7 @@ tags: [educators, coaches, communication, team-culture, feedback, growth-mindset
 audience: [coaches, teachers]
 level: intermediate
 season: evergreen
+exclude_from_gpt: true
 ---
 
 How you respond in the 90 seconds after something goes wrong at practice defines what your team believes about mistakes. This guide is about those 90 seconds — and the longer conversations that follow.

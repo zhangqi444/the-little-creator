@@ -5,6 +5,7 @@ tags: [educators, camp, summer-camp, logistics, operations, fll, ftc, frc, vex-i
 audience: [teachers, coaches]
 level: all
 season: evergreen
+exclude_from_gpt: true
 ---
 
 The [Camp Curriculum](/for-educators/camp-curriculum/) and [Workshop Formats](/for-educators/workshop-formats/) guides tell you *what to teach*. This guide covers everything else: how to register participants, handle waivers, manage hardware, staff your sessions, keep students safe, and stay in budget.

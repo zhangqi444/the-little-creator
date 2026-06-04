@@ -5,6 +5,7 @@ tags: [educators, curriculum, frc, onboarding, wpilib, programming, java]
 audience: [teachers, coaches]
 level: intermediate
 season: evergreen
+exclude_from_gpt: true
 ---
 
 :::note[Program scope]

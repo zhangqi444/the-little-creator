@@ -5,6 +5,7 @@ tags: [educators, fll, vex-iq, assessment, rubric, classroom, teachers]
 audience: [teachers, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 This rubric is for **classroom and club use** — evaluating student progress during the season, assigning grades, or giving structured feedback. It is distinct from the official FLL tournament rubrics, which are published by FIRST and used by judges at competitions.

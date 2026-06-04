@@ -5,6 +5,7 @@ tags: [educators, coaches, questioning, socratic, coaching, team-culture, growth
 audience: [coaches, teachers]
 level: intermediate
 season: evergreen
+exclude_from_gpt: true
 ---
 
 The most powerful sentence a robotics coach can say is often a question. This guide is about which questions to ask, when to ask them, and why telling the answer — however tempting — usually slows learning down.

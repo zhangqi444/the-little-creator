@@ -5,6 +5,7 @@ tags: [educators, teachers, curriculum, ngss, csta, standards, fll, ftc, frc, ve
 audience: [teachers, coaches]
 level: intermediate
 season: evergreen
+exclude_from_gpt: true
 ---
 
 One of the most common questions classroom teachers and club leaders ask is: **"Does this count?"** Can you justify robotics time as NGSS science, CSTA computer science, or Common Core math? The answer is almost always yes — but the connection has to be intentional and documented.

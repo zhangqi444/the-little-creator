@@ -5,6 +5,7 @@ tags: [educators, lesson-plan, curriculum, classroom, fll, ftc, frc, vex-iq, vex
 audience: [teachers, coaches]
 level: all
 season: evergreen
+exclude_from_gpt: true
 ---
 
 A library of specific, ready-to-run lesson plans built on the [Lesson Plan Template](/for-educators/lesson-plan-template/). Each plan is a standalone session you can pick up, adapt, and run without starting from scratch.

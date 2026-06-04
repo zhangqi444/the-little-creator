@@ -5,6 +5,7 @@ tags: [educators, curriculum, vex-v5, vrc, onboarding, vexcode, cpp, programming
 audience: [teachers, coaches, teens]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 :::note[Program scope]

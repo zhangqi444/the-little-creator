@@ -5,6 +5,7 @@ tags: [educators, workshop, curriculum, one-day, summer-camp, fll, ftc, frc, vex
 audience: [teachers, coaches]
 level: all
 season: evergreen
+exclude_from_gpt: true
 ---
 
 Curriculum starters and lesson plans assume a full season. These workshop formats assume you have a room full of students for two to four hours and you need to leave them with something real — a working robot, a first program, or a genuine taste of what the program feels like.

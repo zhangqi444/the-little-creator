@@ -5,6 +5,7 @@ tags: [educators, curriculum, summer-camp, camp, fll, ftc, frc, vex-iq, vex-v5, 
 audience: [teachers, coaches]
 level: all
 season: evergreen
+exclude_from_gpt: true
 ---
 
 Single-day [workshop formats](/for-educators/workshop-formats/) give a taste. A multi-day camp gives students enough time to iterate — the heart of engineering. These outlines stack day-by-day so each session builds on the previous one, ending with a genuine demonstration the students have earned.

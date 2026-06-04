@@ -4,6 +4,7 @@ description: An 8-week starter curriculum for a first-time FLL classroom or club
 tags: [educators, curriculum, fll, onboarding]
 audience: [teachers, coaches]
 level: beginner
+exclude_from_gpt: true
 ---
 
 An 8-week starter curriculum for a brand-new FLL classroom or club. Designed for a once-a-week, 90-minute session. Adapt to your time and group — this is a starting point, not a prescription.

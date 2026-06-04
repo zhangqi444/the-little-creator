@@ -349,7 +349,14 @@ async function main() {
   for (const p of ordered) full.push(renderPage(p));
 
   // ---------- per-section files ----------
+  // Pages with `exclude_from_gpt: true` in frontmatter are skipped from the
+  // per-section files (uploaded to the Custom GPT) but kept in llms-full.txt
+  // and the public website. Use this to keep K-12 pedagogy material on the
+  // website while keeping it out of the GPT, where OpenAI's classifier flags
+  // child-focused educational content as "may target users under 13."
+  const isExcludedFromGpt = (p) => p.frontmatter?.exclude_from_gpt === 'true';
   const perSectionFiles = {};
+  let excludedCount = 0;
   for (const key of orderedKeys) {
     const items = sections.get(key);
     const sectionTitle = items.find(i => i.route === `/${key}/`)?.title ?? titleCase(key);
@@ -360,7 +367,10 @@ async function main() {
     out.push('');
     out.push('---');
     out.push('');
-    for (const p of items) out.push(renderPage(p));
+    for (const p of items) {
+      if (isExcludedFromGpt(p)) { excludedCount++; continue; }
+      out.push(renderPage(p));
+    }
     perSectionFiles[`llms-${key}.txt`] = out.join('\n');
   }
 
@@ -390,7 +400,8 @@ async function main() {
     `and artifacts/llms-internal/{${internalSectionFiles.length} per-section}.\n` +
     `Public sections: ${publicSectionFiles.join(', ')}\n` +
     `Internal sections: ${internalSectionFiles.join(', ')}\n` +
-    `${pages.length} pages, ${totalEntries} curated entries across ${orderedKeys.length} sections.`
+    `${pages.length} pages, ${totalEntries} curated entries across ${orderedKeys.length} sections.` +
+    (excludedCount > 0 ? `\n${excludedCount} pages excluded from per-section files via exclude_from_gpt: true (still in llms-full.txt and on the public website).` : '')
   );
 }
 

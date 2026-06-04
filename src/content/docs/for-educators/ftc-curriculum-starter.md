@@ -5,6 +5,7 @@ tags: [educators, curriculum, ftc, onboarding, ftc-sdk, programming]
 audience: [teachers, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 :::note[Program scope]

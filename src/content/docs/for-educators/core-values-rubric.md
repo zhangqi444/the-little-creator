@@ -4,6 +4,7 @@ description: A practical 1–4 rubric for the six FLL Core Values, designed for 
 tags: [educators, fll, core-values, assessment, rubric]
 audience: [teachers, coaches]
 level: beginner, intermediate
+exclude_from_gpt: true
 ---
 
 A working rubric for assessing the FLL Core Values in your classroom or club during the season. Designed to give you actionable observation targets, not a tournament-style scoring document.

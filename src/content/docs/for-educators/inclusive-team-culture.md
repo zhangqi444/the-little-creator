@@ -5,6 +5,7 @@ tags: [educators, coaches, team-culture, inclusion, psychological-safety, fll, f
 audience: [coaches, teachers, parents]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 The most technically advanced robot means nothing if the students building it don't feel safe to speak up, try things, or admit mistakes. Inclusive team culture isn't a nice-to-have — it's the foundation that makes every other part of a robotics program work.

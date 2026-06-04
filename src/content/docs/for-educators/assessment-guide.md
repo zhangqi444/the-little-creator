@@ -5,6 +5,7 @@ tags: [educators, assessment, fll, ftc, frc, vex-iq, vex-v5, vex-u, classroom, t
 audience: [teachers, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 This guide extends the [Classroom Assessment Rubric](/for-educators/assessment-rubric/) to cover all six programs — FLL, FTC, FRC, VEX IQ, VEX V5/VRC, and VEX U — and adds formative assessment tools, structured self-assessment templates, and program-specific guidance for mixed-skill teams.

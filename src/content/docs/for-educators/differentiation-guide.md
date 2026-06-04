@@ -5,6 +5,7 @@ tags: [educators, fll, vex-iq, differentiation, inclusion, classroom, coaches, t
 audience: [teachers, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 Most FLL and VEX teams are not homogeneous. You might have one kid who's been programming since age 8 alongside one who's never touched a computer outside of school. One who thrives in presentations, one who freezes in front of a group. One who builds fast, one who needs step-by-step guidance.

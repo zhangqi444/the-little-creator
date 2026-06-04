@@ -5,6 +5,7 @@ tags: [educators, curriculum, vex-iq, viqrc, onboarding, vexcode, programming]
 audience: [teachers, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 :::note[Program scope]

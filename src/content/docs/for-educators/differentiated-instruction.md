@@ -5,6 +5,7 @@ tags: [educators, teachers, coaches, differentiation, inclusion, classroom, fll,
 audience: [teachers, coaches]
 level: intermediate
 season: evergreen
+exclude_from_gpt: true
 ---
 
 This guide goes deeper than the [Differentiation Guide](/for-educators/differentiation-guide/), which introduces the *why* and a basic role-design approach. Here the focus is on instructional tools — how to **plan**, **scaffold**, **extend**, and **assess** across a team with different experience levels, ages, and learning styles.

@@ -209,6 +209,7 @@ export default defineConfig({
             { label: 'Peer Learning Guide', link: '/for-educators/peer-learning-guide/' },
             { label: 'Questioning Techniques', link: '/for-educators/questioning-techniques/' },
             { label: 'Facilitating Reflection', link: '/for-educators/facilitating-reflection/' },
+            { label: 'Coaching Philosophy', link: '/for-educators/coaching-philosophy/' },
           ],
         },
         {

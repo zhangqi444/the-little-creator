@@ -503,6 +503,62 @@ These are not perfect plans. They are starting points from coaches who have actu
 
 ---
 
+
+---
+
+### FTC-3 — Encoder-Based Autonomous OpMode
+
+**Program:** FTC | **Duration:** 90 min | **Level:** Intermediate | **Ages:** 13–17
+
+**Learning objective:** Students can write and deploy a `LinearOpMode` Autonomous program that drives a set distance using encoder counts, stops reliably, and executes a two-step path.
+
+**Materials needed:**
+
+- FTC robot with mecanum drive base (4 motors, REV Control Hub or Expansion Hub with motor encoder cables plugged in)
+- Laptop with Android Studio or OnBot Java open
+- USB cable or ADB over WiFi to the robot
+- Field mat tile strip (or taped floor marks) at least 2 metres long
+- Tape measure
+- Whiteboard or shared doc for the conversion formula
+
+**Pre-session prep:**
+
+- Confirm encoder cables are seated on all four drive motors (REV motor encoder connectors are the most frequently unseated connector on FTC robots).
+- Know your motor encoder counts-per-revolution (HD Hex Motor = 28 PPR × gear ratio; Core Hex Motor = 288 PPR). Write both on the whiteboard.
+- Have `ftc-programming-basics.md` or the FTC SDK `RobotAutoDriveByEncoder_Linear` sample open as reference.
+- Charge the robot battery. Autonomous distance accuracy drops noticeably below 30%.
+
+**Session timeline:**
+
+| Time | Activity | Who leads | Notes |
+|------|----------|-----------|-------|
+| 0:00 — 0:10 | Why encoders? Compare "run for 2 seconds" vs "run for 500 ticks" — run both on the floor, observe drift | Coach + students | Let the timed version visibly overshoot; that is the teaching moment |
+| 0:10 — 0:25 | Derive the ticks-per-inch formula on the whiteboard: PPR × gear ratio ÷ (π × wheel diameter) | Coach | Students copy formula into notebook. Have one student verify with a calculator. |
+| 0:25 — 0:50 | Write a `LinearOpMode` that: (1) sets `RUN_USING_ENCODER` mode, (2) drives forward 24 inches, (3) stops | Pairs | Coach circulates; common error is forgetting to set `STOP_AND_RESET_ENCODER` before each segment |
+| 0:50 — 1:05 | Deploy and test: does the robot stop within ±2 inches of the target? | Pairs | Measure actual vs target; record both in the notebook |
+| 1:05 — 1:20 | Add a 90-degree turn segment using a fixed encoder count (or timed if encoders are on drive only); test full two-step path | Pairs | Emphasise: the turn will be less consistent than the straight — explain why (slippage vs. rolling) |
+| 1:20 — 1:30 | Whole-group debrief: what factors caused the most error? What would improve it? | Students | Document one improvement hypothesis for next session |
+
+**Discussion prompts:**
+
+- Why does the robot stop at different positions on carpet vs. tile?
+- What would happen if one motor encoder cable came loose mid-run?
+- If our target is 24 inches but the robot consistently stops at 22 inches, is the bug in the formula, the code, or the hardware?
+- What do you gain by switching to IMU-based turning instead of encoder counts?
+
+**Differentiation:**
+
+- **Ahead:** Add a third path segment; introduce a helper method `encoderDrive(speed, leftInches, rightInches, timeoutSeconds)` that accepts different distances for left and right sides (arced movement); or add a sanity-check that logs encoder readings via `telemetry.addData`.
+- **Stuck:** Provide a skeleton `LinearOpMode` with the formula pre-calculated and blank variables for target ticks; students only need to fill in the two numbers and motor names.
+
+**After-session notes:**
+
+- Unseated encoder connectors are the single most common cause of "the robot just spins in place." Build a 2-minute connector check into session setup for the rest of the season.
+- Students expect Autonomous to be harder to write than TeleOp. It is actually simpler to read — no loop, no input parsing. Pointing this out relieves a lot of anxiety.
+- The straight-line distance accuracy is usually good (within ±1 inch on tile); the 90-degree turn is not. That gap motivates the IMU session naturally — save it for the next level.
+- Running this session on the actual competition field surface (or the closest approximation) matters. Carpet and foam tiles behave differently.
+- If the robot has mecanum wheels, all four encoders are required for `RUN_TO_POSITION` to work correctly; a 2WD-style approach (only two encoders) will cause the robot to crab. This surprises teams that skipped encoder wiring on the passive wheels.
+
 ## Contributing a lesson plan
 
 If you have a session that worked — especially with "what went wrong the first time" notes — please share it. Open a pull request to `the-little-creator` and add your plan to this file following the same format. Sessions that include real after-session notes are most valuable to the next coach who picks this up.
@@ -513,6 +569,7 @@ If you have a session that worked — especially with "what went wrong the first
 
 - [Lesson Plan Template](/for-educators/lesson-plan-template/) — The blank template behind every plan here
 - [FLL Curriculum Starter](/for-educators/curriculum-starter/) — How FLL-1 through FLL-3 fit into an 8-week sequence
-- [FTC Curriculum Starter](/for-educators/ftc-curriculum-starter/) — How FTC-1 and FTC-2 fit into an FTC season opener
+- [FTC Curriculum Starter](/for-educators/ftc-curriculum-starter/) — How FTC-1, FTC-2, and FTC-3 fit into an FTC season opener
 - [Differentiated Instruction (Deep Dive)](/for-educators/differentiated-instruction/) — Scaffolding and extension strategies for mixed-ability teams
 - [Assessment Guide — All Programs](/for-educators/assessment-guide/) — How to assess whether the learning objective was actually met
+- [FTC Programming Basics](/guides/ftc-programming-basics/) — Reference guide for LinearOpMode, encoders, and the FTC SDK

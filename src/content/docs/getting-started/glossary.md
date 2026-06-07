@@ -5,6 +5,7 @@ tags: [fll, getting-started, glossary, acronyms, newcomers]
 audience: [families, parents, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 FLL comes with a wall of acronyms and insider terms. Here's what they all mean.

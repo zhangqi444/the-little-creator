@@ -5,6 +5,7 @@ tags: [vex-iq, viqrc, getting-started, recf, override-2026-27]
 audience: [families, parents, teachers, students, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 VEX IQ is a competitive robotics program for **students ages 8–14 (elementary through middle school)**, run by the [Robotics Education & Competition Foundation (RECF)](https://www.recf.org/). Teams build robots from a snap-together plastic kit — no soldering, no power tools — then compete in a yearly game on a field roughly the size of a large dining table.

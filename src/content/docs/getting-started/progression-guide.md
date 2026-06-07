@@ -5,6 +5,7 @@ tags: [fll, vex-iq, vex-v5, progression, getting-started, families, coaches]
 audience: [families, parents, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 Youth robotics programs have a natural progression — each level adds complexity and prepares students for the next. This guide helps families think about when to move on, what they're moving toward, and how to make the transition without losing the things that made the previous program valuable.

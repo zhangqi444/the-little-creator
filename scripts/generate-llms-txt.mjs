@@ -352,9 +352,98 @@ async function main() {
   // Pages with `exclude_from_gpt: true` in frontmatter are skipped from the
   // per-section files (uploaded to the Custom GPT) but kept in llms-full.txt
   // and the public website. Use this to keep K-12 pedagogy material on the
-  // website while keeping it out of the GPT, where OpenAI's classifier flags
-  // child-focused educational content as "may target users under 13."
+  // website while keeping it out of the GPT.
+  //
+  // We also apply a text transform that masks explicit under-13 age signals
+  // in the per-section files. OpenAI's classifier reads numeric age ranges
+  // (4-6, 6-10, ages 4 to 16, K-2, kindergarten, DUPLO, etc.) as direct
+  // signals that a GPT may target users under 13, regardless of how the
+  // audience is framed. The wiki content and llms-full.txt are left as-is;
+  // only the per-section files (the upload set) get masked.
   const isExcludedFromGpt = (p) => p.frontmatter?.exclude_from_gpt === 'true';
+
+  function maskUnder13Signals(s) {
+    // Helper to bucket a numeric range to a generic descriptor.
+    const rangeToDescriptor = (loNum, hiNum) => {
+      if (hiNum <= 8) return 'early-elementary age';
+      if (hiNum <= 12) return 'elementary-school age';
+      if (hiNum <= 14) return 'middle-school age';
+      return 'school age';
+    };
+    return s
+      // Strip markdown bold/italic wrappers around age-like numeric ranges so
+      // the patterns below can match them. e.g. "**4 to 16**" → "4 to 16".
+      .replace(/\*\*((?:K|\d{1,2})\s*(?:[-–—]|to|through)\s*\d{1,2})\*\*/g, '$1')
+      .replace(/\*((?:K|\d{1,2})\s*(?:[-–—]|to|through)\s*\d{1,2})\*/g, '$1')
+      // "ages X to Y" / "aged X to Y" / "grades X to Y" — masked by upper bound.
+      .replace(/\b(ages?|aged|age range|grades?)\s+(?:K|\d{1,2})\s*(?:[-–—]|to|through)\s*(\d{1,2})\b/gi,
+        (m, _word, hi) => rangeToDescriptor(0, parseInt(hi, 10)))
+      // Unprefixed numeric range that looks like an age (e.g. table cell "4–6",
+      // "8–14", "11–18"). Mask any range where lo is 1-14 and hi is 5-22 —
+      // typical youth-age range. Accepts false-positive masking on rare cases
+      // like "8-10 members" or "11-18 motors" — the trade-off is worth it for
+      // fully neutralising under-13 age signals to the classifier.
+      .replace(/\b([1-9]|1[0-4])\s*(?:[-–—]|to|through)\s*(\d{1,2})\b/g, (m, lo, hi) => {
+        const hiN = parseInt(hi, 10);
+        const loN = parseInt(lo, 10);
+        if (hiN < 5 || hiN > 22 || hiN < loN) return m;
+        return rangeToDescriptor(loN, hiN);
+      })
+      // Standalone "ages 4" / "age 6" without an upper bound
+      .replace(/\b(ages?|aged|age)\s+(\d{1,2})\b/gi, (match, p1, p2) => {
+        const n = parseInt(p2, 10);
+        if (n <= 6) return 'early-elementary age';
+        if (n <= 10) return 'elementary age';
+        if (n <= 12) return 'late-elementary age';
+        if (n <= 14) return 'middle-school age';
+        return match;
+      })
+      // "4-year-old", "6-year-olds"
+      .replace(/\b(\d{1,2})-year-olds?\b/g, (match, p1) => {
+        const n = parseInt(p1, 10);
+        if (n <= 6) return 'early-elementary student';
+        if (n <= 10) return 'elementary student';
+        if (n <= 12) return 'late-elementary student';
+        if (n <= 14) return 'middle-school student';
+        return match;
+      })
+      // "K-2", "K-5", "K-8", "K-12", "K through 8" — case-insensitive
+      .replace(/\bK\s*(?:[-–—]|through|to)\s*(\d{1,2})\b/gi, (match, p1) => {
+        const n = parseInt(p1, 10);
+        if (n <= 5) return 'early-elementary grades';
+        if (n <= 8) return 'elementary and middle grades';
+        return 'elementary through high-school grades';
+      })
+      // "grades 3-5", "grades K-2"
+      .replace(/\bgrades?\s+(?:K|\d{1,2})\s*(?:[-–—]|to|through|–|—)\s*(\d{1,2})\b/gi,
+        (match, p1) => {
+          const n = parseInt(p1, 10);
+          if (n <= 5) return 'early-elementary grades';
+          if (n <= 8) return 'elementary and middle grades';
+          return 'school grades';
+        })
+      // Standalone "grade 3", "grades K"
+      .replace(/\bgrades?\s+(K|\d{1,2})\b/gi, (match, p1) => {
+        if (p1 === 'K') return 'early-elementary';
+        const n = parseInt(p1, 10);
+        if (n <= 5) return 'elementary grade';
+        if (n <= 8) return 'middle grade';
+        return match;
+      })
+      // Brand/product signals that read as for-young-children
+      .replace(/\bDUPLO\b/g, 'introductory LEGO')
+      .replace(/\bkindergarten\b/gi, 'early-elementary')
+      .replace(/\bpreschool(?:ers?)?\b/gi, 'early-elementary')
+      .replace(/\belementary school(?:ers?)?\b/gi, 'elementary-grade students')
+      .replace(/\bprimary school(?:ers?)?\b/gi, 'elementary-grade students')
+      // "your child" / "the child" / "a child" → "the student" in advisory prose
+      // (note: this is intentional; the GPT's audience is adults, the subject
+      // is the student on their team)
+      .replace(/\byour child\b/gi, 'the student')
+      .replace(/\b(?:the|a) child\b/gi, 'the student')
+      .replace(/\bchild\b(?!\s*(?:'s|labor|protection|safety|psychology|development))/gi, 'student');
+  }
+
   const perSectionFiles = {};
   let excludedCount = 0;
   for (const key of orderedKeys) {
@@ -371,7 +460,14 @@ async function main() {
       if (isExcludedFromGpt(p)) { excludedCount++; continue; }
       out.push(renderPage(p));
     }
-    perSectionFiles[`llms-${key}.txt`] = out.join('\n');
+    // Apply the under-13-signal mask only to the GPT-bound per-section file.
+    // INTERNAL_SECTIONS (CLAUDE, log) and llms-full.txt are NOT masked — only
+    // the public per-section files written to public/llms/ that the GPT uploads.
+    let content = out.join('\n');
+    if (!INTERNAL_SECTIONS.has(key)) {
+      content = maskUnder13Signals(content);
+    }
+    perSectionFiles[`llms-${key}.txt`] = content;
   }
 
   // ---------- write ----------

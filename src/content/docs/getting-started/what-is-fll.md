@@ -5,6 +5,7 @@ tags: [fll, getting-started, future-edition, bioglow, canopy, season-2026-27]
 audience: [families, parents, teachers, students]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 FIRST LEGO League (FLL) is a family of educational robotics programs serving students aged **4 to 16**, run globally by FIRST and LEGO Education. It's organized as three age divisions that build on each other — newcomers start in whichever one matches the student's age and progress as they grow.

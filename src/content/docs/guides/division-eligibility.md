@@ -5,6 +5,7 @@ tags: [fll, eligibility, discover, explore, challenge, age, grade, getting-start
 audience: [families, parents, coaches]
 level: beginner
 season: evergreen
+exclude_from_gpt: true
 ---
 
 FIRST LEGO League has three divisions. The right one depends primarily on your child's **age at the start of the season** (typically August/September). Grade level is a secondary guide — use it to confirm, not to override age.

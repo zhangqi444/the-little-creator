@@ -786,3 +786,13 @@
 - [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
 - [ ] Consider `for-educators/emergency-protocols.md` — what to do in actual emergencies during robotics sessions (injury, equipment failure, severe weather); complements the substitute-coach-guide safety-non-negotiable section
 - [ ] Consider expanding the lesson plan library further — VEX V5 IMU autonomous session, FRC PathPlanner intro, or VEX IQ game strategy session
+
+## Wave 102 completed
+
+- [x] `for-educators/emergency-protocols.md` — step-by-step emergency protocols guide: minor and significant injuries, eye injuries, LiPo battery swelling and thermal runaway, equipment failures (electrical smell/sparks), severe weather (tornado/power outage), medical emergencies (anaphylaxis, seizure, asthma, mental health crisis), lockdown procedures, and post-incident documentation. Quick-reference table (12 scenarios) and program-specific notes for all six programs. Wired into sidebar, for-educators/index.md, skill/SKILL.md. Commit 8deb8c5 (2026-07-18 heartbeat 11:58)
+
+## Wave 103 backlog (next tasks — derive from gaps)
+
+- [ ] `resources/ftc-resource-map.md` — check and add any notable FTC 2026-27 BIOBUZZ resources once season pages go live (predicted Sept 12 2026 per discovery-sources.json) — still blocked
+- [ ] Consider expanding the lesson plan library — VEX V5 IMU autonomous session, FRC PathPlanner intro, or VEX IQ game strategy session
+- [ ] Consider a `for-educators/safety-checklist.md` — a printable pre-season and per-session safety checklist companion to emergency-protocols.md

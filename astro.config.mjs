@@ -213,6 +213,7 @@ export default defineConfig({
             { label: 'Mentoring New Coaches', link: '/for-educators/mentoring-new-coaches/' },
             { label: 'Co-Coaching Guide', link: '/for-educators/co-coaching-guide/' },
             { label: 'Substitute Coach Guide', link: '/for-educators/substitute-coach-guide/' },
+            { label: 'Emergency Protocols', link: '/for-educators/emergency-protocols/' },
           ],
         },
         {
